@@ -7,7 +7,7 @@ Below are the milestones for the project, each with a description, minimum deliv
 ## Milestones
 
 | **Milestone #** | **Description** | **Minimum Deliverables for Feedback** |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- |
 | **M1** | **Project Setup and Initial Research**<br>Establish the project foundation by setting up version control and finalizing key technical choices (LMM and vector database). Feedback ensures the chosen technologies are appropriate. | - Initialized Git repository with README and .gitignore.<br>- Document detailing the selected LMM (e.g., CLIP, LLaVA) with rationale (pros/cons, accessibility).<br>- Document detailing the selected vector database (e.g., FAISS, Pinecone) with rationale (scalability, compatibility). | 
 | **M2** | **System Design and Data Collection Plan**<br>Define the system architecture and finalize plans for collecting pneumonia and tuberculosis data. Feedback validates the system design and data strategy. | - High-level system architecture diagram (e.g., using Draw.io) showing components (data input, RAG, output).<br>- Documented data collection plans for pneumonia and tuberculosis, specifying sources (e.g., ChestX-ray14, Kaggle) and preprocessing steps. |
 | **M3** | **Data Collection Completion and Environment Setup**<br>Complete data collection for both diseases and set up the development environment. Feedback ensures data quality and environment readiness. | - Preprocessed datasets for pneumonia and tuberculosis (at least 500 samples each, split into train/test sets).<br>- Development environment setup with a sample script running successfully (e.g., a basic LMM inference test).<br>- Updated Git repository with dataset samples and environment setup scripts. |
