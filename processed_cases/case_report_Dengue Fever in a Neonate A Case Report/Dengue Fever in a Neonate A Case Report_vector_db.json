@@ -1,0 +1,598 @@
+{
+  "document_id": "7835d9cd0a6d",
+  "document_type": "case_report",
+  "type_confidence": 0.45,
+  "document_metadata": {
+    "doc_id": "7835d9cd0a6d",
+    "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.45,
+    "pages": 3,
+    "processed_date": "2025-09-27T23:12:45.503529",
+    "has_images": false,
+    "image_count": 0
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "gender": "male"
+    },
+    "timeline": {
+      "duration_days": 21
+    },
+    "clinical_findings": {
+      "chief_complaint": "complaints of fever for three days"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "of postnatally acquired dengue was made \nat this point"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "7835d9cd0a6d_0",
+      "text": "JNMA I VOL 61 I ISSUE 259 I MARCH 2023 287 Free Full Text Articles are Available at www.jnma.com.np CASE REPORTS J Nepal Med Assoc 2022;61(259):287-9 CC BY doi: 10.31729/jnma.6768 CC BY ______________________________________ Correspondence: Dr Chaitanya Darshan Bhattarai,  Department of Pediatrics, Nepal Medical College and  Teaching  Hospital,  Jorpati,  Kathmandu,  Nepal.  Email:  dr.chaitanyadarshan@gmail.com, Phone: +977-9851076956.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_1",
+      "text": "College and  Teaching  Hospital,  Jorpati,  Kathmandu,  Nepal.  Email:  dr.chaitanyadarshan@gmail.com, Phone: +977-9851076956. Dengue Fever in a Neonate: A Case Report Chaitanya Darshan Bhattarai,1 Birendra Kumar Yadav,2 Rabin Basnet,2 Manish Karki,2 Shanta Chauhan3 1Department of Pediatrics, Nepal Medical College and Teaching Hospital, Jorpati, Kathmandu, Nepal,  2Telemedicine Center COVID-19 Unified Central Hospital, Bir Hospital, Kanti Path, Kathmandu, Nepal,  3Department of Emergency Medicine, Himal Hospital, Thirbum Marg, Kathmandu, Nepal.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_2",
+      "text": "Bir Hospital, Kanti Path, Kathmandu, Nepal,  3Department of Emergency Medicine, Himal Hospital, Thirbum Marg, Kathmandu, Nepal. . ABSTRACT Dengue is one of the most common viral infections affecting the general population in endemic  areas annually. However, it is barely reported in newborns owing to a widespread belief that they  are protected from severe viral infections in the first six months of life by the presence of maternal  antibodies.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_3",
+      "text": "that they  are protected from severe viral infections in the first six months of life by the presence of maternal  antibodies. Here we present a case of a 23-day-old male infant born to primigravida with dengue fever  with the post-natal transmission of infection. He presented with complaints of fever for three days.  On general examination, red-coloured pinpoint macular rashes were observed bilaterally on lower  limbs. No significant findings were present on systemic examination.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_4",
+      "text": "inpoint macular rashes were observed bilaterally on lower  limbs. No significant findings were present on systemic examination. On routine sepsis workup,  thrombocytopenia was present. Acknowledging the endemicity and expanding dengue cases, NS1  antigen and antibody IgM and IgG of the baby were tested which came positive for antigen and  IgM antibody. Even so, the mother was asymptomatic with NS1 antigen, IgG and IgM antibodies  negative with a normal range of platelet count.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_5",
+      "text": "Even so, the mother was asymptomatic with NS1 antigen, IgG and IgM antibodies  negative with a normal range of platelet count. Keywords: case report; dengue fever; neonates, Nepal. INTRODUCTION Dengue is an infectious disease caused by dengue  virus and is transmitted classically by bite of female  Aedes aegypti mosquito.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_6",
+      "text": "ngue is an infectious disease caused by dengue  virus and is transmitted classically by bite of female  Aedes aegypti mosquito. Dengue virus (DV) infection  can have a range of presentation from dengue fever to  dengue haemorrhagic fever/dengue shock syndrome  (DHF/DSS) that is characterized by systemic capillary  leakage,  thrombocytopaenia  and  hypovolaemic  shock.1 Maternal antibodies provide protection to  a range of infections but they wane over a period of  6–12 months.2 Here, we present a case of a 23 days  neonate who presented to our centre with dengue  fever.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_7",
+      "text": "e over a period of  6–12 months.2 Here, we present a case of a 23 days  neonate who presented to our centre with dengue  fever. CASE REPORTS Our patient is a 23 days old male born at term,  appropriate  for  gestational  age  newborn  with  uneventful antenatal and postnatal history, delivered  vaginally at a maternity hospital.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_8",
+      "text": "for  gestational  age  newborn  with  uneventful antenatal and postnatal history, delivered  vaginally at a maternity hospital. The patient presented  to the tertiary care centre with complaints of fever for  four days decreased feeding and lethargy with no  history of vomiting, fast and noisy breathing, loose  stool, and bleeding from any site.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_9",
+      "text": "ecreased feeding and lethargy with no  history of vomiting, fast and noisy breathing, loose  stool, and bleeding from any site.  At the day of admission, the baby had a fever of 104°F,  heart rate of 130 beats per minute, respiratory rate of  66 breaths per minute, and capillary refill time of less  than three seconds with all peripheral pulses palpable.  Considering the age, a neonatal sepsis workup was  done which showed thrombocytopenia. Renal function  test values were within normal limits.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_10",
+      "text": "e age, a neonatal sepsis workup was  done which showed thrombocytopenia. Renal function  test values were within normal limits. Blood culture  results were negative. Cerebrospinal fluid analysis  was not done because of the low platelets count.  After admission, a baby was managed on intravenous  cefotaxime and amikacin for five days. Despite the use  of antibiotics, the neonate was febrile till the fifth day  of admission and platelets count decreased to 30000  platelets per microliter of blood.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_11",
+      "text": "neonate was febrile till the fifth day  of admission and platelets count decreased to 30000  platelets per microliter of blood. One pint of PRBC  was transfused and the platelet count was increased  to 69000 platelets per microliter of blood. The baby  not settled to antibiotics was upgraded to injection  meropenem.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_12",
+      "text": "creased  to 69000 platelets per microliter of blood. The baby  not settled to antibiotics was upgraded to injection  meropenem. Dengue non-structural protein 1 (NS1)  antigen and antibodies IgM were sent on the fourth  day of admission, which came positive whereas IgG  JNMA I VOL 61 I ISSUE 259 I MARCH 2023 288 Free Full Text Articles are Available at www.jnma.com.np Bhattarai et al. Dengue Fever in a Neonate: A Case Report came negative.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_13",
+      "text": "ee Full Text Articles are Available at www.jnma.com.np Bhattarai et al. Dengue Fever in a Neonate: A Case Report came negative. Further, the mother was investigated  in the lines of dengue suspecting vertical transmission.  However, all the tests came negative. Hence, a  diagnosis of postnatally acquired dengue was made  at this point. The platelets count of the newborn was  monitored daily. There was no mucosal bleeding or  any internal bleeding. A platelet transfusion was done.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_14",
+      "text": "of the newborn was  monitored daily. There was no mucosal bleeding or  any internal bleeding. A platelet transfusion was done.  Once the fever and the platelet were in normal range,  the patient was discharged after 21 days of admission. DISCUSSION Dengue is one of the most frequently encountered  viral illnesses and a prevalent public health issue.  According to the current epidemiological data, there  is a rapid rise in infection rates among children and  adults including pregnant women.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_15",
+      "text": "he current epidemiological data, there  is a rapid rise in infection rates among children and  adults including pregnant women. There are many  risks associated with it. In a pregnant woman, it can  lead to premature labour.3 In addition to that, in cases  of vertical transmission resulting in increased perinatal  morbidity and mortality.4 Dengue is diagnosed by NS1 rapid diagnostic test  (RDT).",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_16",
+      "text": "ansmission resulting in increased perinatal  morbidity and mortality.4 Dengue is diagnosed by NS1 rapid diagnostic test  (RDT). It has 99.2 % sensitivity and 96.0% of specificity  when analysed using Dengue Virus (DENV) NS1  enzyme-linked immunosorbent assay (ELISA) as  standard.5 NS1 antigen is detectable in blood from the  first day after the onset of fever up to the ninth day.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_17",
+      "text": "say (ELISA) as  standard.5 NS1 antigen is detectable in blood from the  first day after the onset of fever up to the ninth day.  The positive predictive value (PPV) is expected to be  greater than 85% in most endemic countries, where  dengue accounts for 30% of febrile illnesses.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_18",
+      "text": "value (PPV) is expected to be  greater than 85% in most endemic countries, where  dengue accounts for 30% of febrile illnesses.  Infants in the first six months of life are usually protected  from dengue infection by maternal antibodies in  endemic areas.Although there are several cases of  vertical transmission of dengue in the neonatal period  reported in the literature.6-9 However, responses of  postnatally acquired dengue in the neonatal age group  are very few typically presenting a clinical picture of  very sick bleeding neonates.10-12 In our case, the dengue  was diagnosed on the fourth day of admission.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_19",
+      "text": "a clinical picture of  very sick bleeding neonates.10-12 In our case, the dengue  was diagnosed on the fourth day of admission. Dengue is caused by DENV of the family Flaviviridae  transmitted by the vector Aedes aegypti mosquito.  Dengue has an incubation period of three to eight  days but in the newborn period, neonates can become  asymptomatic as late as 12 days after birth.13 DENV  has four serotypes.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_20",
+      "text": "days but in the newborn period, neonates can become  asymptomatic as late as 12 days after birth.13 DENV  has four serotypes. Following the first episode of  infection body produces protective antibodies against  the current infecting serotype leaving a possibility of  cross-infection. In this case infection by more than  one serotype can result in dengue hemorrhagic fever  or dengue shock syndrome.11 Dengue commonly is a  disease in young children.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_21",
+      "text": "e serotype can result in dengue hemorrhagic fever  or dengue shock syndrome.11 Dengue commonly is a  disease in young children.  However, the resurgence  of dengue in the recent decade is associated with an  increased number of infections in the adult population,  including pregnant women. Hence, contributes to the number of neonatal  infections due to transplacental transmission during  the last trimester of pregnancy.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_22",
+      "text": ", contributes to the number of neonatal  infections due to transplacental transmission during  the last trimester of pregnancy. In the case, of vertical  transmission, maternal infection leads to viremia and  IgM positive in both the mother and neonate.14 The risk  of DSS/ DHF in the neonatal period, though rare can  occur when protective antibody titre decrease due to  catabolism and cross-reacting and enhancing antibody  titre increase.13 In the literature, there were reports of neonates  developing hemorrhagic manifestations like blood  in vomitus and rashes progressing into shock in  absence of maternal infection, indicating postnatal  transmission.10-12 Therefore, keeping the index case in mind, it is  suggested that neonatal dengue should be kept as a  differential diagnosis for neonatal sepsis and neonatal  thrombocytopenia in absence of any evidence of  infection in a mother or a woman near-term pregnancy,  particularly in endemic areas.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_23",
+      "text": "ocytopenia in absence of any evidence of  infection in a mother or a woman near-term pregnancy,  particularly in endemic areas. The awareness about  the possibility of dengue occurring postnatally in the  newborn period as a differential diagnosis for neonatal  thrombocytopenia and neonatal sepsis is required for  the proper management of a healthy neonate.   Consent: JNMA Case Report Consent Form was signed  by the patient and the original article is attached with  the patient’s chart.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_24",
+      "text": "nsent: JNMA Case Report Consent Form was signed  by the patient and the original article is attached with  the patient’s chart. Conflict of Interest: None. REFERENCES 1.\t Jain A, Chaturvedi UC. Dengue in infants: an overview.  FEMS Immunol Med Microbiol. 2010 Jul 1;59(2):119-30.  [PubMed | Full Text | DOI] 2.\t Niewiesk S. Maternal antibodies: clinical significance,  mechanism of interference with immune responses, and  possible vaccination strategies. Front Immunol. 2014 Sep  16;5:446.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_25",
+      "text": "nce,  mechanism of interference with immune responses, and  possible vaccination strategies. Front Immunol. 2014 Sep  16;5:446. [PubMed | Full Text | DOI] 3.\t Tien Dat T, Kotani T, Yamamoto E, Shibata K, Moriyama Y,  Tsuda H, et al. Dengue fever during pregnancy. Nagoya J  Med Sci. 2018 May;80(2):241-7. [PubMed | Full Text | DOI] 4.\t Pouliot SH, Xiong X, Harville E, Paz-Soldan V, Tomashek  KM, Breart G, et al. Maternal dengue and pregnancy  outcomes: a systematic review. Obstet Gynecol Surv.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_26",
+      "text": "Paz-Soldan V, Tomashek  KM, Breart G, et al. Maternal dengue and pregnancy  outcomes: a systematic review. Obstet Gynecol Surv. 2010  Feb;65(2):107-18. [PubMed | Full Text | DOI] 5.\t Shukla MK, Singh N, Sharma RK, Barde PV. Utility of  dengue NS1 antigen rapid diagnostic test for use in difficult  JNMA I VOL 61 I ISSUE 259 I MARCH 2023 289 Free Full Text Articles are Available at www.jnma.com.np to reach areas and its comparison with dengue NS1 ELISA  and qRT-PCR. J Med Virol. 2017 Jul;89(7):1146-50.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_27",
+      "text": "e at www.jnma.com.np to reach areas and its comparison with dengue NS1 ELISA  and qRT-PCR. J Med Virol. 2017 Jul;89(7):1146-50. [PubMed  | Full Text | DOI] 6.\t Sirinavin  S,  Nuntnarumit  P,  Supapannachart  S,  Boonkasidecha S, Techasaensiri C, Yoksarn S. Vertical  dengue infection: case reports and review. Pediatr Infect Dis  J. 2004 Nov;23(11):1042-7. [PubMed | Full Text | DOI] 7.\t Chin PS, Khoo AP, Asmah Hani AW, Chem YK, Norizah I,  Chua KB.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_28",
+      "text": "t Dis  J. 2004 Nov;23(11):1042-7. [PubMed | Full Text | DOI] 7.\t Chin PS, Khoo AP, Asmah Hani AW, Chem YK, Norizah I,  Chua KB. Acute dengue in a neonate secondary to perinatal  transmission. Med J Malaysia. 2008 Aug;63(3):265-6.  [PubMed | Full Text] 8.\t Phongsamart W, Yoksan S, Vanaprapa N, Chokephaibulkit  K. Dengue virus infection in late pregnancy and transmission  to the infants. Pediatr Infect Dis J. 2008 Jun;27(6):500-4.  [PubMed | Full Text | DOI] 9.\t Thomas J, Thomas P, George CR. Neonatal dengue.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_29",
+      "text": "ts. Pediatr Infect Dis J. 2008 Jun;27(6):500-4.  [PubMed | Full Text | DOI] 9.\t Thomas J, Thomas P, George CR. Neonatal dengue. Int J  Contemp Pediatr. 2017;4:2234-36. [Full Text | DOI] 10.\t Kanwaljeet KC, Varun S, Anita A. Postnatally acquired  dengue in a neonate--a case report. J Commun Dis. 2013  Mar-Jun;45(1-2):101-3. [PubMed] 11.\t Balmaseda A, Hammond SN, Perez L, Tellez Y, Saborio SI,  Mercado JC, et al. Serotype-specific differences in clinical  manifestations of dengue. Am J Trop Med Hyg.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_30",
+      "text": "llez Y, Saborio SI,  Mercado JC, et al. Serotype-specific differences in clinical  manifestations of dengue. Am J Trop Med Hyg. 2006  Mar;74(3):449-56. [PubMed | Full Text] 12.\t Hongsiriwon S. Dengue hemorrhagic fever in infants.  Southeast Asian J Trop Med Public Health. 2002  Mar;33(1):49-55. [PubMed | Full Text] 13.\t Chaturvedi  UC,  Shrivastava  R,  Nagar  R.  Dengue  vaccines: problems and prospects. Indian J Med Res. 2005  May;121(5):639-52.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_31",
+      "text": "aturvedi  UC,  Shrivastava  R,  Nagar  R.  Dengue  vaccines: problems and prospects. Indian J Med Res. 2005  May;121(5):639-52. [PubMed] 14.\t Perret C, Chanthavanich P, Pengsaa K, Limkittikul K,  Hutajaroen P, Bunn JE, et al. Dengue infection during  pregnancy and transplacental antibody transfer in Thai  mothers. J Infect. 2005 Nov;51(4):287-93. [PubMed | Full  Text | DOI] Bhattarai et al. Dengue Fever in a Neonate: A Case Report © The Author(s) 2023.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_32",
+      "text": "5 Nov;51(4):287-93. [PubMed | Full  Text | DOI] Bhattarai et al. Dengue Fever in a Neonate: A Case Report © The Author(s) 2023.  This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_33",
+      "text": "ate: A Case Report © The Author(s) 2023.  This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article  are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the  Creative Commons license, users will need to obtain permission from the license holder to reproduce the material.",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "7835d9cd0a6d_34",
+      "text": "ed under the  Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this  license, visit https://creativecommons.org/licenses/by/4.0/ .",
+      "metadata": {
+        "doc_id": "7835d9cd0a6d",
+        "filename": "Dengue Fever in a Neonate A Case Report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.503529",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [],
+  "total_chunks": 35
+}

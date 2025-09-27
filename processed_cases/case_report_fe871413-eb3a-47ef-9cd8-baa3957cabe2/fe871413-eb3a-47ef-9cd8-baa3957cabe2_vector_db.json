@@ -1,0 +1,282 @@
+{
+  "document_id": "0a6241c393b2",
+  "document_type": "case_report",
+  "type_confidence": 0.3,
+  "document_metadata": {
+    "doc_id": "0a6241c393b2",
+    "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.3,
+    "pages": 2,
+    "processed_date": "2025-09-27T23:12:52.513026",
+    "has_images": true,
+    "image_count": 1
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 25,
+      "gender": "male"
+    },
+    "timeline": {
+      "illness_day": 7
+    },
+    "clinical_findings": {
+      "chief_complaint": "fever, rash, and 6hours of\nnonproductive cough"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "as\ndengue fever"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "recovered"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "0a6241c393b2_0",
+      "text": "Images in Clinical Tropical Medicine Dengue Fever Associated with Acute Urticaria Thanh Nguyen Huu,1 Thang Quoc Le,1 and Thuy Tran Thi Phuong1,2* 1Department of Internal Medicine, College of Health Sciences, VinUniversity, Hanoi, Vietnam; 2Department of Infectious Diseases, Vinmec International Hospital, Hanoi, Vietnam A 25-year-old male in Hanoi, Vietnam, with a history of acet- aminophen allergy, presented with fever, rash, and 6hours of nonproductive cough.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_1",
+      "text": "le in Hanoi, Vietnam, with a history of acet- aminophen allergy, presented with fever, rash, and 6hours of nonproductive cough. Over the subsequent 4hours, a pruritic rash developed, starting in the trunk and then spreading to the arms and legs. This was the ﬁrst time he had experienced this type of rash. He had not taken any new medications, includ- ing paracetamol, or new food. His temperature was 39\u0001C; otherwise, his vital signs were normal.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_2",
+      "text": "en any new medications, includ- ing paracetamol, or new food. His temperature was 39\u0001C; otherwise, his vital signs were normal. Partially conﬂuent, erythematous wheals were present on the chest, abdomen, and arms (Figure 1) without angioedema. Laboratory tests revealed a normal white blood cell count of 5.3 3 109/L, hematocrit of 47%, platelet count of 227 3 109/L, normal liver enzymes, and C-reactive protein of 19.6mg/dL (normal, ,0.5 mg/dL).",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_3",
+      "text": "matocrit of 47%, platelet count of 227 3 109/L, normal liver enzymes, and C-reactive protein of 19.6mg/dL (normal, ,0.5 mg/dL). Testing for dengue fever was positive for the dengue virus nonstructural protein 1 antigen (OnSiteV R Rapid Test, CTK Biotech, Poway, CA), establishing the diagnosis as dengue fever. He was treated with oral chlorpheniramine, methylprednisolone, and other supportive care. The rash mostly resolved within 24hours and was gone by 3 days.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_4",
+      "text": "hlorpheniramine, methylprednisolone, and other supportive care. The rash mostly resolved within 24hours and was gone by 3 days. He fully recovered and was discharged on day 7 of illness.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_5",
+      "text": "are. The rash mostly resolved within 24hours and was gone by 3 days. He fully recovered and was discharged on day 7 of illness. Rash is common in dengue fever, consisting of transient ﬂushing erythema on the ﬁrst and second days, followed by maculopapular or morbilliform skin ﬁndings and petechiae and rounded islands of sparing occurring after 3–5 days of the disease.1 Maculopapular rashes in infectious diseases are thought to be caused by adaptive immune responses against pathogens, commonly viruses, mediated by T-lymphocytes alone or both T-cell and B-cell responses that release the mediators, toxins, and antibodies.2 In dengue fever, it is hypothesized that the rash is due to inﬂammatory cell inﬁltra- tion and dermal edema after increased vessel permeability.3 Urticaria occurs in the superﬁcial dermis and is caused by vascular dilation and ﬂuid leakage into the skin, triggered by histamine and vasodilator mediators released from mast cells and basophils.4 Infections can trigger urticaria.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_6",
+      "text": "in, triggered by histamine and vasodilator mediators released from mast cells and basophils.4 Infections can trigger urticaria. Dengue fever associated with acute urticaria is rarely reported. Recently, dengue viruses have been shown to infect the skin mast cells, leading to release of multiple mediators.5 Addi- tional studies are required to investigate the association of dengue fever and urticaria, but this physical ﬁnding is impor- tant to understand more fully in this disease. Received January 24, 2024.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_7",
+      "text": "ver and urticaria, but this physical ﬁnding is impor- tant to understand more fully in this disease. Received January 24, 2024. Accepted for publication March 26, 2024. Published online June 4, 2024. Acknowledgment: We thank Nguyen Van Dinh for providing insights into the allergic aspects of this manuscript. The American Society of Tropical Medicine and Hygiene (ASTMH) assisted with publication expenses.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_8",
+      "text": "c aspects of this manuscript. The American Society of Tropical Medicine and Hygiene (ASTMH) assisted with publication expenses. Authors’ addresses: Thanh Nguyen Huu and Thang Quoc Le, Depart- ment of Internal Medicine, College of Health Sciences, VinUniversity, Vietnam, E-mails: 20thanh.nh@vinuni.edu.vn and 22thang.lq@vinuni.edu. vn. Thuy Tran Thi Phuong, Department of Infectious Diseases, Vinmec International Hospital, Hanoi, Vietnam, E-mail: thuy.ttp@vinuni.edu.vn.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_9",
+      "text": "n Thi Phuong, Department of Infectious Diseases, Vinmec International Hospital, Hanoi, Vietnam, E-mail: thuy.ttp@vinuni.edu.vn. This is an open-access article distributed under the terms of the Creative Commons Attribution (CC-BY) License, which permits unrestricted use, distribution, and reproduction in any medium, pro- vided the original author and source are credited. REFERENCES 1. Thomas EA, John M, Kanish B, 2010. Mucocutaneous manifesta- tions of dengue fever. Indian J Dermatol 55: 79–85. FIGURE 1.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_10",
+      "text": "ES 1. Thomas EA, John M, Kanish B, 2010. Mucocutaneous manifesta- tions of dengue fever. Indian J Dermatol 55: 79–85. FIGURE 1. (A and B) Generalized erythematous, partially conﬂuent wheals on the chest, abdomen, and back. (C and D) Generalized ery- thematous, partially conﬂuent wheals on both arms. * Address correspondence to Thuy Tran Thi Phuong, Department of Infectious Diseases, Vinmec International Hospital, Hanoi 100000, Vietnam. E-mail: thuy.ttp@vinuni.edu.vn 1 Am. J. Trop. Med.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_11",
+      "text": "f Infectious Diseases, Vinmec International Hospital, Hanoi 100000, Vietnam. E-mail: thuy.ttp@vinuni.edu.vn 1 Am. J. Trop. Med. Hyg., 111(1), 2024, pp. 1–2 doi:10.4269/ajtmh.24-0052 Copyright © 2024 The author(s) 2. Fern\u0001andez TD, Canto G, Blanca M, 2009. Molecular mechanisms of maculopapular exanthema. Curr Opin Infect Dis 22: 272– 278. 3. Huang HW, Tseng HC, Lee CH, Chuang HY, Lin SH, 2016. Clini- cal signiﬁcance of skin rash in dengue fever: A focus on dis- comfort, complications, and disease outcome.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_12",
+      "text": "Lin SH, 2016. Clini- cal signiﬁcance of skin rash in dengue fever: A focus on dis- comfort, complications, and disease outcome. Asian Pac J Trop Med 9: 713–718. 4. Hennino A, B\u0001erard F, Guillot I, Saad N, Roxi\u0003eres A, Nicholas JF, 2006. Pathophysiology of urticaria. Clin Rev Allergy Immunol 30: 3–11. 5. Troupin A, Shirley D, Londono-Renteria B, Watson AM, McHale C, Hall A, Hartstone-Rose A, Klimstra WB, Gomez G, Colpitts TM, 2016.",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0a6241c393b2_13",
+      "text": "oupin A, Shirley D, Londono-Renteria B, Watson AM, McHale C, Hall A, Hartstone-Rose A, Klimstra WB, Gomez G, Colpitts TM, 2016. A role for human skin mast cells in dengue virus infection and systemic spread. J Immunol 197: 4382–4391. NGUYEN HUU AND OTHERS 2 .",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "0a6241c393b2_img_1",
+      "text": "Image: ) without angioedema. Laboratory tests",
+      "metadata": {
+        "doc_id": "0a6241c393b2",
+        "filename": "fe871413-eb3a-47ef-9cd8-baa3957cabe2.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.513026",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_type": "image",
+        "image_path": "fe871413-eb3a-47ef-9cd8-baa3957cabe2_p1_img1_228f4e59.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    }
+  ],
+  "total_chunks": 15
+}

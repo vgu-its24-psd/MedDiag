@@ -1,0 +1,279 @@
+{
+  "document_id": "57c6ee68e2ac",
+  "document_type": "lab_report",
+  "type_confidence": 0.2863636363636364,
+  "document_metadata": {
+    "doc_id": "57c6ee68e2ac",
+    "filename": "Dengue Fever.pdf",
+    "document_type": "lab_report",
+    "type_confidence": 0.2863636363636364,
+    "pages": 1,
+    "processed_date": "2025-09-27T23:12:47.335163",
+    "has_images": true,
+    "image_count": 3
+  },
+  "extracted_data": {
+    "document_type": "lab_report",
+    "tests": [
+      {
+        "name": "DOI",
+        "value": "10.2169",
+        "unit": "/internalmedicine",
+        "reference": ".53.2652"
+      }
+    ],
+    "abnormal_values": [],
+    "critical_values": []
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "57c6ee68e2ac_0",
+      "text": "1727 Picture　1. Picture　2.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_1",
+      "text": "□PICTURES IN CLINICAL MEDICINE □ Dengue Fever Satoshi Kutsuna and Norio Ohmagari Key words: dengue fever, white island in the sea of red, tourniquet test (Intern Med 53: 1727, 2014) (DOI: 10.2169/internalmedicine.53.2652) A previously healthy 30-year-old man presented to the emergency department with fever, headache, and arthralgia for two days.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_2",
+      "text": "ith fever, headache, and arthralgia for two days. Three days prior to admission, he had traveled in Vietnam for 10 days, where he was repeatedly bitten by mosquitoes.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_3",
+      "text": "ys, where he was repeatedly bitten by mosquitoes. A physical examination did not reveal any ab- normal findings, but the patient’s laboratory tests revealed leukocytopenia and thrombocytopenia.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_4",
+      "text": "sts revealed leukocytopenia and thrombocytopenia. A tourniquet test was performed, and many petechiae were observed on the skin below the cuff (Picture 1). A diagnosis was made based on the detection of dengue virus DNA in the patient’s periph- eral blood.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_5",
+      "text": "ue virus DNA in the patient’s periph- eral blood. On the fifth day of hospitalization, diffuse erythema that blanched on pressure was noted over the trunk and extremities with defervescence.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_6",
+      "text": "ver the trunk and extremities with defervescence. These areas gradu- ally fused, and a white island in a sea of red was observed (Picture 2). A positive result on the tourniquet test reflects microvas- cular fragility in dengue patients.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_7",
+      "text": "cts microvas- cular fragility in dengue patients. A finding of 20 or more petechiae in a one square inch area after applying pressure for 5 minutes is considered positive (1). The authors state that they have no Conflict of Interest (COI). Reference 1.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_8",
+      "text": "have no Conflict of Interest (COI). Reference 1. Cao XT, Ngo TN, Wills B, et al. Evaluation of the World Health Organization standard tourniquet test and a modified tourniquet test in the diagnosis of dengue infection in Viet Nam.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_9",
+      "text": "in the diagnosis of dengue infection in Viet Nam. Trop Med Int Health 7: 125-132, 2002.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_10",
+      "text": "n Viet Nam. Trop Med Int Health 7: 125-132, 2002. National Center for Global Health and Medicine, Disease Control and Prevention Center, Japan Received for publication February 11, 2014; Accepted for publication February 19, 2014 Correspondence to Dr.",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_11",
+      "text": "blication February 19, 2014 Correspondence to Dr. Satoshi Kutsuna, sonare.since1192@gmail.com Ⓒ2014 The Japanese Society of Internal Medicine Journal Website: http://www.naika.or.jp/imonline/index.html .",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "57c6ee68e2ac_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue Fever_p1_img1_f3a6dc89.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue Fever_p1_img2_9cf4473b.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "57c6ee68e2ac_img_3",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "57c6ee68e2ac",
+        "filename": "Dengue Fever.pdf",
+        "document_type": "lab_report",
+        "type_confidence": 0.2863636363636364,
+        "pages": 1,
+        "processed_date": "2025-09-27T23:12:47.335163",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue Fever_p1_img3_a412db92.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    }
+  ],
+  "total_chunks": 15
+}

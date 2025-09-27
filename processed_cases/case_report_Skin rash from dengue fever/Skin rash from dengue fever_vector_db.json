@@ -1,0 +1,664 @@
+{
+  "document_id": "cacdcb9ac1ca",
+  "document_type": "case_report",
+  "type_confidence": 0.4,
+  "document_metadata": {
+    "doc_id": "cacdcb9ac1ca",
+    "filename": "Skin rash from dengue fever.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.4,
+    "pages": 2,
+    "processed_date": "2025-09-27T23:12:55.577327",
+    "has_images": true,
+    "image_count": 24
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 47,
+      "gender": "man"
+    },
+    "timeline": {
+      "onset_days": 3
+    },
+    "clinical_findings": {
+      "chief_complaint": "a\nhistory of\nhaving\nbeen\nbitten\nby\nmosquitoes,\nseveral years earlier in the Philippines, this result"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "of dengue fever was obtained by assessing\nthe levels of dengue virus IgM antibody that was\n6"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "cacdcb9ac1ca_0",
+      "text": "Skin rash from dengue fever Tsuneaki Kenzaka, Ayako Kumabe Division of General Medicine, Center for Community Medicine, Jichi Medical University School of Medicine, Shimotsuke, Tochigi, Japan Correspondence to Dr Tsuneaki Kenzaka, smile.kenzaka@jichi.ac.jp To cite: Kenzaka T, Kumabe A.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_1",
+      "text": "cine, Shimotsuke, Tochigi, Japan Correspondence to Dr Tsuneaki Kenzaka, smile.kenzaka@jichi.ac.jp To cite: Kenzaka T, Kumabe A. BMJ Case Rep Published online: [please include Day Month Year] doi:10.1136/bcr-2013- 201598 DESCRIPTION A 47-year-old Japanese man presented with a history of having been bitten by mosquitoes, several years earlier in the Philippines, this resulted in a fever and a rash which dissipated spontan- eously.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_2",
+      "text": "by mosquitoes, several years earlier in the Philippines, this resulted in a fever and a rash which dissipated spontan- eously. He had stayed in the Philippines for 3 weeks, 1 month prior to hospitalisation, and was bitten by several mosquitoes. He had a fever for 6 days and a systemic rash for 3 days before con- sultation at our hospital. At the time of consult- ation, his blood pressure was 122/78 mm Hg; pulse 80 bpm, respiratory rate 16 breaths/min and body temperature 38.4°C.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_3",
+      "text": "consult- ation, his blood pressure was 122/78 mm Hg; pulse 80 bpm, respiratory rate 16 breaths/min and body temperature 38.4°C. Congestion of the palpebral conjunctiva and systemic rash were observed. A tourniquet test on the right arm showed increased petechial haemorrhaging (ﬁgure 1). Further, ‘islands of white’ of the normal skin surrounded by erythema were noted (ﬁgure 2). Blood tests showed the blood platelet count at 52×109 cells/L, with abnormal liver function.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_4",
+      "text": "by erythema were noted (ﬁgure 2). Blood tests showed the blood platelet count at 52×109 cells/L, with abnormal liver function. He received in-patient treatment for suspected dengue fever. A deﬁnitive diagnosis of dengue fever was obtained by assessing the levels of dengue virus IgM antibody that was 6.8 (positive cut-off, 1.1 or higher), IgG antibodies 3.5 (positive cut-off, 1.1 or higher) and dengue virus NS1 antigen 18.4 (positive cut-off, 1.0 or higher).",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_5",
+      "text": "her), IgG antibodies 3.5 (positive cut-off, 1.1 or higher) and dengue virus NS1 antigen 18.4 (positive cut-off, 1.0 or higher). A considerable amount of ﬂuid replace- ment stopped the worsening of his condition and mitigated it, and within 1 week, he was discharged.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_6",
+      "text": "ble amount of ﬂuid replace- ment stopped the worsening of his condition and mitigated it, and within 1 week, he was discharged. Even in non-epidemic areas, the diagnosis should be considered in any patient presenting with a char- acteristic skin rash that has developed within 14 days after even a brief trip to the tropics or subtropics.1 Figure 1 Tourniquet test positive: showing numerous minute petechial haemorrhages after tourniquet application.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_7",
+      "text": "or subtropics.1 Figure 1 Tourniquet test positive: showing numerous minute petechial haemorrhages after tourniquet application. Figure 2 The ‘islands of white’ of the normal skin surrounded by erythema. Kenzaka T, et al. BMJ Case Rep 2013. doi:10.1136/bcr-2013-201598 1 Images in…. Learning points ▸Positive tourniquet test and ‘islands of white in a sea of red’ are characteristic skin rash in dengue fever.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_8",
+      "text": "Learning points ▸Positive tourniquet test and ‘islands of white in a sea of red’ are characteristic skin rash in dengue fever. ▸Even in non-epidemic areas, the diagnosis should be considered in any patient presenting with characteristic skin rash that has developed within 14 days after even a brief trip to the tropics or subtropics. Competing interests None. Patient consent Obtained. Provenance and peer review Not commissioned; externally peer reviewed. REFERENCE 1 Simmons CP, Farrar JJ, Nguyen VC, et al.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_9",
+      "text": "ed. Provenance and peer review Not commissioned; externally peer reviewed. REFERENCE 1 Simmons CP, Farrar JJ, Nguyen VC, et al. Dengue. N Engl J Med 2012;366:1423–32. Copyright 2013 BMJ Publishing Group. All rights reserved. For permission to reuse any of this content visit http://group.bmj.com/group/rights-licensing/permissions. BMJ Case Report Fellows may re-use this article for personal use and teaching without any further permission.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_10",
+      "text": "sing/permissions. BMJ Case Report Fellows may re-use this article for personal use and teaching without any further permission. Become a Fellow of BMJ Case Reports today and you can: ▸Submit as many cases as you like ▸Enjoy fast sympathetic peer review and rapid publication of accepted articles ▸Access all the published articles ▸Re-use any of the published material for personal use and teaching without further permission For information on Institutional Fellowships contact consortiasales@bmjgroup.com Visit casereports.bmj.com for more articles like this and to become a Fellow 2 Kenzaka T, et al.",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_11",
+      "text": "ct consortiasales@bmjgroup.com Visit casereports.bmj.com for more articles like this and to become a Fellow 2 Kenzaka T, et al. BMJ Case Rep 2013. doi:10.1136/bcr-2013-201598 Images in…. .",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "cacdcb9ac1ca_img_1",
+      "text": "Image: Tourniquet test positive: showing numerous",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img1_967bbdec.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_2",
+      "text": "Image: The ‘islands of white’ of the normal skin",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img2_ddc2a0e3.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_3",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img3_82619512.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_4",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img4_6d643a31.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_5",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img5_cf6bc462.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_6",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img6_8aa5518b.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_7",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img7_1d4c10ac.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_8",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img8_d9588ab9.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_9",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img9_433f6850.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_10",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img10_fd9a3176.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_11",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img11_b3cbf0a6.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_12",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img12_dd74b6b0.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_13",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img13_992c4ab9.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_14",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img14_55ac9f4f.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_15",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img15_3a7633c7.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_16",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img16_f3824fd7.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_17",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img17_e5b75a50.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_18",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img18_942e858e.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_19",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img19_0c380752.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_20",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img20_d526508c.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_21",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img21_163679af.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_22",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img22_97ee8a07.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_23",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img23_434c0412.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "cacdcb9ac1ca_img_24",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "cacdcb9ac1ca",
+        "filename": "Skin rash from dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:55.577327",
+        "has_images": true,
+        "image_count": 24,
+        "chunk_type": "image",
+        "image_path": "Skin rash from dengue fever_p1_img24_7b2330c9.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    }
+  ],
+  "total_chunks": 36
+}

@@ -1,0 +1,1378 @@
+{
+  "document_id": "a019005c06c4",
+  "document_type": "case_report",
+  "type_confidence": 0.3,
+  "document_metadata": {
+    "doc_id": "a019005c06c4",
+    "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.3,
+    "pages": 7,
+    "processed_date": "2025-09-27T23:12:47.182816",
+    "has_images": true,
+    "image_count": 8
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "gender": "male"
+    },
+    "timeline": {},
+    "clinical_findings": {
+      "chief_complaint": "bilateral thalamic diffusion-\nweighted imaging (DWI) lesions"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "challenging"
+    },
+    "interventions": {
+      "medications": [
+        {
+          "name": "hemoglobin",
+          "dose": "160",
+          "unit": "g"
+        },
+        {
+          "name": "hemoglobin",
+          "dose": "194",
+          "unit": "g"
+        }
+      ]
+    },
+    "outcomes": {
+      "status": "transferred"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "a019005c06c4_0",
+      "text": "CASE REPORT Open Access © The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0  International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you  give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the  licensed material.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_1",
+      "text": "author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the  licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or  other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the  material.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_2",
+      "text": "s article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the  material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or  exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​ v​e​c​o​m​m​o​n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​-​n​c​-​n​d​/​4​.​0​/.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_3",
+      "text": "opy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​ v​e​c​o​m​m​o​n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​-​n​c​-​n​d​/​4​.​0​/. Yoosuf et al. BMC Neurology          (2025) 25:185  https://doi.org/10.1186/s12883-025-04197-2 dengue fever with neurological symptoms and MRI find­ ings resembling ischemic stroke, that highlights the diag­ nostic challenges in dengue encephalitis.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_4",
+      "text": "cal symptoms and MRI find­ ings resembling ischemic stroke, that highlights the diag­ nostic challenges in dengue encephalitis. Case presentation A previously healthy 38-years-old male presented to  the Emergency Department with weakness of left upper  limb and bilateral lower limbs. He had a fever with flu- like symptoms for the past three days. He had no history  of headache, vomiting, trauma or seizures.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_5",
+      "text": ". He had a fever with flu- like symptoms for the past three days. He had no history  of headache, vomiting, trauma or seizures. On physical  examination, he had grade 3/5 motor strength (Medi­ cal Research Council (MRC) scale) in the left upper and  lower limbs and grade 4/5 motor strength in the right  lower limb. On mental status examination the patient  was alert but disoriented and aphasic. His Glasgow Coma  Scale (GCS) score was 11. Pupils were equal, round,  and reactive to light.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_6",
+      "text": "lert but disoriented and aphasic. His Glasgow Coma  Scale (GCS) score was 11. Pupils were equal, round,  and reactive to light. No asymmetry was noted on facial  Background Dengue fever, an arboviral illness, is a global health  problem affecting 129 countries and 5.2  million people  per year [1]. It is spreading rapidly in new geographical  entities in addition to the previously affected areas [2].",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_7",
+      "text": "n people  per year [1]. It is spreading rapidly in new geographical  entities in addition to the previously affected areas [2].  Although fever, myalgia, and thrombocytopenia are the  common clinical features, neurological symptoms occur  rarely in 0.5–20% of the cases [3]. We describe a case of  BMC Neurology *Correspondence: Saqib I.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_8",
+      "text": "neurological symptoms occur  rarely in 0.5–20% of the cases [3]. We describe a case of  BMC Neurology *Correspondence: Saqib I. Dara Saqibdara@yahoo.com 1College of Medicine, Gulf Medical University, Ajman, UAE 2Department of Neurology, Sheikh Shakhbout Medical City, Abu Dhabi,  UAE 3Department of Clinical Imaging, Sheikh Shakhbout Medical City, Abu  Dhabi, UAE 4Department of Critical Care Medicine, Sheikh Shakhbout Medical City,  Abu Dhabi, UAE Abstract Background  Dengue encephalitis is a rare complication of dengue and can manifest as ischemic stroke, making the  diagnosis challenging.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_9",
+      "text": "d  Dengue encephalitis is a rare complication of dengue and can manifest as ischemic stroke, making the  diagnosis challenging. This case highlights the need of recognizing unusual presentation of dengue and the use of  neuroradiology in its diagnosis. Case presentation  A previously healthy 38-years-old man presented to the emergency department with weakness  of the left upper limb and bilateral lower limbs, aphasia and confusion. He had flu-like symptoms along with fever for  the past 3 days.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_10",
+      "text": "ft upper limb and bilateral lower limbs, aphasia and confusion. He had flu-like symptoms along with fever for  the past 3 days. Magnetic Resonance Imaging (MRI) of the brain showed hyperintensities in the bilateral thalamic and  parafalcine regions. The patient was started on aspirin for the suspicion of ischemic stroke. But the patient’s condition  deteriorated. Lumbar puncture did not reveal any evidence of meningitis.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_11",
+      "text": "icion of ischemic stroke. But the patient’s condition  deteriorated. Lumbar puncture did not reveal any evidence of meningitis. The blood Reverse Transcription Polymerase  Chain Reaction (RT-PCR) confirmed the diagnosis of dengue hemorrhagic fever. Conclusions  This article emphasizes the importance of including the complications and manifestations of dengue  fever in the differential diagnosis of ischemic stroke in a relevant context.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_12",
+      "text": "g the complications and manifestations of dengue  fever in the differential diagnosis of ischemic stroke in a relevant context. Unique radiological finding of bilateral  thalamic lesions can serve as important diagnostic clues in such atypical cases. Early diagnosis can help guide therapy.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_13",
+      "text": "teral  thalamic lesions can serve as important diagnostic clues in such atypical cases. Early diagnosis can help guide therapy. Keywords  Dengue encephalitis, Bilateral thalamic lesions, Ischemic stroke Dengue fever with bilateral thalamic diffusion  restriction lesions: a case report Husna Yoosuf1, Josef A. Alawneh2, Zafar Hashim3, Umama B. Fatima1 and Saqib I. Dara4* Page 2 of 7 Yoosuf et al. BMC Neurology          (2025) 25:185  examination.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_14",
+      "text": "afar Hashim3, Umama B. Fatima1 and Saqib I. Dara4* Page 2 of 7 Yoosuf et al. BMC Neurology          (2025) 25:185  examination. Extraocular movements were normal, and  there was no nystagmus or ptosis. There were no rashes  or fever. His initial vitals were: temperature 36.6 °C, pulse  rate 84 bpm, blood pressure 122/74 mmHg, respiratory  rate 18 breaths per minute and oxygen saturation 97%.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_15",
+      "text": "ure 36.6 °C, pulse  rate 84 bpm, blood pressure 122/74 mmHg, respiratory  rate 18 breaths per minute and oxygen saturation 97%. Complete  blood  count  revealed  hemoglobin  160  g/L (normal:132–173  g/L), hematocrit 0.465 (nor­ mal:0.390–0.490), white blood cell count 4.15 × 10^9/L  (normal:4–11 × 10^9/L)  (lymphocytes  0.54 × 10^9/L  (normal:1-3.5 × 10^9/L), neutrophils 3.42 × 10^9/L (nor­ mal: 2–8 × 10^9/L)) and platelets 180 × 10^9/L (nor­ mal:140–400 × 10^9/L).",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_16",
+      "text": "al:1-3.5 × 10^9/L), neutrophils 3.42 × 10^9/L (nor­ mal: 2–8 × 10^9/L)) and platelets 180 × 10^9/L (nor­ mal:140–400 × 10^9/L).  Coagulation  panel  included  activated Partial Thromboplastin Time (aPTT) 36.2  s  (normal:28.6–38.2), International Normalized Ratio  (INR) 1.04 (normal:0.82–1.2), Prothrombin Time (PT)  13.3  s (normal: 11.5–14.5). Serum chemistry revealed  glucose 8.27 mmol/L (normal:2.8–8.8 mmol/L) and lac­ tate 4.9 mmol/L (normal:0.5–2.2 mmol/L).",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_17",
+      "text": "–14.5). Serum chemistry revealed  glucose 8.27 mmol/L (normal:2.8–8.8 mmol/L) and lac­ tate 4.9 mmol/L (normal:0.5–2.2 mmol/L). A Computerized Tomography (CT) scan of the brain  showed low attenuation in the bilateral superior frontal  parafalcine region (Fig.  1). The patient was diagnosed  with suspected acute ischemic stroke in bilateral anterior  cerebral artery (ACA) regions and was started on aspi­ rin and atorvastatin.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_18",
+      "text": "ected acute ischemic stroke in bilateral anterior  cerebral artery (ACA) regions and was started on aspi­ rin and atorvastatin. An MRI revealed bilateral thalamic  and parafalcine areas of diffusion restriction with hae­ mosiderin deposition raising suspicion of bilateral ACA  territory infarcts and artery of Percheron infarct (Figs. 2,  3 and 4). Echocardiogram showed mild to moderate  Fig.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_19",
+      "text": "teral ACA  territory infarcts and artery of Percheron infarct (Figs. 2,  3 and 4). Echocardiogram showed mild to moderate  Fig. 2  Diffusion weighted imaging (DWI) and Apparent Diffusion Cofficient (ADC map) showing areas of diffusion restriction within these lesions as  evidenced by high signal on DWI and low signal on ADC map   Fig. 1  Non-Contrast CT head showing bilateral thalamic and parafalcine low attenuation regions   Page 3 of 7 Yoosuf et al.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_20",
+      "text": "p   Fig. 1  Non-Contrast CT head showing bilateral thalamic and parafalcine low attenuation regions   Page 3 of 7 Yoosuf et al. BMC Neurology          (2025) 25:185  decrease in left ventricular function with an ejection  fraction of 40–45%. The next day, the patient developed a large amount of  dark stool. A CT scan of the abdomen showed no evi­ dence of an active hemorrhage in the large and small  bowels.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_21",
+      "text": "ge amount of  dark stool. A CT scan of the abdomen showed no evi­ dence of an active hemorrhage in the large and small  bowels. Colonoscopy revealed extensive bleeding and  widespread inflammation throughout the terminal ileum  and colon. Despite fluid resuscitation, the patient’s condition dete­ riorated. He had tachycardia, fever, and was acidotic. His  pH was 7.3 (normal: 7.35–7.45). And GCS score dropped  to 9 and a purpuric rash appeared on the right hypochon­ driac and flank areas.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_22",
+      "text": "7.3 (normal: 7.35–7.45). And GCS score dropped  to 9 and a purpuric rash appeared on the right hypochon­ driac and flank areas. Complete  blood  count  revealed  hemoglobin  194  g/L (normal:132–173  g/L), hematocrit 0.557 (nor­ mal:0.390–0.490), white blood cell count 13.11 × 10^9/L  (normal:4–11 × 10^9/L)  (lymphocytes  0.82 × 10^9/L  (normal:1-3.5 × 10^9/L),  neutrophils  11.57 × 10^9/L)  (normal: 2–8 × 10^9/L) and platelets 212 × 10^9/L (nor­ mal:140–400 × 10^9/L).",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_23",
+      "text": ":1-3.5 × 10^9/L),  neutrophils  11.57 × 10^9/L)  (normal: 2–8 × 10^9/L) and platelets 212 × 10^9/L (nor­ mal:140–400 × 10^9/L).  Coagulation  panel  included  aPTT 38.6  s (normal:28.6–38.2), INR 1.19 (nor­ mal:0.82–1.2), PT 15.1 s (normal: 11.5–14.5). He was transferred to the intensive care unit (ICU)  where he was intubated, and general surgery was con­ sulted. Given the fever (39.2 °C) and altered mental sta­ tus, a lumbar puncture (LP) was performed, and he was  started on antibiotics.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_24",
+      "text": "iven the fever (39.2 °C) and altered mental sta­ tus, a lumbar puncture (LP) was performed, and he was  started on antibiotics. Cerebrospinal fluid (CSF) analysis  revealed red blood cell count 330 × 10^6/L, white blood  cell count 4 × 10^6/L (normal:0-5 × 10^6/L) (neutrophils  20% (normal:0–6%), lymphocytes 65% (normal:40–80%),  monocytes 15% (normal:15–45%)), protein 0.92  g/L  (normal:0.15–0.45  g/L), glucose 6.27 mmol/L (normal:  2.22–3.89 mmol/L), lactate 3.2 mmol/L (normal:1.1–2.4  mmol/L).",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_25",
+      "text": "92  g/L  (normal:0.15–0.45  g/L), glucose 6.27 mmol/L (normal:  2.22–3.89 mmol/L), lactate 3.2 mmol/L (normal:1.1–2.4  mmol/L). BioFire® FilmArray® Meningitis/Encephalitis (ME)  Panel (bioMérieux, Lyon, France). for common viral and  bacterial pathogens was negative. Blood and CSF cultures  were negative.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_26",
+      "text": "anel (bioMérieux, Lyon, France). for common viral and  bacterial pathogens was negative. Blood and CSF cultures  were negative. Coagulation tests revealed fibrinogen 3.17  g/L (nor­ mal:1.9–4.3  g/L), DRVV Screen 0.84 (normal: </= 1.2),  negative PAT screen (29.1), negative REF screen (34.8),  D-dimer 3.64 mcg/mL (</= 0.5 mcg/Ml) and PTT-LA  38.5 s (normal: 29–45).",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_27",
+      "text": "gative PAT screen (29.1), negative REF screen (34.8),  D-dimer 3.64 mcg/mL (</= 0.5 mcg/Ml) and PTT-LA  38.5 s (normal: 29–45). Immunology tests revealed neg­ ative cANCA (< 2RU/mL) and pANCA (< 2RU/mL),  C-reactive protein 68.6 mg/L (normal: </=5 mg/L), car­ diolipin IgG 2.7 CU (normal: </=20), cardiolipin IgM  2.5 CU (normal: </=20), and DNA Ab < 9.8 IU/mL (nor­ mal:</=26), ENA screen < 3.6 CU (normal: </=20) and  negative syphilis TP screen.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_28",
+      "text": "(normal: </=20), and DNA Ab < 9.8 IU/mL (nor­ mal:</=26), ENA screen < 3.6 CU (normal: </=20) and  negative syphilis TP screen. On Day 3, Reverse Transcription Polymerase Chain  Reaction (RT-PCR) for dengue turned positive. The IgM  test result for dengue was 1.95 and serotyping was den­ gue virus 2 strain (DENV2). While the patient initially  had a normal platelet count, it began to decrease on day  2, falling below normal on day 3, and then started to rise  again on day 8. Fig.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_29",
+      "text": "l platelet count, it began to decrease on day  2, falling below normal on day 3, and then started to rise  again on day 8. Fig. 4  Susceptibility Weighted Imaging (SWI) revealing bilateral thalamic and parafalcine artefact in keeping with hemosiderin deposition   Fig. 3  Multifocal lesions in bilateral thalami, right temporal lobe, bilateral frontal lobes showing Fluid Attenuated Inversion Recovery Sequence (FLAIR)  hyper intense signal change   Page 4 of 7 Yoosuf et al.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_30",
+      "text": "tal lobes showing Fluid Attenuated Inversion Recovery Sequence (FLAIR)  hyper intense signal change   Page 4 of 7 Yoosuf et al. BMC Neurology          (2025) 25:185  Detailed results came out for CSF encephalopathy  autoimmune/paraneoplastic evaluation (Mayo Clinic  Laboratories, Rochester, Minnesota, USA), and tests  were negative for the following antibodies: AMPA-R Ab  CBA (AMPCC), Amphiphysin Ab (AMPHC), Anti-Glial  Nuclear Ab, Type 1 (AGN1C), Anti-Neuronal Nuclear  Ab, Type 1 (ANN1C), Anti-Neuronal Nuclear Ab, Type 2  (ANN2C), Anti-Neuronal Nuclear Ab, Type 3 (ANN3C),  CASPR2-IgG CBA (CS2CC), CRMP-5-IgG (CRMC),  DPPX Ab CBA (DPPCC), GABA-B-R Ab CBA (GABCC),  GAD65 Ab Assay (GD65C), GFAP IFA (GFAIC), mGluR1  Ab IFA (GL1IC), IgLON5 CBA (IG5CC), LGI1-IgG  CBA (LG1CC), Neurochondrin IFA (NCDIC), NIF IFA  (NIFIC), NMDA-R Ab CBA (NMDCC), Purkinje Cell  Cytoplasmic Ab Type Tr (PCTRC), Type 1 (PCA1C),  Type 2 (PCA2C), PDE10A Ab IFA (PDEIC), Septin-7 IFA  (SP7IC), and TRIM46 Ab IFA (T46IC).",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_31",
+      "text": "c Ab Type Tr (PCTRC), Type 1 (PCA1C),  Type 2 (PCA2C), PDE10A Ab IFA (PDEIC), Septin-7 IFA  (SP7IC), and TRIM46 Ab IFA (T46IC). Serum encephalopathy autoimmune/paraneoplastic  evaluation (Mayo Clinic Laboratories, Rochester, Min­ nesota, USA) was also conducted, and tests were nega­ tive for the following antibodies: Alpha Internexin CBA  (AINCS), AMPA-R Ab IF Titer Assay (AMPIS), Amphi­ physin Immunoblot (AMIBS), ANNA-1 Immunoblot  (AN1BS), ANNA-2 Immunoblot (AN2BS), CRMP-5-IgG  Western Blot (CRMWS), DPPX Ab IFA Titer (DPPTS),  GABA-B-R Ab IF Titer Assay (GABIS), GFAP CBA  (GFACS), GFAP IFA Titer (GFATS), IgLON5 IFA Titer  (IG5TS), mGluR1 Ab CBA (GL1CS), mGluR1 Ab IFA  Titer (GL1TS), NIF Heavy Chain CBA (NFHCS), NIF IFA  Titer (NIFTS), NIF Light Chain CBA (NFLCS), NMDA- R Ab IF Titer Assay (NMDIS), PCA-1 Immunoblot  (PC1BS), PCA-Tr Immunoblot (PCTBS), AGNA-1 Titer  (AGNTS), Amphiphysin Ab Titer (APHTS), ANNA-1  Titer (AN1TS), ANNA-2 Titer (AN2TS), ANNA-3 Titer  (AN3TS), CRMP-5-IgG Titer (CRMTS), Neurochondrin  CBA (NCDCS), Neurochondrin IFA Titer (NCDTS),  PCA-1 Titer (PC1TS), PCA-2 Titer (PC2TS), PCA-Tr  Titer (PCTTS), Septin-7 CBA (SP7CS), Septin-7 IFA  Titer (SP7TS), PDE10A Ab IFA Titer (PDETS), TRIM46  Ab CBA (T46CS), and TRIM46 Ab IFA Titer (T46TS).",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_32",
+      "text": "CBA (SP7CS), Septin-7 IFA  Titer (SP7TS), PDE10A Ab IFA Titer (PDETS), TRIM46  Ab CBA (T46CS), and TRIM46 Ab IFA Titer (T46TS). Serum copper was 116 mcg/dL (normal: 73–129 mcg/ dL) and serum zinc was 31 mcg/dL (normal: 60–106  mcg/dL). Treatment included supportive therapy, fluids, and  deep venous thrombosis prevention. Intracranial angiog­ raphy and venography was unremarkable. During his ICU stay, the patient’s condition gradually  improved and he was transferred to the ward.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_33",
+      "text": "nography was unremarkable. During his ICU stay, the patient’s condition gradually  improved and he was transferred to the ward. A repeat MRI was performed on the 5th day of admis­ sion. The lesions show interval evolution on Fluid  Attenuated Inversion Recovery sequence (FLAIR) and  Susceptibility Weighted Imaging (SWI) imaging (Fig. 5). An electroencephalography (EEG) was performed on  the sixth day of admission in standard 10–20 electrode  placement system with banana montage.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_34",
+      "text": "alography (EEG) was performed on  the sixth day of admission in standard 10–20 electrode  placement system with banana montage. It did not reveal  any epileptiform discharges or active seizures. However,  it did show slowing of the background rhythm continu­ ous in theta range 5–6 Hz, which was consistent with an  encephalopathic pattern (Fig. 6). He regained upper body strength, and he became more  responsive and communicative. However, residual lower  limb weakness persisted (1–2/5 on MRC scale).",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_35",
+      "text": "ength, and he became more  responsive and communicative. However, residual lower  limb weakness persisted (1–2/5 on MRC scale). At the  time of discharge (day 24 of hospital stay) to rehabilita­ tion his Modified Rankin Scale (MRS) score was 4. Fig. 5  Interval evolution on FLAIR and SWI imaging   Page 5 of 7 Yoosuf et al.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_36",
+      "text": "on his Modified Rankin Scale (MRS) score was 4. Fig. 5  Interval evolution on FLAIR and SWI imaging   Page 5 of 7 Yoosuf et al. BMC Neurology          (2025) 25:185  Discussion and conclusions We report a case with two uncommon features of dengue  fever including bilateral thalamic restriction lesions and  being diagnosed in a geographical location where it has  been previously extremely rarely reported.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_37",
+      "text": "ic restriction lesions and  being diagnosed in a geographical location where it has  been previously extremely rarely reported. Dengue fever can present from asymptomatic to severe  multi-organ failure with common findings being fever,  myalgia, retro-orbital pain and thrombocytopenia. Neu­ rological involvement occurs in 0.5–20% of cases and  includes encephalitis, meningitis, strokes (both hemor­ rhagic and ischemic), myositis, rhabdomyolysis, myelitis,  encephalopathy and Guillain-Barré syndrome [3–5].",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_38",
+      "text": "rokes (both hemor­ rhagic and ischemic), myositis, rhabdomyolysis, myelitis,  encephalopathy and Guillain-Barré syndrome [3–5]. The  occurrence of dengue encephalitis is even rarer and is  estimated to be between 0.5% and 6.2% [6, 7]. The neuro- pathogenesis of dengue is thought to involve direct inva­ sion, autoimmune reactions, and metabolic disturbances. Our patient presented with bilateral thalamic diffusion- weighted imaging (DWI) lesions.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_39",
+      "text": "reactions, and metabolic disturbances. Our patient presented with bilateral thalamic diffusion- weighted imaging (DWI) lesions. Few such cases linked  to dengue illness have been previously documented in  the literature. The interpretation of these bilateral tha­ lamic DWI lesions in patients with dengue fever has been  inconsistent and variably reported as dengue-associated  meningoencephalitis or as artery of Percheron stroke  [8–11].",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_40",
+      "text": "as been  inconsistent and variably reported as dengue-associated  meningoencephalitis or as artery of Percheron stroke  [8–11]. In our patient the initial diagnosis was consid­ ered to be possible artery of Percheron infarct. Later with  the evolution of the clinical picture and availability of  new data, the findings met Soares and Puccioni-Sohler’s  diagnostic criteria for dengue encephalitis. These include  fever, altered consciousness, and positive dengue PCR  [12].",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_41",
+      "text": "ler’s  diagnostic criteria for dengue encephalitis. These include  fever, altered consciousness, and positive dengue PCR  [12]. Furthermore, the DWI and ADC imaging continued  to demonstrate similar signal on the MRI 4 days later. In  case of an ischemic lesion, we would expect the signal to  normalize by this time which did not happen in this case.  This can pose a challenging diagnostic dilemma.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_42",
+      "text": "xpect the signal to  normalize by this time which did not happen in this case.  This can pose a challenging diagnostic dilemma. In the documented cases of ischemic stroke-like lesions  linked to dengue illness [8–11], it is not clear whether  those lesions with restriction in diffusion are due to true  ischemia as seen in vascular occlusion or due to edema  as part of dengue encephalitis.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_43",
+      "text": "striction in diffusion are due to true  ischemia as seen in vascular occlusion or due to edema  as part of dengue encephalitis. Post-mortem examination  of two patients with dengue encephalitis with the typical  MRI features of bilateral thalamic DWI positive lesions  showed areas of marked edema, congested dilated cap­ illaries and hemorrhages [13]. This would argue against  typical ischemic infarcts.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_44",
+      "text": "eas of marked edema, congested dilated cap­ illaries and hemorrhages [13]. This would argue against  typical ischemic infarcts. Moreover, the lesions seen  in dengue fever seem to be symmetric bilateral and not  always respecting a vascular territory. In addition, there  is microhemorrhage seen very frequently on the sus­ ceptibility imaging much more frequently than what is  observed in classic vascular infarcts.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_45",
+      "text": "seen very frequently on the sus­ ceptibility imaging much more frequently than what is  observed in classic vascular infarcts. Although dengue is currently extremely rare in our  region, the area is regarded as a potential breeding  ground for Aedes aegypti mosquitoes [14–17]. This is  possibly linked to alterations in temperature, humidity  and precipitation caused by climate change.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_46",
+      "text": "squitoes [14–17]. This is  possibly linked to alterations in temperature, humidity  and precipitation caused by climate change. This pattern  has been seen in a number of places in our neighbour­ ing region where dengue outbreaks have been closely  linked to excessive rainfall [18, 19]. This makes dengue  an emerging infection in regions where it was previously  uncommon. When a patient with dengue presents in  Fig. 6  EEG showing slowing of background rhythm   Page 6 of 7 Yoosuf et al.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_47",
+      "text": "uncommon. When a patient with dengue presents in  Fig. 6  EEG showing slowing of background rhythm   Page 6 of 7 Yoosuf et al. BMC Neurology          (2025) 25:185  such regions, especially with an unusual clinical presen­ tation, it tests the diagnostic skills and clinicians need to  proactively look for it. Our case report has several limitations. We do not  have the CSF dengue PCR result.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_48",
+      "text": "linicians need to  proactively look for it. Our case report has several limitations. We do not  have the CSF dengue PCR result. As dengue is epide­ miologically not among the top differential diagnoses, it  was initially not tested when the LP was performed. Later  with the hemorrhagic manifestations, Crimean-Congo  hemorrhagic fever was considered and Dengue was con­ sidered as a differential.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_49",
+      "text": "the hemorrhagic manifestations, Crimean-Congo  hemorrhagic fever was considered and Dengue was con­ sidered as a differential. Secondly, while it is difficult to  completely exclude aspirin as a contributing factor, the  patient’s clinical deterioration—evidenced by worsen­ ing tachycardia, fever, acidosis, a drop in GCS from 11  to 9, and the appearance of a purpuric rash—aligns more  closely with the natural progression and complications  of dengue encephalitis.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_50",
+      "text": "the appearance of a purpuric rash—aligns more  closely with the natural progression and complications  of dengue encephalitis. Furthermore, while hemorrhagic  changes were observed on the brain MRI, the lack of sig­ nificant hemorrhagic events in other areas, despite aspi­ rin use, suggests that the primary cause of the patient’s  deterioration was related to the dengue pathology rather  than the effects of aspirin. Thirdly, nonstructural protein  1 (NS1) wasn’t done in this case.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_51",
+      "text": "to the dengue pathology rather  than the effects of aspirin. Thirdly, nonstructural protein  1 (NS1) wasn’t done in this case. We acknowledge that  NS1 could have further helped in confirming the diagno­ sis, but we believe the positive IgM, the serotyping and  the low zinc level provides strong support for a recent  dengue infection [20].",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 51,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_52",
+      "text": "e believe the positive IgM, the serotyping and  the low zinc level provides strong support for a recent  dengue infection [20]. Cross-reactivity between dengue  virus and tick-borne encephalitis virus (TBEV) is possible  due to shared epitopes on flavivirus envelope proteins,  leading to diagnostic uncertainty in serological tests [21].  However, TBEV is rare in the Middle East due to the lim­ ited presence of Ixodes tick vectors, making dengue the  primary flavivirus concern in this region.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 52,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_53",
+      "text": "Middle East due to the lim­ ited presence of Ixodes tick vectors, making dengue the  primary flavivirus concern in this region. In our case, RT- PCR confirmed dengue infection with high specificity,  bypassing the limitations of serological cross-reactivity.  While the absence of NS1 antigen testing and TBEV- specific assays are limitations, the clinical, imaging, and  molecular findings strongly support dengue-associated  encephalopathy as the diagnosis.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 53,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_54",
+      "text": "imitations, the clinical, imaging, and  molecular findings strongly support dengue-associated  encephalopathy as the diagnosis. Our patient wasn’t  tested for Japanese encephalitis. While Japanese enceph­ alitis is a concern in certain regions, it is not commonly  encountered in the Middle East, which is why it was not  part of the initial investigation. However, we did conduct  an RT-PCR test for Crimean-Congo hemorrhagic fever,  and the result came back negative.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 54,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_55",
+      "text": "investigation. However, we did conduct  an RT-PCR test for Crimean-Congo hemorrhagic fever,  and the result came back negative. The combination of  normal platelet counts, bilateral cerebral lesions, and  terminal ileo-colitis is rare in dengue fever. However, in  this case, these manifestations are likely linked to dengue  rather than being coincidental.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 55,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_56",
+      "text": "rare in dengue fever. However, in  this case, these manifestations are likely linked to dengue  rather than being coincidental. While platelet levels fluc­ tuate during the disease, the presence of neurological and  gastrointestinal symptoms indicates dengue’s potential to  affect multiple organ systems. In conclusion, this case highlights the need to think  of dengue fever while considering the differential diag­ nosis of bilateral thalamic diffusion restriction areas in  a relevant context.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 56,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_57",
+      "text": "fever while considering the differential diag­ nosis of bilateral thalamic diffusion restriction areas in  a relevant context. Furthermore, it raises the awareness  of the emergence of dengue fever in new geographical  areas possibly due to climate change and new patterns in  rainfall. This case highlights the broader spectrum of sys­ temic involvement in dengue, contributing to our under­ standing of its diverse clinical presentations.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 57,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_58",
+      "text": "roader spectrum of sys­ temic involvement in dengue, contributing to our under­ standing of its diverse clinical presentations. Abbreviations MRI\t \u0007Magnetic Resonance Imaging RT-PCR\t \u0007Reverse Transcription Polymerase Chain Reaction MRC\t \u0007Medical Research Council aPTT\t \u0007activated Partial Thromboplastin Time INR\t \u0007International Normalized Ratio PT\t \u0007Prothrombin Time CT\t \u0007Computerized Tomography ACA\t \u0007Anterior Cerebral Artery ICU\t \u0007Intensive Care Unit LP\t \u0007Lumbar Puncture CSF\t \u0007Cerebrospinal Fluid DENV2\t \u0007Dengue Virus Serotype-2 FLAIR\t \u0007Fluid Attenuated Inversion Recovery Sequence SWI\t \u0007Susceptibility Weighted Imaging MRS\t \u0007Modified Rankin Scale EEG\t \u0007Electroencephalography DWI\t \u0007Diffusion-Weighted Imaging ADC\t \u0007Apparent Diffusion Coefficient NS1\t \u0007Nonstructural protein 1 Author contributions HY, SD and UF prepared the manuscript.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 58,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_59",
+      "text": "ADC\t \u0007Apparent Diffusion Coefficient NS1\t \u0007Nonstructural protein 1 Author contributions HY, SD and UF prepared the manuscript. SD supervised the preparation of the  manuscript. JA contributed critical revisions of the manuscript. ZH interpreted  the radiological imaging. SD and HY critically reviewed the manuscript. All  authors read and approved the final manuscript. Funding Not applicable. Data availability No datasets were generated or analysed during the current study.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 59,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_60",
+      "text": "he final manuscript. Funding Not applicable. Data availability No datasets were generated or analysed during the current study. Declarations Consent to participate Informed consent was obtained from the participant included in the study. Consent to publish The participant has consented to the submission of the case report to the  journal. The authors affirm that human research participant provided informed  consent for publication of the images in Figs. 1, 2, 3, 4, 5 and 6.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 60,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_61",
+      "text": "s affirm that human research participant provided informed  consent for publication of the images in Figs. 1, 2, 3, 4, 5 and 6. Competing interests The authors declare no competing interests. Received: 1 December 2024 / Accepted: 16 April 2025 References 1.\t Dengue: WHO Health Emergency Appeal. 2024. Who.int. Accessed Septem­ ber 23, 2024.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 61,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_62",
+      "text": "024 / Accepted: 16 April 2025 References 1.\t Dengue: WHO Health Emergency Appeal. 2024. Who.int. Accessed Septem­ ber 23, 2024. ​h​t​t​p​s​:​/​/​w​w​w​.​w​h​o​.​i​n​t​/​p​u​b​l​i​c​a​t​i​o​n​s​/​m​/​i​t​e​m​/​d​e​n​g​u​e​-​w​h​o​-​h​e​a​l​t​ h​-​e​m​e​r​g​e​n​c​y​-​a​p​p​e​a​l​-​2​0​2​4 2.\t Dengue increase likely during rainy season: WHO warns. Who.int. Accessed  September 23. 2024.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 62,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_63",
+      "text": "n​c​y​-​a​p​p​e​a​l​-​2​0​2​4 2.\t Dengue increase likely during rainy season: WHO warns. Who.int. Accessed  September 23. 2024. ​h​t​t​p​s​:​/​/​w​w​w​.​w​h​o​.​i​n​t​/​w​e​s​t​e​r​n​p​a​c​i​f​i​c​/​n​e​w​s​/​i​t​e​m​/​1​1​-​0​ 6​-​2​0​1​9​-​d​e​n​g​u​e​-​i​n​c​r​e​a​s​e​-​l​i​k​e​l​y​-​d​u​r​i​n​g​-​r​a​i​n​y​-​s​e​a​s​o​n​-​w​h​o​-​w​a​r​n​s 3.\t Li GH, Ning ZJ, Liu YM, Li XH. Neurological manifestations of dengue infec­ tion. Front Cell Infect Microbiol. 2017;7:449. 4.\t Guzman MG, Martinez E.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 63,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_64",
+      "text": ", Li XH. Neurological manifestations of dengue infec­ tion. Front Cell Infect Microbiol. 2017;7:449. 4.\t Guzman MG, Martinez E. Central and peripheral nervous system manifesta­ tions associated with dengue illness. Viruses. 2024;16(9):1367. Page 7 of 7 Yoosuf et al. BMC Neurology          (2025) 25:185  5.\t Fong SL, Wong KT, Tan CT. Dengue virus infection and neurological manifes­ tations: an update. Brain. 2024;147(3):830–8. 6.\t Guzman MG, Gubler DJ, Izquierdo A, Martinez E, Halstead SB.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 64,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_65",
+      "text": "ological manifes­ tations: an update. Brain. 2024;147(3):830–8. 6.\t Guzman MG, Gubler DJ, Izquierdo A, Martinez E, Halstead SB. Dengue infec­ tion. Nat Reviews Disease Primers. 2016;2(1):1–25. 7.\t Cam BV, Fonsmark L, Hue NB, Phuong NT, Poulsen A, Heegaard ED. Prospec­ tive case-control study of encephalopathy in children with dengue hemor­ rhagic fever. Am J Trop Med Hyg. 2001;65(6):848–51. 8.\t Kumar AS, Mehta S, Singh P, Lal V. Dengue encephalitis: double doughnut  sign. Neurol India. 2017;65(3):670–1.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 65,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_66",
+      "text": "5(6):848–51. 8.\t Kumar AS, Mehta S, Singh P, Lal V. Dengue encephalitis: double doughnut  sign. Neurol India. 2017;65(3):670–1. 9.\t Verma A, Garg P, Mishra AK. A case of artery of percheron infarct caused by  dengue virus encephalitis. Nepal J Neurosci. 2022;19(2):62–3. 10.\t Arora N, Kumar D, Kiran R, Pannu AK. Dengue encephalitis and double  doughnut sign. BMJ Case Rep. 2021;14(7):e244870. 11.\t Hirata K, Chiba T, Gomi H, Takaya S, Kato Y, Shiga T.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 66,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_67",
+      "text": "halitis and double  doughnut sign. BMJ Case Rep. 2021;14(7):e244870. 11.\t Hirata K, Chiba T, Gomi H, Takaya S, Kato Y, Shiga T. Diagnostic challenges in  a patient with dengue shock syndrome presenting with acute meningoen­ cephalitis. IDCases. 2024;36(e01964):e01964. 12.\t Soares C, Puccioni-Sohler M. Diagnosis criteria of dengue encephalitis. Arq  Neuropsiquiatr. 2014;72(3):263. 13.\t Soni BK, Das DSR, George RA, Aggarwal R, Sivasankar R.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 67,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_68",
+      "text": "iteria of dengue encephalitis. Arq  Neuropsiquiatr. 2014;72(3):263. 13.\t Soni BK, Das DSR, George RA, Aggarwal R, Sivasankar R. MRI features in den­ gue encephalitis: A case series in South Indian tertiary care hospital. Indian J  Radiol Imaging. 2017;27(2):125–8. 14.\t Ducheyne E, Tran Minh NN, Haddad N et al. Current and future distribution  of Aedes aegypti and Aedes albopictus (Diptera: Culicidae) in WHO Eastern  mediterranean region. Int J Health Geogr. 2018;17(1). 15.\t Zyoud SE.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 68,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_69",
+      "text": "and Aedes albopictus (Diptera: Culicidae) in WHO Eastern  mediterranean region. Int J Health Geogr. 2018;17(1). 15.\t Zyoud SE. Dengue research: a bibliometric analysis of worldwide and Arab  publications during 1872–2015. Virol J. 2016;13:1–10. 16.\t Christian T, Mohamud SH, Nicolaas N. The first confirmed case of imported  dengue fever in the United Arab Emirates: clinical, public health, and epide­ miological aspects. Emirates Med J. 2007;25(1):61–4.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 69,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_70",
+      "text": "gue fever in the United Arab Emirates: clinical, public health, and epide­ miological aspects. Emirates Med J. 2007;25(1):61–4. ​h​t​t​p​s​:​/​/​p​e​s​q​u​i​s​a​.​b​v​s​a​l​u​d​ .​o​r​g​/​p​o​r​t​a​l​/​r​e​s​o​u​r​c​e​/​p​t​/​e​m​r​-​9​4​0​7​4 17.\t Pai SA, Saxena AK. Dengue maculopathy: A rare retinopathy in the united  Arab Emirates. Hamdan Med J. 2020;13(1):52–4. 18.\t El-Hefni A. Recent outbreaks of dengue fever in the WHO Eastern mediterra­ nean region: A narrative mini-review. J Afr Nile Basin Res Stud.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 70,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_71",
+      "text": "Recent outbreaks of dengue fever in the WHO Eastern mediterra­ nean region: A narrative mini-review. J Afr Nile Basin Res Stud. 2020;1(2):224– 41. ​h​t​t​p​s​:​/​/​m​b​d​d​n​.​j​o​u​r​n​a​l​s​.​e​k​b​.​e​g​/​a​r​t​i​c​l​e​_​1​8​1​8​0​6​.​h​t​m​l 19.\t Dafalla O, Abdulhaq AA, Almutairi H, Noureldin E, Ghzwani J, Mashi O,  Shrwani KJ, Hobani Y, Sufyani O, Ayed R, Alamri A. The emergence of an  imported variant of dengue virus serotype 2 in the Jazan region, southwest­ ern Saudi Arabia.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 71,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_72",
+      "text": "R, Alamri A. The emergence of an  imported variant of dengue virus serotype 2 in the Jazan region, southwest­ ern Saudi Arabia. Tropical diseases, travel medicine and vaccines. 2023;9(1):5. 20.\t Poojary T, Sudha K, Sowndarya K, Kumarachandra R, Durgarao Y. Biochemical  role of zinc in dengue fever. J Nat Sci Biology Med. 2021;12(2):131–4. 21.\t Chan KR, Ismail AA, Thergarajan G, Raju CS, Yam HC, Rishya M, Sekaran SD.  Serological cross-reactivity among common flaviviruses. Front Cell Infect  Microbiol.",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 72,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_73",
+      "text": ", Raju CS, Yam HC, Rishya M, Sekaran SD.  Serological cross-reactivity among common flaviviruses. Front Cell Infect  Microbiol. 2022;12:975398. Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in  published maps and institutional affiliations. .",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 73,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "a019005c06c4_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report_p1_img1_8b40d9fa.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_img_1",
+      "text": "Image: ). The patient was diagnosed",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report_p2_img1_7d7f14af.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_img_2",
+      "text": "Image: Diffusion weighted imaging (DWI) and Apparent Diffusion Cofficient (ADC map) showing areas of diffusion restriction within these lesions as",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report_p2_img2_8cae350c.png",
+        "clinical_relevance": "clinical_finding",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report_p3_img1_bd4bdd58.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 3
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report_p3_img2_d53bdfa9.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 3
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report_p4_img1_08adfe2d.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 4
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report_p5_img1_4af87fa7.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 5
+      }
+    },
+    {
+      "chunk_id": "a019005c06c4_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "a019005c06c4",
+        "filename": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 7,
+        "processed_date": "2025-09-27T23:12:47.182816",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue fever with bilateral thalamic diffusion restriction lesions a case report_p6_img1_8784e375.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 6
+      }
+    }
+  ],
+  "total_chunks": 82
+}

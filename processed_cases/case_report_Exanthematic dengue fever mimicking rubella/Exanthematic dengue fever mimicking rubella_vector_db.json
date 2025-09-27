@@ -1,0 +1,558 @@
+{
+  "document_id": "dbc006549067",
+  "document_type": "case_report",
+  "type_confidence": 0.25,
+  "document_metadata": {
+    "doc_id": "dbc006549067",
+    "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.25,
+    "pages": 3,
+    "processed_date": "2025-09-27T23:12:52.366916",
+    "has_images": true,
+    "image_count": 5
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 42,
+      "gender": "male"
+    },
+    "timeline": {},
+    "clinical_findings": {},
+    "diagnostics": {
+      "primary_diagnosis": "of\n rashes,\n even\n though\nthe\n patient\n does\n not\n present\n classic\n symptoms,\n such\n as\n fever\nor\n orbital\n pain"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "recovered"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "dbc006549067_0",
+      "text": "Male  patient,  in the  second  episode  of  dengue  fever,  presented  afebrile,  with  diffuse  morbilliform  rash  and craniocaudal  progression,  having  subsequently  affected  his  palms  and  soles.  On  the  third  day  of clinical  evolution,  serologies  did  not  indicate  IgM,  IgG,  or  NS1,  but  on  the  sixth  day  of  evolution, IgM  and  IgG  were  reactive  for  dengue  fever.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_1",
+      "text": "ot  indicate  IgM,  IgG,  or  NS1,  but  on  the  sixth  day  of  evolution, IgM  and  IgG  were  reactive  for  dengue  fever.  Previous  episodes  of  dengue  are  a  risk  factor  for  the development  of  more  severe  conditions,  but  this  was  atypical  because  the  patient  was  afebrile and  had  a  rubelliform  rash.  The  case  also  illustrates  an  early  IgG  anamnestic  response,  as  it was  a  reinfection. ©  2021  Sociedade  Brasileira  de  Dermatologia.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_2",
+      "text": "lustrates  an  early  IgG  anamnestic  response,  as  it was  a  reinfection. ©  2021  Sociedade  Brasileira  de  Dermatologia.  Published  by  Elsevier  Espa˜na,  S.L.U.  This  is  an open  access  article  under  the  CC  BY  license  (http://creativecommons.org/licenses/by/4.0/).",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_3",
+      "text": "pa˜na,  S.L.U.  This  is  an open  access  article  under  the  CC  BY  license  (http://creativecommons.org/licenses/by/4.0/). Introduction Dengue  fever  is  a  systemic  infectious  disease  transmitted by  mosquitoes  of  the  genus  Aedes,  caused  by  the  dengue virus,  which  presents  with  ﬁve  serotypes  (serotypes  1  to 4  are  observed  worldwide  and  serotype  5  has  been  iden- tiﬁed  in  India).1 Infection  by  one  of  the  serotypes  does not  confer  immunity  against  the  others.1 Risk  factors  for the  development  of  severe  dengue  conditions  include:  pre- vious  episode  of  dengue,  advanced  age,  and  presence  of comorbidities.2---4 \u0002 How  to  cite  this  article:  Palhares  D.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_4",
+      "text": "ious  episode  of  dengue,  advanced  age,  and  presence  of comorbidities.2---4 \u0002 How  to  cite  this  article:  Palhares  D.  Exanthematic  dengue  fever mimicking  rubella.  An  Bras  Dermatol.  2021;96:88---90. \u0002\u0002 Study  conducted  at  the  Pivate  Clinic,  Brasília,  DF,  Brazil. E-mail:  dariompm@unb.br  (D.  Palhares).",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_5",
+      "text": "21;96:88---90. \u0002\u0002 Study  conducted  at  the  Pivate  Clinic,  Brasília,  DF,  Brazil. E-mail:  dariompm@unb.br  (D.  Palhares). Case report A  42-year-old  male  patient,  previously  vaccinated  for  hep- atitis  A  and  B,  had  had  ﬁrst  dengue  infection  15  years earlier,  with  a  febrile  presentation  and  positive  IgM  serol- ogy.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_6",
+      "text": "and  B,  had  had  ﬁrst  dengue  infection  15  years earlier,  with  a  febrile  presentation  and  positive  IgM  serol- ogy.  He  reported  that  two  days  before  presenting  to  this service,  small  papules  appeared  on  the  trunk,  but  that morning  his  body  presented  a  rubelliform  rash  (Figs.  1---3) affecting  from  neck  to  knees  and  elbows,  but  sparing the  face.  He  complained  of  asthenia  but  denied  fever.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_7",
+      "text": "--3) affecting  from  neck  to  knees  and  elbows,  but  sparing the  face.  He  complained  of  asthenia  but  denied  fever. The  general  physical  examination  showed  no  abnormalities other  than  the  rash,  not  even  palpable  nodes.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_8",
+      "text": "ied  fever. The  general  physical  examination  showed  no  abnormalities other  than  the  rash,  not  even  palpable  nodes.  Complemen- tary  exams  on  arrival  were  as  follows:  blood  count  with hemoglobin,  15.4  g/dL;  platelets,  170,000/mL;  leukocytes, 4,020  mL  (segmented  39%,  eosinophils  3%,  basophils  1%,  lym- phocytes  35%,  monocytes  22%);  IgM,  IgG,  and  NS1  were https://doi.org/10.1016/j.abd.2020.06.006 0365-0596/©  2021  Sociedade  Brasileira  de  Dermatologia.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_9",
+      "text": "gM,  IgG,  and  NS1  were https://doi.org/10.1016/j.abd.2020.06.006 0365-0596/©  2021  Sociedade  Brasileira  de  Dermatologia.  Published  by  Elsevier  Espa˜na,  S.L.U.  This  is  an  open  access  article  under  the  CC BY  license  (http://creativecommons.org/licenses/by/4.0/). Anais  Brasileiros  de  Dermatologia  96  (2021)  88---90 Figure  1   Detail  of  the  rash.  Overview  of  the  rash. Figure  2   Overview  of  the  rash.  Rubelliform  rash,  on  the  third day  of  clinical  evolution.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_10",
+      "text": "Overview  of  the  rash. Figure  2   Overview  of  the  rash.  Rubelliform  rash,  on  the  third day  of  clinical  evolution.  The  right  axillary  region  was  spared. negative  for  dengue  fever;  transaminases,  bilirubin,  and muscle  enzymes  were  normal.  The  rash  progressed  two  more days,  affecting  his  palms  and  soles.  The  patient  reported some  diarrheal  episodes,  and  denied  fever.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_11",
+      "text": "ed  two  more days,  affecting  his  palms  and  soles.  The  patient  reported some  diarrheal  episodes,  and  denied  fever.  On  the  sixth day  of  evolution,  the  rash  started  to  disappear,  and  the Figure  3   Third  day  of  clinical  evolution,  left  side  of  the  body: the  axillary  region  was  affected.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_12",
+      "text": "r,  and  the Figure  3   Third  day  of  clinical  evolution,  left  side  of  the  body: the  axillary  region  was  affected. exams  showed  the  following:  hemogram  with  hemoglobin, 15.8  g/dL;  platelets,  148,000/mL;  and  leukocytes,  4,910  mL (segmented  20%,  eosinophils  5%,  lymphocytes  59%,  atypi- cal  lymphocytes  6%,  monocytes  10%).  Serologies:  immune pattern  for  toxoplasmosis,  cytomegalovirus,  measles,  her- pes  simplex,  and  Epstein-Barr  virus.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_13",
+      "text": ").  Serologies:  immune pattern  for  toxoplasmosis,  cytomegalovirus,  measles,  her- pes  simplex,  and  Epstein-Barr  virus.  Non-reactive  for  HIV, syphilis,  Zika  virus,  chikungunya,  borreliosis,  and  rubella. IgG  and  IgM  were  positive  for  dengue  fever.  Total  IgE  was 713.8  IU/mL.  The  patient  recovered  completely  and  was revaccinated  for  rubella.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_14",
+      "text": "for  dengue  fever.  Total  IgE  was 713.8  IU/mL.  The  patient  recovered  completely  and  was revaccinated  for  rubella. This  case  is  unusual  because  it  was  a  second  episode  of dengue,  with  afebrile  presentation  and  mimicking  rubella, with  cranio-caudal  progression  of  rubelliform  rash.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_15",
+      "text": "de  of dengue,  with  afebrile  presentation  and  mimicking  rubella, with  cranio-caudal  progression  of  rubelliform  rash.  Over  the years,  IgG  titers  against  dengue  fever  tend  to  fall  and  even- tually  become  negative,  and  lower  IgG  titers  are  a  protective factor  against  severe  forms  of  dengue.5 However,  in  the  case of  a  second  infection,  there  is  an  anamnestic  response,  with early  onset  of  IgG,  and  it  is  possible  that  an  eventual  third episode  of  dengue  in  this  patient  will  be  more  severe.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_16",
+      "text": "set  of  IgG,  and  it  is  possible  that  an  eventual  third episode  of  dengue  in  this  patient  will  be  more  severe.  The NS1  antigen  has  a  sensitivity  of  approximately  85%  and  tends 89 D.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_17",
+      "text": "ue  in  this  patient  will  be  more  severe.  The NS1  antigen  has  a  sensitivity  of  approximately  85%  and  tends 89 D.  Palhares to  be  lower  in  second  episodes  of  dengue,  i.e.,  in  clinical practice  a  relatively  considerable  proportion  of  patients  will not  be  diagnosed  in  the  initial  stage  of  the  disease.6 It  is  pos- sible  that  the  patient’s  allergies  have  inﬂuenced  the  clinical presentation,  with  a  rash  that  is  not  the  classically  described for  dengue.7 Since  the  rash  was  spontaneously  and  quickly  resolved, biopsies  were  not  performed,  as  would  be  recommended if  the  rash  became  chronic.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_18",
+      "text": "ntaneously  and  quickly  resolved, biopsies  were  not  performed,  as  would  be  recommended if  the  rash  became  chronic.  However,  in  this  case,  the blood  count  proved  to  be  useful  for  clinical  management, as  it  showed  a  typically  viral  pattern,  even  regarding atypical  lymphocytes  related  to  various  diseases,  including dengue  fever  and  rubella.8---10 In  conclusion,  the  relationship between  parasites  and  hosts  is  complex,  and  dengue  should be  part  of  the  differential  diagnosis  of  rashes,  even  though the  patient  does  not  present  classic  symptoms,  such  as  fever or  orbital  pain.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_19",
+      "text": "diagnosis  of  rashes,  even  though the  patient  does  not  present  classic  symptoms,  such  as  fever or  orbital  pain.  Furthermore,  in  the  emergency  room  setting, the  complete  blood  count,  an  exam  usually  ready  in  a  few hours,  can  assist  in  the  clinical  decision. Financial  support None  declared.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_20",
+      "text": "unt,  an  exam  usually  ready  in  a  few hours,  can  assist  in  the  clinical  decision. Financial  support None  declared. Authors’ contributions Dario  Palhares:  Approval  of  the  ﬁnal  version  of  the manuscript;  design  and  planning  of  the  study;  drafting  and editing  of  the  manuscript;  collection,  analysis,  and  inter- pretation  of  data;  critical  review  of  the  literature;  critical review  of  the  manuscript. Conﬂicts  of interest None  declared. References 1.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_21",
+      "text": "itical  review  of  the  literature;  critical review  of  the  manuscript. Conﬂicts  of interest None  declared. References 1.  Mustafa  M,  Rasotgi  V,  Jain  C,  Gupta  V.  Discovery  of  ﬁfth  serotype of  dengue  virus  (DENV-5).  A  new  public  health  dilemma  in dengue  control.  Med  J  Armed  Forces  India.  2015;71:67---70. 2.  Ubol  S,  Phuklia  W,  Kalayanarooj  S,  Modhiran  N.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_22",
+      "text": "in dengue  control.  Med  J  Armed  Forces  India.  2015;71:67---70. 2.  Ubol  S,  Phuklia  W,  Kalayanarooj  S,  Modhiran  N.  Mechanisms  of immune  evasion  induced  by  a  complex  of  dengue  virus  and  pre- existing  enhancing  antibodies.  J  Infect  Dis.  2010;201:923---34. 3.  Pinto  R,  Castro  D,  Albuquerque  B,  Sampaio  V,  Passos  R,  Costa C,  et  al.  Mortality  predictors  in  patients  with  severe  dengue  in the  State  of  Amazonas,  Brazil.  Plos  One.  2016;11:e0161844. 4.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_23",
+      "text": "tality  predictors  in  patients  with  severe  dengue  in the  State  of  Amazonas,  Brazil.  Plos  One.  2016;11:e0161844. 4.  Sangkhawibha  N,  Rojanasuphot  S,  Ahandrik  S,  Viriyapongse  S, Jatanansen  S,  Salitul  V,  et  al.  Risk  factors  in  dengue  shock  syn- drome.  Am  J  Epidemiol.  1984;120:653---69. 5.  Guzman  M,  Alvarez  M,  Rodriguez-Roche  R,  Bernardo  L,  Montes T,  Vazquez  S,  et  al.  Neutralizing  antibodies  after  infection  with dengue  1  virus.  Emerg  Infect  Dis.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_24",
+      "text": "o  L,  Montes T,  Vazquez  S,  et  al.  Neutralizing  antibodies  after  infection  with dengue  1  virus.  Emerg  Infect  Dis.  2007;13,  282-6. 6.  Lima  M,  Nogueira  R,  Schatzmayr  H,  Santos  F.  Comparison of  three  commercially  available  dengue  NS1  antigen  capture assays  for  acute  diagnosis  of  dengue  in  Brazil.  Plos  Neglect  Trop D.  2010;4:e738. 7.  Tomas  E,  John  M,  Kanish  B.  Mucocutaneous  manifestations  of dengue  fever.  Indian  J  Dermatol.  2010;55:79---85. 8.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_25",
+      "text": ".  Tomas  E,  John  M,  Kanish  B.  Mucocutaneous  manifestations  of dengue  fever.  Indian  J  Dermatol.  2010;55:79---85. 8.  Silva  W,  Palhares  D.  Plasmocytes  in  peripheral  blood  in  the  diag- nosis  of  dengue.  Brasília  Médica.  2010;47:361---3. 9.  Costa-Silva  M,  Sobrinho-Simões  J,  Azevedo  F,  Lisboa  C.  Concur- rent  reactivation  of  varicella-zoster  virus  and  herpes  simplex virus  in  an  immunocompetent  elderly  male.  An  Bras  Dermatol. 2019;94:762---3. 10.",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_26",
+      "text": "la-zoster  virus  and  herpes  simplex virus  in  an  immunocompetent  elderly  male.  An  Bras  Dermatol. 2019;94:762---3. 10.  Arandes-Marcocci   J,   Iglesias-Sancho   M,   Setó-Torrent   N, Fernández-Figuera  MT.  Erythroderma  as  a  ﬁrst  manifestation  of squamous  cell  lung  cancer:  rare  case  report.  An  Bras  Dermatol. 2020;95:67---70. 90 .",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "dbc006549067_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_type": "image",
+        "image_path": "Exanthematic dengue fever mimicking rubella_p1_img1_c3b0049e.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_type": "image",
+        "image_path": "Exanthematic dengue fever mimicking rubella_p1_img2_7dcbaa62.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_img_1",
+      "text": "Image: Detail",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_type": "image",
+        "image_path": "Exanthematic dengue fever mimicking rubella_p2_img1_18317ec4.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_img_2",
+      "text": "Image: Overview",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_type": "image",
+        "image_path": "Exanthematic dengue fever mimicking rubella_p2_img2_7c66e94f.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "dbc006549067_img_3",
+      "text": "Image: Third",
+      "metadata": {
+        "doc_id": "dbc006549067",
+        "filename": "Exanthematic dengue fever mimicking rubella.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:52.366916",
+        "has_images": true,
+        "image_count": 5,
+        "chunk_type": "image",
+        "image_path": "Exanthematic dengue fever mimicking rubella_p2_img3_923f2014.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    }
+  ],
+  "total_chunks": 32
+}

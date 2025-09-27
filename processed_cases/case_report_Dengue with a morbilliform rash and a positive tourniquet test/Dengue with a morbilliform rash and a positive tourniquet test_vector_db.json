@@ -1,0 +1,422 @@
+{
+  "document_id": "8ffdcdc70659",
+  "document_type": "case_report",
+  "type_confidence": 0.25,
+  "document_metadata": {
+    "doc_id": "8ffdcdc70659",
+    "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.25,
+    "pages": 2,
+    "processed_date": "2025-09-27T23:12:50.694565",
+    "has_images": true,
+    "image_count": 1
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 28,
+      "gender": "woman"
+    },
+    "timeline": {},
+    "clinical_findings": {},
+    "diagnostics": {
+      "primary_diagnosis": "of dengue, the tourni-\nquet test is specific but not sensitive"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "died"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "8ffdcdc70659_0",
+      "text": "CASE REPORT Dengue with a morbilliform rash and a positive tourniquet test Henry M. Feder, Jr, MD,a,b Matthew Plucinski, MD,a and Diane M. Hoss, MDc Farmington, Connecticut INTRODUCTION Dengue is a mosquito-borne viral infection that should be considered in any traveler returning from the tropics or subtropics presenting with fever and rash.1 CASE REPORT A 28-year-old Connecticut woman had fever and rash 3 days after returning from the Dominican Republic.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_1",
+      "text": "r and rash.1 CASE REPORT A 28-year-old Connecticut woman had fever and rash 3 days after returning from the Dominican Republic. During her trip, she ate the food, drank the water, and suffered many mosquito bites. The rash involved her neck, chest, and extremities. Accompanying the rash, she had chills, fever, headache, and malaise. She had no arthralgias, myalgias, or diarrhea. During child- hood, she immigrated to the United States from the Dominican Republic.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_2",
+      "text": "had no arthralgias, myalgias, or diarrhea. During child- hood, she immigrated to the United States from the Dominican Republic. Routine immunizations were up to date including 2 measles, mumps, and rubella vaccinations. She had no pretravel medical visit. She was seen on day 4 of her illness. She was in no distress and had a morbilliform rash on her head, neck, trunk, and extremities. Her hemoglobin level was 14.8 g/dL, white blood cell count was 4,200/ mm3, and platelet count was 133,000/UL.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_3",
+      "text": "and extremities. Her hemoglobin level was 14.8 g/dL, white blood cell count was 4,200/ mm3, and platelet count was 133,000/UL. Results of a malaria thin smear were negative. During our patient’s visit to the Dominican Republic, there was a dengue outbreak. This information prompted the resident to do the tourniquet test, which was positive (Fig 1). The illness was mild, and only acetaminophen was recommended.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_4",
+      "text": "e resident to do the tourniquet test, which was positive (Fig 1). The illness was mild, and only acetaminophen was recommended. The patient’s rash, headache, chills, and malaise resolved spontaneously over the next week and she remained well. Dengue was confirmed serologically—acute dengue serology was IgM positive, and there was a greater than 4-fold increase between acute and convalescent IgG antibodies.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_5",
+      "text": "e dengue serology was IgM positive, and there was a greater than 4-fold increase between acute and convalescent IgG antibodies. DISCUSSION The big 3 infections associated with travel to the developing world are dengue, malaria, and typhoid. Recently, chikungunya (which is frequently associ- ated with severe arthralgias) and Zika (which is frequently associated with conjunctivitis and pruri- tus) have become common in the tropical and subtropical Americas.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_6",
+      "text": "which is frequently associated with conjunctivitis and pruri- tus) have become common in the tropical and subtropical Americas. All 5 may be associated with leukopenia and thrombocytopenia.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_7",
+      "text": "tus) have become common in the tropical and subtropical Americas. All 5 may be associated with leukopenia and thrombocytopenia. About 25% of patients with dengue have a morbilliform rash versus 40% to 90% of patients with chikungunya or Zika.1-7 According to the Centers for Disease Control and Prevention, dengue fever is most commonly an acute febrile illness deﬁned by the presence of fever and 2 or more of the following: (1) retro-orbital or ocular pain, (2) headache, (3) rash, (4) myalgias, (4) arthralgias, (5) leukopenia, or (6) a positive tourni- quet test or hemorrhagic ﬁndings.5 A tourniquet test (which is easily performed by inflating the blood pressure cuff halfway between the systolic and diastolic pressures for 5 minutes), if positive, would make dengue very likely and if negative would not be helpful.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_8",
+      "text": "stolic and diastolic pressures for 5 minutes), if positive, would make dengue very likely and if negative would not be helpful. For the diagnosis of dengue, the tourni- quet test is specific but not sensitive. The tourniquet test is not part of the case definition for other tropical infections. In studies performed in Vientiane Capital,8 Puerto Rico,9 and Peru,10 the tourniquet test was used for the diagnosis of dengue with specificities of 82% to 94% and sensitivities of 34% to 54%.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_9",
+      "text": "u,10 the tourniquet test was used for the diagnosis of dengue with specificities of 82% to 94% and sensitivities of 34% to 54%. These studies8-10 were performed before the outbreaks of chikungu- nya and Zika. Thus, the tourniquet test has not been studied in patients with chikungunya and Zika infections. It is unknown why the tourniquet test is positive in patients with dengue versus other infections.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_10",
+      "text": "ungunya and Zika infections. It is unknown why the tourniquet test is positive in patients with dengue versus other infections. The clinical diagnosis of dengue can be conﬁrmed by reverse-transcriptase polymerase chain reaction, From the Departments of Family Medicinea and Pediatrics,b University of Connecticut Health Center and Vivid Dermatology.c Funding sources: None. Conflicts of interest: None declared. Correspondence to: Henry M.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_11",
+      "text": "Health Center and Vivid Dermatology.c Funding sources: None. Conflicts of interest: None declared. Correspondence to: Henry M. Feder, Jr, MD, University of Connecticut Medical Center, 263 Farmington Ave, Farmington, CT 06030. E-mail: feder@uchc.edu. JAAD Case Reports 2016;2:422-3. 2352-5126 \u0001 2016 by the American Academy of Dermatology, Inc. Published by Elsevier, Inc. This is an open access article under the CC BY- NC-ND license (http://creativecommons.org/licenses/by-nc-nd/ 4.0/).",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_12",
+      "text": "evier, Inc. This is an open access article under the CC BY- NC-ND license (http://creativecommons.org/licenses/by-nc-nd/ 4.0/). http://dx.doi.org/10.1016/j.jdcr.2016.07.010 422 by detecting the dengue nonstructural protein, and serologically. During the ﬁrst week of illness (during viremia), the polymerase chain reaction or the nonstructural protein should be positive.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_13",
+      "text": "uring the ﬁrst week of illness (during viremia), the polymerase chain reaction or the nonstructural protein should be positive. The IgM antibody may be present during the ﬁrst week of illness and is usually positive in the second week.4,5 Each year, more than 50 million cases of dengue occur in more than 100 countries. There are 4 dengue virus serotypes (types 1e4). The primary vector is the Aedes aegypti mosquito, which has adapted to the urban environment in the developing world.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_14",
+      "text": "pes 1e4). The primary vector is the Aedes aegypti mosquito, which has adapted to the urban environment in the developing world. Most cases of dengue are asymptomatic. Symptomatic disease occurs 3 to 7 days after a mosquito bite and is usually characterized by fever and headache. Dengue lasts for a week or less, and patients then usually recover without sequelae. An infection with one serotype protects from re-infection with that serotype but not the other 3 serotypes.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_15",
+      "text": "r without sequelae. An infection with one serotype protects from re-infection with that serotype but not the other 3 serotypes. A second infection with a new serotype may predispose to more severe disease.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_16",
+      "text": "with that serotype but not the other 3 serotypes. A second infection with a new serotype may predispose to more severe disease. Severe dengue (the terms dengue hemorrhagic fever and dengue shock syndrome are no longer preferred) is characterized by (1) plasma leakage with shock or respiratory distress caused by fluid, (2) severe bleeding, and (3) severe multiorgan dysfunction.1-5 No vaccines are available to prevent a dengue infection (tetravalent live-attenuated vaccines are in development).",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_17",
+      "text": "function.1-5 No vaccines are available to prevent a dengue infection (tetravalent live-attenuated vaccines are in development). The Aedes mosquitoes are daytime feeders, and applying a 20% to 30% DEET-containing insect repellent effectively deters these mosquitoes for 8 hours.11 Also, aspirin and other thrombocyte aggregation inhibitors are best avoided for patients with possible dengue, as these drugs may increase bleeding complications.4,5 REFERENCES 1. Simmons CP, Farrar JJ, van Vinh Chau N, Wills B.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_18",
+      "text": "e dengue, as these drugs may increase bleeding complications.4,5 REFERENCES 1. Simmons CP, Farrar JJ, van Vinh Chau N, Wills B. Dengue. N Engl J Med. 2012;366:1423-1432. 2. Spira AM. Assessment of travellers who return home ill. Lancet. 2003;361:1459-1469. 3. Feder HM Jr, Mansilla-Rivera K. Fever in returning travelers: a case-based approach. Am Fam Physician. 2013;88:524-530. 4. Dengue: Guidelines for diagnosis, treatment, prevention and control. Geneva, Switzerland: World Health Organization; 2009. 5.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_19",
+      "text": ". Dengue: Guidelines for diagnosis, treatment, prevention and control. Geneva, Switzerland: World Health Organization; 2009. 5. Centers for Disease Control and Prevention. Dengue. Available at: http://www.cdc.gov/dengue/index.html. Accessed October 7, 2016. 6. Bandyopadhaya D, Ghosh SK. Mucocutaneous manifestations of chikungunya fever. Indian J Dermatol. 2010;55:64-67. 7. Petersen LR, Jamieson DJ, Powers AM, Honein MA. Zika virus. N Engl J Med. 2016;374:1552-1563. 8.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_20",
+      "text": "J Dermatol. 2010;55:64-67. 7. Petersen LR, Jamieson DJ, Powers AM, Honein MA. Zika virus. N Engl J Med. 2016;374:1552-1563. 8. Mayxay M, Phetsouvanh R, Moore CE, et al. Predictive diagnostic value of the tourniquet test for the diagnosis of dengue infection in adults. Trop Med Int Health. 2010;16: 127-133. 9. Gregory CJ, Lorenzi OD, Colon L, et al. Utility of the tourniquet test and white blood cell count to differentiate dengue among acute febrile illnesses in the emergency room. PLoS Negl Trop Dis.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_21",
+      "text": "est and white blood cell count to differentiate dengue among acute febrile illnesses in the emergency room. PLoS Negl Trop Dis. 2011;5:e1400. 10. Halsey ES, Vicarromero S, Forshey BM, et al. Performance of the tourniquet test for diagnosing dengue in Peru. Am J Trop Med Hyg. 2013;89:99-104. 11. Fradin MS, Day JF. Comparative efficacy of insect repellents against mosquito bites. N Engl J med. 2002;347:13-18. Fig 1.",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8ffdcdc70659_22",
+      "text": ". 11. Fradin MS, Day JF. Comparative efficacy of insect repellents against mosquito bites. N Engl J med. 2002;347:13-18. Fig 1. The tourniquet test is done by inﬂating the blood pressure cuff, halfway between the systolic and diastolic pressures, for 5 minutes. A petechial rash below the cuff (as occurred in our patient’s left antecubital fossa) deﬁnes a positive test. A morbilliform eruption can be seen on the arms and chest. JAAD CASE REPORTS VOLUME 2, NUMBER 5 Feder, Plucinski, and Hoss 423 .",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "8ffdcdc70659_img_1",
+      "text": "Image: The tourniquet test is done by inﬂating the blood",
+      "metadata": {
+        "doc_id": "8ffdcdc70659",
+        "filename": "Dengue with a morbilliform rash and a positive tourniquet test.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:50.694565",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_type": "image",
+        "image_path": "Dengue with a morbilliform rash and a positive tourniquet test_p2_img1_57351c8e.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    }
+  ],
+  "total_chunks": 24
+}

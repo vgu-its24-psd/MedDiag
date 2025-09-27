@@ -1,0 +1,1372 @@
+{
+  "document_id": "8c648624fc14",
+  "document_type": "case_report",
+  "type_confidence": 0.45,
+  "document_metadata": {
+    "doc_id": "8c648624fc14",
+    "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.45,
+    "pages": 5,
+    "processed_date": "2025-09-27T23:12:48.416460",
+    "has_images": true,
+    "image_count": 3
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 53,
+      "gender": "male"
+    },
+    "timeline": {
+      "illness_day": 5
+    },
+    "clinical_findings": {},
+    "diagnostics": {
+      "primary_diagnosis": "of DHF\ncomplicated with liver involvement was made"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "8c648624fc14_0",
+      "text": "CASE REPORT Open Access Dengue hemorrhagic fever complicated with acute liver failure: a case report Chamara Dalugama* and Indika Bandara Gawarammana Abstract Background: Dengue is a common arboviral infection with a clinically diverse spectrum of presentations. Although hepatic dysfunction is commonly identified in patients will dengue illness, acute liver failure is rare.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_1",
+      "text": "resentations. Although hepatic dysfunction is commonly identified in patients will dengue illness, acute liver failure is rare. The etiopathogenesis of hepatic dysfunction is multifactorial and related to direct viral invasion of hepatocytes, immunological factors and hypoxia particularly in cases of shock in dengue hemorrhagic fever. Ideal management of dengue-related hepatic dysfunction and acute liver failure is still debated.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_2",
+      "text": "k in dengue hemorrhagic fever. Ideal management of dengue-related hepatic dysfunction and acute liver failure is still debated. Case presentation: We report a 53-year-old Sri Lankan Sinhalese male with serologically confirmed dengue fever presenting with evidence of plasma leakage developing acute liver failure evidenced by deranged liver functions, coagulopathy and altered sensorium.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_3",
+      "text": "nce of plasma leakage developing acute liver failure evidenced by deranged liver functions, coagulopathy and altered sensorium. In addition to the ‘standard care’, the patient was managed with intravenous N- acetyl cysteine and blood transfusions even in the absence of bleeding or dropping packed cell volume (PCV), targeting a higher PCV in anticipation of better oxygenation at tissue level. He made a full recovery with no sequential infections.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_4",
+      "text": "ting a higher PCV in anticipation of better oxygenation at tissue level. He made a full recovery with no sequential infections. Conclusion: N-acetyl cysteine and packed cell transfusion aiming at a higher PCV to maintain adequate tissue perfusion during shock may be beneficial in acute liver failure due to dengue virus. Large randomized trials should be carried out to establish the efficacy of these treatment strategies to support these observations and change the current practice.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_5",
+      "text": "ried out to establish the efficacy of these treatment strategies to support these observations and change the current practice. Keywords: Dengue hemorrhagic fever, Liver, Hepatitis, N-acetyl cysteine, Packed cell transfusion Background Dengue fever is an arboviral disease that is endemic in Southeast Asia with four distinct serotypes [1]. Dengue illness has a diverse clinical presentation ranging from asymptomatic subclinical infection to severe multiorgan involvement and death [2].",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_6",
+      "text": "a diverse clinical presentation ranging from asymptomatic subclinical infection to severe multiorgan involvement and death [2]. Dengue illness can present with many unusual manifestations [3–5]. Hepatic dys- function is a well-reported feature both in dengue fever and in dengue hemorrhagic fever (DHF). Liver involve- ment in dengue infection can be quite varied, ranging from mild to moderate elevation of serum transaminases to fulminant liver failure [6–13].",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_7",
+      "text": "nfection can be quite varied, ranging from mild to moderate elevation of serum transaminases to fulminant liver failure [6–13]. Various mechanisms are postulated to explain the hepatic dysfunction seen in dengue illness including direct viral damage, immuno- logical injury and hypoxic injury due to reduced hepatic perfusion during shock [14–21]. Ideal management is still debated. We report an unusual case of an adult with dengue fever leading to acute liver failure and full recov- ery following treatment.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_8",
+      "text": "We report an unusual case of an adult with dengue fever leading to acute liver failure and full recov- ery following treatment. The use of N-acetyl cysteine (NAC) [22–24], the use of serum lactate levels to moni- tor improvement and the use of packed cell transfusion to improve tissue-level oxygenation [25–27] are dis- cussed as interesting management strategies.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_9",
+      "text": "se of packed cell transfusion to improve tissue-level oxygenation [25–27] are dis- cussed as interesting management strategies. Case presentation We report a 53-year-old Sri Lankan Sinhalese male from Kandy presented to Teaching Hospital, Peradeniya with a history of fever for 4 days. He was previously appar- ently well and a nonsmoker and a nonethanol consumer. He presented on the fourth day of an acute febrile illness with arthralgia, myalgia, retro-orbital pain and headache.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_10",
+      "text": "consumer. He presented on the fourth day of an acute febrile illness with arthralgia, myalgia, retro-orbital pain and headache. On admission he was having postural dizziness, nausea, vomiting and right upper abdominal pain with severe anorexia. On examination he was oriented in time, place and person, but confused. He was not pale, but a mild tinge of icterus was noted in the sclera. The patient was dehydrated, but the capillary refilling time was less than 2 seconds with warm peripheries.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_11",
+      "text": "oted in the sclera. The patient was dehydrated, but the capillary refilling time was less than 2 seconds with warm peripheries. His pulse rate was 96 beats/minute with a supine blood pressure of 120/ 80 mmHg. Standing blood pressure was 110/90 mmHg with narrowing of pulse pressure. The rest of the * Correspondence: chamaradalugama@yahoo.com Department of Medicine, University of Peradeniya, Peradeniya, Sri Lanka © The Author(s).",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_12",
+      "text": "respondence: chamaradalugama@yahoo.com Department of Medicine, University of Peradeniya, Peradeniya, Sri Lanka © The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_13",
+      "text": "it to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. Dalugama and Gawarammana Journal of Medical Case Reports  (2017) 11:341  DOI 10.1186/s13256-017-1510-1 cardiovascular system was normal.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_14",
+      "text": "and Gawarammana Journal of Medical Case Reports  (2017) 11:341  DOI 10.1186/s13256-017-1510-1 cardiovascular system was normal. Reduced breath sounds were noted in the right lung base but the rest of the lung fields were normal. He had marked tenderness over the right hypochondrium with a hepatomegaly of 4 cm below the costal margin. He did not have clinically detectable free fluid in the abdomen.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_15",
+      "text": "chondrium with a hepatomegaly of 4 cm below the costal margin. He did not have clinically detectable free fluid in the abdomen. On admission to the medical unit the patient’s complete blood count showed hemoglobin of 12.6 g/dl, white cell count of 1.85 × 106 cells/μl and platelet count of 36 × 103 cells/μl. His transaminase levels were ele- vated: aspartate transaminase (AST) was 27,220 U/L and alanine transaminase (ALT) was 11,100 U/L. Serum bili- rubin was 50 mg/dl with a direct fraction of 45%.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_16",
+      "text": "ST) was 27,220 U/L and alanine transaminase (ALT) was 11,100 U/L. Serum bili- rubin was 50 mg/dl with a direct fraction of 45%. The prothrombin time (PT) was 17.1 seconds (control 12 sec- onds) and activated partial thromboplastin time (APTT) was 142.7 seconds (control 29 seconds). Serum albumin was 30 g/dl and the corrected calcium value was 1.7 mmol/L (normal range 2.15–2.57 mmol/L).",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_17",
+      "text": "(control 29 seconds). Serum albumin was 30 g/dl and the corrected calcium value was 1.7 mmol/L (normal range 2.15–2.57 mmol/L). Venous blood gas showed a compensated metabolic acidosis with bicarbonate of 15 mmol/L and partial pressure of carbon dioxide of 20 mmHg. The venous lactate level was 5.8 mmol/L. Renal functions were within the normal range. Serum amylase was 145 U/L (normal range 1–137 U/L) and serum lipase levels were not available.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_18",
+      "text": "ns were within the normal range. Serum amylase was 145 U/L (normal range 1–137 U/L) and serum lipase levels were not available. Urine analysis showed trace protein, and three or four white cells with few granular casts. Bedside ultrasound scan re- vealed free fluid in perihepatic, subhepatic and pericholy- cystic spaces with marked gall bladder wall edema and a small right-sided pleural effusion. A diagnosis of DHF complicated with liver involvement was made.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_19",
+      "text": "ll bladder wall edema and a small right-sided pleural effusion. A diagnosis of DHF complicated with liver involvement was made. The patient was moved to the high dependency unit and was catheterized. Fluid resuscitation was done ini- tially using crystalloids. He was given a normal saline bolus of 7 ml/kg due to narrow pulse pressure and fluids were titrated according to blood pressure, urine output and packed cell volume (PCV).",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_20",
+      "text": "g due to narrow pulse pressure and fluids were titrated according to blood pressure, urine output and packed cell volume (PCV). The patient was started on a third-generation cephalosporin and an intravenous proton pump inhibitor. He showed mild confusion and altered sleep cycle. In view of deranged liver functions, evidence of coagulopathy and altered sensorium, a possi- bility of acute liver failure with early encephalopathy was considered. Serum ammonia level measurement was not available at the hospital.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_21",
+      "text": "cute liver failure with early encephalopathy was considered. Serum ammonia level measurement was not available at the hospital. The patient was started on oral metronidazole and lactulose. Intravenous vitamin K 5 mg was given. Blood sugar was checked every 4 hours and corrected. Serum calcium levels were monitored and corrected with intravenous calcium gluconate. Dengue fever was confirmed by positive nonstructural protein 1 (NS1) antigen and the serotype was identified as DEN 2.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_22",
+      "text": "uconate. Dengue fever was confirmed by positive nonstructural protein 1 (NS1) antigen and the serotype was identified as DEN 2. Both dengue immunoglobulin M (IgM) and immunoglobulin G (IgG) were positive, suggesting a secondary infection with DENV. Because of severe liver involvement, alternative causes were sought. Tests for viral serologies including hepatitis A IgM, hepatitis B surface antigen and hepatitis C IgM were negative.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_23",
+      "text": "re sought. Tests for viral serologies including hepatitis A IgM, hepatitis B surface antigen and hepatitis C IgM were negative. Lep- tospira and rickettsial serology was negative and blood cultures were sterile. The patient denied taking a supra- therapeutic dose of paracetamol or any other hepato- toxic drugs. He had not taken any ayurvedic or herbal preparations prior to admission as an ailment for fever. Serology for Epstein–Barr virus (EBV) and cytomegalo- virus (CMV) was not available in the hospital.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_24",
+      "text": "n as an ailment for fever. Serology for Epstein–Barr virus (EBV) and cytomegalo- virus (CMV) was not available in the hospital. The patient’s PCV was maintained around 40% and he maintained more than 0.5 ml/kg urine output. Within the next 12 hours, further increase of transaminases was noted (AST 47,220 U/L, ALT 27,688 U/L) and the ven- ous lactate level was raised to 7.8 mmol/L. The patient was started on an intravenous infusion of N-acetyl cysteine (NAC) at a rate of 100 mg/hour.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_25",
+      "text": "s raised to 7.8 mmol/L. The patient was started on an intravenous infusion of N-acetyl cysteine (NAC) at a rate of 100 mg/hour. The authors decided to transfuse packed cells to increase the PCV in order to improve the oxygen carrying capacity of the blood to relieve possible tissue-level hypoxia and to im- prove oxygenation at tissue level. The patient was given packed cells at a rate of 100 ml/minute to reach and maintain a PCV of 45% for 8 hours.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_26",
+      "text": "at tissue level. The patient was given packed cells at a rate of 100 ml/minute to reach and maintain a PCV of 45% for 8 hours. Dramatic reduction of the venous lactate level was observed following packed cell transfusion. The patient’s postulated time window for plasma leakage (36–48 hours) was over by the following day. Gradual reduction in AST and ALT was noted. The PT and APPT were normalized.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_27",
+      "text": "akage (36–48 hours) was over by the following day. Gradual reduction in AST and ALT was noted. The PT and APPT were normalized. On day 5 of admission AST and ALT were less than 200 U/L, and NAC infusion was terminated and the patient discharged. He was in good health with normal liver en- zymes, clotting profile and albumin at follow-up visits on day 7 and 2 weeks later.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_28",
+      "text": "He was in good health with normal liver en- zymes, clotting profile and albumin at follow-up visits on day 7 and 2 weeks later. Table 1 presents the trend of hematological, biochem- ical, clotting and blood gas parameters during the hospital stay and at follow-up visits. Discussion Dengue is a common mosquito-borne viral disease among humans seen mainly in the Asia-Pacific region [1].",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_29",
+      "text": "-up visits. Discussion Dengue is a common mosquito-borne viral disease among humans seen mainly in the Asia-Pacific region [1]. It can present with a diverse clinical spectrum ranging from asymptomatic infection or simple undifferentiated fever to DHF with multiorgan failure. Four distinct dengue viral serotypes (DEN 1–4) are known to cause illness.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_30",
+      "text": "differentiated fever to DHF with multiorgan failure. Four distinct dengue viral serotypes (DEN 1–4) are known to cause illness. Infection with one serotype confers protection from reinfection with the same serotype, while reinfection with different se- rotypes confers no long-term protection and may even predispose the patient to plasma leak and worse clinical outcome [2]. No specific antiviral therapy is available for dengue fever.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_31",
+      "text": "dispose the patient to plasma leak and worse clinical outcome [2]. No specific antiviral therapy is available for dengue fever. Close monitoring, detecting patients with plasma leak, meticulous titration of fluids to match the rate of fluid leak in the DHF group and managing compli- cations of fluid leak are the main strategies for management. Dengue infection can present with various unusual manifestations.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_32",
+      "text": "cations of fluid leak are the main strategies for management. Dengue infection can present with various unusual manifestations. Most of these manifestations of dengue Dalugama and Gawarammana Journal of Medical Case Reports  (2017) 11:341  Page 2 of 5 fever are underreported, underrecognized or not casually linked to dengue fever, including hepatitis and liver fail- ure [3], myositis [4], encephalitis and other neurological manifestations [5], and so forth.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_33",
+      "text": "ncluding hepatitis and liver fail- ure [3], myositis [4], encephalitis and other neurological manifestations [5], and so forth. Hepatic dysfunction is a well-recognized feature in both dengue fever and DHF. Liver involvement in dengue in- fection could be suspected in patients with dengue fever complaining of abdominal pain, nausea, vomiting and an- orexia [6]. Hepatomegaly is present in both dengue fever and DHF but is more common in dengue fever [7].",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_34",
+      "text": "usea, vomiting and an- orexia [6]. Hepatomegaly is present in both dengue fever and DHF but is more common in dengue fever [7]. Clin- ical jaundice has been detected in 1.7–17% of patients in various series [7, 8]. Mild to moderate increase in the transaminases is common in dengue fever and DHF. Souza et al. [9] described elevated transaminases in 74.2% of patients with serologically confirmed dengue illness (N = 1585) and 3.8% of them had transaminases at levels similar to acute hepatitis.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_35",
+      "text": "with serologically confirmed dengue illness (N = 1585) and 3.8% of them had transaminases at levels similar to acute hepatitis. Interestingly the greatest alter- ations were observed among females (p < 0.001), cases of DHF (p < 0.001) and cases with sequential infections (p = 0.001). Kuo et a. [10] and Nguyen et al. [11] observed that the level of aspartate aminotrasferase (AST) was higher than that of alanine aminotransferase (ALT). Kuo et al.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_36",
+      "text": "] observed that the level of aspartate aminotrasferase (AST) was higher than that of alanine aminotransferase (ALT). Kuo et al. [10] further observed that transaminases tend to decrease to normal levels within 3 weeks. AST released from dam- aged striated muscle, cardiac muscle and erythrocytes could explain the higher levels of AST than those of ALT in patients with dengue fever at an earlier stage [12, 13]. Therefore, a rise in AST might not be a true reflection of hepatic involvement.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_37",
+      "text": "with dengue fever at an earlier stage [12, 13]. Therefore, a rise in AST might not be a true reflection of hepatic involvement. The pathogenesis of liver injury in dengue infection is yet to be fully elucidated. Possible hypotheses include direct effects of the virus or host immune response on liver cells, circulatory compromise, metabolic acidosis and/or hypoxia caused by hypotension or localized vas- cular leakage inside the liver [14].",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_38",
+      "text": "tory compromise, metabolic acidosis and/or hypoxia caused by hypotension or localized vas- cular leakage inside the liver [14]. Studies have shown that dengue virus (DENV) readily infects liver cells in mouse models [15]. High levels of cytokines, particularly interleukin-22 (IL-22) and interleukin-17 (IL-17), were found in mouse models which may responsible for the cytokine-induced liver damage [16]. Sung et al.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_39",
+      "text": "nterleukin-17 (IL-17), were found in mouse models which may responsible for the cytokine-induced liver damage [16]. Sung et al. [17] observed that infiltration of hepatocytes by natural killer cells followed by T cells was associated with apoptosis of hepatocytes.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_40",
+      "text": "rved that infiltration of hepatocytes by natural killer cells followed by T cells was associated with apoptosis of hepatocytes. Histopathological studies of postmortem specimens of patients who had a fatal outcome have shown that the liver is congested with liver cell necrosis and apoptosis predominantly in midzonal and centrilobular areas, macrovascular steatosis and councilman bodies. Many postmortem reports show little or no inflammation [18, 19].",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_41",
+      "text": "ilobular areas, macrovascular steatosis and councilman bodies. Many postmortem reports show little or no inflammation [18, 19]. It is interesting that similar centrilobular necrosis is a typical finding in hypoxic hepatitis [20]. Considering the fact that a severe form of liver necrosis is seen among pa- tients with DHF who present late with prolonged shock, we can postulate the fact that hypoxic injury due to reduced hepatic perfusion is probably an important contributor in causation of liver damage.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_42",
+      "text": "he fact that hypoxic injury due to reduced hepatic perfusion is probably an important contributor in causation of liver damage. On the contrary, a few cases of fulminant liver failure have been reported in the absence of shock [3]. Khongphatthanayothin et al. [21] reported an interesting case of liver failure from DENV infection with reversal of portal venous blood flow. They postulate that hepatic sinusoidal obstruction coupled with shock might be the underlying mechanism of liver failure in this disease.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_43",
+      "text": "late that hepatic sinusoidal obstruction coupled with shock might be the underlying mechanism of liver failure in this disease. Table 1 Trend of hematological, biochemical, clotting and blood gas parameters during the hospital stay and at follow-up visits of the patient Parameter Day 0 Day 1 Day 2 Day 3 Day 4 Day 5 Day 7 Day 14 Hb (g/dl) 12.6 13 14 16 14.4 14.1 13.3 13.5 WBC (106 cells/μl) 1.85 2.06 2.66 4.37 8.25 12.4 10.6 8.9 Platelets (103 cells/μl) 36 21 13 9 17 101 334 387 AST (U/L) 27,220 47,220 27,220 12,004 1732 108 88 40 ALT (U/L) 11,100 27,688 11,550 4590 1001 223 56 28 PT (seconds) 17.1 17.5 15.5 12 APTT (seconds) 142.7 56 25 Creatinine (μmol/L) 88 84 68 Albumin (g/dl) 30 31 35 42 Ionized calcium (mmol/L) 1.7 1.94 2.05 2.3 VBG bicarbonate 15 12 15.9 17 20 VBG PCO2 20 18 24 26 28 VBG lactate 5.8 7.8 4.8 2.5 2.2 Amylase 145 Hb hemoglobin, WBC white cell count, AST aspartate transaminase, ALT alanine transaminase, PT prothrombin time, APTT activated partial thromboplastin time, VBG venous blood gas, PCO2 partial pressure of carbon dioxide Dalugama and Gawarammana Journal of Medical Case Reports  (2017) 11:341  Page 3 of 5 In our case, the patient presented late during the leak- ing phase of dengue fever and on admission he had very high liver enzymes with deranged clotting and an ele- vated lactate level.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_44",
+      "text": "g phase of dengue fever and on admission he had very high liver enzymes with deranged clotting and an ele- vated lactate level. He was resuscitated with fluids ac- cording to the PCV, urine output and hemodynamics. A liver failure regime with oral metronidazole and lactu- lose was started as he was in early hepatic encephalop- athy.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_45",
+      "text": "namics. A liver failure regime with oral metronidazole and lactu- lose was started as he was in early hepatic encephalop- athy. Acute liver failure in our case could be explained by initial direct viral damage and indirect immunological injury, and later contributed by splanchnic hypoperfu- sion due to plasma leak and compensatory redistribution of intravascular fluids and localized vascular leakage in- side the liver.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_46",
+      "text": "n due to plasma leak and compensatory redistribution of intravascular fluids and localized vascular leakage in- side the liver. We believe the liver is more vulnerable than the kidney in this context because many mecha- nisms operate in liver injury as already mentioned. Hyp- oxia and hypoperfusion would have a greater impact on an already virally and immunologically damaged liver than on the kidney. The patient was started on intravenous N-acetyl cyst- eine (NAC) infusion.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_47",
+      "text": "nd immunologically damaged liver than on the kidney. The patient was started on intravenous N-acetyl cyst- eine (NAC) infusion. NAC scavenges free radicals, im- proves antioxidant defense and acts as a vasodilator to improve oxygen delivery and consumption [22]. How- ever, limited data are available in the literature regarding the efficacy of NAC in dengue fever-related liver dys- function. A retrospective analysis of NAC in dengue- associated liver failure by Kumarasena et al.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_48",
+      "text": "gue fever-related liver dys- function. A retrospective analysis of NAC in dengue- associated liver failure by Kumarasena et al. [23] showed that five patients who survived out of eight were in early (coma grade 1, 11) liver failure stage at the time when NAC was started. Habaragamuwa and Dissanayaka [24] reported another case of hepatitis following dengue suc- cessfully treated with NAC.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_49",
+      "text": "started. Habaragamuwa and Dissanayaka [24] reported another case of hepatitis following dengue suc- cessfully treated with NAC. Large randomized trials should be carried out to establish NAC efficacy along with appropriate dosage, timing and duration of treat- ment as there is no consensus on this. The authors decided to continue NAC in the patient until liver en- zymes were near normal, anticipating the antioxidant and vasodilator effects might benefit the damaged liver.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_50",
+      "text": "t until liver en- zymes were near normal, anticipating the antioxidant and vasodilator effects might benefit the damaged liver. During the critical phase of dengue fever the patient’s transaminase levels were increasing despite adequate fluid resuscitation with crystalloids. His PCV was around 40% at the time of admission and he had ultrasonic evidence of fluid leakage.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_51",
+      "text": "suscitation with crystalloids. His PCV was around 40% at the time of admission and he had ultrasonic evidence of fluid leakage. The authors considered that liver derangement could be partially due to the direct and indirect injury caused by DENV with a significant contribution from the re- duced blood and oxygen supply to the liver although the blood pressure and PCV were static.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 51,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_52",
+      "text": "gnificant contribution from the re- duced blood and oxygen supply to the liver although the blood pressure and PCV were static. This is possible as the liver is part of the gut and during early shock the hemodynamics are well maintained at the expense of compromised blood to the gut and liver.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 52,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_53",
+      "text": "f the gut and during early shock the hemodynamics are well maintained at the expense of compromised blood to the gut and liver. The circulatory shock, regardless of whether the etiology is cardiac or acute hypovolaemia or plasma leakage as in DHF, causes splanchnic hypoperfusion with no initial change in splanchnic oxygen consumption by diverting blood supply mediated by sympathetic adrenergic stimulation [25], both the liver and the gut are an efficient means of ensuring that vital organs are perfused during acute hypovolaemia [26, 27].",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 53,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_54",
+      "text": "oth the liver and the gut are an efficient means of ensuring that vital organs are perfused during acute hypovolaemia [26, 27]. However, this could be counter- productive in a case of damaged liver by direct and indirect effects of DENV leading to further hypoxic damage due to reduced blood supply. The authors hypothesized that increasing the PCV by transfusing packed cells may increase the oxygen carry- ing capacity of the blood and help the liver to recover.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 54,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_55",
+      "text": "ing the PCV by transfusing packed cells may increase the oxygen carry- ing capacity of the blood and help the liver to recover. Based on this hypothesis, during the leaking phase of DHF the index patient was transfused 2 units of blood (1 unit approximates 400 ml of packed cells) at a rate of 100 ml/hour, targeting a PCV of 45%. Over the next 24 hours a reduction of liver enzymes was noted with marked clinical improvement.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 55,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_56",
+      "text": "l/hour, targeting a PCV of 45%. Over the next 24 hours a reduction of liver enzymes was noted with marked clinical improvement. The venous blood lactated level dropped from a value of 7.8 mmol/L to 2.2 mmol/L at the end of 800 ml of blood transfusion over 8 hours. During the next 24 hours the patient’s PT and APPT normalized. His liver enzymes were less than 200 U/L on day 5 and NAC infusion was terminated.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 56,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_57",
+      "text": "hours the patient’s PT and APPT normalized. His liver enzymes were less than 200 U/L on day 5 and NAC infusion was terminated. At the follow-up visits on day 7 and at 2 weeks the patient did not show any biochemical derangement of liver enzymes, and transaminase levels were in the normal range. We considered the possibility of maintaining higher central filling pressures with crystalloids to maintain the splanchnic circulation, particularly in low-resource set- tings where blood products are not available.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 57,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_58",
+      "text": "alloids to maintain the splanchnic circulation, particularly in low-resource set- tings where blood products are not available. However, we believe this might worsen plasma leak into the pleural and peritoneal cavities and may be counterpro- ductive. Blood, on the contrary, acts as a colloid, keeps the oncotic pressure within the vasculature and mini- mizes the plasma leak, and expands the vascular com- partment and carries more oxygen.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 58,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_59",
+      "text": "ressure within the vasculature and mini- mizes the plasma leak, and expands the vascular com- partment and carries more oxygen. Conclusion Although conclusions cannot be drawn from a single case report, we believe this case will bring light to treating physicians and researchers that increasing packed cell volume by transfusing blood will increase the oxygen carrying capacity and help a virally and immunologically damaged shocked liver to heal with- out heading toward fulminant liver necrosis and mul- tiorgan failure followed by death.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 59,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_60",
+      "text": "lly damaged shocked liver to heal with- out heading toward fulminant liver necrosis and mul- tiorgan failure followed by death. This hypothesis invites a large randomized trial in patients with severe hepatic dysfunction in dengue fever.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 60,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_61",
+      "text": "ollowed by death. This hypothesis invites a large randomized trial in patients with severe hepatic dysfunction in dengue fever. One group treated with packed cell transfusion to keep the packed cell volume at a higher value compared with a group on ‘standard’ management where the packed cells are given only in a case of bleeding or dropping PCV with hemodynamic instability will add new knowledge and may change practice.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 61,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_62",
+      "text": "e given only in a case of bleeding or dropping PCV with hemodynamic instability will add new knowledge and may change practice. Dalugama and Gawarammana Journal of Medical Case Reports  (2017) 11:341  Page 4 of 5 Acknowledgements Not applicable. Funding Not applicable. Availability of data and materials Data sharing not applicable to this article as no datasets were generated or analyzed during the current study.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 62,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_63",
+      "text": "a and materials Data sharing not applicable to this article as no datasets were generated or analyzed during the current study. Authors’ contributions CD and IBG examined, assessed and were involved in the management of the patient. Both authors collected and analyzed data. Both authors read and approved the final manuscript.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 63,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_64",
+      "text": "n the management of the patient. Both authors collected and analyzed data. Both authors read and approved the final manuscript. Ethics approval and consent to participate Ethical approval was not obtained for the publication of this case report as this does not involve sharing of the personal details of the patient. Consent for publication Written informed consent was obtained from the patient for publication of this case report.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 64,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_65",
+      "text": "he patient. Consent for publication Written informed consent was obtained from the patient for publication of this case report. A copy of the written consent is available for review by the Editor-in-Chief of this journal. Competing interests The authors declare that they have no competing interests. Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Received: 23 October 2017 Accepted: 9 November 2017 References 1.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 65,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_66",
+      "text": "onal claims in published maps and institutional affiliations. Received: 23 October 2017 Accepted: 9 November 2017 References 1. Halstead SB. Dengue. Curr Opin Infect Dis. 2002;15(5):471–6. 2. Wilder-Smith A, Schwartz E. Dengue in travelers. N Engl J Med. 2005;353: 924–32. 3. Samanta J, Sharma V. Dengue and its effects on liver. World Journal of Clinical Cases: WJCC. 2015;3(2):125–31. 4. Dalugama C, Ralapanawa U, Jayalath T. Dengue myositis and review of literature. Clin Case Rep Res Trials. 2017;2:16–8. 5.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 66,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_67",
+      "text": "1. 4. Dalugama C, Ralapanawa U, Jayalath T. Dengue myositis and review of literature. Clin Case Rep Res Trials. 2017;2:16–8. 5. Koley TK, Jain S, Sharma H, et al. Dengue encephalitis. J Assoc Physicians India. 2003;51:422–3. 6. Karoli R, Fatima J, Siddiqi Z, Kazmi KI, Sultania AR. Clinical profile of dengue infection at a teaching hospital in North India. J Infect Dev Ctries. 2012;6: 551–4. 7. Saha AK, Maitra S, Hazra SC. Spectrum of hepatic dysfunction in 2012 dengue epidemic in Kolkata, West Bengal.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 67,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_68",
+      "text": "2012;6: 551–4. 7. Saha AK, Maitra S, Hazra SC. Spectrum of hepatic dysfunction in 2012 dengue epidemic in Kolkata, West Bengal. Indian J Gastroenterol. 2013;32: 400–3. 8. Trung DT, le Thao TT, Hien TT, Hung NT, Vinh NN, Hien PT, Chinh NT, Simmons C, Wills B. Liver involvement associated with dengue infection in adults in Vietnam. Am J Trop Med Hyg. 2010;83:774–80. 9. Souza LJ, Alves JG, Nogueira RM, Gicovate Neto C, Bastos DA, Siqueira EW, Souto Filho JT, Cezario Tde A, Soares CE, Carneiro RC.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 68,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_69",
+      "text": "ouza LJ, Alves JG, Nogueira RM, Gicovate Neto C, Bastos DA, Siqueira EW, Souto Filho JT, Cezario Tde A, Soares CE, Carneiro RC. Aminotransferase changes and acute hepatitis in patients with dengue fever: analysis of 1,585 cases. Braz J Infect Dis. 2004;8:156–63. 10. Kuo CH, Tai DI, Chang-Chien CS, Lan CK, Chiou SS, Liaw YF. Liver biochemical tests and dengue fever. Am J Trop Med Hyg. 1992;47:265–70. 11. Nguyen TL, Nguyen TH, Tieu NT. The impact of dengue haemorrhagic fever on liver function. Res Virol.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 69,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_70",
+      "text": "d Hyg. 1992;47:265–70. 11. Nguyen TL, Nguyen TH, Tieu NT. The impact of dengue haemorrhagic fever on liver function. Res Virol. 1997;148:273–7. 12. Nath P, Agrawal DK, Mehrotra RM. Ultrastructural changes in skeletal muscles in dengue virus-infected mice. J Pathol. 1982;136:301–5. 13. Lee LK, Gan VC, Lee VJ, Tan AS, Leo YS, Lye DC. Clinical relevance and discriminatory value of elevated liver aminotransferase levels for dengue severity. PLoS Negl Trop Dis. 2012;6:e1676. 14.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 70,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_71",
+      "text": "e and discriminatory value of elevated liver aminotransferase levels for dengue severity. PLoS Negl Trop Dis. 2012;6:e1676. 14. Itha S, Kashyap R, Krishnani N, Saraswat VA, Choudhuri G, Aggarwal R. Profile of liver involvement in dengue virus infection. Natl Med J India. 2005;18:127–30. 15. Cabrera-Hernandez A, Thepparit C, Suksanpaisan L, Smith DR. Dengue virus entry into liver (HepG2) cells is independent of hsp90 and hsp70. J Med Virol. 2007;79(4):386–92. 16.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 71,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_72",
+      "text": "L, Smith DR. Dengue virus entry into liver (HepG2) cells is independent of hsp90 and hsp70. J Med Virol. 2007;79(4):386–92. 16. Guabiraba R, Besnard AG, Marques RE, Maillet I, Fagundes CT, Conceicao TM, Rust NM, Charreau S, Paris I, Lecron JC. IL-22 modulates IL-17A production and controls inflammation and tissue damage in experimental dengue infection. Eur J Immunol. 2013;43(6):1529–44. 17. Sung JM, Lee CK, Wu-Hsieh BA.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 72,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_73",
+      "text": "mation and tissue damage in experimental dengue infection. Eur J Immunol. 2013;43(6):1529–44. 17. Sung JM, Lee CK, Wu-Hsieh BA. Intrahepatic infiltrating NK and CD8 T cells cause liver cell death in different phases of dengue virus infection. PLoS One. 2012;7(9):e46292. 18. Martina BE, Koraka P, Osterhaus AD. Dengue virus pathogenesis: an integrated view. Clin Microbiol Rev. 2009;22(4):564–81. 19.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 73,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_74",
+      "text": ". Martina BE, Koraka P, Osterhaus AD. Dengue virus pathogenesis: an integrated view. Clin Microbiol Rev. 2009;22(4):564–81. 19. Aye KS, Charngkaew K, Win N, Wai KZ, Moe K, Punyadee N, Thiemmeca S, Suttitheptumrong A, Sukpanichnant S, Prida M. Pathologic highlights of dengue hemorrhagic fever in 13 autopsy cases from Myanmar. Hum Pathol. 2014;45(6):1221–33. 20. Henrion J. Hypoxic hepatitis. Liver Int. 2012;32(7):1039–52. 21. Khongphatthanayothin A, Mahayosnond A, Poovorawan Y.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 74,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_75",
+      "text": "1–33. 20. Henrion J. Hypoxic hepatitis. Liver Int. 2012;32(7):1039–52. 21. Khongphatthanayothin A, Mahayosnond A, Poovorawan Y. Possible cause of liver failure in patient with dengue shock syndrome. Emerg Infect Dis. 2013; 19(7):1161–3. https://doi.org/10.3201/eid1907.121820. 22. Sklar GE, Subramaniam M. Acetylcysteine treatment for non-acetaminophen- induced acute liver failure. Ann Pharmacother. 2004;38:498–500. 23.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 75,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_76",
+      "text": "ramaniam M. Acetylcysteine treatment for non-acetaminophen- induced acute liver failure. Ann Pharmacother. 2004;38:498–500. 23. Kumarasena RS, Mananjala Senanayake S, Sivaraman K, de Silva AP, Dassanayake AS, Premaratna R, et al. Intravenous N-acetylcysteine in dengue-associated acute liver failure. Hepatol Int. 2010;4:533–4. 24. Habaragamuwa BWP, Dissanayaka P. N-acetylcystein in dengue associated severe hepatitis. Indian J Crit Care Med. 2014;18(3):181–2. https://doi.org/10. 4103/0972-5229.128712. 25.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 76,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_77",
+      "text": "in dengue associated severe hepatitis. Indian J Crit Care Med. 2014;18(3):181–2. https://doi.org/10. 4103/0972-5229.128712. 25. Chien S. Role of the sympathetic nervous system in hemorrhage. Physiol Rev. 1967;47:214–88. 26. Price HL, Deutsch S, Marshall BE, Stephen GW, Behar MG, Neufeld GR. Hemodynamic and metabolic effects of hemorrhage in man, with particular reference to the splanchnic circulation. Circ Res. 1966;18:469–74. 27. Vatner SF.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 77,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_78",
+      "text": "effects of hemorrhage in man, with particular reference to the splanchnic circulation. Circ Res. 1966;18:469–74. 27. Vatner SF. Effects of hemorrhage on regional blood flow distribution in dogs and primates. J Clin Invest. 1974;54:225–35.",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 78,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_79",
+      "text": ". 27. Vatner SF. Effects of hemorrhage on regional blood flow distribution in dogs and primates. J Clin Invest. 1974;54:225–35. •  We accept pre-submission inquiries  •  Our selector tool helps you to ﬁnd the most relevant journal •  We provide round the clock customer support  •  Convenient online submission •  Thorough peer review •  Inclusion in PubMed and all major indexing services  •  Maximum visibility for your research Submit your manuscript at www.biomedcentral.com/submit Submit your next manuscript to BioMed Central  and we will help you at every step: Dalugama and Gawarammana Journal of Medical Case Reports  (2017) 11:341  Page 5 of 5 .",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 79,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "8c648624fc14_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever complicated with acute liver failure a case report_p1_img1_a0d416f2.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever complicated with acute liver failure a case report_p1_img2_45a72ae7.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "8c648624fc14_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "8c648624fc14",
+        "filename": "Dengue hemorrhagic fever complicated with acute liver failure a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:48.416460",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever complicated with acute liver failure a case report_p5_img1_5ab9baaf.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 5
+      }
+    }
+  ],
+  "total_chunks": 83
+}

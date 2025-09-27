@@ -1,0 +1,623 @@
+{
+  "document_id": "8c21356c3c33",
+  "document_type": "guideline",
+  "type_confidence": 0.20454545454545453,
+  "document_metadata": {
+    "doc_id": "8c21356c3c33",
+    "filename": "Congenital dengue in neonate.pdf",
+    "document_type": "guideline",
+    "type_confidence": 0.20454545454545453,
+    "pages": 3,
+    "processed_date": "2025-09-27T23:12:45.146344",
+    "has_images": true,
+    "image_count": 1
+  },
+  "extracted_data": {
+    "document_type": "clinical_guideline",
+    "recommendations": [
+      {
+        "text": "considered in cases where illness in the \nmother occurs within 10 days before delivery",
+        "strength": "should be"
+      },
+      {
+        "text": "considered as a cause of fever and rash in a neonate \nborn to a mother especially in endemic areas",
+        "strength": "should be"
+      },
+      {
+        "text": "kept in differential diagnosis if a \nneonate presents with fever/rash/thrombocytopenia in dengue \nseason",
+        "strength": "should be"
+      },
+      {
+        "text": "done in both mother \nand baby which may help in diagnosis and management",
+        "strength": "should be"
+      }
+    ],
+    "algorithms": [],
+    "evidence_levels": {},
+    "contraindications": [],
+    "monitoring": []
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "8c21356c3c33_0",
+      "text": "704  |   \t ﻿\b Clin Case Rep. 2021;9:704–706. wileyonlinelibrary.com/journal/ccr3 1  |  INTRODUCTION Dengue is an infectious disease caused by dengue virus and  is transmitted classically by bite of female Aedes aegypti  mosquito. The infection is endemic in India.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_1",
+      "text": "ansmitted classically by bite of female Aedes aegypti  mosquito. The infection is endemic in India. In pregnant  females, it can lead to premature labor.1 Vertical transmis- sion is known to occur which may cause increased perinatal  mortality and morbidity.2 Viremia persists for approximately  7 days and infected newborn may be asymptomatic or may  show varied signs of infection.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_2",
+      "text": "roximately  7 days and infected newborn may be asymptomatic or may  show varied signs of infection. However, dengue fever has  not been shown to cause any congenital abnormalities3,4 al- though dengue virus infection in early pregnancy during or- ganogenesis may cause spontaneous abortion or neural tube  alterations.5 Dengue is common in Asian countries namely  India, Pakistan, and Sri Lanka.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_3",
+      "text": "ral tube  alterations.5 Dengue is common in Asian countries namely  India, Pakistan, and Sri Lanka. Dengue virus outbreaks have  increased substantially over the past several decades in these  countries. The cases increased to 180 000 in India in 2017,  which is more than twice the average reported over the pre- vious decade.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_4",
+      "text": "80 000 in India in 2017,  which is more than twice the average reported over the pre- vious decade. Vertical transmission of dengue has been re- ported and should be considered in cases where illness in the  mother occurs within 10 days before delivery. The affected  neonates may become symptomatic up to 11 days (median  4 days) after birth.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_5",
+      "text": "delivery. The affected  neonates may become symptomatic up to 11 days (median  4 days) after birth. Pregnancy does not appear to increase the  incidence or severity of dengue.6 In a prospective study of  2958 pregnant female, 2531 paired maternal-umbilical cord  blood samples were tested for dengue (Ig)M.7 Sixty-three  women (prevalence of 2.5 percent) had a positive IgM se- rology.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_6",
+      "text": "ed for dengue (Ig)M.7 Sixty-three  women (prevalence of 2.5 percent) had a positive IgM se- rology. Only one (vertical transmission of 1.6 percent) of the  paired umblical cord samples was seropositive for dengue.  All the maternal and fetal blood samples were negative for  viral RNA by polymerase chain reaction.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_7",
+      "text": "All the maternal and fetal blood samples were negative for  viral RNA by polymerase chain reaction. Breastfeeding has  been proposed as a route of vertical transmission of dengue  virus8 Figure 1. 2  |  CASE A late preterm (36 weeks) male, with birth weight 2.09 kg  was born to a primigravida mother through vaginal delivery.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_8",
+      "text": "weeks) male, with birth weight 2.09 kg  was born to a primigravida mother through vaginal delivery.  Mother had history of high-grade fever 10 days prior to de- livery, which responded well to antipyretics. Baby cried im- mediately after birth and was shifted to mother side. Sepsis  work up was sent in view of history of fever in mother.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_9",
+      "text": "rth and was shifted to mother side. Sepsis  work up was sent in view of history of fever in mother. Baby  subsequently started with maculopapular rashes and throm- bocytopenia (platelet counts 80 000/cumm) which worsened  by day 3-30 000/cumm. Baby was started on iv antibiotics  and referred on day 3 for further management.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_10",
+      "text": "ay 3-30 000/cumm. Baby was started on iv antibiotics  and referred on day 3 for further management. On admission, baby was hemodynamically stable and  blood, CSF, and urine cultures were sterile.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_11",
+      "text": "nt. On admission, baby was hemodynamically stable and  blood, CSF, and urine cultures were sterile. NS-1 anti- gen was negative and dengue IgM was positive and IgG  Received: 28 July 2020  |  Revised: 13 November 2020  |  Accepted: 17 November 2020 DOI: 10.1002/ccr3.3627   C A S E  R E P O R T Congenital dengue in neonate Shailabh Gupta1  |   Vivek Choudhury1  |   Naveen Prakash Gupta1  |   Vishal Gupta2  |    Aakash Pandita3 This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium,  provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_12",
+      "text": "nal work is properly cited, the use is non-commercial and no modifications or adaptations are made. © 2020 The Authors. Clinical Case Reports published by John Wiley & Sons Ltd.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_13",
+      "text": "adaptations are made. © 2020 The Authors. Clinical Case Reports published by John Wiley & Sons Ltd. 1Neonatal Division, Department of  Paediatrics, Max Super Specialty Hospital  Patparganj, Delhi, India 2John Radcliffe Hospital, Oxford, UK 3Department of Neonatology SGPGI,  Lucknow, India Correspondence Aakash Pandita, Consultant Neonatology,  SGPGIMS, Lucknow, U.P, India.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_14",
+      "text": "ucknow, India Correspondence Aakash Pandita, Consultant Neonatology,  SGPGIMS, Lucknow, U.P, India. Email: aakash.pandita@gmail.com Abstract Congenital dengue should be considered as a cause of fever and rash in a neonate  born to a mother especially in endemic areas. K E Y W O R D S Congenital Dengue, Neonatal rash, Neonatal sepsis, Thrombocytopenia      |  705 GUPTA et al.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_15",
+      "text": "R D S Congenital Dengue, Neonatal rash, Neonatal sepsis, Thrombocytopenia      |  705 GUPTA et al. was negative initially (at day 3 of life). But at day 25 of  life, dengue IgG came out positive. Dengue serology of  mother was done which also came positive (IgM+, IgG+).  (Table 1).",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_16",
+      "text": "ut positive. Dengue serology of  mother was done which also came positive (IgM+, IgG+).  (Table 1). Patient was treated as a case of congenital dengue, plate- let count improved over next 5-6 days and rash disappeared.  Baby continued to remain hemodynamically stable and did  not show any sign of hemorrhage or hypotension. Baby was  discharged from hospital in a healthy condition.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_17",
+      "text": "w any sign of hemorrhage or hypotension. Baby was  discharged from hospital in a healthy condition. 3  |  DISCUSSION Presentation of congenital dengue is summarized in a sys- tematic review by Pouliot SH et al; out of a total of 34 cases,  5 were reported to be asymptomatic and rest had symptoms  such as fever, thrombocytopenia, hepatomegaly, hemorrhage,  effusion, and rash.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_18",
+      "text": "rest had symptoms  such as fever, thrombocytopenia, hepatomegaly, hemorrhage,  effusion, and rash. Average time between maternal fever and  neonatal symptoms was 7 days (range 5-13 days).2 Pregnant  female can pass dengue virus to fetus if she develops fever  from 10 days before delivery to 10 hours after delivery.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_19",
+      "text": "ngue virus to fetus if she develops fever  from 10 days before delivery to 10 hours after delivery. Mode  of delivery does not affect the rate of transmission.4 Common  signs and symptoms include fever, thrombocytopenia as in  general population, followed by elevated liver enzymes.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_20",
+      "text": "toms include fever, thrombocytopenia as in  general population, followed by elevated liver enzymes.  Rarely, some cases may develop dengue shock syndrome  with severe bleeding requiring platelet and red blood cell  transfusions.2-7 It has been proposed that maternal age <20 years have  high amount of circulating anti-dengue antibodies than those  older than 20 years.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_21",
+      "text": "<20 years have  high amount of circulating anti-dengue antibodies than those  older than 20 years. Children with lower weight are at higher  risk of severe dengue.6-10 Diagnosis can be confirmed by direct laboratory tests like  dengue virus isolation, dengue virus nucleic acid detection,  NS1 antigen detection, or with indirect relatively less specific  tests by checking antibodies.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_22",
+      "text": "n,  NS1 antigen detection, or with indirect relatively less specific  tests by checking antibodies. Sensitivity of each test depends  on the duration of illness and the timing of the test. Virus  isolation and nucleic acid tests although are highly specific  are costly and labor intensive. These tests are usually em- ployed for early detection of virus in the first week of illness.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_23",
+      "text": "sive. These tests are usually em- ployed for early detection of virus in the first week of illness.  Immunoglobulin (Ig)M can be detected as early as 4  days  after the onset of illness. The diagnosis is however confirmed  by IgM seroconversion between paired acute and convales- cent phase (obtained 10-14 days after the acute phase) speci- mens.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_24",
+      "text": "ween paired acute and convales- cent phase (obtained 10-14 days after the acute phase) speci- mens. A fourfold or greater rise in antibody titer is diagnostic  of acute dengue infection.5-10 4  |  CONCLUSION Vertical transmission of dengue virus occurs although rarely.  Congenital dengue can occur when there is insufficient time  for transfer of maternal protective antibodies to the fetus.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_25",
+      "text": "occur when there is insufficient time  for transfer of maternal protective antibodies to the fetus.  Congenital dengue should be kept in differential diagnosis if a  neonate presents with fever/rash/thrombocytopenia in dengue  season. Serology and antigen should be done in both mother  and baby which may help in diagnosis and management. ACKNOWLEDGEMENTS To our neonates who are our best teachers.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_26",
+      "text": "h may help in diagnosis and management. ACKNOWLEDGEMENTS To our neonates who are our best teachers. CONFLICT OF INTEREST Nothing to declare. AUTHOR CONTRIBUTIONS SG, VC, NPG, VG, and AP: drafted this article. AP: did the  critical appraisal of the manuscript. All authors accepted the  final manuscript. ETHICAL APPROVAL Consent has been obtained from the parents.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_27",
+      "text": "uthors accepted the  final manuscript. ETHICAL APPROVAL Consent has been obtained from the parents. DATA AVAILABILITY STATEMENT All data are included in the case report. ORCID Aakash Pandita   https://orcid.org/0000-0001-5890-0974  REFERENCES \t 1.\t Tein Dat T, Kotani T, Yamamoto E, Shibata K. Dengue fever  during pregnancy. Nagoya J Med Sci. 2018;80:241-247.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_28",
+      "text": "Kotani T, Yamamoto E, Shibata K. Dengue fever  during pregnancy. Nagoya J Med Sci. 2018;80:241-247. FIGURE 1  Neonate with maculopapular rash TABLE 1  Investigations suggestive of dengue in mother and  neonate Day of illness NS-1 Ag IgM IgG Mother (Antepartum) Day 3 + − − Day 8 − + − (Postpartum) Day 35 − − + Baby Day 3 − + − Day 25 − + 706  |      GUPTA et al.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_29",
+      "text": "3 + − − Day 8 − + − (Postpartum) Day 35 − − + Baby Day 3 − + − Day 25 − + 706  |      GUPTA et al. \t 2.\t Pouliot SH, Xiong X, Harville E, et al. Maternal dengue and  pregnancy outcomes: a systematic review. Obstet Gynecol Surv.  2010;65(2):107-118.https://doi.org/10.1097/OGX.0b013​e3181​ cb8fbc \t 3.\t Fernandez R, Rodriguez I, Borbonet E, Vazquez S, Guzman MG,  Kasi G.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_30",
+      "text": "/OGX.0b013​e3181​ cb8fbc \t 3.\t Fernandez R, Rodriguez I, Borbonet E, Vazquez S, Guzman MG,  Kasi G. Study of the relationship dengue-pregnancy in group of  urban-mothers. Pev Cubana Med Trop. 1994;146:76-78. \t 4.\t Carles C, Peifter H, Talarnin A. Effect of dengue fever during preg- nancy in French Guiana. Clin Infect Dis. 1999;28:637-640. \t 5.\t Thomas J, Thomas P, Reeba George C.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_31",
+      "text": "nancy in French Guiana. Clin Infect Dis. 1999;28:637-640. \t 5.\t Thomas J, Thomas P, Reeba George C. Neonatal dengue case re- port. Int J Contemp Pediatr. 2017;4(6):2234-2236. \t 6.\t Carroll ID, Toovey S, Van Gompel A. Dengue fever and pregnancy  - a review and comment. Travel Med Infect Dis. 2007;5:183. \t 7.\t Tan PC, Rajasingam G, Devi S, Omar SZ.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_32",
+      "text": "review and comment. Travel Med Infect Dis. 2007;5:183. \t 7.\t Tan PC, Rajasingam G, Devi S, Omar SZ. Dengue infection in  pregnancy: prevalence, vertical transmission, and pregnancy out- come. Obstet Gynecol. 2008;111:1111. \t 8.\t Barthel A, Gourinat AC, Cazorla C, et al. Breast milk as a possi- ble route of vertical transmission of dengue virus? Clin Infect Dis.  2013;57:415.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_33",
+      "text": "milk as a possi- ble route of vertical transmission of dengue virus? Clin Infect Dis.  2013;57:415. \t 9.\t Perret C, Chanthavanich P, Pengsaa K, et al. Dengue infection  during pregnancy and transplacental antibody transfer in Thai  mothers. J Infect. 2005;51:287-293. \t10.\t Kerdpanich A, Watanaveeradej V, Samakoses R, et al. Perinatal  dengue infection. Southeast Asian J Trop Med Public Health.",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c21356c3c33_34",
+      "text": "radej V, Samakoses R, et al. Perinatal  dengue infection. Southeast Asian J Trop Med Public Health.  2001;32:488-493. How to cite this article: Gupta S, Choudhury V, Gupta  NP, Gupta V, Pandita A. Congenital dengue in neonate.  Clin Case Rep. 2021;9:704–706. https://doi.org/10.1002/ ccr3.3627 .",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "8c21356c3c33_img_1",
+      "text": "Image: ).",
+      "metadata": {
+        "doc_id": "8c21356c3c33",
+        "filename": "Congenital dengue in neonate.pdf",
+        "document_type": "guideline",
+        "type_confidence": 0.20454545454545453,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.146344",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_type": "image",
+        "image_path": "Congenital dengue in neonate_p2_img1_d3b6dd59.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    }
+  ],
+  "total_chunks": 36
+}

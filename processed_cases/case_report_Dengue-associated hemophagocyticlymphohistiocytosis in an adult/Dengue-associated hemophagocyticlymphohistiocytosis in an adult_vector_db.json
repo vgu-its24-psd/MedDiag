@@ -1,0 +1,854 @@
+{
+  "document_id": "589dda94d6f7",
+  "document_type": "case_report",
+  "type_confidence": 0.6,
+  "document_metadata": {
+    "doc_id": "589dda94d6f7",
+    "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.6,
+    "pages": 4,
+    "processed_date": "2025-09-27T23:12:51.465886",
+    "has_images": true,
+    "image_count": 3
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 33,
+      "gender": "female"
+    },
+    "timeline": {
+      "onset_days": 3
+    },
+    "clinical_findings": {
+      "chief_complaint": "3 days of fever, myalgia, and skin rash"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "of HLH might enable physicians to\nstart the steroid treatment in optimal time, leading to better\nclinical outcome"
+    },
+    "interventions": {
+      "medications": [
+        {
+          "name": "triglyceride",
+          "dose": "308",
+          "unit": "mg"
+        }
+      ]
+    },
+    "outcomes": {
+      "status": "recovered"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "589dda94d6f7_0",
+      "text": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult A case report and literature review Sang Mi Chung, MDa, Joon Young Song, MD, PhDa,∗, Wonshik Kim, MDa, Min Joo Choi, MDa, Ji Ho Jeon, MDa, Seonghui Kang, MDb, Eunju Jung, MDc, Ji Yun Noh, MD, PhDa, Hee Jin Cheong, MD, PhDa, Woo Joo Kim, MD, PhDa Abstract Background: Infection-associated hemophagocytic syndrome (IAHS) is potentially a fatal disease caused by systemic infection complicated by hemophagocyticlymphohistiocytosis (HLH).",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_1",
+      "text": "rome (IAHS) is potentially a fatal disease caused by systemic infection complicated by hemophagocyticlymphohistiocytosis (HLH). Here, we report a case of HLH associated with dengue hemorrhagic fever (DHF) after a trip to Thailand. Case summary: A 33-year-old healthy female patient presented with 3 days of fever, myalgia, and skin rash. Serotype 3 dengue virus was isolated. Clinical and laboratory ﬁndings fulﬁlled the criteria of HLH.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_2",
+      "text": "er, myalgia, and skin rash. Serotype 3 dengue virus was isolated. Clinical and laboratory ﬁndings fulﬁlled the criteria of HLH. After the initiation of corticosteroid therapy, the patient recovered and laboratory ﬁndings were normalized. Conclusion: It would be important to differentially diagnose dengue-associated HLH from severe DHF. Early recognition and initiation of steroid treatment would be crucial for the successful treatment of dengue fever complicated by HLH.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_3",
+      "text": "cognition and initiation of steroid treatment would be crucial for the successful treatment of dengue fever complicated by HLH. Abbreviations: ALT = alanine aminotransferase, AST = aspartate transaminase, DHF = dengue hemorrhagic fever, DSS = dengue shock syndrome, HLH = hemophagocyticlymphohistiocytosis, IAHS = infection-associated hemophagocytic syndrome, LDH = lactate dehydrogenase. Keywords: corticosteroid, dengue hemorrhagic fever, severe dengue, hemophagocyticlymphohistiocytosis 1.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_4",
+      "text": "lactate dehydrogenase. Keywords: corticosteroid, dengue hemorrhagic fever, severe dengue, hemophagocyticlymphohistiocytosis 1. Introduction Dengue infection is a mosquito-borne, endemic disease caused by dengue virus in tropical regions. After malaria, dengue fever is considered as the most serious public health problem worldwide. Since the ﬁrst report in 1995, the number of imported cases has also been increasing with about 200 cases per a year in South Korea [1,2].",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_5",
+      "text": "rst report in 1995, the number of imported cases has also been increasing with about 200 cases per a year in South Korea [1,2]. There are 4 distinct dengue virus serotypes, including DEN-1, DEN-2, DEN-3, and DEN-4. Primary dengue infection is generally mild, inducing life-long immunity to the virus serotype but not to the others. Dengue infection by different serotypes of dengue virus has been accepted as the predisposing factor of severe dengue hemorrhagic fever (DHF) and dengue shock syndrome (DSS).",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_6",
+      "text": "ue virus has been accepted as the predisposing factor of severe dengue hemorrhagic fever (DHF) and dengue shock syndrome (DSS). Here, we report a case of severe primary dengue hemorrhagic fever complicated by hemophagocyticlymphohis- tiocytosis. 2. Case report A 33-year-old healthy female patient presented with fever, myalgia, and skin rash lasting 3 days before visiting Korea University Guro Hospital (Fig. 1). The patient had a history of trip to Thailand, and she came back to Koreaeight days ago.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_7",
+      "text": "rea University Guro Hospital (Fig. 1). The patient had a history of trip to Thailand, and she came back to Koreaeight days ago. Except for conjunctiva hemorrhage and mild splenomegaly, the physical ﬁndings were unremarkable. Initial laboratory tests showed mild neutropenia (1251/mL), thrombocytopenia (75,000/mL), elevated level of lactate dehy- drogenase (LDH, 1775IU/L), and elevated levels of alanine aminotransferase (ALT, 116IU/L) and aspartate transaminase (AST,74IU/L).",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_8",
+      "text": "genase (LDH, 1775IU/L), and elevated levels of alanine aminotransferase (ALT, 116IU/L) and aspartate transaminase (AST,74IU/L). Prothrombin time (PT, 13.1sec) and activated partial thromboplastin time (aPTT, 33.3sec) were within the normal range. Despite conservative treatment, sustained high fever was observed. On hospital day 3, the patient appeared lethargic and fever persisted. With suspicion for secondary HLH after dengue infection, diagnostic tests were performed.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_9",
+      "text": "peared lethargic and fever persisted. With suspicion for secondary HLH after dengue infection, diagnostic tests were performed. Although bone marrow examination did not show typical ﬁndings of hemo- phagocytosis, diagnostic criteria of HLH were met: fever, splenomegaly, cytopenia, hypertriglyceridaemia (fasting TG 308mg/dL), and hyperferritinaemia (ferritin 25,107 ng/mL) (Table 1). Intravenous dexamethasone (10mg/m2) was initiated on day 3 (Fig. 2).",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_10",
+      "text": "and hyperferritinaemia (ferritin 25,107 ng/mL) (Table 1). Intravenous dexamethasone (10mg/m2) was initiated on day 3 (Fig. 2). Dengue virus PCR was positive and reported as a serotype 3 on hospital day 8. The dose of dexamethasone was tapered down after 2 weeks of treatment, and all results of blood Editor: Ken S. Rosenthal. The patient provided written permission for publication of this case report.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_11",
+      "text": "and all results of blood Editor: Ken S. Rosenthal. The patient provided written permission for publication of this case report. This work was supported by the National Research Foundation of Korea(NRF) Grant funded by the Korean Government(MSIP)(NRF-2016R1A5A1010148). The authors have no conﬂicts of interest to disclose.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_12",
+      "text": "a(NRF) Grant funded by the Korean Government(MSIP)(NRF-2016R1A5A1010148). The authors have no conﬂicts of interest to disclose. a Division of Infectious Disease, Department of Internal Medicine, Korea University Guro Hospital, Korea University College of Medicine, Seoul, b Department of Internal Medicine, Konyang University College of Medicine, Daejeon, c Department of Internal Medicine, Hallym University College of Medicine, Chuncheon, Korea.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_13",
+      "text": "rsity College of Medicine, Daejeon, c Department of Internal Medicine, Hallym University College of Medicine, Chuncheon, Korea. ∗Correspondence: Joon Young Song, Division of Infectious Disease, Department of Internal Medicine, Korea University Guro Hospital, Korea University College of Medicine, Gurodong-ro, Guro-gu, Seoul, Korea (e-mail: infection@korea.ac.kr). Copyright © 2017 the Author(s). Published by Wolters Kluwer Health, Inc.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_14",
+      "text": "Guro-gu, Seoul, Korea (e-mail: infection@korea.ac.kr). Copyright © 2017 the Author(s). Published by Wolters Kluwer Health, Inc. This is an open access article distributed under the terms of the Creative Commons Attribution-Non Commercial-Share Alike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as the author is credited and the new creations are licensed under the identical terms.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_15",
+      "text": "upon the work non-commercially, as long as the author is credited and the new creations are licensed under the identical terms. Medicine (2017) 96:8(e6159) Received: 8 December 2016 / Received in ﬁnal form: 25 January 2017 / Accepted: 26 January 2017 http://dx.doi.org/10.1097/MD.0000000000006159 Clinical Case Report Medicine ® OPEN 1 tests were normalized (Fig. 2). The patient was discharged from the hospital on hospital day 18 without any sequelae. 3.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_16",
+      "text": "OPEN 1 tests were normalized (Fig. 2). The patient was discharged from the hospital on hospital day 18 without any sequelae. 3. Discussion Most dengue fever cases reported in South Korea are imported from endemic areas such as Southeast and southern Asia. During 2006–2010, all dengue fever cases reported in South Korea were travel associated.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_17",
+      "text": "s such as Southeast and southern Asia. During 2006–2010, all dengue fever cases reported in South Korea were travel associated. The disease spectrum of dengue infection can range from asymptomatic infection to severe dengue in the form dengue hemorrhagic fever (DHF) and dengue shock syndrome (DSS).[3] Looking at the pathogenesis of dengue infection, even though primary infection confers durable protection against re-infection by a homologous DENV serotype, secondary infection by viruses of a heterologousDENVserotypeoccursfrequentlyinendemic areasand is the single most important risk factor for severe disease.[4] This case was about dengue virus-associated HLH presenting with typical feature such as fever, splenomegaly, cytopenia, coagulopathy, and ferritinemia, meeting 5 of 8 HLH diagnostic criteria.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_18",
+      "text": "typical feature such as fever, splenomegaly, cytopenia, coagulopathy, and ferritinemia, meeting 5 of 8 HLH diagnostic criteria. Bone marrow biopsy showed increased number of histiocytes, although typical hemophagocytosis was not ob- served. It is important to clinically suspect IAHS based on the diagnostic criteria in the HLH-2004 guidelines (Table 1).",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_19",
+      "text": "t ob- served. It is important to clinically suspect IAHS based on the diagnostic criteria in the HLH-2004 guidelines (Table 1). Early recognition and diagnosis of HLH might enable physicians to start the steroid treatment in optimal time, leading to better clinical outcome.[5] Although the mechanism of HLH remains unclear, current accepted theory suggests that inappropriately proliferating and activated T-cells may induce macrophage activation with inadequate intracellular killing of phagocytes.[6] Many studies suggested the important roles of perforin and natural killer (NK) cells in the HLH subtypes.[7–9] Perforin deﬁciency may impair defenses against intracellular pathogens as demonstrated in animal models, whereas decreased NK cell activity results in increased T-cell activation and expansion with production of large quantities of cytokines (IFN-g, TNF–a and GM-CSF), thereby causing sustained macrophage activation.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_20",
+      "text": "on with production of large quantities of cytokines (IFN-g, TNF–a and GM-CSF), thereby causing sustained macrophage activation. During a virus infection, if the NK cell response cannot control the virus, T cells become more important, and the increased disease load promotes more inﬂammatory cytokine production by the T cells which activates more macrophages. Although the macrophages phagocytize infected white blood cells, they are inefﬁcient in killing them.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_21",
+      "text": "tivates more macrophages. Although the macrophages phagocytize infected white blood cells, they are inefﬁcient in killing them. Activated T cells and the abundance of activated macrophage produce more inﬂammatory cytokines to enhance the inﬂammation causing more tissue damage even in the bone marrow.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_22",
+      "text": "ed macrophage produce more inﬂammatory cytokines to enhance the inﬂammation causing more tissue damage even in the bone marrow. In the case of dengue infection, the NK cell activity was signiﬁcantly increased in the early disease stage, but signiﬁcantly decreased in the febrile shock stages.[10] In addition, invariant natural killer T (iNKT) cells are known to be activated during acute dengue infection.[11] iNKT cells are polyfunctional, as demonstrated by their ability to proliferate and secrete IFN-g and GM-CSF following stimulation.[12] Further studies are required to better clarify the pathogenesis of HLH-associated with dengue virus infection.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_23",
+      "text": "stimulation.[12] Further studies are required to better clarify the pathogenesis of HLH-associated with dengue virus infection. Table 2 shows 16 cases of dengue-associated HLH, including the present case.[13–19] The data was acquired from case reports in PubMed. The average age of the 16 patients was 35.1 years and the survival rate was 75% (12 alive out of 16cases). The youngest patient was 16 years old, and the oldest was 63 years.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_24",
+      "text": "rs and the survival rate was 75% (12 alive out of 16cases). The youngest patient was 16 years old, and the oldest was 63 years. Eighty- seven percent (14 out of 16 patients) of patients were healthy individuals without underlying disease. The 63-year old female was the only patient who had many underlying diseases including Crohn’s disease, hysterectomy state (uterine cancer), and chronic renal failure.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_25",
+      "text": "ent who had many underlying diseases including Crohn’s disease, hysterectomy state (uterine cancer), and chronic renal failure. The 43-year old female in Tans’ case had diabetes mellitus with HbA1C 7.4%.[14] Among the 16 reported cases, dengue-associated HLH was twice more common in female compared to male. As for the ethnicity, there were 7 Malays, 5 Thai, 2 Indians, 1 American, and 1 Korean. With respect to the infection types (primary or secondary), data were available in limited cases.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_26",
+      "text": "ns, 1 American, and 1 Korean. With respect to the infection types (primary or secondary), data were available in limited cases. Except for 4 DHF cases, 8 cases were primary, and 4 cases were secondary infection. Also, not all of the data evaluated the serotype of the dengue virus.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_27",
+      "text": "cases were primary, and 4 cases were secondary infection. Also, not all of the data evaluated the serotype of the dengue virus. Many studies found that primary dengue infections could be associated with severe DHF and dengue-associated hemophagocytic syndrome.[13–15,20,21] In the previous studies, primary dengue infection with serotype 1 or 3 and secondary infection with serotype 2 led to severe DHF.[22] Further studies are required to better clarify the relation between dengue-associated HLH and infection types/viral serotypes.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_28",
+      "text": "Further studies are required to better clarify the relation between dengue-associated HLH and infection types/viral serotypes. Among the 4 fatal cases, underlying disease, multiple organ dysfunction (MOD), old age, dengue secondary infection, late diagnosis, and delayed treatment were related to poor prognosis. MOD is more common Figure 1. Itchyerythematous rash on trunk, face, and both arms—white islands in a sea of red. Table 1 Diagnostic criteria for hemophagocyticlymphohistiocytosis (HLH).",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_29",
+      "text": "nk, face, and both arms—white islands in a sea of red. Table 1 Diagnostic criteria for hemophagocyticlymphohistiocytosis (HLH). Diagnostic criteria for HLH (≥5 out of the 8 criteria should be met) Fever 38.7°C Splenomegaly Splenomegaly (+) Cytopenia (affecting ≥2 of 3 lineages in the peripheral blood) Hb 11.9 mg/dL Hemoglobin <9.0 mg/dL Platelet 38 \u0001109/L Platelets <100\u0001109/L Neutrophils 0.5\u0001109/L Neutrophils <1.0 \u0001109/L Hypertriglyceridemia and/or hypoﬁbrinogenemia: Fasting triglyceride 308 mg/dL Fasting triglycerides ≥265 mg/dL Fibrinogen 0.273 g/dL Fibrinogen \u00031.5 g/L Hemophagocytosis in bone marrow or spleen or lymph nodes None No evidence of malignancy None Ferritin ≥500 mg/L 25,107mg/L Soluble CD25 (i.e., soluble IL-2 receptor) ≥2400 U/mL 1952 U/mL HLH = hemophagocyticlymphohistiocytosis.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_30",
+      "text": "n ≥500 mg/L 25,107mg/L Soluble CD25 (i.e., soluble IL-2 receptor) ≥2400 U/mL 1952 U/mL HLH = hemophagocyticlymphohistiocytosis. Chung et al.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_31",
+      "text": "5,107mg/L Soluble CD25 (i.e., soluble IL-2 receptor) ≥2400 U/mL 1952 U/mL HLH = hemophagocyticlymphohistiocytosis. Chung et al. Medicine (2017) 96:8 Medicine 2 in adult than child DHF which signiﬁes the different pathogenesis of DHF between adults and children.[16] Across the decades, switch in the predominant circulating serotype has been related to several dengue outbreaks in endemic areas.[23] At the beginning of 2013, switch from DENV2 to DENV1 caused outbreak in Singapore.[23] In neighboring Malaysia, DENV2 became dominant other than pre-existing DENV3 and DENV4.[23] Considering frequent re-infections and complicated cases as reported here, vaccine development has been requested.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_32",
+      "text": "d DENV4.[23] Considering frequent re-infections and complicated cases as reported here, vaccine development has been requested. Currently, a licensed dengue vaccine (Dengvaxia, Sanoﬁ-Pasteur) is available in some endemic countries, and several vaccine candidates are in clinical development: TV003/ TV005 (United States National Institutes of Health), TDV (Takeda), TDENV-PIV DPIV (GSK/Fiocruz/Walter Reed Army Institute of Research), V180 (Merck), and TVDV (United States Naval Medical Research Center).[24] Figure 2.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_33",
+      "text": "uz/Walter Reed Army Institute of Research), V180 (Merck), and TVDV (United States Naval Medical Research Center).[24] Figure 2. Trend of temperature and laboratory results in relation to dexamethasone treatment. Table 2 Cases of dengue-associated hemophagocyticlymphohistiocytosis in adults. No.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_34",
+      "text": "lts in relation to dexamethasone treatment. Table 2 Cases of dengue-associated hemophagocyticlymphohistiocytosis in adults. No. Authors Country Age, y Sex Fever duration, d Hospital visit since fever onset, d Infection type Virus serotype Underlying diseases Treatment ∗ Outcome 1 Ray et al[13] India 24 F 7 4 Primary NA None Dexa (10 mg/m2/day) Alive 2 Sharp et al[17] USA 63 F 1 1 Primary 3 Crohn’s disease Interferon Died 3 Wan Jamaludin et al[18] Malaysia 32 M 9 5 Primary NA None Dexa (10 mg/m2/day) IVIG (0.5 g/kg) Alive 4 Wan Jamaludin et al[18] Malaysia 19 M 5 4 Secondary NA None Dexa (12 mg/day) Alive 5 Wan Jamaludin et al[18] Malaysia 17 M 6 2 Primary NA None Dexa (4 mg/day) Alive 6 Tan et al[13] Malaysia 16 F 8 6 Primary NA Diabetes MP, IVIG Alive 7 Tan et al[14] Malaysia 43 F 6 6 Secondary NA None MP Died 8 Tan et al[14] Malaysia 34 M 4 4 Primary NA None MP Alive 9 Tan et al[14] Malaysia 36 F 7 7 Secondary NA None MP Alive 10 Sorakhunpipitku et al[16] Thailand 22 F N/A N/A Not deﬁned NA None Dexa, MP, IVIG Alive 11 Sorakhunpipitku et al[16] Thailand 43 F N/A N/A Not deﬁned NA None Dexa, MP, IVIG Alive 12 Sorakhunpipitku et al[16] Thailand 45 F N/A N/A Not deﬁned NA None Dexa, IVIG Died 13 Sorakhunpipitku et al[16] Thailand 65 M N/A N/A Not deﬁned NA None Dexa, IVIG Died 14 Roy et al[15] India 22 N/A 7 N/A Primary NA None Dexa Alive 15 Srichaikul et al[19] Thailand 46 F 4 N/A Secondary 2 None MP, IVIG Alive 16 Present case Korea 33 F 8 3 Primary 3 None Dexa (10 mg/m2/day) Alive NA=not available; Dexa=dexamethasone; MP=methylprednisolone.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_35",
+      "text": "esent case Korea 33 F 8 3 Primary 3 None Dexa (10 mg/m2/day) Alive NA=not available; Dexa=dexamethasone; MP=methylprednisolone. ∗Doses of steroid and IVIG were not described in some reports. Chung et al. Medicine (2017) 96:8 www.md-journal.com 3 In conclusion, it would be important to differentially diagnose dengue-associated HLH from severe dengue hemorrhagic fever. Early recognition and initiation of steroid would be crucial for the successful treatment of dengue fever complicated by HLH.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_36",
+      "text": ". Early recognition and initiation of steroid would be crucial for the successful treatment of dengue fever complicated by HLH. Dengue virus needs to be investigated as an important triggering factor for IAHS. References [1] Park S. Results of the National Infectious Diseases Surveillance, 2013. Public Health Weekly Rep 2014;7:881–7. [2] Park JH, Lee DW. Dengue fever in South Korea, 2006–2010. Emerg Infect Dis 2012;18:1525–7. [3] Ghosh A, Dar L.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_37",
+      "text": "2014;7:881–7. [2] Park JH, Lee DW. Dengue fever in South Korea, 2006–2010. Emerg Infect Dis 2012;18:1525–7. [3] Ghosh A, Dar L. Dengue vaccines: challenges, development, current status and prospects. Indian J Med Microbiol 2015;33:3–15. [4] Halstead SB. Dengue. Lancet 2007;370:1644–52. [5] Henter JI, Horne A, Aricó M, et al. HLH-2004: diagnostic and therapeutic guidelines for hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer 2007;48:124–31. [6] Imashuku S, Ueda I, Teramura T, et al.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_38",
+      "text": "delines for hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer 2007;48:124–31. [6] Imashuku S, Ueda I, Teramura T, et al. Occurrence of haemophagocytic lymphohistiocytosis at less than 1 year of age: analysis of 96 patients. Eur J Pediatr 2005;164:315–9. [7] Risma KA, Frayer RW, Filipovich AH, et al. Aberrant maturation of mutant perforin underlies the clinical diversity of hemophagocytic lymphohistiocytosis. J Clin Invest 2006;116:182–92. [8] Katano H, Cohen JI.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_39",
+      "text": "underlies the clinical diversity of hemophagocytic lymphohistiocytosis. J Clin Invest 2006;116:182–92. [8] Katano H, Cohen JI. Perforin and lymphohistiocytic proliferative disorders. Br J Haematol 2005;128:739–50. [9] Rieux-Laucat F, Le Deist F, De Saint Basile G. Autoimmune lymphoproliferative syndrome and perforin. N Engl J Med 2005;352: 306–7. author reply -7. [10] Homchampa P, Sarasombath S, Suvatte V, et al. Natural killer cells in dengue hemorrhagic fever/dengue shock syndrome.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_40",
+      "text": "-7. [10] Homchampa P, Sarasombath S, Suvatte V, et al. Natural killer cells in dengue hemorrhagic fever/dengue shock syndrome. Asian Pac J Allergy Immunol 1988;6:95–102. [11] Matangkasombut P, Chan-In W, Opasawaschai A, et al. Invariant NKT cell response to dengue virus infection in human. PLoS Negl Trop Dis 2014;8:e2955. [12] Sun W, Wang Y, East JE, et al. Invariant natural killer T cells generated from human adult hematopoietic stem-progenitor cells are poly- functional. Cytokine 2015;72:48–57.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_41",
+      "text": "ral killer T cells generated from human adult hematopoietic stem-progenitor cells are poly- functional. Cytokine 2015;72:48–57. [13] Ray S, Kundu S, Saha M, et al. Hemophagocytic syndrome in classic dengue fever. J Glob Infect Dis 2011;3:399–401. [14] Tan LH, Lum LC, Omar SF, et al. Hemophagocytosis in dengue: comprehensive report of six cases. J Clin Virol 2012;55:79–82. [15] Roy M, Bandyopadhyay D, Saha K, et al. Hemophagocytosis in dengue. Assam J Int Med 2013;3:27–9.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_42",
+      "text": "Clin Virol 2012;55:79–82. [15] Roy M, Bandyopadhyay D, Saha K, et al. Hemophagocytosis in dengue. Assam J Int Med 2013;3:27–9. [16] Sorakhunpipitkul L, Punyagupta S, Srichaikul T, et al. Thai adult dengue hemorrhagic fever during 2008–2010: seven cases presented with severe multiorgan failure and successfully treated with high dose of corticoste- roids and intravenous immunoglobulin G. J Infect Dis Antimicrob Agents 2011;28:99–103. [17] Sharp TM, Gaul L, Muehlenbachs A, et al.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_43",
+      "text": "and intravenous immunoglobulin G. J Infect Dis Antimicrob Agents 2011;28:99–103. [17] Sharp TM, Gaul L, Muehlenbachs A, et al. Fatal hemophagocytic lymphohistiocytosis associated with locally acquired dengue virus infection - New Mexico and Texas, 2012. MMWR Morb Mortal Wkly Rep 2014;63:49–54. [18] Wan Jamaludin WF, Periyasamy P, Wan Mat WR, et al. Dengue infection associated hemophagocytic syndrome: Therapeutic interven- tions and outcome. J Clin Virol 2015;69:91–5.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_44",
+      "text": "et al. Dengue infection associated hemophagocytic syndrome: Therapeutic interven- tions and outcome. J Clin Virol 2015;69:91–5. [19] Srichaikul T, Punyagupta S, Kanchanapoom T, et al. Hemophagocytic syndrome in Dengue hemorrhagic fever with severe multiorgan complications. J Med Assoc Thai 2008;91:104–9. [20] Mitra S, Bhattacharyya R. Hemophagocytic syndrome in severe dengue fever: a rare presentation. Indian J Hematol Blood Transfus 2014;30: 97–100. [21] Ribeiro E, Kassab S, Pistone T, et al.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_45",
+      "text": "dengue fever: a rare presentation. Indian J Hematol Blood Transfus 2014;30: 97–100. [21] Ribeiro E, Kassab S, Pistone T, et al. Primary dengue fever associated with hemophagocytic syndrome: a report of three imported cases, Bordeaux, France. Intern Med 2014;53:899–902. [22] Lei HY. Transient hemophagocytic activity in dengue immunopatho- genesis. J Formos Med Assoc 2009;108:595–8. [23] Ng LC, Chem YK, Koo C, et al. 2013 dengue outbreaks in Singapore and Malaysia caused by different viral strains.",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_46",
+      "text": "08:595–8. [23] Ng LC, Chem YK, Koo C, et al. 2013 dengue outbreaks in Singapore and Malaysia caused by different viral strains. Am J Trop Med Hyg 2015;92:1150–5. [24] Lim SK, Lee YS, Namkung S, et al. Prospects for dengue vaccines for travelers. Clin Exp Vaccine Res 2016;5:89–100. Chung et al. Medicine (2017) 96:8 Medicine 4 .",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "589dda94d6f7_img_1",
+      "text": "Image: ). The patient had a history of",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult_p1_img1_edf7fef2.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_img_1",
+      "text": "Image: Itchyerythematous rash on trunk, face, and both arms—white",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult_p2_img1_593b2039.png",
+        "clinical_relevance": "clinical_finding",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "589dda94d6f7_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "589dda94d6f7",
+        "filename": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:51.465886",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue-associated hemophagocyticlymphohistiocytosis in an adult_p3_img1_52ab8e47.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 3
+      }
+    }
+  ],
+  "total_chunks": 50
+}

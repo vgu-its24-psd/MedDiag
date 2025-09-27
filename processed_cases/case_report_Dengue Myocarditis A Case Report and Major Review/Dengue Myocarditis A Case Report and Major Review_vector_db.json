@@ -1,0 +1,2052 @@
+{
+  "document_id": "732f55a91f67",
+  "document_type": "case_report",
+  "type_confidence": 0.25,
+  "document_metadata": {
+    "doc_id": "732f55a91f67",
+    "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.25,
+    "pages": 11,
+    "processed_date": "2025-09-27T23:12:50.578718",
+    "has_images": true,
+    "image_count": 8
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 43,
+      "gender": "female"
+    },
+    "timeline": {},
+    "clinical_findings": {},
+    "diagnostics": {
+      "primary_diagnosis": "also included a number of pathologies characterized by chest pain, \nsuch as acute coronary syndromes, aortic dissection, pulmonary embolism, pneumonia, \npneumonitis, tuberculosis, viral myocarditis, musculoskeletal disorders, gastric ulcer, \ngastroesophageal reflux disease, pneumothorax, herpes zoster, depression, and panic disorder"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "died"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "732f55a91f67_0",
+      "text": "REVIEW CORRESPONDING AUTHOR: Roberto Cristodulo, MD Clínica de las Américas, Santa  Cruz, Bolivia dr.robertocristodulo@gmail.com KEYWORDS: Acute myocarditis; dengue;  expanded dengue syndrome TO CITE THIS ARTICLE: Cristodulo R, Luoma- Overstreet G, Leite F, Vaca  M, Navia M, Durán G, Molina  F, Zonneveld B, Perrone SV,  Barbagelata A, Kaplinsky E.  Dengue Myocarditis: A Case  Report and Major Review.  Global Heart. 2023; 18(1): 41.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_1",
+      "text": "Perrone SV,  Barbagelata A, Kaplinsky E.  Dengue Myocarditis: A Case  Report and Major Review.  Global Heart. 2023; 18(1): 41.  DOI: https://doi.org/10.5334/ gh.1254 Dengue Myocarditis: A Case  Report and Major Review ROBERTO CRISTODULO  GRACIA LUOMA-OVERSTREET  FERNANDO LEITE  MANUEL VACA  MICHELLE NAVIA  GUSTAVO DURÁN  FERNANDO MOLINA  BOZORG ZONNEVELD  SERGIO VÍCTOR PERRONE  ALEJANDRO BARBAGELATA  EDGARDO KAPLINSKY  *Author affiliations can be found in the back matter of this article ABSTRACT Dengue is a viral disease transmitted by the bite of a female arthropod, prevalent  primarily in tropical and subtropical regions.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_2",
+      "text": "gue is a viral disease transmitted by the bite of a female arthropod, prevalent  primarily in tropical and subtropical regions. Its manifestations include asymptomatic  infections, dengue fever, and a severe form called hemorrhagic dengue or dengue  shock syndrome. Atypical manifestations can also occur, called expanded dengue  syndrome. We describe the case of a 43-year-old man with an unusual presentation of dengue,  demonstrating a workup suggestive of myocardial and pericardial damage.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_3",
+      "text": "3-year-old man with an unusual presentation of dengue,  demonstrating a workup suggestive of myocardial and pericardial damage. Symptoms  and markers indicative of cardiac compromise improved after five days on anti- inflammatory treatment. Dengue myocarditis is considered an uncommon complication of dengue, although  its reported incidence is likely an underestimation. In general, most cases of dengue  myocarditis are self-limited, with only a minority at risk of progressing to heart failure.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_4",
+      "text": ". In general, most cases of dengue  myocarditis are self-limited, with only a minority at risk of progressing to heart failure.  In order to improve recognition and prevent progression, healthcare providers should  maintain a high degree of suspicion regarding potential cardiac complications in  patients with dengue. 2 Cristodulo et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_5",
+      "text": "ld  maintain a high degree of suspicion regarding potential cardiac complications in  patients with dengue. 2 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 INTRODUCTION Dengue is an infection transmitted by the bite of a female arthropod, particularly the Aedes  aegypti or Aedes albopictus, which has been infected by one of the four dengue virus (DENV)  serotypes: DENV-1, DENV-2, DENV-3, or DENV-4 [1]. An additional fifth serotype of the virus has  recently been described [2].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_6",
+      "text": "serotypes: DENV-1, DENV-2, DENV-3, or DENV-4 [1]. An additional fifth serotype of the virus has  recently been described [2]. This disease is endemic to tropical and subtropical regions around  the world, especially in urban and suburban regions, and represents an important public health  problem [3]. When the Aedes aegypti mosquito bites a person infected by DENV, the virus replicates in the  intestines of the mosquito before disseminating to its secondary tissues, including the salivary  glands.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_7",
+      "text": "us replicates in the  intestines of the mosquito before disseminating to its secondary tissues, including the salivary  glands. The time between entry of the virus and transmission to a new host is called extrinsic  incubation, and when the temperature is between 25°C and 28°C, this period lasts between  eight to twelve days [4].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_8",
+      "text": "extrinsic  incubation, and when the temperature is between 25°C and 28°C, this period lasts between  eight to twelve days [4]. The Aedes mosquito has adapted to be able to reproduce in manmade  structures including buckets, clay pots, discarded containers, used tires, stormwater drains, and  more; this has rendered dengue an insidious disease in densely populated urban centers. Aedes  aegypti mosquitos feed during the day, predominantly in the morning and evening.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_9",
+      "text": "ase in densely populated urban centers. Aedes  aegypti mosquitos feed during the day, predominantly in the morning and evening. The female  mosquito feeds frequently between spawning periods, which results in large groups of infected  individuals. Once the eggs are laid, they are viable for months in dry conditions and hatch after  contact with water.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_10",
+      "text": "nfected  individuals. Once the eggs are laid, they are viable for months in dry conditions and hatch after  contact with water. The incidence of dengue has increased significantly in the last several decades; current  estimates predict that about half of the world’s population is at risk of the infection. According  to the World Health Organization (WHO) there are between 100 and 400 million new infections  every year, although more than 80% of these are mild or asymptomatic [2].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_11",
+      "text": "there are between 100 and 400 million new infections  every year, although more than 80% of these are mild or asymptomatic [2]. In general, most  infections follow a course similar to that of the common cold, but occasionally they can  progress to serious complications and even fatal outcomes [3].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_12",
+      "text": "e similar to that of the common cold, but occasionally they can  progress to serious complications and even fatal outcomes [3]. CASE REPORT A 43-year-old man was admitted to the Clínica de las Américas (CDLA) in Santa Cruz de la  Sierra, Bolivia, presenting with moderate-intensity, continuous crushing chest pain radiating to  the lower jaw and the left shoulder. The pain had started two days prior and had progressively  increased in intensity.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_13",
+      "text": "ing to  the lower jaw and the left shoulder. The pain had started two days prior and had progressively  increased in intensity. Five days prior to his hospitalization, the patient had presented to the emergency department  for fever, headache, retro-orbital pain, general body aches, and joint pain.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_14",
+      "text": "patient had presented to the emergency department  for fever, headache, retro-orbital pain, general body aches, and joint pain. Due to the high  degree of suspicion and multiple cases of dengue in the community, a dengue test (ELISA IgM)  was performed, yielding a positive result, which was subsequently confirmed through reverse  transcriptase polymerase chain reaction (RT-PCR).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_15",
+      "text": "yielding a positive result, which was subsequently confirmed through reverse  transcriptase polymerase chain reaction (RT-PCR). The patient was hemodynamically stable  with no signs of heart failure, exhibiting no murmurs or rubs on auscultation, and a chest- radiography performed at that time showed normal results. The patient’s electrocardiogram (EKG) revealed sinus rhythm with a heart rate of 95 beats per  minute.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_16",
+      "text": "e showed normal results. The patient’s electrocardiogram (EKG) revealed sinus rhythm with a heart rate of 95 beats per  minute. Additionally, an ST segment elevation of 2 mm was observed in leads II, III, aVF, and V4  to V6 (Figure 1). This was interpreted as acute coronary syndrome with ST-segment elevation,  so blood tests (including cardiac biomarkers) were requested and the myocardial infarction  protocol (primary angioplasty) was activated.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_17",
+      "text": "ests (including cardiac biomarkers) were requested and the myocardial infarction  protocol (primary angioplasty) was activated. However, a coronary angiography revealed no  significant lesions. Figure 1 Electrocardiogram  with ST segment elevation. 3 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 Simultaneously, a transthoracic echocardiogram was performed, revealing normal systolic  function in both ventricles.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_18",
+      "text": "4/gh.1254 Simultaneously, a transthoracic echocardiogram was performed, revealing normal systolic  function in both ventricles. The left ventricular ejection fraction (LVEF), assessed using Simpson’s  method, was 66%, and the diastolic function was preserved. Longitudinal deformation was  –19.8% with a minor decrease in the deformation affecting the basal and medial inferoseptal  segment.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_19",
+      "text": "itudinal deformation was  –19.8% with a minor decrease in the deformation affecting the basal and medial inferoseptal  segment. Finally, the parietal pericardium was found enlarged and diffusely hyperechogenic,  suggesting an inflammatory process at that level (Figure 2). Complete blood count and basic metabolic panel lab results all yielded normal results, with  hemoglobin of 12.6 g/dl, hematocrit of 39.2%, leukocyte count of 8700 cells/μl with normal  differential and a platelet count of 263,000/μl.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_20",
+      "text": "12.6 g/dl, hematocrit of 39.2%, leukocyte count of 8700 cells/μl with normal  differential and a platelet count of 263,000/μl. Creatinine, sodium and potassium levels were  0.7 mg/dl, 142 mEq/L, and 4.6 mEq/L, respectively. Cardiac markers were slightly elevated, with  a NT-proB-type Natriuretic Peptide (NT-proBNP) level of 678 pg/mL (normal value <125 pg/ml),  a troponin T level of 154 ng/L (normal value <14), but with a normal creatine phosphokinase  (CPK) value of 88 U/L (normal value <308 U/L).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_21",
+      "text": "level of 154 ng/L (normal value <14), but with a normal creatine phosphokinase  (CPK) value of 88 U/L (normal value <308 U/L). Cardiac magnetic resonance imaging (MRI) with gadolinium revealed normal-sized cardiac  chambers, preserved right ventricular function, and a LVEF of 52% (lower than the normal  range) in a context of mild hypokinesia of the inferior wall of the left ventricle (basal and medial  segments) (Figure 3).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_22",
+      "text": "al  range) in a context of mild hypokinesia of the inferior wall of the left ventricle (basal and medial  segments) (Figure 3). Figure 2 Echocardiogram of  the short axis with thickening  of the parietal pericardium. Figure 3 Cardiac MRI showing  hyperemia in the basal portion. 4 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 The presence of myocardial edema was also observed in the same inferior wall with  inferoseptal extension (Figure 4).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_23",
+      "text": "4/gh.1254 The presence of myocardial edema was also observed in the same inferior wall with  inferoseptal extension (Figure 4). Late enhancement sequences revealed gadolinium  uptake in the basal, medial, and inferior basal inferoseptal segments of the left ventricle,  and the pericardium in its basal region (Figure 5). All of these findings are consistent with  acute myocarditis.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_24",
+      "text": "t ventricle,  and the pericardium in its basal region (Figure 5). All of these findings are consistent with  acute myocarditis. The differential diagnosis also included a number of pathologies characterized by chest pain,  such as acute coronary syndromes, aortic dissection, pulmonary embolism, pneumonia,  pneumonitis, tuberculosis, viral myocarditis, musculoskeletal disorders, gastric ulcer,  gastroesophageal reflux disease, pneumothorax, herpes zoster, depression, and panic disorder.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_25",
+      "text": "eletal disorders, gastric ulcer,  gastroesophageal reflux disease, pneumothorax, herpes zoster, depression, and panic disorder. Considering the exclusion of acute myocardial infarction through normal coronary angiography,  the clinical findings, elevated cardiac biomarkers, positive specific serology, suggestive cardiac  images, and the epidemiological context, a dengue myocarditis diagnosis was suggested.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_26",
+      "text": "e specific serology, suggestive cardiac  images, and the epidemiological context, a dengue myocarditis diagnosis was suggested. The patient was treated with nonsteroidal anti-inflammatory drugs (NSAIDs), acetylsalicylic  acid, and colchicine, resulting in clinical improvement of pain and reduction in cardiac  biomarkers levels. During the first 24 hours of admission, the patient had persistent hiccups,  which were effectively managed with intravenous metoclopramide.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_27",
+      "text": "rst 24 hours of admission, the patient had persistent hiccups,  which were effectively managed with intravenous metoclopramide. Discharge was effective on  the third day of admission with prescriptions for acetylsalicylic acid (750 mg every eight hours  for one week) and colchicine (0.5 mg daily for two weeks). DISCUSSION DENGUE EPIDEMIOLOGY Dengue is a global health problem that affects more than 40% of the population in endemic  regions.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_28",
+      "text": "CUSSION DENGUE EPIDEMIOLOGY Dengue is a global health problem that affects more than 40% of the population in endemic  regions. It is responsible for a high morbidity and mortality rate in these areas. The oldest  recorded case of dengue originates from China and dates back to the Jin dynasty (265 to  420 AD). During the Neolithic period, a significant shift in lifestyle occurred as human beings  transitioned from a nomadic to a sedentary way of life.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_29",
+      "text": "thic period, a significant shift in lifestyle occurred as human beings  transitioned from a nomadic to a sedentary way of life. With the arrival of agriculture and  farming, the development of stable communities, and the emergence of primitive structures,  an ideal setup for epidemics was created [7]. The abandonment of the nomadic life allowed establishing a neighborly relationship with  mosquitoes, fleas, lice and/or Triatoma that serve as insect vectors of many diseases.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_30",
+      "text": "blishing a neighborly relationship with  mosquitoes, fleas, lice and/or Triatoma that serve as insect vectors of many diseases. Within  these sedentary societies, pathogens acquired an endless supply of hosts and evolved to  become less virulent but more infectious, ensuring the preservation of their hosts [7].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_31",
+      "text": "endless supply of hosts and evolved to  become less virulent but more infectious, ensuring the preservation of their hosts [7]. Beginning in the 18th century and especially during the industrial revolution, the flows and  transport of people increased notably, first with the railway and later with the arrival of the  Figure 4 Cardiac MRI  with triple IR sequencing  showing hyperintense signal,  compatible with myocardial  edema.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_32",
+      "text": "rival of the  Figure 4 Cardiac MRI  with triple IR sequencing  showing hyperintense signal,  compatible with myocardial  edema. Figure 5 Cardiac MRI with late  gadolinium enhancement in  the inferoseptal, inferior, and  inferomedial segments. 5 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 automobile, which favored the spread of the disease.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_33",
+      "text": "medial segments. 5 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 automobile, which favored the spread of the disease. For this reason, in the early 1870s, different  countries around the world began to face serious epidemics of dengue, despite the fact that  the disease was only endemic in some regions of Africa, the Americas, the Mediterranean,  Southeast Asia, and the Western Pacific (Asia alone had about 70% of the cases worldwide) [8].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_34",
+      "text": "he Americas, the Mediterranean,  Southeast Asia, and the Western Pacific (Asia alone had about 70% of the cases worldwide) [8]. Reaching our contemporary times, 2019 saw the largest number of dengue cases worldwide. In  this context, all regions of the world were affected, and, for the first time, cases were reported  in Afghanistan.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_35",
+      "text": "ldwide. In  this context, all regions of the world were affected, and, for the first time, cases were reported  in Afghanistan. In the United States alone, 3.1 million cases were documented (25,000 of them  classified as serious) while the number of cases in Asia also increased significantly, such as in  Bangladesh (101,000), Malaysia (131,000), Philippines (420,000), and Vietnam (320,000) [9].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_36",
+      "text": "ncreased significantly, such as in  Bangladesh (101,000), Malaysia (131,000), Philippines (420,000), and Vietnam (320,000) [9]. During 2020 and 2021, a notable increase in dengue cases was also reported in many other  countries including Brazil, Ecuador, India, Indonesia, Cook Islands, Maldives, Mauritania,  Mayotte (French archipelago), Nepal, Singapore, Sri Lanka, Sudan, Thailand, East Timor, Yemen,  Colombia, Fiji, Kenya, Paraguay, Peru, and Reunion Islands [10, 11].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_37",
+      "text": "Singapore, Sri Lanka, Sudan, Thailand, East Timor, Yemen,  Colombia, Fiji, Kenya, Paraguay, Peru, and Reunion Islands [10, 11]. CLINICAL PRESENTATION OF DENGUE Dengue is responsible for a wide spectrum of clinical presentations, ranging from an  asymptomatic infection (where the patient may be unaware of the infection), to symptoms  similar to the flu, or, more infrequently, some severe cases causing bleeding, systemic  compromise, organ failure, and extravasation of plasma.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_38",
+      "text": "u, or, more infrequently, some severe cases causing bleeding, systemic  compromise, organ failure, and extravasation of plasma. Severe dengue can be fatal if not  properly treated, as first reported in the 1950s during an epidemic in the Philippines and  Thailand [10]. Nowadays, its presence affects most countries in Asia and Latin America, and it  has become one of the leading causes of hospitalization and death in these regions [11].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_39",
+      "text": "ies in Asia and Latin America, and it  has become one of the leading causes of hospitalization and death in these regions [11]. It has been estimated that there are some 390 million global dengue infections every year  (95% confidence interval 284 to 528 million). Around 96 million (67 to 136 million) of these  cases have clinical manifestations, with varying levels of severity [12]. One study estimates  that 3.97 billion people worldwide are at risk of dengue infection due to epidemiological risk  factors.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_40",
+      "text": ". One study estimates  that 3.97 billion people worldwide are at risk of dengue infection due to epidemiological risk  factors. Of these, 824 million live in urban and 763 million in peri-urban areas [13]. The number  of dengue cases notified to the WHO has increased eightfold in the last 20 years, rising from  505,430 cases in 2000 to over than 2.4 million in 2010, and reaching 5.2 million in 2019 [10]. Most dengue infections are asymptomatic or minimally symptomatic.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_41",
+      "text": "n 2.4 million in 2010, and reaching 5.2 million in 2019 [10]. Most dengue infections are asymptomatic or minimally symptomatic. Some patients may  also present with high fever, intense pain behind the eyes, headaches, muscle pain, joint  pain, nausea, vomiting, extreme fatigue, itching and/or bleeding from the nose or gums, and  appearance of spots on the skin, among other symptoms. Cases of intense cough have been  described in both children and adults.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_42",
+      "text": "appearance of spots on the skin, among other symptoms. Cases of intense cough have been  described in both children and adults. However, dengue can worsen and generate the well- known dengue hemorrhagic fever, although even in this context, fatal cases are rare [14]. The  clinical appearance of the disease usually occurs following an incubation period of four to ten  days after being bitten by an infected mosquito, and symptoms may last from two to seven  days [10].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_43",
+      "text": "ion period of four to ten  days after being bitten by an infected mosquito, and symptoms may last from two to seven  days [10]. The WHO classified symptoms from dengue into the following categories (Figure 6): 1)\t Non-classical dengue fever or undifferentiated fever: simple febrile processes  (indistinguishable from other viral infections), mainly in individuals who have been  infected with dengue virus for the first time.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_44",
+      "text": "stinguishable from other viral infections), mainly in individuals who have been  infected with dengue virus for the first time. 2)\t Dengue fever without bleeding: acute febrile illness with severe headache, myalgias,  arthralgias, skin rash and bone pain (breakbone fever); leukopenia and thrombocytopenia  may also be present. 3)\t Dengue fever with bleeding: clinical presentation of classical dengue accompanied by  hemorrhages.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_45",
+      "text": "ia  may also be present. 3)\t Dengue fever with bleeding: clinical presentation of classical dengue accompanied by  hemorrhages. Typically, the bleeding manifestations are mild and include a positive  tourniquet test, petechiae, or skin bruising, epistaxis, gingival bleeding, and microscopic  hematuria. Some severe forms may include vaginal bleeding, hematemesis, melena, and  intracranial hemorrhage.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_46",
+      "text": "and microscopic  hematuria. Some severe forms may include vaginal bleeding, hematemesis, melena, and  intracranial hemorrhage. 3.1)\t Dengue hemorrhagic fever (non-shock), defined by the following four WHO criteria:  fever or recent history of acute fever lasting two to seven days; hemorrhagic  manifestations (previously described); thrombocytopenia with platelet count  <100,000/mm3; and evidence of increased vascular permeability. Plasma  6 Cristodulo et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_47",
+      "text": "hrombocytopenia with platelet count  <100,000/mm3; and evidence of increased vascular permeability. Plasma  6 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 leakage, typically observed after the febrile phase (third to sixth day), is the  key characteristic and the critical phase of the disease, and is a consequence  of immune mediators rather than capillary damage.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_48",
+      "text": "y characteristic and the critical phase of the disease, and is a consequence  of immune mediators rather than capillary damage. Plasma leakage includes  an elevated hematocrit ≥20% above the population mean hematocrit for  age and sex, a decline in hematocrit after volume-replacement treatment  of ≥20% of the baseline hematocrit, presence of pleural effusion or ascites  detected by radiography or other imaging method, hypoproteinemia (<6g/dL),  or hypoalbuminemia (<3.5 g/dL), as determined by laboratory tests.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_49",
+      "text": "iography or other imaging method, hypoproteinemia (<6g/dL),  or hypoalbuminemia (<3.5 g/dL), as determined by laboratory tests. Bleeding  is not necessary for the diagnosis of dengue hemorrhagic fever when evidence  of plasma leakage is detected. However, the name hemorrhagic dengue is  maintained due to the tendency towards hemorrhage in these cases. 3.2)\t Dengue shock syndrome: typical dengue hemorrhagic fever accompanied by  circulatory failure (hypovolemic shock because of plasma leakage).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_50",
+      "text": "k syndrome: typical dengue hemorrhagic fever accompanied by  circulatory failure (hypovolemic shock because of plasma leakage). Patients with  severe leakage may develop shock with the consequent progressive organ failure,  metabolic acidosis, disseminated intravascular coagulation, and eventually,  hemorrhage.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_51",
+      "text": "consequent progressive organ failure,  metabolic acidosis, disseminated intravascular coagulation, and eventually,  hemorrhage. 4)\t Expanded dengue syndrome/isolated organopathy: dengue patients can occasionally  develop unusual clinical manifestations as a consequence of viral invasion and direct  toxicity of the liver (elevation of liver transaminases, acute liver failure), kidneys (acute  renal failure, proteinuria, glomerulonephritis, hemolytic uremic syndrome, etc.), bone  marrow (thrombocytopenia, lymphocytosis, pancytopenia, aplastic anemia, disseminated  intravascular coagulopathy, etc.), brain (encephalopathy, encephalitis, acute  disseminated encephalomyelitis, optic neuritis, etc.), or heart (arrhythmias, pericarditis  and myocarditis, heart blocks, etc.) [2, 5, 6].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 51,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_52",
+      "text": "encephalomyelitis, optic neuritis, etc.), or heart (arrhythmias, pericarditis  and myocarditis, heart blocks, etc.) [2, 5, 6]. Several signs and symptoms have been identified as accurate predictors of poor prognosis,  classified as warning signs.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 52,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_53",
+      "text": "5, 6]. Several signs and symptoms have been identified as accurate predictors of poor prognosis,  classified as warning signs. These signs are: intense and sustained abdominal pain; persistent  vomiting; serous effusion (in peritoneum, pleura or pericardium); postural hypotension or  syncope; mucosal bleeding; change in the patient’s mental state such as drowsiness or  irritability; hepatomegaly (>2 cm); and sudden increase in hematocrit concomitant with  rapid decrease in platelet count (late sign).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 53,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_54",
+      "text": "bility; hepatomegaly (>2 cm); and sudden increase in hematocrit concomitant with  rapid decrease in platelet count (late sign). The secondary classification of dengue, with or  without alarm symptoms, was developed to assist health professionals in selecting patients for  admission to the hospital and close monitoring, in order to reduce the risk of developing a more  serious presentation of dengue [2]. Figure 6 Dengue classification  according to World Health  Organization (WHO). 7 Cristodulo et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 54,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_55",
+      "text": "presentation of dengue [2]. Figure 6 Dengue classification  according to World Health  Organization (WHO). 7 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 CARDIAC MANIFESTATIONS One of the first descriptions of myocarditis related to arbovirus infections (dengue or  chikungunya fever), including clinical characteristics and possible sequelae, was made by  Obevesekere and Hermon in 1972 in Sri Lanka [15].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 55,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_56",
+      "text": "ever), including clinical characteristics and possible sequelae, was made by  Obevesekere and Hermon in 1972 in Sri Lanka [15]. One year later, also in Sri Lanka, Nagaranam,  Siripala, and Nandani de Silva reported two new cases of arbovirus-related myocarditis [16].  Epidemiological data from India suggest that one in 206 dengue patients have cardiac  symptoms attributed to myocarditis. Conversely, Wali et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 56,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_57",
+      "text": "ta from India suggest that one in 206 dengue patients have cardiac  symptoms attributed to myocarditis. Conversely, Wali et al. reported that a large number of  patients with DHF present left ventricular hypokinesia and LVEF <40% [17, 18]. A study of 1,782 patients diagnosed with dengue in China found that 201 of these  patients experienced myocarditis, and 11.8% of these patients with myocarditis required  hospitalization [19].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 57,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_58",
+      "text": "at 201 of these  patients experienced myocarditis, and 11.8% of these patients with myocarditis required  hospitalization [19]. On the other hand, histological evidence of myocarditis was revealed in  an autopsy study of five patients who died from other serious complications of dengue but  were never diagnosed with myocarditis (subclinical myocarditis) [20].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 58,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_59",
+      "text": "who died from other serious complications of dengue but  were never diagnosed with myocarditis (subclinical myocarditis) [20]. In dengue myocarditis,  the inflammatory process can affect the myocytes, the vascular structures, the conduction  system, the autonomic nerves, and the interstitium, and it is not infrequent that the  pericardium is affected by contiguity [19]. Myocardial damage is likely the combined effect of a  direct viral attack and an added immune-mediated lesion.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 59,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_60",
+      "text": "contiguity [19]. Myocardial damage is likely the combined effect of a  direct viral attack and an added immune-mediated lesion. Both the viral genetic material and  the viral proteins can directly promote myocyte apoptosis, while the immunological injury is  generated by the leukocyte response and the inflammatory cascade of cytokines. In addition,  vascular endothelial injury caused by the virus or by the added immune reaction also indirectly  contributes to myocardial injury [21] (Figure 7).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 60,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_61",
+      "text": "l injury caused by the virus or by the added immune reaction also indirectly  contributes to myocardial injury [21] (Figure 7). The clinical manifestations of dengue myocarditis range from silent forms to symptoms of  chest pain, dyspnea, heart failure, pulmonary edema, or cardiogenic shock. Dengue myocarditis  can even imitate acute myocardial infarction [21, 24], as in our case.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 61,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_62",
+      "text": "lmonary edema, or cardiogenic shock. Dengue myocarditis  can even imitate acute myocardial infarction [21, 24], as in our case. Arrhythmias including sinus  tachycardia, ventricular arrhythmias, supraventricular arrhythmias such as atrial fibrillation,  and/or varying degrees of atrioventricular block can be detected [19, 22, 23].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 62,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_63",
+      "text": "icular arrhythmias such as atrial fibrillation,  and/or varying degrees of atrioventricular block can be detected [19, 22, 23]. The first case of sinus node dysfunction related to dengue infection was reported in a three- year-old boy who developed hypotension and bradycardia after recovering from dengue  hemorrhagic fever [25]. Agudelo-Salas et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 63,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_64",
+      "text": "ar-old boy who developed hypotension and bradycardia after recovering from dengue  hemorrhagic fever [25]. Agudelo-Salas et al. reported that in patients without a myocarditis  diagnosis, a significant presence of symptoms may suggest its presence, including tachycardia  (23.1%), bradycardia (15.4%), and hypotension (12.8%) [26].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 64,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_65",
+      "text": "esence of symptoms may suggest its presence, including tachycardia  (23.1%), bradycardia (15.4%), and hypotension (12.8%) [26]. As previously stated, the cardiac  effects of dengue virus extend beyond myocarditis, and can affect the conduction system,  including nonspecific ST-segment alterations and low QRS complex voltage, in addition to the  arrhythmias previously described. All these manifestations can either be asymptomatic or may  cause severe symptoms [27].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 65,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_66",
+      "text": "the  arrhythmias previously described. All these manifestations can either be asymptomatic or may  cause severe symptoms [27]. ESTABLISHING A DIAGNOSIS When there is suspicion of a dengue infection in a patient with supportive epidemiologic  factors, it is essential to confirm the diagnosis through serological tests. In this context, blood  samples obtained in the first week of illness should be analyzed with RT-PCR.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 66,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_67",
+      "text": "hrough serological tests. In this context, blood  samples obtained in the first week of illness should be analyzed with RT-PCR. This is because  the virus can only be isolated in blood during this period (specialized equipment and trained  staff are required).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 67,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_68",
+      "text": "is because  the virus can only be isolated in blood during this period (specialized equipment and trained  staff are required). Dengue virus can also be detected through commercially-available easy  rapid diagnostic tests that are designed to identify a specific viral protein produced by the  Figure 7 Summary of the  cellular and molecular  pathology of viral and  autoimmune myocarditis. 8 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 virus, known as the non-structural protein NS1.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 68,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_69",
+      "text": "toimmune myocarditis. 8 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 virus, known as the non-structural protein NS1. This protein is secreted into the blood during  the acute phase of dengue infection, typically within the first seven days. A positive result of  the NS1 test indicates a dengue infection, although it does not provide information about the  specific serotype. The results of these tests can be obtained within approximately 20 minutes.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 69,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_70",
+      "text": "t provide information about the  specific serotype. The results of these tests can be obtained within approximately 20 minutes.  Complex serological methods (such as ELISA), can be employed to confirm the presence of  recent or past dengue infection. These methods detect specific antibodies against the dengue  virus. IgM antibodies can be detected from approximately the first week of infection and  remain detectable for about three months, indicating a recent dengue infection.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 70,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_71",
+      "text": "approximately the first week of infection and  remain detectable for about three months, indicating a recent dengue infection. IgG antibodies  take longer to develop, but remain in the system for years. Their presence suggests a previous  infection [10]. The diagnosis of myocarditis, an inflammatory condition of the myocardium, remains a  challenge due to its heterogeneous clinical presentation and the wide spectrum of underlying  etiologies [28].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 71,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_72",
+      "text": "dium, remains a  challenge due to its heterogeneous clinical presentation and the wide spectrum of underlying  etiologies [28]. It should be remembered that while myocarditis is commonly caused by viral  infections and other infectious organisms, it may also be less frequently caused by systemic  diseases, drugs, or toxins [29]. Although mild cases usually resolve spontaneously, myocarditis  can lead to the development of dilated cardiomyopathy, present as heart failure, or sudden  cardiac death [30].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 72,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_73",
+      "text": "y, myocarditis  can lead to the development of dilated cardiomyopathy, present as heart failure, or sudden  cardiac death [30]. Echocardiography usually reveals structural and functional abnormalities  such as dilation of the cardiac chambers, systolic and diastolic dysfunction, pericardial effusion,  and valvular insufficiencies. In addition, cardiac biomarkers, including troponins and NT-proBNP, are often elevated  [31].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 73,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_74",
+      "text": "n,  and valvular insufficiencies. In addition, cardiac biomarkers, including troponins and NT-proBNP, are often elevated  [31]. In recent years, cardiac MRIs have become a useful non-invasive method due to their  unique ability to characterize tissue in a multiparametric manner, in addition to providing  prognostic information.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 74,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_75",
+      "text": "to their  unique ability to characterize tissue in a multiparametric manner, in addition to providing  prognostic information. MRIs are not only capable of detecting the same abnormalities as  an echocardiography, but they also provide additional information about the presence of  inflammation and myocardial edema [32]. The European Society of Cardiology (ESC) and the  American Heart Association (AHA) consider MRIs an extremely useful tool for evaluating patients  for possible myocarditis [33, 34].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 75,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_76",
+      "text": "ican Heart Association (AHA) consider MRIs an extremely useful tool for evaluating patients  for possible myocarditis [33, 34]. However, it should be noted that endomyocardial biopsy  remains the gold standard for establishing a definitive diagnosis of myocarditis. Nonetheless,  this method has several limitations, including the invasive nature of the test, low sensitivity,  and the need for trained medical personnel to perform the procedure, which contributes to its  infrequent clinical use [33, 34].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 76,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_77",
+      "text": "nd the need for trained medical personnel to perform the procedure, which contributes to its  infrequent clinical use [33, 34]. TREATMENT AND PREVENTION There is no specific treatment for dengue. Management includes rest, adequate hydration, and  seeking medical advice for complications [35]. Depending on the clinical manifestations and  other circumstances, patients may be discharged and sent home, recommended for inpatient  management, or require emergent treatment and urgent referral.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 77,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_78",
+      "text": "ents may be discharged and sent home, recommended for inpatient  management, or require emergent treatment and urgent referral. To control muscle aches and  fever, patients can take analgesics, but should avoid NSAIDs such as ibuprofen or aspirin due  to risk of hemorrhage [36]. On the other hand, NSAIDs are considered a first-line treatment for  pericarditis and pericardial damage, as benefits outweigh potential risk of bleeding.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 78,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_79",
+      "text": "re considered a first-line treatment for  pericarditis and pericardial damage, as benefits outweigh potential risk of bleeding. The first vaccine against dengue was Dengvaxia® (CYD-TDV), developed by Sanofi Pasteur and  approved in 2015, with commercialization initially authorized in 20 countries. In November of  2017, a retrospective study examined the serologic state of participants at the time of vaccination  and their subsequent risk of experiencing severe manifestations of dengue.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 79,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_80",
+      "text": "ic state of participants at the time of vaccination  and their subsequent risk of experiencing severe manifestations of dengue. The analysis  revealed that the subgroup of participants in that were seronegative when first vaccinated had  a greater risk of developing severe dengue and requiring hospitalization compared to those  who were not vaccinated.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 80,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_81",
+      "text": "nated had  a greater risk of developing severe dengue and requiring hospitalization compared to those  who were not vaccinated. For this reason, the CYD-TDV vaccine is now intended exclusively for  people aged nine to 45 residing in endemic regions who have experienced at least one prior  dengue infection. Ongoing research is exploring other potential dengue vaccines [37].",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 81,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_82",
+      "text": "who have experienced at least one prior  dengue infection. Ongoing research is exploring other potential dengue vaccines [37]. Finally, several risk factors can predict the likelihood of patients developing severe desngue  disease, including advanced age, arterial hypertension, and diabetes. The prevalence of  myocarditis in patients with dengue is reported to range between 3 to 5% in several studies,  and a small portion of those cases progress to develop decreased LVEF.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 82,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_83",
+      "text": "s reported to range between 3 to 5% in several studies,  and a small portion of those cases progress to develop decreased LVEF. The physiology of  myocardial injury is still not well understood, but is believed to be related to direct invasion  of the virus to the cardiac muscle and the immune response mediated by cytokines [38, 39].  These cytokines play an important role in the development of myocardial injury. 9 Cristodulo et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 83,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_84",
+      "text": "ted by cytokines [38, 39].  These cytokines play an important role in the development of myocardial injury. 9 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 Our patient improved without severe complications; however, evidence of impaired mobility,  particularly in the inferior wall, was observed in the cardiac MRI. Further studies are needed  to differentiate which dengue serotype is associated with higher risk of cardiac complications.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 84,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_85",
+      "text": "RI. Further studies are needed  to differentiate which dengue serotype is associated with higher risk of cardiac complications. CONCLUSION Human infection by dengue virus can have several atypical presentations, one of which is acute  myocarditis. Fortunately, this complication is usually self-limited, and it is rare for cases to  progress to dilated cardiomyopathy, heart failure, or death.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 85,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_86",
+      "text": "complication is usually self-limited, and it is rare for cases to  progress to dilated cardiomyopathy, heart failure, or death. Medical personnel must maintain  a high index of suspicion for patients with epidemiological risk factors and presenting with  symptoms suggestive of cardiac involvement (such as chest pain, dyspnea, tachycardia, etc.).  This vigilance is crucial to avoid missing a diagnosis.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 86,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_87",
+      "text": "cardiac involvement (such as chest pain, dyspnea, tachycardia, etc.).  This vigilance is crucial to avoid missing a diagnosis. Considering the likelihood of underdiagnosis,  it is crucial to conduct further studies and gather additional epidemiological data to identify  which patients with dengue are at a higher risk of developing cardiac complications, such  as myocarditis. COMPETING INTERESTS The authors have no competing interests to declare.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 87,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_88",
+      "text": "developing cardiac complications, such  as myocarditis. COMPETING INTERESTS The authors have no competing interests to declare. AUTHOR AFFILIATIONS Roberto Cristodulo   orcid.org/0000-0002-1080-6273  Clínica de las Américas, Santa Cruz, Bolivia Gracia Luoma-Overstreet   orcid.org/0000-0002-7310-5968  Virginia Commonwealth University School of Medicine, Richmond, VA, US Fernando Leite   orcid.org/0009-0007-4159-3331  Clínica de las Américas, Santa Cruz, Bolivia Manuel Vaca   orcid.org/0009-0003-9707-5833  Clínica de las Américas, Santa Cruz, Bolivia Michelle Navia   orcid.org/0009-0000-4344-0186  Clínica de las Américas, Santa Cruz, Bolivia Gustavo Durán   orcid.org/0009-0004-8253-124X  Clínica de las Américas, Santa Cruz, Bolivia Fernando Molina   orcid.org/0009-0001-0050-2102  Clínica de las Américas, Santa Cruz, Bolivia Bozorg Zonneveld   orcid.org/0009-0002-3232-8417  Clínica de las Américas, Santa Cruz, Bolivia Sergio Víctor Perrone   orcid.org/0000-0002-3325-7633  Catholic University of Argentina, Buenos Aires, Argentina Alejandro Barbagelata   orcid.org/0000-0001-6803-2605  Catholic University of Argentina, Buenos Aires, Argentina; Duke University School of Medicine, Durham,  NC, US Edgardo Kaplinsky   orcid.org/0000-0002-6399-6736  Hospital Municipal de Badalona, Barcelona University, Barcelona, Spain REFERENCES 1.\t Lupi O.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 88,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_89",
+      "text": "orcid.org/0000-0002-6399-6736  Hospital Municipal de Badalona, Barcelona University, Barcelona, Spain REFERENCES 1.\t Lupi O. Mosquito-borne hemorrhagic fevers. DermatolClin. 2011; 29: 33–38. DOI: https://doi. org/10.1016/j.det.2010.09.009 2.\t World Health Organization, Regional Office for South-East Asia. Comprehensive guidelines for  prevention and control of dengue and dengue haemorrhagic fever. Revised and expanded edition;  2011. https://apps.who.int/iris/handle/10665/204894.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 89,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_90",
+      "text": "ol of dengue and dengue haemorrhagic fever. Revised and expanded edition;  2011. https://apps.who.int/iris/handle/10665/204894. 3.\t World Health Organization, Regional Office for South-East Asia (WHO-SEARO). Comprehensive  guidelines for prevention and control of dengue and dengue hemorrhagicfever (India: World Health  Organization). 2011; 20: 18–20. 4.\t Weerakoon KG, Kularatne SA, Edussuriya DH, Kodikara SK, Gunatilake LP, Pinto VG, et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 90,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_91",
+      "text": "th  Organization). 2011; 20: 18–20. 4.\t Weerakoon KG, Kularatne SA, Edussuriya DH, Kodikara SK, Gunatilake LP, Pinto VG, et al.  Histopathological diagnosis of myocarditis in a dengue outbreak in Sri Lanka, 2009. BMC Res Notes.  2011; 4: 268. DOI: https://doi.org/10.1186/1756-0500-4-268 10 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 5.\t Khongphatthallayothin A, Chotivitayatarakorn P, Somchit S, Mitprasart A, Sakolsattayadorn S, et  al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 91,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_92",
+      "text": "DOI: 10.5334/gh.1254 5.\t Khongphatthallayothin A, Chotivitayatarakorn P, Somchit S, Mitprasart A, Sakolsattayadorn S, et  al. Morbitz type I second degree AV block duringrecovery from dengue hemorrhagic fever. Southeast  Asian J Trop Med PublicHealth. 2000; 31: 642–645. 6.\t Promphan W, Sopontammarak S, Pruekprasert P, Kajornwattanakul W, Kongpattanayothin A.  Dengue myocarditis. Southeast Asian J Trop Med Public Health. 2004; 35: 611–613. 7.\t Sanz J.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 92,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_93",
+      "text": "attanakul W, Kongpattanayothin A.  Dengue myocarditis. Southeast Asian J Trop Med Public Health. 2004; 35: 611–613. 7.\t Sanz J. La revolución neolítica, la gran aliada de las epidemias. Historias de las historias. https:// historiasdelahistoria.com/2020/04/12/la-revolucion-neolitica-la-gran-aliada-de-las-epidemias. 8.\t Crafts N. Productivity Growth in the Industrial Revolution: A New Growth Accounting Perspective. The  Journal of Economic History. 2004; 64: 521–535.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 93,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_94",
+      "text": "Growth in the Industrial Revolution: A New Growth Accounting Perspective. The  Journal of Economic History. 2004; 64: 521–535. DOI: https://doi.org/10.1017/S0022050704002785 9.\t World Health Organization. Dengue fever – Afghanistan. Organización Mundial de la Salud. https:// www.who.int/emergencies/disease-outbreak-news/item/2019-DON218. 10.\t World Health Organization. Dengue y dengue grave. Organización Mundial de la Salud. https://www. who.int/es/news-room/fact-sheets/detail/dengue-and-severe-dengue.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 94,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_95",
+      "text": "dengue grave. Organización Mundial de la Salud. https://www. who.int/es/news-room/fact-sheets/detail/dengue-and-severe-dengue. 11.\t Buljubasich A. Boletín epidemiológico de la Provincia de Jujuy. Ministerio de salud. http://www. msaludjujuy.gov.ar:8081/SisEpi/archivos/boletines/Boletin_N11_2022.pdf. 12.\t Bhatt S, Gething PW, Brandy OJ, Messina JP, Farlow AW, Moyes CL, Drake JM, et al. The global  distribution and burden of dengue. Nature. 2013; 496(7446): 504–507.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 95,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_96",
+      "text": "sina JP, Farlow AW, Moyes CL, Drake JM, et al. The global  distribution and burden of dengue. Nature. 2013; 496(7446): 504–507. DOI: https://doi.org/10.1038/ nature12060 13.\t Brady OJ, Gething PW, Bhatt S, Messina JP, Brownstein JS, Hoen AG, et al. Refining the global  spatial limits of dengue virus transmission by evidence-based consensus. PLoS Negl Trop Dis. 2012; 6:  e1760.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 96,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_97",
+      "text": "ining the global  spatial limits of dengue virus transmission by evidence-based consensus. PLoS Negl Trop Dis. 2012; 6:  e1760. DOI: https://doi.org/10.1371/journal.pntd.0001760 14.\t Frantchez V, Fornelli R, Pérez Sartori G, Arteta Z, Cabrera S, Sosa L, Medina J. Dengue en adultos:  diagnóstico, tratamiento y abordaje de situaciones especiales. Rev Méd Urug. 2016; 32(1): 43–51. 15.\t Obeyesekere I, Hermon Y. Myocarditis and cardiomyopathy after arbovirus infections (dengue and  chikungunya fever).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 97,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_98",
+      "text": "43–51. 15.\t Obeyesekere I, Hermon Y. Myocarditis and cardiomyopathy after arbovirus infections (dengue and  chikungunya fever). Br Heart J. 1972; 34(8): 821–7. DOI: https://doi.org/10.1136/hrt.34.8.821 16.\t Nagaratnam N, Siripala K, De Silva N. Arbovirus (dengue type) as a cause of acute myocarditis and  pericarditis Br Heart J. 1973; 35(2): 204–6. DOI: https://doi.org/10.1136/hrt.35.2.204 17.\t Agarwal R, Kapoor S, Nagar R, Misra A, Tandon R, Mathur A, et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 98,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_99",
+      "text": "35(2): 204–6. DOI: https://doi.org/10.1136/hrt.35.2.204 17.\t Agarwal R, Kapoor S, Nagar R, Misra A, Tandon R, Mathur A, et al. A clinical study of the patients  with dengue hemorrhagic fever during the epidemic of 1996 at Lucknow, India. Southeast Asian J  Trop Med Public Health. 1999; 30: 735–740. 18.\t Wali JP, Biswas A, Chandra S, Malhotra A, Aggarwal P, Handa R, et al. Cardiac involvement in  dengue haemorrhagic fever. Int J Cardiol. 1998; 64: 31–36.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 99,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_100",
+      "text": "a S, Malhotra A, Aggarwal P, Handa R, et al. Cardiac involvement in  dengue haemorrhagic fever. Int J Cardiol. 1998; 64: 31–36. DOI: https://doi.org/10.1016/S0167- 5273(98)00008-4 19.\t Lee CH, Teo C, Low AF. Fulminant dengue myocarditis masquerading as acute myocardial infarction.  Int J Cardiol. 2009; 136: e69–e671. DOI: https://doi.org/10.1016/j.ijcard.2008.05.023 20.\t Weerakoon KG, Kularatne SA, Edussuriya DH, Kodikara SK, Gunatilake LP, Pinto VG, et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 100,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_101",
+      "text": "i.org/10.1016/j.ijcard.2008.05.023 20.\t Weerakoon KG, Kularatne SA, Edussuriya DH, Kodikara SK, Gunatilake LP, Pinto VG, et al.  Histopathological diagnosis of myocarditis in a dengue outbreak in Sri Lanka, 2009. BMC Res Notes.  2011; 4: 268. DOI: https://doi.org/10.1186/1756-0500-4-268 21.\t Yajima T, Knowlton KU. Viral Myocarditis From the Perspective of the Virus. 2009; 119(19):  2615–2624. DOI: https://doi.org/10.1161/CIRCULATIONAHA.108.766022 22.\t Chuah SK.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 101,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_102",
+      "text": "the Perspective of the Virus. 2009; 119(19):  2615–2624. DOI: https://doi.org/10.1161/CIRCULATIONAHA.108.766022 22.\t Chuah SK. Transient ventricular arrhythmia as a cardiac manifestation in dengue haemorrhagic  fever—a case report. Singapore Med J. 1987; 28: 569–572. 23.\t Lateef A, Fisher DA, Tambyah PA. Dengue and relative bradycardia. Emerg Infect Dis. 2007; 13:  650–651. DOI: https://doi.org/10.3201/eid1304.061212 24.\t Mascarenhas DA, Spodick DH.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 102,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_103",
+      "text": "bradycardia. Emerg Infect Dis. 2007; 13:  650–651. DOI: https://doi.org/10.3201/eid1304.061212 24.\t Mascarenhas DA, Spodick DH. Acute myocarditis masquerading as acute myocardial infarction. N  Engl J Med. 1993; 328: 1714–1715. DOI: https://doi.org/10.1056/NEJM199306103282315 25.\t Aslam M, Aleem NA, Zahid MF, Rahman AJ. Unusual presentation of Dengue Fever: A child with  acute myocarditis. Sultan Qaboos Univ Med J. 2016; 16(1): e101–4.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 103,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_104",
+      "text": "ahman AJ. Unusual presentation of Dengue Fever: A child with  acute myocarditis. Sultan Qaboos Univ Med J. 2016; 16(1): e101–4. DOI: https://doi.org/10.18295/ squmj.2016.16.01.019 26.\t Agudelo-Salas IY, Quinceno N, Duque J, Bosch I, Restrepo BN. Actividad en suero de CK y CK-MB en  pacientes con infección por el virus dengue. Rev Salud Pública. 2017; 19(4): 460–7. DOI: https://doi. org/10.15446/rsap.v19n4.39597 27.\t Li Y, Hu Z, Huang Y, Li J, Hong W, Qin Z, et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 104,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_105",
+      "text": "lica. 2017; 19(4): 460–7. DOI: https://doi. org/10.15446/rsap.v19n4.39597 27.\t Li Y, Hu Z, Huang Y, Li J, Hong W, Qin Z, et al. Characterization of the Myocarditis during the worst  outbreak of dengue infection in China. Medicine. 2016; 95(27): e4051. DOI: https://doi.org/10.1097/ MD.0000000000004051 28.\t Polte CL, Bobbio E, Bollano E, Bergh N, Polte C, Himmelman J, Lagerstrand KM, Gao SA.  Cardiovascular Magnetic Resonance in Myocarditis. Diagnostics. 2022; 12: 399. DOI: https://doi.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 105,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_106",
+      "text": "man J, Lagerstrand KM, Gao SA.  Cardiovascular Magnetic Resonance in Myocarditis. Diagnostics. 2022; 12: 399. DOI: https://doi. org/10.3390/diagnostics12020399 29.\t Kindermann I, Barth C, Mahfoud F, Ukena C, Lenski M, Yilmaz A, et al. Update on myocarditis. J.  Am. Coll. Cardiol. 2012; 59: 779–792. DOI: https://doi.org/10.1016/j.jacc.2011.09.074 30.\t Fabre A, Sheppard MN. Sudden adult death syndrome and other non-ischaemic causes of sudden  cardiac death. Heart. 2006; 92: 316–320.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 106,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_107",
+      "text": "A, Sheppard MN. Sudden adult death syndrome and other non-ischaemic causes of sudden  cardiac death. Heart. 2006; 92: 316–320. DOI: https://doi.org/10.1136/hrt.2004.045518 11 Cristodulo et al.   Global Heart   DOI: 10.5334/gh.1254 TO CITE THIS ARTICLE: Cristodulo R, Luoma- Overstreet G, Leite F, Vaca  M, Navia M, Durán G, Molina  F, Zonneveld B, Perrone SV,  Barbagelata A, Kaplinsky E.  Dengue Myocarditis: A Case  Report and Major Review.  Global Heart. 2023; 18(1): 41.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 107,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_108",
+      "text": "Perrone SV,  Barbagelata A, Kaplinsky E.  Dengue Myocarditis: A Case  Report and Major Review.  Global Heart. 2023; 18(1): 41.  DOI: https://doi.org/10.5334/ gh.1254 Submitted: 06 April 2023  Accepted: 07 July 2023  Published: 04 August 2023 COPYRIGHT: © 2023 The Author(s).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 108,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_109",
+      "text": "g/10.5334/ gh.1254 Submitted: 06 April 2023  Accepted: 07 July 2023  Published: 04 August 2023 COPYRIGHT: © 2023 The Author(s). This is an  open-access article distributed  under the terms of the Creative  Commons Attribution 4.0  International License (CC-BY  4.0), which permits unrestricted  use, distribution, and  reproduction in any medium,  provided the original author  and source are credited. See  http://creativecommons.org/ licenses/by/4.0/.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 109,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_110",
+      "text": "ction in any medium,  provided the original author  and source are credited. See  http://creativecommons.org/ licenses/by/4.0/. Global Heart is a peer-reviewed  open access journal published  by Ubiquity Press. 31.\t Li Y, Hu Z, Huang Y, Li J, Hong W, Qin Z, et al. Characterization of the myocarditis during the worst  outbreak of dengue infection in China. Med J. 2016; 95(27): 4051–4056.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 110,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_111",
+      "text": "l. Characterization of the myocarditis during the worst  outbreak of dengue infection in China. Med J. 2016; 95(27): 4051–4056. DOI: https://doi.org/10.1097/ MD.0000000000004051 32.\t Ferreira VM, Schulz-Menger J, Holmvang G, Kramer CM, Carbone I, Sechtem U, et al. Cardiovascular  Magnetic Resonance in Nonischemic Myocardial Inflammation: Expert Recommendations. J. Am. Coll.  Cardiol. 2018; 72: 3158–3176.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 111,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_112",
+      "text": "Magnetic Resonance in Nonischemic Myocardial Inflammation: Expert Recommendations. J. Am. Coll.  Cardiol. 2018; 72: 3158–3176. DOI: https://doi.org/10.1016/j.jacc.2018.09.072 33.\t McDonagh TA, Metra M, Adamo M, Gardner RS, Baumbach A, Bohm M, et al. 2021 ESC Guidelines  for the diagnosis and treatment of acute and chronic heart failure. Eur. Heart J. 2021; 42: 3599–3726.  DOI: https://doi.org/10.1093/eurheartj/ehab368 34.\t Bozkurt B, Colvin M, Cook J, Cooper LT, Deswal A, Fonarow GC, et al.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 112,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_113",
+      "text": "3726.  DOI: https://doi.org/10.1093/eurheartj/ehab368 34.\t Bozkurt B, Colvin M, Cook J, Cooper LT, Deswal A, Fonarow GC, et al. Current Diagnostic and  Treatment Strategies for Specific Dilated Cardiomyopathies: A Scientific Statement from the  American Heart Association. Circulation. 2016; 134: e579–e646. DOI: https://doi.org/10.1161/ CIR.0000000000000455 35.\t Pan American Health Organization. Guidelines for the diagnosis and treatment of dengue,  chikungunya and zika in the Region of the Americas.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 113,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_114",
+      "text": "Health Organization. Guidelines for the diagnosis and treatment of dengue,  chikungunya and zika in the Region of the Americas. Rev Panam Public Health. 2022; 46: e82. DOI:  https://doi.org/10.26633/RPSP.2022.82 36.\t World Health Organization. Dengue: Guidelines for Diagnosis, Treatment, Prevention and Control.  2009; 1–147. 37.\t World Health Organization. Dengue vaccines: WHO position paper. 2018 Weekly epidemiological  record. 2018; 36, 93: 457–476.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 114,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_115",
+      "text": "7.\t World Health Organization. Dengue vaccines: WHO position paper. 2018 Weekly epidemiological  record. 2018; 36, 93: 457–476. DOI: https://doi.org/10.1016/j.vaccine.2018.06.061 38.\t Hober D, Poli L, Roblin B, Gestas P, Chungue E, Granic G, et al. Serum levels of tumornecrosis factor- alpha (TNF-alpha), interleukin-6 (IL 6), andinterleukin-1 beta (IL-1 beta) in dengue-infected patients.  Am J Trop Med Hyg. 1993; 48: 324–331.",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 115,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_116",
+      "text": "a), interleukin-6 (IL 6), andinterleukin-1 beta (IL-1 beta) in dengue-infected patients.  Am J Trop Med Hyg. 1993; 48: 324–331. DOI: https://doi.org/10.4269/ajtmh.1993.48.324 39.\t Hober D, Delannoy AS, Benyoucef S, De Groote D, Wattre P. High levels of sTNFRp75 and TNF  alpha in dengue-infected patients. MicrobiolImmunology. 1996; 40(8): 569–573. DOI: https://doi. org/10.1111/j.1348-0421.1996.tb01110.x .",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_index": 116,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "732f55a91f67_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue Myocarditis A Case Report and Major Review_p1_img1_732eeda3.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_img_1",
+      "text": "Image: ). This was interpreted as acute coronary syndrome with ST-segment elevation,",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue Myocarditis A Case Report and Major Review_p2_img1_e22f6c41.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue Myocarditis A Case Report and Major Review_p3_img1_6ab4be44.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 3
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_img_2",
+      "text": "Image: ).",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue Myocarditis A Case Report and Major Review_p3_img2_d367f279.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 3
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue Myocarditis A Case Report and Major Review_p4_img1_0906054a.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 4
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue Myocarditis A Case Report and Major Review_p4_img2_d4369a76.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 4
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue Myocarditis A Case Report and Major Review_p6_img1_51be3188.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 6
+      }
+    },
+    {
+      "chunk_id": "732f55a91f67_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "732f55a91f67",
+        "filename": "Dengue Myocarditis A Case Report and Major Review.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 11,
+        "processed_date": "2025-09-27T23:12:50.578718",
+        "has_images": true,
+        "image_count": 8,
+        "chunk_type": "image",
+        "image_path": "Dengue Myocarditis A Case Report and Major Review_p7_img1_7653627e.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 7
+      }
+    }
+  ],
+  "total_chunks": 125
+}

@@ -1,0 +1,10 @@
+{
+  "document_type": "case_report",
+  "confidence": 0.4,
+  "extraction_stats": {
+    "total_pages": 2,
+    "text_chunks": 12,
+    "image_chunks": 24,
+    "extracted_fields": 7
+  }
+}

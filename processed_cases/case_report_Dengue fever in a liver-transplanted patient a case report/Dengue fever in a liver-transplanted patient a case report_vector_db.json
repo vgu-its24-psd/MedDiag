@@ -1,0 +1,908 @@
+{
+  "document_id": "3cd6bc1f8d2f",
+  "document_type": "case_report",
+  "type_confidence": 0.6,
+  "document_metadata": {
+    "doc_id": "3cd6bc1f8d2f",
+    "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.6,
+    "pages": 4,
+    "processed_date": "2025-09-27T23:12:45.447472",
+    "has_images": true,
+    "image_count": 1
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 46,
+      "gender": "man"
+    },
+    "timeline": {
+      "illness_day": 3
+    },
+    "clinical_findings": {
+      "chief_complaint": "dengue shock syndrome, in contrast to the relatively milder presentation of our patient"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "was confirmed on the basis of NS1 antigen detection by enzyme-linked immunosorbent assay"
+    },
+    "interventions": {
+      "medications": [
+        {
+          "name": "prednisolone",
+          "dose": "5",
+          "unit": "mg"
+        },
+        {
+          "name": "prednisolone",
+          "dose": "5",
+          "unit": "mg"
+        },
+        {
+          "name": "ceftriaxone",
+          "dose": "1",
+          "unit": "g"
+        }
+      ]
+    },
+    "outcomes": {
+      "status": "discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "3cd6bc1f8d2f_0",
+      "text": "CASE REPORT Open Access Dengue fever in a liver-transplanted patient: a case report Ranga Migara Weerakkody1*, Dhammika Randula Palangasinghe1, Kaluthanthri Patabandi Chamila Dalpatadu1, Jeewan Pradeep Rankothkumbura1, Mohammed Rezni Nizam Cassim2 and Panduka Karunanayake3 Abstract Introduction: Dengue fever is one of the commonest mosquito-borne diseases in the tropics, and Sri Lanka is no exception.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_1",
+      "text": "tract Introduction: Dengue fever is one of the commonest mosquito-borne diseases in the tropics, and Sri Lanka is no exception. Despite its commonness, dengue fever has rarely been described among patients who have undergone transplantation. We report the case of a patient with dengue fever after liver transplantation, which, to the best of our knowledge, is the first such reported case outside Brazil.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_2",
+      "text": "dengue fever after liver transplantation, which, to the best of our knowledge, is the first such reported case outside Brazil. Case presentation: Our patient was a 46-year-old Sri Lakan man who presented to our institution two years after undergoing an ABO-compatible cadaveric liver transplant. At presentation, he had typical symptoms of dengue fever. He was taking prednisolone 5mg daily and tacrolimus 3mg twice daily as immunosuppression.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_3",
+      "text": "had typical symptoms of dengue fever. He was taking prednisolone 5mg daily and tacrolimus 3mg twice daily as immunosuppression. Initial investigations showed thrombocytopenia and neutropenia that reached a nadir by day 7 of his illness. He had elevated liver enzymes as well. The diagnosis was confirmed on the basis of NS1 antigen detection by enzyme-linked immunosorbent assay. His blood cultures and polymerase chain reaction tests for cytomegalovirus were negative.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_4",
+      "text": "by enzyme-linked immunosorbent assay. His blood cultures and polymerase chain reaction tests for cytomegalovirus were negative. He made an uneventful recovery and was discharged by day 9 of his illness. However, normalization of liver function took nearly two weeks. In three previously reported Brazilian cases of dengue after liver transplantation, the patients presented with dengue shock syndrome, in contrast to the relatively milder presentation of our patient.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_5",
+      "text": "lantation, the patients presented with dengue shock syndrome, in contrast to the relatively milder presentation of our patient. Because of the lack of case reports in the literature, it is difficult to ascertain the risk factors for severe dengue infection in transplants, but dengue fever reported in renal transplants sheds some light on them. High-dose steroids increase the risk of thrombocytopenia, whereas tacrolimus has been reported to prolong the duration of symptoms.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_6",
+      "text": "-dose steroids increase the risk of thrombocytopenia, whereas tacrolimus has been reported to prolong the duration of symptoms. Otherwise, dengue fever is a relatively mild illness in patients who have undergone renal transplantation, and renal allograft survival has been reported to be 86% following dengue fever. Conclusion: Dengue is a rarely reported infection in patients who have undergone transplantation. A high degree of suspicion is required for diagnosis.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_7",
+      "text": "rarely reported infection in patients who have undergone transplantation. A high degree of suspicion is required for diagnosis. Dengue NS1 antigen detection is a useful addition to the already existing methods of diagnosis. Steroids and tacrolimus have effects on the morbidity of the disease. Graft outcomes following the infection has been excellent in all reported cases.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_8",
+      "text": "have effects on the morbidity of the disease. Graft outcomes following the infection has been excellent in all reported cases. Keywords: Dengue, Liver transplant, NS1 antigen, Tacrolimus toxicity Introduction Dengue fever (DF) is one of the commonest mosquito- borne diseases in the tropics and has become hyperen- demic in Sri Lanka. Although thousands of cases are reported yearly in Sri Lanka, dengue has been a rarely reported disease in patients who have undergone trans- plantation [1].",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_9",
+      "text": "e reported yearly in Sri Lanka, dengue has been a rarely reported disease in patients who have undergone trans- plantation [1]. We describe the case of a patient with DF after a liver transplant (LT). To the best of our knowledge, this is the first such reported case outside Brazil. Case presentation A 46-year-old Sri Lankan man presented to our institution with high-grade fever associated with severe retro-ocular pain, photophobia, bone pain and severe body aches of three days’ duration.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_10",
+      "text": "igh-grade fever associated with severe retro-ocular pain, photophobia, bone pain and severe body aches of three days’ duration. He was a recipient of an ABO- compatible cadaveric LT 26 months previously for treat- ment of end-stage cryptogenic cirrhosis. The immediate post-transplant period had been complicated by acute rejection, but he made a full recovery with an allograft.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_11",
+      "text": "s. The immediate post-transplant period had been complicated by acute rejection, but he made a full recovery with an allograft. He * Correspondence: rangamw2003@yahoo.com 1University Medical Unit, National Hospital of Sri Lanka, Regent Street, Colombo 9 CO00900, Sri Lanka Full list of author information is available at the end of the article JOURNAL OF MEDICAL CASE REPORTS © 2014 Weerakkody et al.; licensee BioMed Central Ltd.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_12",
+      "text": "n is available at the end of the article JOURNAL OF MEDICAL CASE REPORTS © 2014 Weerakkody et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_13",
+      "text": "which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. Weerakkody et al. Journal of Medical Case Reports 2014, 8:378 http://www.jmedicalcasereports.com/content/8/1/378 was maintained on prednisolone 5mg daily and tacrolimus 3mg twice daily.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_14",
+      "text": "378 http://www.jmedicalcasereports.com/content/8/1/378 was maintained on prednisolone 5mg daily and tacrolimus 3mg twice daily. He had developed diabetes after the third month post-LT. His two sons had had a febrile illness, diagnosed as DF, one week before coming to our insti- tution. He did not complain of respiratory, urinary or bowel symptoms or a rash. An examination did not reveal jaundice, rashes or neck stiffness, but demonstrated a fine tremor in outstretched hands.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_15",
+      "text": "a rash. An examination did not reveal jaundice, rashes or neck stiffness, but demonstrated a fine tremor in outstretched hands. His right frontal sinus was tender on palpation. His initial full blood count revealed thrombocytopenia (90,000/μL), and, with a suggestive clinical picture, a provisional diagnosis of DF was made. His skull X-ray demonstrated a fluid level in the right frontal sinus con- firming acute sinusitis, which was treated with intravenous ceftriaxone 1g twice daily.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_16",
+      "text": "d level in the right frontal sinus con- firming acute sinusitis, which was treated with intravenous ceftriaxone 1g twice daily. Over the next few days, his white cell count and platelet count gradually dropped, reaching a nadir by day 4 of the illness. Dengue NS1 anti- gen was detected in his day 3 serum sample, confirming the diagnosis of DF. His liver enzymes rose sharply until day 7 before starting to recover. His bilirubin levels and coagulation profile were normal.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_17",
+      "text": "is liver enzymes rose sharply until day 7 before starting to recover. His bilirubin levels and coagulation profile were normal. He entered the leakage (critical) phase on day 6 of his illness, and he recovered by day 8 without any complications with standard supportive DF management. DNA detection of cytomegalovirus was negative, and his blood cultures were sterile. However, liver enzyme normalization took more than two weeks.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_18",
+      "text": "ytomegalovirus was negative, and his blood cultures were sterile. However, liver enzyme normalization took more than two weeks. Throughout his hospital stay, his serum creatinine was around 140μmol/L and, together with fine tremors, was suggestive of tacrolimus toxicity (T0 = 13.4ng/dL). Tacroli- mus was reduced to 4mg daily as a result. His creatinine levels dropped to 104μmol/L by the time of discharge. The day 7 and day 14 dengue immunoglobulin M (IgM) titers showed an eightfold increase.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_19",
+      "text": "to 104μmol/L by the time of discharge. The day 7 and day 14 dengue immunoglobulin M (IgM) titers showed an eightfold increase. Figure 1 shows the changes in parameters over time. Discussion DF is the most widespread mosquito-borne disease in Sri Lanka. Despite the high prevalence, it is a rarely reported disease in patients who have received solid-organ trans- plants.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_20",
+      "text": "ri Lanka. Despite the high prevalence, it is a rarely reported disease in patients who have received solid-organ trans- plants. Patients who have undergone transplantation may have diminished T-cell responses and may be at low risk for contracting DF, which perhaps accounts for the lack of clinical reports describing such patients [2]. In addition, there are relatively few patients living with allografts in Sri Lanka.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_21",
+      "text": "nical reports describing such patients [2]. In addition, there are relatively few patients living with allografts in Sri Lanka. Our literature search showed only three cases, all of which were in Brazil [3,4] and were diagnosed as dengue shock syndrome (DSS). One of these patients had jaundice, a lowest platelet count of 30,000/μL and ex- tremely high liver enzyme levels in the range of 104U/L. The laboratory examination findings for the other two previously reported patients are not available.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_22",
+      "text": "s in the range of 104U/L. The laboratory examination findings for the other two previously reported patients are not available. Our patient had lower platelet counts than these patients, but his liver enzymes were much lower and he never had jaundice. One of the previously reported patients developed DSS three weeks following the transplant [4], and the other two contracted it in the ninth month post-transplantation [3].",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_23",
+      "text": "oped DSS three weeks following the transplant [4], and the other two contracted it in the ninth month post-transplantation [3]. Contrary to the pattern in the previously reported cases, our patient developed the illness two years after transplantation. The clinical picture was that of DF, not DSS as in the previously reported cases. Our patient had a fever pattern that is different from that seen in normal DF, by virtue of a prolonged febrile phase, which ran up to one week.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_24",
+      "text": "fever pattern that is different from that seen in normal DF, by virtue of a prolonged febrile phase, which ran up to one week. Superadded sinusitis may have had an effect on the length of the febrile phase. Photophobia is an uncom- mon symptom of DF, but dengue meningoencephalitis can present with that symptom. Sinus tenderness and an abnormal X-ray view of the sinuses makes diagnosis of acute frontal sinusitis more likely.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_25",
+      "text": "hat symptom. Sinus tenderness and an abnormal X-ray view of the sinuses makes diagnosis of acute frontal sinusitis more likely. A lumbar puncture and CSF analysis would have been extremely useful in this situation, but the rapid resolution of symptoms with antibiotics and in the face of thrombocytopenia, lumbar puncture was not tried. Although data on LT are limited, data from a large case series on patients who received renal transplants (RTs) have been reported [5].",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_26",
+      "text": "data on LT are limited, data from a large case series on patients who received renal transplants (RTs) have been reported [5]. Nasim and colleagues reported that the mean duration of high-grade fever was 3.4 ± 1.5 Figure 1 Graphical representation of changing hematological and biochemical parameters. Hb, Hemoglobin; PCV, Packed cell volume; WBC, White blood cell. Weerakkody et al.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_27",
+      "text": "ing hematological and biochemical parameters. Hb, Hemoglobin; PCV, Packed cell volume; WBC, White blood cell. Weerakkody et al. Journal of Medical Case Reports 2014, 8:378 Page 2 of 4 http://www.jmedicalcasereports.com/content/8/1/378 days and that of low-grade fever was 6.0 ± 3.5 days. Our patient went through a febrile phase that was similar in length, but his fever was high-grade.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_28",
+      "text": "de fever was 6.0 ± 3.5 days. Our patient went through a febrile phase that was similar in length, but his fever was high-grade. In the patients described by Nasim and colleagues, severe primary disease was seen more often in patients receiving high doses of steroids (>7.5mg/d) compared to low-dose reg- imens (≤7.5mg/d). Thrombocytopenia was most severe in patients receiving steroids, azathioprine (AZA) and cyclosporin A (CyA) concomitantly.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_29",
+      "text": "/d). Thrombocytopenia was most severe in patients receiving steroids, azathioprine (AZA) and cyclosporin A (CyA) concomitantly. Mycophenolate mofetil (MMF) or AZA had no effect on the severity of thrombocytopenia, whereas tacrolimus prolonged the duration of thrombocytopenia compared to MMF or AZA alone or to either one in combination with CyA [5]. The deaths that occurred were not related to DF, and graft survival was excellent (86%) following the infection.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_30",
+      "text": "with CyA [5]. The deaths that occurred were not related to DF, and graft survival was excellent (86%) following the infection. Diagnosing DF is challenging in patients who have undergone transplantation, owing to immunosuppression, which may suppress some of the cardinal features of DF. The diagnosis may be delayed if fever and thrombocytopenia are initially attributed to co-morbidities such as cytomegalo- virus sepsis or because of anti-mitotic agents or hepatitis C virus [5].",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_31",
+      "text": "ially attributed to co-morbidities such as cytomegalo- virus sepsis or because of anti-mitotic agents or hepatitis C virus [5]. It is prudent to believe that most of the infections in patients with immunosuppression may be subclinical and indistinguishable from a non-specific viral fever and, as a result, may never be reported. The actual infection rates could be much higher than reported.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_32",
+      "text": "on-specific viral fever and, as a result, may never be reported. The actual infection rates could be much higher than reported. Additionally, the diagnosis in the previously reported cases, as well as in series where RT was involved, were arrived at using anti- body (IgM) detection. In comparison, we used both NS1 antigen detection and IgM titer.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_33",
+      "text": "as involved, were arrived at using anti- body (IgM) detection. In comparison, we used both NS1 antigen detection and IgM titer. Dengue NS1 antigen detection has better sensitivity and specificity than other methods of detection of dengue virus [6] and provide con- firmation of the diagnosis as early as day 3 of illness. We believe that use of antigen detection as a screening test will help to diagnose more cases of DF in patients who have received transplants.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_34",
+      "text": "use of antigen detection as a screening test will help to diagnose more cases of DF in patients who have received transplants. In almost all patients with DF, the infection is vector-borne. Interestingly, hematogenic spread of dengue has also been reported in patients who have undergone transplantation [7], from the donor via the allograft, which is the only record of mortality.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_35",
+      "text": "ed in patients who have undergone transplantation [7], from the donor via the allograft, which is the only record of mortality. Data on sequelae following DF in LT patients are scarce because of the extremely limited number of cases reported in the literature to date. Data from case series involving RT patients show no increase in graft failures or episodes of acute rejection [8].",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_36",
+      "text": "ure to date. Data from case series involving RT patients show no increase in graft failures or episodes of acute rejection [8]. Although it included no patients with DF who had received LTs, a Taiwan series showed an increased incidence of biliary atresia following a DF epidemic in 2002 [9]. Conclusions DF is a rarely reported infection in transplanted patients and requires a high degree of suspicion for proper diagnosis.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_37",
+      "text": "usions DF is a rarely reported infection in transplanted patients and requires a high degree of suspicion for proper diagnosis. Dengue NS1 antigen detection is a useful addition to the already existing methods of diagnosis. Steroids and tacrolimus increase the morbidity of the disease. The graft outcome following the infection in our patient has been excellent, as in previously reported cases.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_38",
+      "text": "y of the disease. The graft outcome following the infection in our patient has been excellent, as in previously reported cases. Consent Written informed consent was obtained from the patient for publication of this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_39",
+      "text": "port and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal. Abbreviations AZA: Azathioprine; CyA: Cyclosporin A; DF: Dengue fever; DSS: Dengue shock syndrome; LT: Liver transplant; MMF: Mycophenolate mofetil; NS1: Nonspecific antigen 1; RT: Renal transplant. Competing interests The authors declare that they have no competing interests. Authors’ contributions The patient was under the primary care of MRNC for liver transplantation.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_40",
+      "text": "y have no competing interests. Authors’ contributions The patient was under the primary care of MRNC for liver transplantation. PK was the primary care physician under whom the patient was admitted to our institution and was the supervisor of DRP, KPCD and JPR. DRP, KPCD and JPR were the team who took care of the patient’s primary illness. RMW designed the manuscript, did the literature survey and helped with immunosuppression modifications.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_41",
+      "text": "ient’s primary illness. RMW designed the manuscript, did the literature survey and helped with immunosuppression modifications. DRP and JPR wrote the manuscript, and RMW and KPCD critically analyzed it. All authors read and approved the final manuscript. Author details 1University Medical Unit, National Hospital of Sri Lanka, Regent Street, Colombo 9 CO00900, Sri Lanka. 2Department of Surgery, Faculty of Medicine, University of Colombo, Kynsey Road, Colombo 8 CO00800, Sri Lanka.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_42",
+      "text": "0900, Sri Lanka. 2Department of Surgery, Faculty of Medicine, University of Colombo, Kynsey Road, Colombo 8 CO00800, Sri Lanka. 3Department of Clinical Medicine, Faculty of Medicine, University of Colombo, Kynsey Road, Colombo 8 CO00800, Sri Lanka. Received: 28 June 2014 Accepted: 23 September 2014 Published: 21 November 2014 References 1. Sri Lanka Ministry of Health, Medical Statistics Unit: Annual Health Bulletin 2012. 63. 2.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_43",
+      "text": "shed: 21 November 2014 References 1. Sri Lanka Ministry of Health, Medical Statistics Unit: Annual Health Bulletin 2012. 63. 2. Franco-Paredes C, Jacob JT, Hidron A, Rodriguez-Morales AJ, Kuhar D, Caliendo AM: Transplantation and tropical infectious diseases. Int J Infect Dis 2010, 14:e189–e196. 3.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_44",
+      "text": "uez-Morales AJ, Kuhar D, Caliendo AM: Transplantation and tropical infectious diseases. Int J Infect Dis 2010, 14:e189–e196. 3. Batista MV, Pierrotti LC, Abdala E, Clemente WT, Girão ES, Rosa DR, Ianhez LE, Bonazzi PR, Lima AS, Fernandes PF, Pádua-Neto MV, Bacchella T, Oliveira AP, Viana CF, Ferreira MS, Shikanai-Yasuda MA: Endemic and opportunistic infections in Brazilian solid organ transplant recipients. Trop Med Int Health 2011, 16:1134–1142. 4.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_45",
+      "text": "Endemic and opportunistic infections in Brazilian solid organ transplant recipients. Trop Med Int Health 2011, 16:1134–1142. 4. Garcia JH, Rocha TD, Viana CF, Gonçalves BP, Girão ES, Vasconcelos JB, Coelho GR, Schreen D, Costa PE, Brasil IR: Dengue shock syndrome in a liver transplant recipient. Transplantation 2006, 82:850–851. 5. Nasim A, Anis S, Baqi S, Akhtar SF, Baig-Ansari N: Clinical presentation and outcome of dengue viral infection in live-related renal transplant recipients in Karachi, Pakistan.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_46",
+      "text": ": Clinical presentation and outcome of dengue viral infection in live-related renal transplant recipients in Karachi, Pakistan. Transpl Infect Dis 2013, 15:516–525. 6. Kumarasamy V, Abdul Wahab AH, Chua SK, Hassan Z, Chem YK, Mohamad M, Chua KB: Evaluation of a commercial dengue NS1 antigen-capture ELISA for laboratory diagnosis of acute dengue virus infection. J Virol Methods 2007, 140:75–79. 7.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_47",
+      "text": "dengue NS1 antigen-capture ELISA for laboratory diagnosis of acute dengue virus infection. J Virol Methods 2007, 140:75–79. 7. Saigal S, Choudhary NS, Saraf N, Kataria S, Mohanka R, Soin AS: Transmission of dengue virus from a donor to a recipient after living donor liver transplantation. Liver Transpl 2013, 19:1413–1414. Weerakkody et al. Journal of Medical Case Reports 2014, 8:378 Page 3 of 4 http://www.jmedicalcasereports.com/content/8/1/378 8.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_48",
+      "text": "Weerakkody et al. Journal of Medical Case Reports 2014, 8:378 Page 3 of 4 http://www.jmedicalcasereports.com/content/8/1/378 8. Azevedo LS, Carvalho DB, Matuck T, Alvarenga MF, Morgado L, Magalhães I, Ianhez LE, Boulos M, David-Neto E: Dengue in renal transplant patients: a retrospective analysis. Transplantation 2007, 84:792–794. 9. Tiao MM, Tsai SS, Kuo HW, Chen CL, Yang CY: Epidemiological features of biliary atresia in Taiwan, a national study 1996-2003. J Gastroenterol Hepatol 2008, 23:62–66.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_49",
+      "text": "CY: Epidemiological features of biliary atresia in Taiwan, a national study 1996-2003. J Gastroenterol Hepatol 2008, 23:62–66. doi:10.1186/1752-1947-8-378 Cite this article as: Weerakkody et al.: Dengue fever in a liver- transplanted patient: a case report. Journal of Medical Case Reports 2014 8:378.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_50",
+      "text": "s: Weerakkody et al.: Dengue fever in a liver- transplanted patient: a case report. Journal of Medical Case Reports 2014 8:378. Submit your next manuscript to BioMed Central and take full advantage of:  • Convenient online submission • Thorough peer review • No space constraints or color ﬁgure charges • Immediate publication on acceptance • Inclusion in PubMed, CAS, Scopus and Google Scholar • Research which is freely available for redistribution Submit your manuscript at  www.biomedcentral.com/submit Weerakkody et al.",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "3cd6bc1f8d2f_51",
+      "text": "Research which is freely available for redistribution Submit your manuscript at  www.biomedcentral.com/submit Weerakkody et al. Journal of Medical Case Reports 2014, 8:378 Page 4 of 4 http://www.jmedicalcasereports.com/content/8/1/378 .",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 51,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "3cd6bc1f8d2f_img_1",
+      "text": "Image: shows the",
+      "metadata": {
+        "doc_id": "3cd6bc1f8d2f",
+        "filename": "Dengue fever in a liver-transplanted patient a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.447472",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_type": "image",
+        "image_path": "Dengue fever in a liver-transplanted patient a case report_p2_img1_8d99a288.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    }
+  ],
+  "total_chunks": 53
+}

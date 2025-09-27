@@ -1,0 +1,870 @@
+{
+  "document_id": "5fc3c29a1ceb",
+  "document_type": "case_report",
+  "type_confidence": 0.55,
+  "document_metadata": {
+    "doc_id": "5fc3c29a1ceb",
+    "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.55,
+    "pages": 3,
+    "processed_date": "2025-09-27T23:12:45.607541",
+    "has_images": true,
+    "image_count": 1
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 16,
+      "gender": "male"
+    },
+    "timeline": {},
+    "clinical_findings": {},
+    "diagnostics": {
+      "primary_diagnosis": "of a possible un-\ndifferentiated viral fever or dengue fever (DF) was made\nbased on the history, examination and investigations"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "5fc3c29a1ceb_0",
+      "text": "CASE REPORT Open Access Dengue fever in a patient with severe haemophilia: a case report Dilushi Wijayaratne1*, Priyanga Ranasinghe1,2, Shanaka P Mohotti1, Shani Apsara Dilrukshi1 and Prasad Katulanda1,3 Abstract Background: Dengue fever is the most rapidly spreading mosquito-borne viral disease in the world. Haemophilia A is the commonest inherited bleeding disorder. There is little data on the incidence and outcome of dengue in patients with haemophila.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_1",
+      "text": "commonest inherited bleeding disorder. There is little data on the incidence and outcome of dengue in patients with haemophila. We report a case of a patient with severe haemophila A, presenting with dengue fever, managed at a tertiary care hospital in Sri Lanka. Case presentation: A 16-year-old Sinhalese male with severe haemophilia A (factor level < 1percent) was admitted to a teaching hospital in Sri Lanka on day 1 of an acute febrile illness, associated with arthralgia, myalgia, vomiting and headache.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_2",
+      "text": "eaching hospital in Sri Lanka on day 1 of an acute febrile illness, associated with arthralgia, myalgia, vomiting and headache. On admission, he had a tachycardia of 120 beats per minute, and blood pressure of 110/70 millimetres of mercury, with no bleeding manifestations. Baseline investigations revealed leukocyte and platelet counts of 4400 and 241,000 per cubic millimtre, respectively, and a haematocrit of 34.5 percent. Dengue was confirmed later by sero-conversion of the dengue IgM antibody test.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_3",
+      "text": "respectively, and a haematocrit of 34.5 percent. Dengue was confirmed later by sero-conversion of the dengue IgM antibody test. Fluid balance, pulse rate and blood pressure were monitored hourly. The haematocrit and platelet counts were checked thrice daily, while he was clinically assessed for bleeding. On day 3 he developed bleeding from a tooth extraction site, with vomiting of dark red blood. His platelet level at that point was 124,000 per cubic millimetre with a haematocrit of 32 percent.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_4",
+      "text": "vomiting of dark red blood. His platelet level at that point was 124,000 per cubic millimetre with a haematocrit of 32 percent. Intravenous factor VIII was given to achieve a 100 percent factor correction over twenty-four hours. His platelet count dropped progressively from admission to a nadir of 50,000 per cubic millimetre on day 6. He did not develop clinical evidence of fluid leakage. On day 7 he was discharged after complete recovery.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_5",
+      "text": "millimetre on day 6. He did not develop clinical evidence of fluid leakage. On day 7 he was discharged after complete recovery. Conclusions: People with haemophilia may exhibit bleeding from the early febrile stage and at higher platelet levels than most other patients with dengue.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_6",
+      "text": "emophilia may exhibit bleeding from the early febrile stage and at higher platelet levels than most other patients with dengue. Further discussion and research is necessary to decide on the optimal management of these patients, with regard to monitoring and timely treatment with blood products and/or factor correction, in order to prevent dengue-related morbidity and mortality whilst avoiding overtreatment.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_7",
+      "text": "od products and/or factor correction, in order to prevent dengue-related morbidity and mortality whilst avoiding overtreatment. In endemic areas it is advisable that such patients seek early medical help in the event of an acute fever. Keywords: Haemophilia, Dengue, Dengue fever Background Dengue fever (DF) is a vector borne viral disease caused by the dengue virus, which belongs to the family filoviri- dae and genus flavivirus [1].",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_8",
+      "text": "is a vector borne viral disease caused by the dengue virus, which belongs to the family filoviri- dae and genus flavivirus [1]. Currently it is the most rap- idly spreading mosquito-borne viral disease in the world [2]. Sri Lanka, is an island nation in the Indian subcon- tinent that has a population of nearly 20.5 million [3]. DF is endemic in most parts of Sri Lanka, where it ac- counts for a large proportion of all hospital admissions with acute fever.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_9",
+      "text": "is endemic in most parts of Sri Lanka, where it ac- counts for a large proportion of all hospital admissions with acute fever. In 2011 alone 27,162 cases of DF were reported in Sri Lanka, with 246 deaths [4]. Dengue has a wide spectrum of clinical presentations, often with a clinically unpredictable evolution and outcome.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_10",
+      "text": "deaths [4]. Dengue has a wide spectrum of clinical presentations, often with a clinically unpredictable evolution and outcome. Most patients with DF recover following a self-limiting non- severe clinical course, while a small proportion progress to develop severe disease, characterized by plasma leakage with or without haemorrhage [2]. Severe thrombocytopenia and increased vascular permeability are the two major char- acteristics of dengue hemorrhagic fever (DHF) [5].",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_11",
+      "text": "thrombocytopenia and increased vascular permeability are the two major char- acteristics of dengue hemorrhagic fever (DHF) [5]. Haemophilia A is the most common inherited bleed- ing disorder, caused by defects in the gene that encodes coagulation factor VIII. It is an X-linked recessive dis- order which occurs in approximately 1:5000 males [6].",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_12",
+      "text": "ne that encodes coagulation factor VIII. It is an X-linked recessive dis- order which occurs in approximately 1:5000 males [6]. Patients with pre-existing coagulopathies such as hae- mophila are probably at a higher risk of bleeding than * Correspondence: dilushi_w@yahoo.com 1University Medical Unit, National Hospital of Sri Lanka, Colombo, Sri Lanka Full list of author information is available at the end of the article © 2015 Wijayaratne et al.; licensee BioMed Central.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_13",
+      "text": "anka Full list of author information is available at the end of the article © 2015 Wijayaratne et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_14",
+      "text": "which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. Wijayaratne et al. BMC Research Notes  (2015) 8:78  DOI 10.1186/s13104-015-1043-x others. It is likely that such patients may develop bleed- ing at higher platelet counts than the normal population.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_15",
+      "text": "015-1043-x others. It is likely that such patients may develop bleed- ing at higher platelet counts than the normal population. There is a scarcity of data on the incidence and outcome of DF in patients with haemophila [7]. We report a case of a patient with severe haemophila A (factor level <1%) presenting with DF, managed at a tertiary care hospital in Sri Lanka.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_16",
+      "text": "of a patient with severe haemophila A (factor level <1%) presenting with DF, managed at a tertiary care hospital in Sri Lanka. Case presentation A 16-year-old Sinhalese male with severe haemophilia A (factor level < 1%), was admitted to a teaching hospital in Sri Lanka on Day 1 of an acute febrile illness. He had been diagnosed with haemophilia in early childhood, but was not on prophylactic factor VIII therapy.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_17",
+      "text": "te febrile illness. He had been diagnosed with haemophilia in early childhood, but was not on prophylactic factor VIII therapy. Four days before admission, he had undergone a dental extraction, with 30% factor correction with intravenous factor VIII prior to the procedure. One day before admission he had devel- oped bleeding from the extraction site, which had been treated with 750 IU of factor VIII to achieve a 30% factor correction.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_18",
+      "text": "- oped bleeding from the extraction site, which had been treated with 750 IU of factor VIII to achieve a 30% factor correction. On the day of admission he had developed fever with chills and rigors, associated with arthralgia, my- algia, nausea, vomiting and severe frontal headache. On admission, he was febrile and flushed, with a heart rate of 120 beats per minute and a blood pressure of 110/70 millimetres of mercury. The respiratory rate was 20 per minute, with clear lungs on auscultation.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_19",
+      "text": "nd a blood pressure of 110/70 millimetres of mercury. The respiratory rate was 20 per minute, with clear lungs on auscultation. The ab- domen was soft, with mild epigastric tenderness. Neuro- logical examination including the fundus examination was unremarkable. There was no evidence of bleeding on clinical evaluation at the time of admission.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_20",
+      "text": "ing the fundus examination was unremarkable. There was no evidence of bleeding on clinical evaluation at the time of admission. Baseline investigations revealed a white blood cell count of 4400 per cubic milimetre (/mm3) (Neutrophils 47%; Lymphocytes 41%), while the platelet count and haematocrit were 241,000/mm3 and 34.5% (haemoglobin 11.3 g/dl) respectively.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_21",
+      "text": "7%; Lymphocytes 41%), while the platelet count and haematocrit were 241,000/mm3 and 34.5% (haemoglobin 11.3 g/dl) respectively. The erthyrocyte sedimentation rate, urine full report, serum creatinine, hepatic tranasa- minases, prothrombrin time and Chest X-ray were all within normal limits and remained normal during the entire hospital stay. A clinical diagnosis of a possible un- differentiated viral fever or dengue fever (DF) was made based on the history, examination and investigations.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_22",
+      "text": "f a possible un- differentiated viral fever or dengue fever (DF) was made based on the history, examination and investigations. Subsequently DF was confirmed by sero-conversion with the dengue IgM antibody test (MAC-ELISA, M Antibody capture- Enzyme Linked Immunosorbent Assay) on the tenth day. Earlier confirmation by antigen detection was not possible due to limited availability of test.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_23",
+      "text": "orbent Assay) on the tenth day. Earlier confirmation by antigen detection was not possible due to limited availability of test. He was managed as dengue, according to the national dengue management guidelines, with hourly monitoring of fluid balance, pulse rate and blood pressure [8]. The haemato- crit and platelet counts were checked thrice per day. The patient was frequently clinically evaluated to detect the presence of any bleeding.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_24",
+      "text": "let counts were checked thrice per day. The patient was frequently clinically evaluated to detect the presence of any bleeding. On day 2 of the illness he complained of severe throb- bing headache associated with vomiting. Neurological examination, including fundoscopy, was normal. An ur- gent non-contrast computerized tomography (CT) scan of the brain excluded the presence of any intracranial bleeding.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_25",
+      "text": "al. An ur- gent non-contrast computerized tomography (CT) scan of the brain excluded the presence of any intracranial bleeding. On day 3 of the fever he developed recurrence of bleeding from the tooth extraction site, together with vomiting of dark red blood. His platelet level at that point was 124,000/mm3 with a haematocrit of 32%. Intravenous factor VIII was given to achieve a 100% fac- tor correction over twenty four hours.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_26",
+      "text": "/mm3 with a haematocrit of 32%. Intravenous factor VIII was given to achieve a 100% fac- tor correction over twenty four hours. Omeprazole was administered intravenously for management of possible co-existing gastric erosions or peptic ulcers. Factor cor- rection was discontinued after 24 hours (on day 4) as bleeding had settled and activated partial thromboplastin time (APTT) was in the normal range. Fever resolved by day 5.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_27",
+      "text": "y 4) as bleeding had settled and activated partial thromboplastin time (APTT) was in the normal range. Fever resolved by day 5. His platelet count dropped progressively from day 1 to a nadir of 50,000/mm3 on day 6. During the course of the illness he did not develop any clinical evidence of fluid leakage or become haemodynamically unstable. On day 7 he was discharged since he was afebrile and clinic- ally well, with a rising platelet count of 69,000/mm3.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_28",
+      "text": "y unstable. On day 7 he was discharged since he was afebrile and clinic- ally well, with a rising platelet count of 69,000/mm3. Discussion People with bleeding disorders such as haemophilia, pre- senting with dengue infection, have an increased risk of bleeding compared to non- haemopliliacs [4].",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_29",
+      "text": "such as haemophilia, pre- senting with dengue infection, have an increased risk of bleeding compared to non- haemopliliacs [4]. In a series of 6 cases with DF from Thailand, it was noted that people with haemophilia exhibited bleeding manifesta- tions from the early febrile stage and at higher platelet levels, in contrast to the pattern observed in most other patients with DF [7].",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_30",
+      "text": "the early febrile stage and at higher platelet levels, in contrast to the pattern observed in most other patients with DF [7]. This is possibly due to the lack of factor VIII and/or aggravation of bleeding risk due to the vasculopathy in DF [7] In the case of the current pa- tient, who had a non-severe form of dengue, his recent surgical procedure placed him at higher risk of bleeding.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_31",
+      "text": "he current pa- tient, who had a non-severe form of dengue, his recent surgical procedure placed him at higher risk of bleeding. The suspicion of concurrent dengue infection in this patient was crucial to his optimal monitoring and man- agement as serious bleeding manifestations could be expected during the late febrile and critical phases when thrombocytopenia occurs.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_32",
+      "text": "as serious bleeding manifestations could be expected during the late febrile and critical phases when thrombocytopenia occurs. The current WHO DF guide- lines do not emphasise congenital bleeding disorders as a ‘coexisting condition’ that necessitates admission, or provide special guidance on monitoring and managing such patients [2].",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_33",
+      "text": "a ‘coexisting condition’ that necessitates admission, or provide special guidance on monitoring and managing such patients [2]. Considering the higher risk of bleed- ing, and the chance that bleeding may occur earlier on in disease than in non-haemophiliacs, closer clinical and haematological monitoring may be required than is rec- ommended for non-haemophiliacs.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_34",
+      "text": "n non-haemophiliacs, closer clinical and haematological monitoring may be required than is rec- ommended for non-haemophiliacs. Further discussion and research is necessary to decide on the optimal management of these patients, especially with regards to monitoring protocols and the requirement and timing of blood products and/or factor correction. In the current patient, it was decided to achieve a 100% factor correction with the appearance of mild bleeding while monitoring APTT.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_35",
+      "text": "current patient, it was decided to achieve a 100% factor correction with the appearance of mild bleeding while monitoring APTT. The place of prophylactic factor Wijayaratne et al. BMC Research Notes  (2015) 8:78  Page 2 of 3 correction and its timing in patients with confirmed DF is not clearly understood. While under-correction poses a risk of bleeding, indiscriminate factor replacement places the patient at a risk of side effects, and is extremely expen- sive [9].",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_36",
+      "text": "of bleeding, indiscriminate factor replacement places the patient at a risk of side effects, and is extremely expen- sive [9]. Hence, there is an urgent necessity for evidence- based and/or interdisciplinary consensus-based guidelines on the management of DF in patients with bleeding disor- ders such as haemophilia. In endemic areas such as in Sri Lanka it is advisable for patients with haemophilia to seek early medical help in the event of an acute fever.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_37",
+      "text": "s such as in Sri Lanka it is advisable for patients with haemophilia to seek early medical help in the event of an acute fever. As most patients with congenital bleeding disorders are regularly followed up at hospital clinics, education in this regard can be easily achieved.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_38",
+      "text": "h congenital bleeding disorders are regularly followed up at hospital clinics, education in this regard can be easily achieved. Conclusion People with haemophilia who develop dengue virus in- fections may exhibit bleeding manifestations from the early febrile stage and at higher platelet levels, compared to the pattern observed in most non-haemophiliac pa- tients with dengue fever.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_39",
+      "text": "le stage and at higher platelet levels, compared to the pattern observed in most non-haemophiliac pa- tients with dengue fever. Further discussion and research is necessary to decide on the optimal management of these patients, with regard to monitoring and timely treatment with blood products and/or factor correction, in order to prevent dengue related morbidity and mor- tality whilst avoiding overtreatment.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_40",
+      "text": "products and/or factor correction, in order to prevent dengue related morbidity and mor- tality whilst avoiding overtreatment. In dengue endemic areas it is advisable that patients with bleeding disorders such as haemophilia seek early medical help in the event of an acute fever. Consent Written informed consent was obtained from the patient and the patient’s legal guardian(s) for publication of this case report and any accompanying images.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_41",
+      "text": "obtained from the patient and the patient’s legal guardian(s) for publication of this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in- Chief of this journal. Abbreviations DF: Dengue fever; DHF: Dengue haemorrhagic fever; WHO: World Health Organization; APTT: Activated partial thromboplastin time; IV: Intravenous; IU: International units; PT/INR: Prothrombin time/International normalized ratio.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_42",
+      "text": "partial thromboplastin time; IV: Intravenous; IU: International units; PT/INR: Prothrombin time/International normalized ratio. Competing interests The authors declare that they have no competing interests. Authors’ contributions DW and SPM participated in acquisition of data. DW and PR were involved in drafting the manuscript. PR, SPM, SAD and PK participated in revising critically the manuscript and giving the final approval of the version to be published.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_43",
+      "text": "PM, SAD and PK participated in revising critically the manuscript and giving the final approval of the version to be published. All authors read and approved the final manuscript. Acknowledgements The medical staff of the University medical unit, National Hospital, Sri Lanka. Author details 1University Medical Unit, National Hospital of Sri Lanka, Colombo, Sri Lanka. 2Department of Pharmacology, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_44",
+      "text": "of Sri Lanka, Colombo, Sri Lanka. 2Department of Pharmacology, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka. 3Department of Clinical Medicine, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka. Received: 1 October 2014 Accepted: 3 March 2015 References 1. Koshy J, Pandian JD. Dengue infection: an emerging cause of neuromuscular weakness. J Neurosci Rural Pract. 2012;3(1):1. 2. World Health Organization. Dengue hemorrhagic fever: diagnosis, treatment, prevention and control.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_45",
+      "text": "Rural Pract. 2012;3(1):1. 2. World Health Organization. Dengue hemorrhagic fever: diagnosis, treatment, prevention and control. Geneva: WHO; 2009. p. 3–12. 3. Department of Census and statistics - Sri Lanka. Statistical Pocket Book [http://www.statistics.gov.lk/Pocket%20Book/chap02.pdf]. Accessed 23 Jan 2015. 4. World Health Organization Regional office for Southeast Asia. Reported cases of dengue and deaths from SEA countries 2000–2011 [http://www.searo.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_46",
+      "text": "ization Regional office for Southeast Asia. Reported cases of dengue and deaths from SEA countries 2000–2011 [http://www.searo. who.int/entity/vector_borne_tropical_diseases/ReportedCasesDeaths.pdf]. Accessed 23 Jan 2015. 5. Saito M, Oishi K, Inoue S, Dimaano EM, Alera MTP, Robles AMP, et al. Association of increased platelet-associated immunoglobulins with thrombocytopenia and the severity of disease in secondary dengue virus infections. Clin Exp Immunol. 2004;138(2):299–303. 6.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_47",
+      "text": "th thrombocytopenia and the severity of disease in secondary dengue virus infections. Clin Exp Immunol. 2004;138(2):299–303. 6. Castaldo G, D'Argenio V, Nardiello P, Zarrilli F, Sanna V, Rocino A, et al. Haemophilia a: molecular insights. Clin Chem Lab Med. 2007;45(4):450–61. 7. Chuansumrit A, Tangnararatchakit K, Sirachainan N, Khositseth A, Kuptanon T, Wanitkun S, et al. Dengue virus infection in haemophilic patients: aggravation of bleeding risk. Haemophilia. 2011;17(3):553–6. 8.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_48",
+      "text": "itkun S, et al. Dengue virus infection in haemophilic patients: aggravation of bleeding risk. Haemophilia. 2011;17(3):553–6. 8. Ministry of Health Care & Nutrition. Guidelines on Management of Dengue Fever & Dengue Haemorrhagic Fever In Adults. Sri Lanka: Ministry of Health Care & Nutrition; 2010. 9. De Moerloose P, Urbancik W, Van Den Berg HM, Richards M. A survey of adherence to haemophilia therapy in six European countries: results and recommendations. Haemophilia. 2008;14(5):931–8.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_49",
+      "text": "rvey of adherence to haemophilia therapy in six European countries: results and recommendations. Haemophilia. 2008;14(5):931–8. Submit your next manuscript to BioMed Central and take full advantage of:  • Convenient online submission • Thorough peer review • No space constraints or color ﬁgure charges • Immediate publication on acceptance • Inclusion in PubMed, CAS, Scopus and Google Scholar • Research which is freely available for redistribution Submit your manuscript at  www.biomedcentral.com/submit Wijayaratne et al.",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "5fc3c29a1ceb_50",
+      "text": "esearch which is freely available for redistribution Submit your manuscript at  www.biomedcentral.com/submit Wijayaratne et al. BMC Research Notes  (2015) 8:78  Page 3 of 3 .",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "5fc3c29a1ceb_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "5fc3c29a1ceb",
+        "filename": "Dengue fever in a patient with severe haemophilia a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.55,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.607541",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_type": "image",
+        "image_path": "Dengue fever in a patient with severe haemophilia a case report_p3_img1_79ab1594.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 3
+      }
+    }
+  ],
+  "total_chunks": 52
+}

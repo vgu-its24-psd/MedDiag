@@ -1,0 +1,938 @@
+{
+  "document_id": "0e68739c8188",
+  "document_type": "case_report",
+  "type_confidence": 0.7,
+  "document_metadata": {
+    "doc_id": "0e68739c8188",
+    "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.7,
+    "pages": 4,
+    "processed_date": "2025-09-27T23:12:45.043063",
+    "has_images": true,
+    "image_count": 2
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 52,
+      "gender": "male"
+    },
+    "timeline": {},
+    "clinical_findings": {
+      "chief_complaint": "a history of fever for 2 days, and left-sided weakness and numbness of sudden onset"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "of dengue fever was made based on leuco-thrombocytopenia,\npositive dengue nonstructural protein-1 (NS-1) antigen, and positive dengue IgM antibodies"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "0e68739c8188_0",
+      "text": "Case Report: Dengue Hemorrhagic Fever with Ischemic Stroke Basnayake Wasala Mudiyanselage Kumarini Eranthika Basnayake,1* Kaluachchi Gamage Samanthi Kumari Somaratne,1 Chathuri Udeshika Goonetilleke,1 Pattiniya Markkala Yasoma Indrani Tilakaratna,2 and Udaya Kumara Ranawaka2 1Colombo North Teaching Hospital, Ragama, Sri Lanka; 2Faculty of Medicine, University of Kelaniya, Ragama, Sri Lanka Abstract. Several neurological manifestations are recognized in dengue infection, but stroke is a rare complication.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_1",
+      "text": "Sri Lanka Abstract. Several neurological manifestations are recognized in dengue infection, but stroke is a rare complication. We report a case of ischemic stroke in a patient with dengue hemorrhagic fever. A 52-year-old previously healthy male presented with a history of fever for 2 days, and left-sided weakness and numbness of sudden onset. MRI scanning showed a right-sided thalamic lacunar infarct.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_2",
+      "text": "r for 2 days, and left-sided weakness and numbness of sudden onset. MRI scanning showed a right-sided thalamic lacunar infarct. Diagnosis of dengue fever was made based on leuco-thrombocytopenia, positive dengue nonstructural protein-1 (NS-1) antigen, and positive dengue IgM antibodies. Severity of limb weakness correlated with the critical phase of dengue hemorrhagic fever (DHF). He was discharged home with good recovery from neurological symptoms and disability.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_3",
+      "text": "l phase of dengue hemorrhagic fever (DHF). He was discharged home with good recovery from neurological symptoms and disability. Strokes are rare in dengue, and are mainly hemorrhagic strokes related to throm- bocytopenia. Ischemic stroke is even rarer. More evidence is needed for conﬁrmation of dengue as a pathogenic mecha- nism of ischemic stroke.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_4",
+      "text": "schemic stroke is even rarer. More evidence is needed for conﬁrmation of dengue as a pathogenic mecha- nism of ischemic stroke. CASE PRESENTATION A 52-year-old previously healthy man presented to a Sri Lankan tertiary care hospital with a history of fever, head- ache, and arthralgia of 2 days. There was associated nausea and loss of appetite but no respiratory, urinary, gastrointesti- nal, or musculoskeletal symptoms were reported.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_5",
+      "text": "ociated nausea and loss of appetite but no respiratory, urinary, gastrointesti- nal, or musculoskeletal symptoms were reported. He had a dull global headache without photophobia, phonophobia, or symptoms suggestive of increased intracranial pressure. On the second day of his illness, he had developed left sided face-arm-leg weakness and numbness of sudden onset. There was no altered sensorium, dysarthria, or dysphagia, and he was able to mobilize independently despite the weakness.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_6",
+      "text": "nset. There was no altered sensorium, dysarthria, or dysphagia, and he was able to mobilize independently despite the weakness. He was a nonsmoker and a social drinker. On admission, he was febrile with a temperature of 38.6\u0001C and was dehydrated. There was no plethora or lymphade- nopathy. He had a blood pressure of 120/80 mm of Hg and a pulse rate of 96 bpm, and examination of the precordium, lungs and abdomen were normal. The Glasgow Coma Scale was 15/15 and he was well oriented.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_7",
+      "text": "m, and examination of the precordium, lungs and abdomen were normal. The Glasgow Coma Scale was 15/15 and he was well oriented. A left face-arm-leg hemiparesis was noted (power grade 4/5 on the Medical Research Council [MRC] scale). Cranial nerve examination was normal, except for the left upper motor neuron type facial palsy. Deep tendon reﬂexes were normal and the plan- tar reﬂexes were ﬂexor bilaterally. There was no objective sensory impairment or cerebellar involvement.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_8",
+      "text": "e normal and the plan- tar reﬂexes were ﬂexor bilaterally. There was no objective sensory impairment or cerebellar involvement. He was able to walk independently. Stroke severity as measured by the National Institutes of Health Stroke Scale (NIHSS) score was 3 (on a scale of 0–42, higher scores indicating more severe strokes) on admission.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_9",
+      "text": "tes of Health Stroke Scale (NIHSS) score was 3 (on a scale of 0–42, higher scores indicating more severe strokes) on admission. A diagnosis of dengue fever was made based on leucope- nia, thrombocytopenia, and positive non-structural protein-1 (NS-1) antigen test for dengue, and subsequently by positive dengue IgM antibody test. His initial random blood glucose, renal functions, coagulation proﬁle, C-reactive protein, and erythrocyte sedimentation rate (ESR) values were within nor- mal limits.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_10",
+      "text": "functions, coagulation proﬁle, C-reactive protein, and erythrocyte sedimentation rate (ESR) values were within nor- mal limits. Urine analysis did not reveal hematuria. Liver transaminases were elevated compatible with dengue fever. A noncontrast CT scan of the brain showed a right-sided thalamic lacunar infarct, which was later conﬁrmed by a MRI scan that showed a T2 and FLAIR high intensity area with mild diffusion restriction and peripheral enhancement in the right thalamus (Figure 1).",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_11",
+      "text": "a T2 and FLAIR high intensity area with mild diffusion restriction and peripheral enhancement in the right thalamus (Figure 1). Lumbar puncture was not per- formed because of severe thrombocytopenia. He was man- aged according to the current Sri Lankan dengue practice guidelines. Summary of important investigations available from the day of admission (third day of the illness) is shown (Supplemental Table 1).",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_12",
+      "text": "ary of important investigations available from the day of admission (third day of the illness) is shown (Supplemental Table 1). The patient entered the critical phase of dengue hemor- rhagic fever (DHF) when the platelet count was 12,000/mL, and a focused ultrasound scan conﬁrmed ﬂuid leakage with pericholecystic ﬂuid and free ﬂuid in the hepatorenal pouch. The severity of limb weakness correlated with the disease progression of dengue fever.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_13",
+      "text": "and free ﬂuid in the hepatorenal pouch. The severity of limb weakness correlated with the disease progression of dengue fever. The left upper and lower limb power was grade 4/5 (MRC scale) at the beginning of the ascending phase of DHF, and weakness progressed to grade 3/5 requiring support for mobilization towards the peak of the ascending phase and during the ﬁrst half of the descending phase. However, he did not develop other neu- rological complications and remained hemodynamically sta- ble.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_14",
+      "text": "of the descending phase. However, he did not develop other neu- rological complications and remained hemodynamically sta- ble. He recovered from the critical phase of DHF with only supportive therapy including careful monitoring and ﬂuid management. The timeline of important clinical events is shown below (Supplemental Table 2). He was transferred to the hospital stroke unit after recover- ing from dengue for further management.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_15",
+      "text": "w (Supplemental Table 2). He was transferred to the hospital stroke unit after recover- ing from dengue for further management. With the recovery of thrombocytopenia, he was started on anti-platelet therapy. Stroke risk factor evaluation revealed elevated fasting blood glucose (198 mg/dL) and HbA1C (6.7%), and he was started on oral hypoglycemic medications. His 2D-echocardiogram and carotid Doppler scan were normal.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_16",
+      "text": "HbA1C (6.7%), and he was started on oral hypoglycemic medications. His 2D-echocardiogram and carotid Doppler scan were normal. He made a good neu- rological recovery with multi-disciplinary rehabilitation and was discharged home. He was followed up at the stroke clinic, and at 6 months was found to have complete recovery with no residual weakness and independence in all daily activities.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_17",
+      "text": "clinic, and at 6 months was found to have complete recovery with no residual weakness and independence in all daily activities. DISCUSSION Dengue fever is an arboviral disease transmitted by mos- quito vectors Aedes aegypti and Aedes albopictus.1 It is the most common mosquito-borne viral illness in Sri Lanka,2 with yearly epidemics following monsoon rains when *Address correspondence to B. W. M. K. E. Basnayake, Ward 21, University Medical Unit, Colombo North Teaching Hospital, Ragama, Sri Lanka.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_18",
+      "text": "rrespondence to B. W. M. K. E. Basnayake, Ward 21, University Medical Unit, Colombo North Teaching Hospital, Ragama, Sri Lanka. E-mail: kbasnayake89@gmail.com 578 Am. J. Trop. Med. Hyg., 106(2), 2022, pp. 578–581 doi:10.4269/ajtmh.21-0618 Copyright © 2022 by The American Society of Tropical Medicine and Hygiene conditions are optimal for mosquito breeding.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_19",
+      "text": "21-0618 Copyright © 2022 by The American Society of Tropical Medicine and Hygiene conditions are optimal for mosquito breeding. The highest number of globally notiﬁed dengue cases was reported in 2019, with more than four million cases reported from all regions of the world.3 It is now recognized to be a disease with multi-organ involvement. Neurological complications are well described in dengue but thought to be uncommon.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_20",
+      "text": "be a disease with multi-organ involvement. Neurological complications are well described in dengue but thought to be uncommon. The spectrum of neurological manifestations in dengue is diverse and can be related to neurotropic effects of the virus (e.g., meningitis, encephalitis, myositis, myelitis), systemic complications (e.g., encepha- lopathy), or post-infectious immune mediated phenomena (e.g., acute disseminated encephalomyelitis, Guillain-Barr\u0001e syndrome).4 Stroke is a rarely reported neurological manifestation in dengue infection.5 Stroke was not observed among 45 patients with neurological involvement in a study of 486 patients with dengue in India.6 In a Sri Lankan study of 295 patients with dengue fever, neurological complications were reported in 12 patients, but strokes were not seen.7 Similarly, stroke has not been reported in several other case series detailing neurological involvement in dengue.8–11 The majority of strokes reported in dengue are hemorrhagic in nature,12–15 and increased capillary permeability, plasma leakage, and vasculitis are thought to be the underlying pathogenic mecha- nisms for hemorrhagic stroke.5 Thrombotic phenomena involving both arterial and venous circulations are described in dengue infection.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_21",
+      "text": "or hemorrhagic stroke.5 Thrombotic phenomena involving both arterial and venous circulations are described in dengue infection. These include myocardial infarction,16,17 cerebral venous thrombosis,18 deep vein thrombosis,19 and pulmonary embolism.20,21 The underly- ing pathophysiological basis for thrombotic events in dengue is poorly understood.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_22",
+      "text": "19 and pulmonary embolism.20,21 The underly- ing pathophysiological basis for thrombotic events in dengue is poorly understood. Several hematological disturbances includ- ing cytokine storm secondary to antibody-dependent enhance- ment, increased immune complex formation, and complement activation are suggested as possible mechanisms.22 Loss of endothelial nonthrombogenic protective factors and expression of thrombomodulin by the infected endothelial cells facilitating a procoagulant hemotasis are described even in very early stages of severe dengue infection.23,24 However, none of these mechanisms have been described related to ischemic strokes in dengue.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_23",
+      "text": "s of severe dengue infection.23,24 However, none of these mechanisms have been described related to ischemic strokes in dengue. Published literature on ischemic stroke in dengue fever is limited to a few case reports.5,25–30 The pathogenesis pos- tulated includes meningo-vasculitis and a transient hyper- coagulable state following plasma leakage.6,31,32 In our patient, the observed correlation of neurological disability with the severity of thrombocytopenia and plasma leakage lends support to a transient hypercoagulable state being a possible pathogenic mechanism.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_24",
+      "text": "f thrombocytopenia and plasma leakage lends support to a transient hypercoagulable state being a possible pathogenic mechanism. A similar observation was made in a case report by Liou in 2008.25 Intracranial vascu- litis has been reported in a child with ischemic stroke and positive dengue serology.33 However, MRI angiography did not reveal vascular abnormalities in our patient.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_25",
+      "text": "ischemic stroke and positive dengue serology.33 However, MRI angiography did not reveal vascular abnormalities in our patient. Cardiac dysfunction is described in dengue34 and can be a poten- tial cause of ischemic stroke in these patients, but there is no evidence of possible cardiogenic embolism in the reported cases.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_26",
+      "text": "al cause of ischemic stroke in these patients, but there is no evidence of possible cardiogenic embolism in the reported cases. In our patient, cardiogenic embolism was unlikely to be the possible stroke mechanism, as the clini- cal subtype was a lacunar syndrome, neuroimaging con- ﬁrmed a lacunar infarct, and ECG and 2D echocardiogram were normal (although Holter monitoring was not per- formed).",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_27",
+      "text": "aging con- ﬁrmed a lacunar infarct, and ECG and 2D echocardiogram were normal (although Holter monitoring was not per- formed). A summary of the key ﬁndings from previous pub- lications of ischemic stroke in dengue is given in Supple- mental Table 3. Currently, management of dengue fever is limited to sup- portive care with carefully tailored ﬂuid resuscitation.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_28",
+      "text": "ntal Table 3. Currently, management of dengue fever is limited to sup- portive care with carefully tailored ﬂuid resuscitation. Immune-mediated mechanisms may play a role in thrombo- cytopenia in dengue infection,35 and correction of thrombo- cytopenia with steroids or intravenous immunoglobulin (IVIG) may help improve stroke outcomes.25 However, no beneﬁt of steroids or IVIG has been shown in clinical trials on FIGURE 1.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_29",
+      "text": "IVIG) may help improve stroke outcomes.25 However, no beneﬁt of steroids or IVIG has been shown in clinical trials on FIGURE 1. Non contrast CT scan (left) and Contrast-enhanced MRI brain (right) showing right thalamic infarct (arrow). ISCHEMIC STROKE IN DENGUE HEMORRHAGIC FEVER 579 dengue management,36 and their place in clinical practice is uncertain.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_30",
+      "text": "arrow). ISCHEMIC STROKE IN DENGUE HEMORRHAGIC FEVER 579 dengue management,36 and their place in clinical practice is uncertain. Patients may present with symptoms related to stroke prior to the onset of symptoms of dengue.5 Using antiplate- let therapy or thrombolysis oblivious to the underlying den- gue infection with thrombocytopenia in such patients may lead to fatal bleeding complications.37 In conclusion, ischemic stroke is a rare complication of dengue fever.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_31",
+      "text": "uch patients may lead to fatal bleeding complications.37 In conclusion, ischemic stroke is a rare complication of dengue fever. The pathogenic mechanisms and treatment options of ischemic stroke in dengue fever need further study. It is important to exclude the possibility of dengue fever in the management of ischemic stroke in endemic countries, as thrombolysis, endovascular treatment and anti-platelet treatment could have fatal consequences in patients with unrecognized thrombocytopenia.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_32",
+      "text": "ndovascular treatment and anti-platelet treatment could have fatal consequences in patients with unrecognized thrombocytopenia. Received June 2, 2021. Accepted for publication September 28, 2021. Published online November 15, 2021. Note: Supplemental tables appear at www.ajtmh.org. Acknowledgments: We would like to thank all the staff members of the stroke unit, Colombo North Teaching Hospital, Ragama, Sri Lanka.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_33",
+      "text": "ledgments: We would like to thank all the staff members of the stroke unit, Colombo North Teaching Hospital, Ragama, Sri Lanka. The American Society of Tropical Medicine and Hygiene (ASTMH) assisted with publication expenses. Financial support: No financial support was sought or secured in relation to this article. Authors’ addresses: B. W. M. K. E. Basnayake, K. G. S. K. Somaratne, and C. U.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_34",
+      "text": "s sought or secured in relation to this article. Authors’ addresses: B. W. M. K. E. Basnayake, K. G. S. K. Somaratne, and C. U. Goonetilleke, Colombo North Teaching Hospital, Ragama, Sri Lanka, E-mails: kbasnayake89@gmail.com, ssomaratne123@ gmail.com, and chathuri86goonetilleke@gmail.com. P. M. Y. I. Tilakaratna and U. K. Ranawaka, Faculty of Medicine, University of Kelaniya, Ragama, Sri Lanka, E-mails: ythilakaratna@gmail.com and udayaran@yahoo.com. REFERENCES 1. Kraemer MU et al., 2015.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_35",
+      "text": "of Kelaniya, Ragama, Sri Lanka, E-mails: ythilakaratna@gmail.com and udayaran@yahoo.com. REFERENCES 1. Kraemer MU et al., 2015. The global distribution of the arbovi- rus vectors Aedes aegypti and Ae. albopictus. eLife 4: e08347. 2. Weekly Epidemiological Report—Sri Lanka, 2013. Vector-borne Viral Infections. Available at: http://www.epid.gov.lk/web/ images/pdf/wer/2013/vol_40_no_21_english.pdf. Accessed February 16, 2020. 3. Cogan JE, 2020. Dengue and Severe Dengue.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_36",
+      "text": ".lk/web/ images/pdf/wer/2013/vol_40_no_21_english.pdf. Accessed February 16, 2020. 3. Cogan JE, 2020. Dengue and Severe Dengue. Available at: https://www.who.int/news-room/fact-sheets/detail/dengue-and- severe-dengue. Accessed May 30, 2020. 4. Murthy J, 2010. Neurological complications of dengue infection. Neurol India 58: 581. 5. Mathew S, Pandian JD, 2010. Stroke in patients with dengue. J Stroke Cerebrovasc Dis 19: 253–256. 6.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_37",
+      "text": ". Neurol India 58: 581. 5. Mathew S, Pandian JD, 2010. Stroke in patients with dengue. J Stroke Cerebrovasc Dis 19: 253–256. 6. Sahu R, Verma R, Jain A, Garg RK, Singh MK, Malhotra HS, Sharma PK, Parihar A, 2014. Neurologic complications in den- gue virus infection: a prospective cohort study. Neurology 83: 1601–1609. 7. Tun MMN, Muthugala R, Nabeshima T, Rajamanthri L, Jaya- wardana D, Attanayake S, Soe AM, Dumre SP, Ando T, Haya- saka D, 2020.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_38",
+      "text": "Tun MMN, Muthugala R, Nabeshima T, Rajamanthri L, Jaya- wardana D, Attanayake S, Soe AM, Dumre SP, Ando T, Haya- saka D, 2020. Unusual, neurological and severe dengue manifestations during the outbreak in Sri Lanka, 2017. J Clin Virol 125: 104304. 8. Verma R, Sharma P, Garg RK, Atam V, Singh MK, Mehrotra HS, 2011. Neurological complications of dengue fever: experi- ence from a tertiary center of north India. Ann Indian Acad Neurol 14: 272–278. 9. Misra UK, Kalita J, Syam UK, Dhole TN, 2006.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_39",
+      "text": "ence from a tertiary center of north India. Ann Indian Acad Neurol 14: 272–278. 9. Misra UK, Kalita J, Syam UK, Dhole TN, 2006. Neurological manifestations of dengue virus infection. J Neurol Sci 244: 117–122. 10. Ara\u0001ujo FM, Ara\u0001ujo MS, Nogueira RM, Brilhante RS, Oliveira DN, Rocha MF, Cordeiro RA, Ara\u0001ujo RM, Sidrim JJ, 2012. Central nervous system involvement in dengue: a study in fatal cases from a dengue endemic area. Neurology 78: 736–742. 11. Misra UK, Kalita J, Mani VE, Chauhan PS, Kumar P, 2015.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_40",
+      "text": "y in fatal cases from a dengue endemic area. Neurology 78: 736–742. 11. Misra UK, Kalita J, Mani VE, Chauhan PS, Kumar P, 2015. Cen- tral nervous system and muscle involvement in dengue patients: a study from a tertiary care center. J Clin Virol 72: 146–151. 12. Carod-Artal FJ, 2019. Neurological complications associated with dengue virus infection. Rev Neurol 69: 113–122. 13. Verma R, Sahu R, Singh AS, Atam V, 2013. Dengue infection presenting as ischemic stroke: an uncommon neurological manifestation.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_41",
+      "text": "erma R, Sahu R, Singh AS, Atam V, 2013. Dengue infection presenting as ischemic stroke: an uncommon neurological manifestation. Neurol India 61: 317–318. 14. Vargas-S\u0001anchez A, Chiquete E, Guti\u0001errez-Plascencia P, Casta- ~neda-Moreno V, Alfaro-Castellanos D, Paredes-Casillas P, Ruiz-Sandovala JL, 2014. Cerebellar hemorrhage in a patient during the convalescent phase of dengue fever. J Stroke 16: 202–204. 15. Kumar J, Kumar A, Gupta S, Jain D, 2007. Neurological picture.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_42",
+      "text": "he convalescent phase of dengue fever. J Stroke 16: 202–204. 15. Kumar J, Kumar A, Gupta S, Jain D, 2007. Neurological picture. Dengue hemorrhagic fever: an unusual cause of intracranial haemorrhage. J Neurol Neurosurg Psychiatry 78: 253. 16. Umakanth M, 2017. Dengue fever complicated with Non- STEMI. Saudi J Med Pharm Sci 3: 704–706. 17. Lin S-C, Huang C-H, Lin C-Y, Lee W-H, Su H-M, Lin T-H, Lai W-T, Sheu S-H, Hsu P-C, 2016.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_43",
+      "text": "Saudi J Med Pharm Sci 3: 704–706. 17. Lin S-C, Huang C-H, Lin C-Y, Lee W-H, Su H-M, Lin T-H, Lai W-T, Sheu S-H, Hsu P-C, 2016. Dengue virus infection com- plicated with simultaneous multivessel ST elevation myocar- dial infarction. J Microb Immun Inf 49: 619. 18. Vasanthi N, Vairamon PM, Gowtham T, Das AK, 2015. Unusual presentation of dengue fever-cerebral venous thrombosis. J Clin Diagn Res 9: Od09–Od10. 19. Ranasinghe KMIU, Dissanayaka D, Thirumavalavan K, Senevir- atne M, 2020.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_44",
+      "text": "venous thrombosis. J Clin Diagn Res 9: Od09–Od10. 19. Ranasinghe KMIU, Dissanayaka D, Thirumavalavan K, Senevir- atne M, 2020. An unusual case of dengue shock syndrome complicated by ilio-femoral deep vein thrombosis; a case report. BMC Infect Dis 20: 335. 20. Dissanayake N, Pathirana A, Amarasekara H, Siriwardane C, Marasinghe I, Jayasekara R, 2019. Life threatening thrombo embolic event following dengue hemorrhagic fever. Sri Lankan J Cardiol 2: 69–72. 21.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_45",
+      "text": "yasekara R, 2019. Life threatening thrombo embolic event following dengue hemorrhagic fever. Sri Lankan J Cardiol 2: 69–72. 21. da Costa PS, Ribeiro GM, Junior CS, da Costa Campos L, 2012. Severe thrombotic events associated with dengue fever, Brazil. Am J Trop Med Hyg 87: 741–742. 22. Mairuhu AT, Mac Gillavry MR, Setiati TE, Soemantri A, ten Cate H, Brandjes DP, van Gorp EC, 2003. Is clinical outcome of dengue-virus infections inﬂuenced by coagulation and ﬁbrino- lysis? A critical review of the evidence.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_46",
+      "text": ". Is clinical outcome of dengue-virus infections inﬂuenced by coagulation and ﬁbrino- lysis? A critical review of the evidence. Lancet Infect Dis 3: 33–41. 23. Cabello-Guti\u0001errez C, Manjarrez-Zavala ME, Huerta-Zepeda A, Cime-Castillo J, Monroy-Mart\u0001ınez V, Correa BB, Ruiz-Ordaz BH, 2009. Modiﬁcation of the cytoprotective protein C path- way during dengue virus infection of human endothelial vas- cular cells. Thromb Haemost 101: 916–928. 24. Wills BA et al., 2002.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_47",
+      "text": "ay during dengue virus infection of human endothelial vas- cular cells. Thromb Haemost 101: 916–928. 24. Wills BA et al., 2002. Coagulation abnormalities in dengue hemorrhagic fever: serial investigations in 167 Vietnamese children with dengue shock syndrome. Clin Infect Dis 35: 277–285. 25. Liou L-M, Lan S-H, Lai C-L, 2008. Dengue fever with ischemic stroke: a case report. Neurologist 14: 40–42. 26. Manappallil RG, 2016. Ischemic stroke following dengue fever: a case report. Asian J Med Sci 7: 107–108. 27.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_48",
+      "text": "ist 14: 40–42. 26. Manappallil RG, 2016. Ischemic stroke following dengue fever: a case report. Asian J Med Sci 7: 107–108. 27. Seet RC, Lim EC, 2007. Dysarthria-clumsy hand syndrome associated with dengue type-2 infection. J Neurol 254: 1129– 1130. 28. Yoganathan S, Sudhakar SV, Priyambada L, Thomas M, 2017. Stroke in a child with dengue encephalopathy. Ann Indian Acad Neurol 20: 329–331. 29. Herath HMM, Hewavithana JS, De Silva CM, Kularathna OAR, Weerasinghe NP, 2018.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_49",
+      "text": "lopathy. Ann Indian Acad Neurol 20: 329–331. 29. Herath HMM, Hewavithana JS, De Silva CM, Kularathna OAR, Weerasinghe NP, 2018. Cerebral vasculitis and lateral rectus palsy—two rare central nervous system complications of den- gue fever: two case reports and review of the literature. J Med Case Reports 12: 100. 30. Estofolete CF, Milhim BHGA, Zini N, Scamardi SN, Selvante JD, Vasilakis N, Nogueira ML, 2020. Flavivirus infection asso- ciated with cerebrovascular events. Viruses 12: 671.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_50",
+      "text": "N, Selvante JD, Vasilakis N, Nogueira ML, 2020. Flavivirus infection asso- ciated with cerebrovascular events. Viruses 12: 671. BASNAYAKE AND OTHERS 580 31. Li GH, Ning ZJ, Liu YM, Li XH, 2017. Neurological manifesta- tions of dengue infection. Front Cell Infect Microbiol 7: 449. 32. Li HM, Huang YK, Su YC, Kao CH, 2018. Risk of stroke in patients with dengue fever: a population-based cohort study. CMAJ 190: E285–E290. 33. Nanda SK, Jayalakshmi S, Mohandas S, 2014.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_51",
+      "text": "atients with dengue fever: a population-based cohort study. CMAJ 190: E285–E290. 33. Nanda SK, Jayalakshmi S, Mohandas S, 2014. Pediatric ischemic stroke due to dengue vasculitis. Pediatr Neurol 51: 570–572. 34. Estofolete CF, de Oliveira Mota MT, Bernardes Terzian AC, de Aguiar Milhim BHG, Ribeiro MR, Nunes DV, Mour~ao MP, Rossi SL, Nogueira ML, Vasilakis N, 2019. Unusual clinical manifestations of dengue disease—real or imagined? Acta Trop 199: 105134. 35. Funahara Y, Ogawa K, Fujita N, Okuno Y, 1987.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 51,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_52",
+      "text": "cal manifestations of dengue disease—real or imagined? Acta Trop 199: 105134. 35. Funahara Y, Ogawa K, Fujita N, Okuno Y, 1987. Three possi- ble triggers to induce thrombocytopenia in dengue virus infection. Southeast Asian J Trop Med Public Health 18: 351–355. 36. Rajapakse S, 2011. Dengue shock. J Emerg Trauma Shock 4: 120–127. 37. Zulkepli NS, 2018. PP051 Antiplatelet in dengue patient with acute coronary syndrome; a treatment turn misfortune. Malay- sian J Emergency Med 3: 73.",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 52,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_53",
+      "text": "51 Antiplatelet in dengue patient with acute coronary syndrome; a treatment turn misfortune. Malay- sian J Emergency Med 3: 73. ISCHEMIC STROKE IN DENGUE HEMORRHAGIC FEVER 581 .",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 53,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "0e68739c8188_img_1",
+      "text": "Image: Non contrast CT scan (left) and Contrast-enhanced MRI brain (right) showing right thalamic infarct (arrow).",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_type": "image",
+        "image_path": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke_p2_img1_64988a89.png",
+        "clinical_relevance": "diagnostic_imaging",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "0e68739c8188_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "0e68739c8188",
+        "filename": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.7,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:45.043063",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_type": "image",
+        "image_path": "Case Report Dengue Hemorrhagic Fever with Ischemic Stroke_p2_img2_7fa2d3d9.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    }
+  ],
+  "total_chunks": 56
+}

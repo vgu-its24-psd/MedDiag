@@ -1,0 +1,672 @@
+{
+  "document_id": "ca5741515c5b",
+  "document_type": "case_report",
+  "type_confidence": 0.45,
+  "document_metadata": {
+    "doc_id": "ca5741515c5b",
+    "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.45,
+    "pages": 3,
+    "processed_date": "2025-09-27T23:12:51.263724",
+    "has_images": true,
+    "image_count": 4
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "gender": "man"
+    },
+    "timeline": {
+      "onset_days": 4,
+      "duration_days": 10
+    },
+    "clinical_findings": {
+      "chief_complaint": "generalized \npruritic morbilliform eruptions that began 4  days prior \nto presentation"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "involves a combination of clinical evaluation, \nlaboratory tests and serological assays"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "recovered"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "ca5741515c5b_0",
+      "text": "CASE REPORT Abstract Dengue fever, a viral disease transmitted by Aedes mosquitoes, is a global health problem  affecting millions of people each year. It is prevalent in tropical and subtropical areas, with  epidemic potential due to climate change and increased travel. The disease commonly presents  with cutaneous symptoms such as erythema, maculopapular rash and minor haemorrhagic  lesions.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_1",
+      "text": "l. The disease commonly presents  with cutaneous symptoms such as erythema, maculopapular rash and minor haemorrhagic  lesions. This case is notable for the unusual presentation of haemorrhagic bullae, resembling  drug eruption or autoimmune bullous disease. In the field of dermatology, tropical diseases  like dengue have rarely been discussed.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_2",
+      "text": "eruption or autoimmune bullous disease. In the field of dermatology, tropical diseases  like dengue have rarely been discussed. However, the recent increase in cases in Southeast Asia  highlights the need for dermatologists to become familiar with dengue, as it often presents  with diverse skin rashes. Herein, we report an unusual case of dengue fever presenting with  haemorrhagic bullae.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_3",
+      "text": "ten presents  with diverse skin rashes. Herein, we report an unusual case of dengue fever presenting with  haemorrhagic bullae. Key Words: Bullae, dengue fever, rash, tropical disease Dengue Fever Manifesting as Haemorrhagic Bullae: A Rare Presentation Jeewoo Choi, Ji Yeon Byun, You Won Choi1, Joo Young Roh1, Hae Young Choi, Heera Lee Access this article online Quick Response Code: Website: https://journals.lww.com/ijd  DOI: 10.4103/ijd.ijd_905_23 Introduction Dengue fever is an acute febrile illness caused by  the dengue virus, which is transmitted by Aedes  mosquitoes.[1] It is the most common vector‑borne disease  worldwide and its prevalence has increased significantly  in recent decades owing to urbanization, global travel  and climate change.[1] Clinical presentations vary from  asymptomatic infection to severe dengue  (formerly  known as dengue haemorrhagic fever or dengue shock  syndrome), with plasma leakage, bleeding and organ  dysfunction requiring prompt management to prevent  fatality.[2] Skin manifestations appear in approximately  65% of the cases, typically as a generalized morbilliform  rash or confluent erythematous rash with white islands  of sparing.[2] Bullae are rare in dengue and may pose  a diagnostic challenge by mimicking other conditions,  such as drug eruptions or autoimmune bullous disorders.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_4",
+      "text": "ue and may pose  a diagnostic challenge by mimicking other conditions,  such as drug eruptions or autoimmune bullous disorders.  Herein, we report an unusual case of dengue fever  presenting with haemorrhagic bullae after travelling to  Laos. Case History A 71‑year‑old Korean man who returned from a  one‑month trip to Laos presented with generalized  pruritic morbilliform eruptions that began 4  days prior  to presentation.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_5",
+      "text": "one‑month trip to Laos presented with generalized  pruritic morbilliform eruptions that began 4  days prior  to presentation. The rash included some blisters on the  abdomen, petechiae and haemorrhagic bullae on both  thighs  [Figure  1]. There was no mucosal involvement  or Nikolsky’s sign. At first, his blood pressure was  73/49  mmHg with a 110 bpm heart rate, and he had  a fever of 38.2°C.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_6",
+      "text": "nt  or Nikolsky’s sign. At first, his blood pressure was  73/49  mmHg with a 110 bpm heart rate, and he had  a fever of 38.2°C. A  complete blood count revealed a  slight decrease in platelet count to 128,000/mm3, but he  was otherwise normal. To rule out autoimmune bullous  disease, punch biopsies from the bullae on the abdomen  and leg were done, revealing spongiosis, papillary dermal  oedema and superficial perivascular lympho‑histiocytic  infiltration  with  eosinophils  [Figure  2].",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_7",
+      "text": "giosis, papillary dermal  oedema and superficial perivascular lympho‑histiocytic  infiltration  with  eosinophils  [Figure  2].  Direct  immunofluorescence was also negative. Due to his  travel history, polymerase chain reaction  (PCR) for  dengue, malaria blood smear and serology for syphilis,  human immunodeficiency virus, hepatitis A, hepatitis  B and hepatitis C were performed, and only the PCR  for dengue was positive.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_8",
+      "text": "an immunodeficiency virus, hepatitis A, hepatitis  B and hepatitis C were performed, and only the PCR  for dengue was positive. The patient was admitted and  started on intravenous fluids and inotropes because  he was in shock. The patient gradually recovered from  shock, and the inotropes were tapered on the second  day of admission. The skin lesions began to disappear  on the fourth day after admission, and the patient’s  platelet count improved to 333,000/mm3 at the time  of discharge.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_9",
+      "text": "appear  on the fourth day after admission, and the patient’s  platelet count improved to 333,000/mm3 at the time  of discharge. After 10  days, the skin lesions nearly  cleared  [Figure  3], and the lesions completely resolved  after one month  [Figure  4].",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_10",
+      "text": "ter 10  days, the skin lesions nearly  cleared  [Figure  3], and the lesions completely resolved  after one month  [Figure  4]. Written informed consent  From the Department of  Dermatology, Ewha Womans  University Mokdong Hospital,  Seoul, 1Department of  Dermatology, Ewha Womans  University Seoul Hospital, Seoul,  Korea Address for correspondence:  Dr. Heera Lee, Department of Dermatology,  Ewha Womans University  Mokdong Hospital, Mok 5‑Dong,  Yangcheon‑gu, Seoul, Korea.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_11",
+      "text": "Dr. Heera Lee, Department of Dermatology,  Ewha Womans University  Mokdong Hospital, Mok 5‑Dong,  Yangcheon‑gu, Seoul, Korea.  E‑mail: bestdiamond7@naver.com This is an open access journal, and articles are distributed under the terms of  the Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 License,  which allows others to remix, tweak, and build upon the work non‑commercially,  as long as appropriate credit is given and the new creations are licensed under  the identical terms.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_12",
+      "text": "e work non‑commercially,  as long as appropriate credit is given and the new creations are licensed under  the identical terms. For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com How to cite this article: Choi J, Byun JY, Choi YW, Roh JY,  Choi HY, Lee H. Dengue fever manifesting as haemorrhagic bullae: A rare  presentation. Indian J Dermatol 2024;69:423. Received: September, 2023. Accepted: April, 2024.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_13",
+      "text": "as haemorrhagic bullae: A rare  presentation. Indian J Dermatol 2024;69:423. Received: September, 2023. Accepted: April, 2024. Choi, et al.: Dengue fever with hemorrhagic bullae was obtained from the patient for the publication of this  case report and accompanying images.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_14",
+      "text": "e fever with hemorrhagic bullae was obtained from the patient for the publication of this  case report and accompanying images. Discussion Dengue fever is endemic to over  100 countries  across tropical and subtropical regions, with an  annual incidence of approximately 400 million  infections.[1] Patients often experience an abrupt  onset of symptoms, including high fever, rash,  headache  and  retro‑orbital  pain.  Cutaneous  manifestations are estimated to occur in 50–82%  of patients.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_15",
+      "text": "igh fever, rash,  headache  and  retro‑orbital  pain.  Cutaneous  manifestations are estimated to occur in 50–82%  of patients. Classically, flushing or a macular  erythematous rash affecting the face, neck and chest  is noted within the first 48 hours of symptom onset,  later evolving to a more maculopapular rash.[3] In a  study from Pakistan,[4] the rash was generalized in  48.3% of patients, with the limbs and trunk involved  in 32.8% and 18.9% of patients.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_16",
+      "text": "Pakistan,[4] the rash was generalized in  48.3% of patients, with the limbs and trunk involved  in 32.8% and 18.9% of patients. In studies from  Pakistan[4] and India,[5] the commonest skin finding  was maculopapular  (morbilliform) rash, which was  present in 42.9%, 48.3% of patients, followed by  ecchymosis or petechiae observed in 33.8%, 41.4%  of patients, respectively. In a study from France,[6]  33% of patients had a macular rash rather than a  maculopapular rash.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_17",
+      "text": "%  of patients, respectively. In a study from France,[6]  33% of patients had a macular rash rather than a  maculopapular rash. Although the rash in dengue  is usually asymptomatic, pruritus is reported in  different studies, ranging from 16% to 69.2%.[4,7]  Moreover, in a study from Taiwan,[2] there was neither  a prolonged disease course nor poor prognosis in the  dengue patients with skin rash, except for increased  itching scores and swelling of the palms or soles.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_18",
+      "text": "poor prognosis in the  dengue patients with skin rash, except for increased  itching scores and swelling of the palms or soles. Our  patient presented with a rash resembling the ‘white  island in a sea of red’, a typical skin manifestation  of dengue.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_19",
+      "text": "es. Our  patient presented with a rash resembling the ‘white  island in a sea of red’, a typical skin manifestation  of dengue. This, coupled with his travel history to  Figure 1: Diffuse maculopapular rash on trunk (a) with haemorrhagic bullae on  both thighs (b) b a Figure 2: (a): Biopsy specimen of abdomen showing subcorneal pustules (Haematoxylin  and Eosin stain × 20). (b): Spongiosis, focal vacuolar degeneration, papillary dermal  oedema, perivascular inflammatory infiltrates composed of lymphocytes, histiocytes,  eosinophils and neutrophils, extravasation of RBC  (Haematoxylin and Eosin  stain × 100), (c): Biopsy specimen of leg showing subepidermal bullae (Haematoxylin  and Eosin stain  ×  10).  (d): Papillary dermal oedema, perivascular inflammatory  infiltrates composed of lymphocytes, histiocytes, eosinophils and neutrophils,  extravasation of RBC (Haematoxylin and Eosin stain × 100) d c b a Figure 4: After 1 month, lesions were completely gone (a and b) b a Figure 3: After 10 days, lesions had nearly cleared except for some haemorrhagic  crusts (a and b) b a Choi, et al.: Dengue fever with hemorrhagic bullae dengue‑endemic areas, raised suspicion.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_20",
+      "text": "e haemorrhagic  crusts (a and b) b a Choi, et al.: Dengue fever with hemorrhagic bullae dengue‑endemic areas, raised suspicion. Although  blisters seemed more prominent, hypotension was  also characteristic. To the best of our knowledge,  only three case reports have described vesiculobullous  lesions in patients with dengue fever.[8‑10] However, it  may be more common than previously thought. In a  study from Pakistan,[4] 0.5% of a sizeable cohort of  patients with dengue fever reportedly had vesicles.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_21",
+      "text": "iously thought. In a  study from Pakistan,[4] 0.5% of a sizeable cohort of  patients with dengue fever reportedly had vesicles. Diagnosis involves a combination of clinical evaluation,  laboratory tests and serological assays.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_22",
+      "text": "ver reportedly had vesicles. Diagnosis involves a combination of clinical evaluation,  laboratory tests and serological assays. Laboratory findings  include thrombocytopenia, leukopenia, elevated liver  function test results and hypoalbuminemia.[7] Molecular  tests include the detection of viral RNA by real‑time  polymerase chain reaction (RT‑PCR) or detection of dengue  virus  antigens  (e.g.  NS1) or antibodies by enzyme‑linked  immunosorbent assays  (ELISA).",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_23",
+      "text": "on (RT‑PCR) or detection of dengue  virus  antigens  (e.g.  NS1) or antibodies by enzyme‑linked  immunosorbent assays  (ELISA). Histopathology shows  non‑specific changes, such as superficial perivascular  oedema, mononuclear infiltration and endothelial swelling  of small blood vessels.[2] Direct immunofluorescence results  are controversial. Due to non‑diagnostic findings, skin  biopsy is not generally performed.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_24",
+      "text": "Direct immunofluorescence results  are controversial. Due to non‑diagnostic findings, skin  biopsy is not generally performed. Distinguishing dengue from other mosquito‑borne febrile  illnesses, such as chikungunya, Zika virus infection and  even malaria, can be challenging due to overlapping  clinical features.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_25",
+      "text": "lnesses, such as chikungunya, Zika virus infection and  even malaria, can be challenging due to overlapping  clinical features. Bleeding manifestations are relatively  specific to dengue, while arthralgia is more common in  chikungunya.[1] In addition, Zika is often accompanied  by conjunctivitis.[1] Our patient did not report any joint  or ocular symptoms, which allowed us to rule out these  diseases.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_26",
+      "text": "by conjunctivitis.[1] Our patient did not report any joint  or ocular symptoms, which allowed us to rule out these  diseases. Temporal correlation with drug intake, as well as  histopathological features like extensive basal cell damage  or necrotic keratinocytes, may favour a drug exanthem,  whereas lymphocytic vasculitis suggests a viral aetiology[11]  though, in this case, we were confused initially.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_27",
+      "text": "rug exanthem,  whereas lymphocytic vasculitis suggests a viral aetiology[11]  though, in this case, we were confused initially. It is  noteworthy that eosinophilic infiltration, as seen in our  case, may be present in up to 12.5% of viral exanthems.[11] Dengue fever is usually a self‑limiting illness with a  mortality rate of less than 1% when identified early;  however, it can reach as high as 20% in untreated severe  cases.[1] Thus, prompt diagnosis and supportive care,  including fluid resuscitation and vital sign monitoring,  are integral parts of treatment.[1] From the findings of  this case, dermatologists must be aware of the various  skin manifestations of dengue fever and should always  consider the possibility of dengue in returning travellers  from subtropical regions presenting with fever and  rashes.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_28",
+      "text": "always  consider the possibility of dengue in returning travellers  from subtropical regions presenting with fever and  rashes. Key messages It is important for dermatologists to be aware of the  diverse skin manifestations of dengue fever and to  consider dengue in the differential diagnosis of returning  travellers presenting with fever and rash, as early  diagnosis and treatment are key to reducing mortality. Financial support and sponsorship Nil. Conflicts of interest There are no conflicts of interest.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_29",
+      "text": "are key to reducing mortality. Financial support and sponsorship Nil. Conflicts of interest There are no conflicts of interest. References 1.\t Braun M, Andersen LK, Norton SA, Coates SJ. Dengue: Updates  for dermatologists on the world’s fastest‑growing vector‑borne  disease. Int J Dermatol 2023;62:1110‑20. 2.\t Huang  HW, Tseng  HC, Lee  CH, Chuang  HY, Lin  SH. Clinical  significance of skin rash in dengue fever: A  focus on  discomfort, complications, and disease outcome.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_30",
+      "text": "HY, Lin  SH. Clinical  significance of skin rash in dengue fever: A  focus on  discomfort, complications, and disease outcome. Asian Pac J  Trop Med 2016;9:713‑8. 3.\t Halsey ES, Marks MA, Gotuzzo E, Fiestas V, Suarez L, Vargas J,  et  al. Correlation of serotype‑specific dengue virus infection  with clinical manifestations. PLoS Negl Trop Dis 2012;6:e1638. 4.\t Azfar NA, Malik LM, Jamil A, Jahangir M, Tirmizi N, Majid A,  et  al. Cutaneous manifestations in patients of dengue fever.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_31",
+      "text": "4.\t Azfar NA, Malik LM, Jamil A, Jahangir M, Tirmizi N, Majid A,  et  al. Cutaneous manifestations in patients of dengue fever.  J Pak Assoc Dermatol 2012;22:320‑4. 5.\t Thomas  EA, John  M, Bhatia  A. Cutaneous manifestations of  dengue viral infection in Punjab (north India). Int J Dermatol  2007;46:715‑9. 6.\t Desruelles  F, Lamaury  I, Roudier  M, Mahé A, Castanet  J,  Strobel  M. Cutaneo‑mucous manifestations of dengue. Ann  Dermatol Venereol 1997;124:237‑41.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_32",
+      "text": "Roudier  M, Mahé A, Castanet  J,  Strobel  M. Cutaneo‑mucous manifestations of dengue. Ann  Dermatol Venereol 1997;124:237‑41. 7.\t Chadwick D, Arch B, Wilder‑Smith A, Paton N. Distinguishing  dengue fever from other infections on the basis of simple  clinical and laboratory features: Application of logistic  regression analysis. J Clin Virol 2006;35:147‑53. 8.\t Arif  A, Abdul Razzaque  MR, Kogut  LM, Tebha  SS, Shahid  F,  Essar  MY.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_33",
+      "text": "regression analysis. J Clin Virol 2006;35:147‑53. 8.\t Arif  A, Abdul Razzaque  MR, Kogut  LM, Tebha  SS, Shahid  F,  Essar  MY. Expanded dengue syndrome presented with  rhabdomyolysis, compartment syndrome, and acute kidney  injury: A case report. Medicine (Baltimore) 2022;101:e28865. 9.\t Soler‑Rosario  Y, Barrios  NJ, Garcia  R, Fernandez‑Sein  A,  Rivera  E. Dengue virus associated hemophagocytic syndrome  with neurogical manifestations in children: A  case report.  Blood 2009;114:4516.",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_34",
+      "text": "gue virus associated hemophagocytic syndrome  with neurogical manifestations in children: A  case report.  Blood 2009;114:4516. 10.\t Sinha N, Shelar V, Saran A. An unusual presentation of  dengue and chikungunya virus co-infection manifesting as  vesiculobullous lesions. Poster presented at: AAPI-MSRF Winter  Medical Conference; Tampa Bay, FL, 2022. 11.\t Khandpur  S, Ahuja  R. Drug‑Induced vs. viral maculopapular  exanthem‑resolving the dilemma. Dermatopathology  (Basel)  2022;9:164‑71. .",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "ca5741515c5b_img_1",
+      "text": "Image: Diffuse maculopapular rash on trunk (a) with haemorrhagic bullae on",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_type": "image",
+        "image_path": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18_p2_img1_93e02c2c.png",
+        "clinical_relevance": "clinical_finding",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_img_2",
+      "text": "Image: (a): Biopsy specimen of abdomen showing subcorneal pustules (Haematoxylin",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_type": "image",
+        "image_path": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18_p2_img2_a9a627ce.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_img_3",
+      "text": "Image: After 10 days, lesions had nearly cleared except for some haemorrhagic",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_type": "image",
+        "image_path": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18_p2_img3_f3758932.png",
+        "clinical_relevance": "clinical_finding",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "ca5741515c5b_img_4",
+      "text": "Image: After 1 month, lesions were completely gone (a and b)",
+      "metadata": {
+        "doc_id": "ca5741515c5b",
+        "filename": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:51.263724",
+        "has_images": true,
+        "image_count": 4,
+        "chunk_type": "image",
+        "image_path": "dengue_fever_manifesting_as_haemorrhagic_bullae__a.18_p2_img4_a8647455.png",
+        "clinical_relevance": "clinical_finding",
+        "page": 2
+      }
+    }
+  ],
+  "total_chunks": 39
+}

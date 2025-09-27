@@ -1,0 +1,905 @@
+{
+  "document_id": "83da95a4324e",
+  "document_type": "case_report",
+  "type_confidence": 0.4,
+  "document_metadata": {
+    "doc_id": "83da95a4324e",
+    "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.4,
+    "pages": 5,
+    "processed_date": "2025-09-27T23:12:45.319319",
+    "has_images": true,
+    "image_count": 3
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "gender": "female"
+    },
+    "timeline": {},
+    "clinical_findings": {},
+    "diagnostics": {
+      "primary_diagnosis": "of viral meningitis and sepsis and progressed to \nleukocytosis, thrombocytopenia, hypoalbuminemia in association with rash and edema"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "83da95a4324e_0",
+      "text": "Arch Argent Pediatr 2024;122(2):e202310144 Case report 1   Dengue fever in a 32-day-old patient. A rare case report a Hospital General de Agudos Dr. Cosme Argerich, City of Buenos Aires, Argentina. Correspondence to Carolina G. Goldberg: caritogold1@gmail.com Funding: None. Conflict of interest: None. Received: 7-10-2023 Accepted: 8-18-2023 Carolina G. Goldberga , Alejandra F. López Alarcóna, María L. Salochaa, María F.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_1",
+      "text": "None. Received: 7-10-2023 Accepted: 8-18-2023 Carolina G. Goldberga , Alejandra F. López Alarcóna, María L. Salochaa, María F. Oteroa,  Mairena Jiméneza, Andrea Medinaa, Rubén de Sousa Serroa ABSTRACT Dengue fever is a viral disease transmitted by the Aedes aegypti mosquitoes. In Argentina, dengue fever is an epidemic disease; most cases are reported during the hot months.  Until epidemiological week (EW) 20/2023, 106 672 cases were reported across 18 of the 24 provinces  of Argentina.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_2",
+      "text": "hot months.  Until epidemiological week (EW) 20/2023, 106 672 cases were reported across 18 of the 24 provinces  of Argentina. Children younger than 2 years are among the main groups at risk. Recognizing signs and  symptoms and identifying risk factors is fundamental for the management of cases at a higher risk of  severity.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_3",
+      "text": "zing signs and  symptoms and identifying risk factors is fundamental for the management of cases at a higher risk of  severity. Here we describe the case of a 32-day-old female patient who was hospitalized due to febrile syndrome  without a source, who had a differential diagnosis of viral meningitis and sepsis and progressed to  leukocytosis, thrombocytopenia, hypoalbuminemia in association with rash and edema.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_4",
+      "text": "al meningitis and sepsis and progressed to  leukocytosis, thrombocytopenia, hypoalbuminemia in association with rash and edema. The diagnosis  of dengue fever was established based on clinical, epidemiological, and positive IgM data. Keywords: dengue; fever of unknown origin; sepsis; viral meningitis; dengue vaccine. doi: http://dx.doi.org/10.5546/aap.2023-10144.eng To cite: Goldberg CG, López Alarcón AF, Salocha ML, Otero MF, et al. Dengue fever in a 32-day-old patient. A rare case report.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_5",
+      "text": "To cite: Goldberg CG, López Alarcón AF, Salocha ML, Otero MF, et al. Dengue fever in a 32-day-old patient. A rare case report. Arch Argent Pediatr  2024;122(2):e202310144. This is an open access article under the Creative Commons Attribution–Noncommercial–Noderivatives license 4.0 International.  Attribution - Allows reusers to copy and distribute the material in any medium or format so long as attribution is given to the  creator. Noncommercial – Only noncommercial uses of the work are permitted.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_6",
+      "text": "m or format so long as attribution is given to the  creator. Noncommercial – Only noncommercial uses of the work are permitted. Noderivatives - No derivatives or adaptations  of the work are permitted.  2 Case report / Arch Argent Pediatr 2024;122(2):e202310144 INTRODUCTION Dengue fever is caused by an arbovirus RNA of  the Flaviviridae family, with 4 serotypes (DENV-1,  DENV-2, DENV-3, and DENV-4) distributed  across the Americas.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_7",
+      "text": "virus RNA of  the Flaviviridae family, with 4 serotypes (DENV-1,  DENV-2, DENV-3, and DENV-4) distributed  across the Americas. Dengue fever is a systemic  and dynamic infectious disease with a broad  spectrum of manifestations.1 The risk of severe  dengue is associated with different factors,  including age younger than 2 years and infection  with a serotype followed by infection with a  different serotype.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_8",
+      "text": "t factors,  including age younger than 2 years and infection  with a serotype followed by infection with a  different serotype. According to a report by the  Pan American Health Organization (PAHO),  the number of cases and deaths due to dengue  fever increased in 2022.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_9",
+      "text": "report by the  Pan American Health Organization (PAHO),  the number of cases and deaths due to dengue  fever increased in 2022. The 4 countries  with the greatest incidence were Bolivia  (552.78 cases/100 000 inhabitants), Nicaragua  (260.30 cases/100 000 inhabitants), Belize  (145.58 cases/100 000 inhabitants), and Brazil  (166.8 cases/100 000 inhabitants).2 In Argentina, dengue fever is an epidemic  disease; most cases are reported during the hot  months (November through May).2 Until epidemiological week (EW) 20/2023,  106 672 cases were reported in our country.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_10",
+      "text": "the hot  months (November through May).2 Until epidemiological week (EW) 20/2023,  106 672 cases were reported in our country.  The following jurisdictions confirmed endemic  circulation of dengue fever: Central region  (Buenos Aires, the City of Buenos Aires, Córdoba,  Entre Ríos, and Santa Fe); Northwest region  (Catamarca, Jujuy, La Rioja, Salta, Santiago  del Estero, and Tucumán); Northeast region  (Chaco, Corrientes, and Formosa), except for  Misiones; San Luis and Mendoza in the Cuyo  region; and La Pampa in the South region.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_11",
+      "text": "co, Corrientes, and Formosa), except for  Misiones; San Luis and Mendoza in the Cuyo  region; and La Pampa in the South region.  Reported dengue serotypes depend on the  epidemiological moment; between 2022 and  2023, DENV-2 (81.16%), DENV-1 (18.79%), and  DENV-3 (0.05%) prevailed in Argentina.3 Here we  describe the case of a 32-day-old female patient  who was admitted due to fever without a source  who developed signs consistent with dengue  fever over the hours.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_12",
+      "text": "male patient  who was admitted due to fever without a source  who developed signs consistent with dengue  fever over the hours. CASE REPORT A 32-day-old female infant, with no relevant  perinatal history, consulted due to fever for the  past 12 hours. She was admitted with suspected  sepsis for diagnosis and treatment. Her father  was experiencing upper airway disease, but  no history of travel, sick relatives or neighbors  was reported. The family lived in Moreno, in the  province of Buenos Aires.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_13",
+      "text": "no history of travel, sick relatives or neighbors  was reported. The family lived in Moreno, in the  province of Buenos Aires. Two blood cultures, a urine culture, and a  cerebrospinal fluid (CSF) culture were performed.  No CSF polymerase chain reaction (PCR) was  done to look for enterovirus or herpes virus. The patient’s cytochemical panel was positive,  so her condition was deemed as viral meningitis  and an empirical antibiotic therapy with ampicillin  and ceftriaxone was started.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_14",
+      "text": "her condition was deemed as viral meningitis  and an empirical antibiotic therapy with ampicillin  and ceftriaxone was started. Her antigen test and  COVID-19 PCR were negative. Her urine test was  normal. Her virological test of nasopharyngeal  secretions was negative. Lab test results are  shown in Table 1.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_15",
+      "text": "rine test was  normal. Her virological test of nasopharyngeal  secretions was negative. Lab test results are  shown in Table 1. On day 2, she had fever, tachycardia with  distal peripheral cyanosis, and generalized  reticulation and required supplemental oxygen  and volume expansion with intravenous fluids,  with an adequate response. Due to suspected  sepsis, new lab tests and 2 blood cultures were  done. The antibiotic therapy continued. Abdominal distension was observed on day 3.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_16",
+      "text": "s, new lab tests and 2 blood cultures were  done. The antibiotic therapy continued. Abdominal distension was observed on day 3.  The oral route was interrupted and fluid intake  and output were controlled. The abdominal  ultrasound showed hepatomegaly; perivesicular  fluid; splenomegaly; and free fluid around the  liver, among the loops, and in the pelvis. The  pleural ultrasound showed mild right pleural  effusion.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_17",
+      "text": "free fluid around the  liver, among the loops, and in the pelvis. The  pleural ultrasound showed mild right pleural  effusion. The patient’s leukocyte count increased  and thrombocytopenia and hematocrit values  decreased from admission, which was deemed  as secondary to the management of the internal  milieu in a severe patient with fluid extravasation.  Dengue fever was suspected, so a serology test  was performed, which showed a positive IgM and  a negative NS1 antigen.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_18",
+      "text": "ation.  Dengue fever was suspected, so a serology test  was performed, which showed a positive IgM and  a negative NS1 antigen. On day 4, the patient developed a generalized,  confluent macular erythematous rash that left  parts of healthy interposed skin in islets with  no pruritus. She developed leukocytosis, which  was deemed as an inflammatory response, and  thrombocytopenia. Her cultures were negative.  The patient was referred for consultation to  the Department of Infectious Diseases and  Hematology.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_19",
+      "text": "r cultures were negative.  The patient was referred for consultation to  the Department of Infectious Diseases and  Hematology. The antibiotic therapy was  discontinued. The probable diagnosis was  assumed to be dengue fever (Figure 1). On day 5, she developed generalized edema  with negative Godet’s sign. She began testing for  tolerance to oral feeding. On day 6, she had no fever, her edema  had resolved, she had a good attitude and oral  tolerance, and her rash had reduced.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_20",
+      "text": "ng. On day 6, she had no fever, her edema  had resolved, she had a good attitude and oral  tolerance, and her rash had reduced. A large  increase in leukocyte count, a rising platelet  count, and an improved albumin level were  observed. On day 7, the patient did not have any edema.  Her white blood cell count was going down. The  serology test for dengue fever was repeated  3 Case report / Arch Argent Pediatr 2024;122(2):e202310144 and showed positive IgM. The diagnosis was  confirmed.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_21",
+      "text": "was repeated  3 Case report / Arch Argent Pediatr 2024;122(2):e202310144 and showed positive IgM. The diagnosis was  confirmed. It was not possible to establish the  serotype. On day 9, the patient was discharged.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_22",
+      "text": "sitive IgM. The diagnosis was  confirmed. It was not possible to establish the  serotype. On day 9, the patient was discharged. DISCUSSION Dengue fever is a growing global public health  problem due to climate change, population  growth in urban areas, insufficient water supply,  inadequate waste collection, containers that serve  as mosquito breeding sites, increased travel and  migration, and failures in vector control.4 Dengue fever is a notifiable disease.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_23",
+      "text": "osquito breeding sites, increased travel and  migration, and failures in vector control.4 Dengue fever is a notifiable disease.  Prevention is based on immunization and vector  control, with proper disposal of solid waste and  improved water storage practices to prevent  female mosquitoes from laying eggs.5 In April 2023, the National Drug, Food  and Technology Administration of Argentina  (Administración Nacional de Medicamentos,  Alimentos y Tecnología Médica, ANMAT)  approved the use of a dengue vaccine developed  by Japanese pharmaceutical company Takeda,  for individuals aged 4 years and older, whether or  not they suffered from dengue fever before.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_24",
+      "text": "pharmaceutical company Takeda,  for individuals aged 4 years and older, whether or  not they suffered from dengue fever before. The  vaccine is called TAK-003.6 However, no vaccine  can block an outbreak of dengue fever.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_25",
+      "text": "suffered from dengue fever before. The  vaccine is called TAK-003.6 However, no vaccine  can block an outbreak of dengue fever. For all  age groups, the best prevention strategy is still the  control and elimination of mosquito breeding sites,  the avoidance of mosquito bites, and the use of  vector isolation methods (repellents, mosquito  coils, mosquito nets, etc.).7,8 In endemic areas,  it is important to keep in mind the possibility of  mother-to-child transmission, mainly in babies  Table 1.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_26",
+      "text": "In endemic areas,  it is important to keep in mind the possibility of  mother-to-child transmission, mainly in babies  Table 1. Progress of most relevant lab tests Test\t Day 1\t Day 2\t Day 3\t Day 4\t Day 5\t Day 6\t Day 7 Hct (%)\t 43\t 37.4\t 31\t 33.9\t 34.4\t 30\t 29 Hb (g/dL)\t 14.7\t 13\t 11.7\t 12\t 12\t 11\t 10.7 WBC (cells/mm3)\t 8590\t 10 100\t 17 700\t 22 400\t 55 700\t 76 400\t 46 800 N/L/M (%)\t 46/32.1/11.5\t 57/25/8\t 61/24/5\t 43/28/18\t 18/60/9\t 5/75/13\t 9/76/7 PLT (cells/mm3)\t 301 000\t 139 000\t 97 000\t 115 000\t 119 000\t 134 000\t 194 000 U/C\t 16/0.4\t \t \t \t 10/0.17\t 3/021\t Albumin (g/dL)\t \t \t \t \t 2.6\t 3.1\t PRO (ng/mL)\t 0.28\t \t \t \t \t \t PCR (mg/dL)\t \t 42.6\t 65\t \t \t \t Na/K/Cl (mEq/L)\t \t 129/4/95\t \t \t \t 136/4/104\t CSF\t Colorless,\t \t \t \t \t \t \t slightly\t \t \t \t \t \t \t xanthochromic\t \t \t \t \t \t PROT (mg/dL)\t 66\t \t \t \t \t \t GLU (mg/dL)\t 59\t \t \t \t \t \t GLU (mg/dL)\t 91\t \t \t \t \t \t LEU\t 110/mm3\t \t \t \t \t \t MO\t 80%\t \t \t \t \t \t Dengue fever\t \t \t \t \t \t \t R IgM\t \t \t Positive\t \t \t \t NS1 antigen\t \t \t Negative\t \t \t \t NR Viral genome\t \t \t UND\t \t \t Hct: hematocrit.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_27",
+      "text": "e fever\t \t \t \t \t \t \t R IgM\t \t \t Positive\t \t \t \t NS1 antigen\t \t \t Negative\t \t \t \t NR Viral genome\t \t \t UND\t \t \t Hct: hematocrit. Hb: hemoglobin. WBC: white blood cells. N/L/M: neutrophils/lymphocytes/monocytes. PLT: platelets. U/C: urea/ creatinine. PCR: polymerase chain reaction. NA/K/Cl: sodium/potassium/chloride. PRO: procalcitonin (normal range: 0.5–2.4).",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_28",
+      "text": "ea/ creatinine. PCR: polymerase chain reaction. NA/K/Cl: sodium/potassium/chloride. PRO: procalcitonin (normal range: 0.5–2.4).  Serology for dengue IgM, sample 1 collected on day 3: MAC-ELISA technique to detect IgM, and sample 2 collected on day 7:  commercial ELISA technique to detect IgM. NS1 antigen, sample 1 collected on day 3: immunochromatography technique; NS1 antigen, sample 2 collected on day 7:  ELISA technique to detect NS1. NR: non-reactive. R: reactive.  Viral genome: RT-qPCR technique.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_29",
+      "text": ", sample 2 collected on day 7:  ELISA technique to detect NS1. NR: non-reactive. R: reactive.  Viral genome: RT-qPCR technique. UND: undetectable CSF: cerebrospinal fluid. PROT: CSF protein level. GLU: CSF glucose level. LEU: leukocytes. MO: mononuclear. Glu: blood  glucose level.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_30",
+      "text": "ebrospinal fluid. PROT: CSF protein level. GLU: CSF glucose level. LEU: leukocytes. MO: mononuclear. Glu: blood  glucose level. 4 Case report / Arch Argent Pediatr 2024;122(2):e202310144 born to mothers with peripartum febrile symptoms,  rash, hepatomegaly, and thrombocytopenia, with  or without clinical signs of sepsis during the first  2 weeks of life.2 Dengue is a self-limited febrile disease with  an incubation period of 4 to 10 days.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_31",
+      "text": "sepsis during the first  2 weeks of life.2 Dengue is a self-limited febrile disease with  an incubation period of 4 to 10 days. The febrile  phase of 2 to 7 days marks the onset of the  sudden onset disease that usually remits on the  third day with leukopenia, mild thrombocytopenia,  and a moderate increase in transaminases.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_32",
+      "text": "isease that usually remits on the  third day with leukopenia, mild thrombocytopenia,  and a moderate increase in transaminases. In children, the early signs and symptoms of  the disease are non-specific and undifferentiated  from other acute febrile illnesses.9 Dengue  fever with warning signs is characterized by 1  or more of the following: severe and sustained  abdominal pain, persistent vomiting, serous  effusion, mucosal bleeding, change in mental  status, hepatomegaly, increased hematocrit  level, decreased platelet count.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_33",
+      "text": "ous  effusion, mucosal bleeding, change in mental  status, hepatomegaly, increased hematocrit  level, decreased platelet count. Severe dengue is  characterized by 1 or more of the following: severe  plasma extravasation, expressed by hypovolemic  shock or respiratory distress due to excess  fluid in the lung; severe bleeding; severe hepatitis  (transaminases above 1000 units); encephalitis;  myocarditis.10–12 Rash first develops on day 3–4. The critical  phase starts between day 3 and 7.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_34",
+      "text": "e 1000 units); encephalitis;  myocarditis.10–12 Rash first develops on day 3–4. The critical  phase starts between day 3 and 7. Increased  hematocrit level, hypoalbuminemia, perivesicular  effusion, pleural effusion, ascites, and generalized  edema may be observed. Such capillary leakage  may cause dengue shock syndrome. The  recovery phase lasts 2 to 3 days, with a rapid  recovery of thrombocytopenia.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_35",
+      "text": "ry leakage  may cause dengue shock syndrome. The  recovery phase lasts 2 to 3 days, with a rapid  recovery of thrombocytopenia. The alteration of  vascular permeability lasts 48–72 hours, with a  rapid clinical improvement.9 Thrombocytopenia (68.46%) is the most  frequent finding.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_36",
+      "text": "r permeability lasts 48–72 hours, with a  rapid clinical improvement.9 Thrombocytopenia (68.46%) is the most  frequent finding. Enzyme-linked immunosorbent  assay (ELISA) and reverse transcriptase  polymerase chain reaction (RT-PCR) are the  main laboratory diagnostic modalities to detect  nonstructural protein 1 (NS1) antigen, IgG, and  IgM in the late phases.13 The detection of viral  antigens (NS1 Ag) (viremia) is the method of  choice in the first 5 days of disease; whereas  serological tests are used as of day 5–6.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_37",
+      "text": "(NS1 Ag) (viremia) is the method of  choice in the first 5 days of disease; whereas  serological tests are used as of day 5–6. Leukocytosis may be observed, as in our  Figure 1. Physical examination on day 4 Generalized, confluent macular erythematous rash that leaves parts of healthy interposed skin with clear islets in between.  Edema in both lower extremities.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_38",
+      "text": "erythematous rash that leaves parts of healthy interposed skin with clear islets in between.  Edema in both lower extremities. 5 Case report / Arch Argent Pediatr 2024;122(2):e202310144 patient,14 and an increased hematocrit level is  a sign of hemoconcentration secondary to fluid  transfer and hypovolemia.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_39",
+      "text": "0144 patient,14 and an increased hematocrit level is  a sign of hemoconcentration secondary to fluid  transfer and hypovolemia. The World Health  Organization considers a variation equal to or  greater than 20% in the hematocrit level, either  an increase from baseline or a decrease during  the convalescent phase from the critical phase, to  be diagnostic of dehydration. But such changes  are not observed if hypovolemia is managed in  an early manner.15 In our patient, a progressive  decrease was observed.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_40",
+      "text": "hanges  are not observed if hypovolemia is managed in  an early manner.15 In our patient, a progressive  decrease was observed. She was offered early  supportive treatment with adequate hydration,  especially after the resolution of fever.9 Other recommendations include rest, not  using aspirin or NSAIDs, using repellents, and  implementing environmental control measures to  prevent mosquito bites during the febrile phase  and to prevent transmission at the hospital or at  home.2 The final diagnosis in our 32-day-old patient  was severe dengue.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_41",
+      "text": "se  and to prevent transmission at the hospital or at  home.2 The final diagnosis in our 32-day-old patient  was severe dengue. The differential diagnoses  included viral meningitis, sepsis, and dengue  shock syndrome. The early identification of signs  and symptoms serves as a window of opportunity  for effective treatment. n Acknowledgments We would like to thank Viviana Aguirre, M.D.  and head of the Department of Promotion and  Protection of Hospital General de Agudos  Dr. Cosme Argerich.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_42",
+      "text": "viana Aguirre, M.D.  and head of the Department of Promotion and  Protection of Hospital General de Agudos  Dr. Cosme Argerich. And also to Silvina Pedrouzo, M.D. and  member of the Committee of Outpatient Pediatrics  and of the Sub-Committee of Information and  Communication Technologies of the Sociedad  Argentina de Pediatría. REFERENCES 1.\t López Herminio O. Dengue. In Sociedad Argentina de  Pediatría PRONAP. 2021;1(Módulo 2):15-36. 2.\t Berberian G, Fariña D, Rosanova M, Hidalgo S, et al.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_43",
+      "text": "e. In Sociedad Argentina de  Pediatría PRONAP. 2021;1(Módulo 2):15-36. 2.\t Berberian G, Fariña D, Rosanova M, Hidalgo S, et al.  Dengue perinatal. Arch Argent Pediatr. 2011;109(3):232-6. 3.\t Argentina. Ministerio de Salud. Boletin Epidemiológico  Semanal. 2023;8 SE 20 (354). [Accessed on:  August 18th, 2023]. Available at: https://buenosaires.gob. ar/salud/boletines-epidemiologicos-semanales-2023 4.\t Enfermedades infecciosas. Dengue: Diagnóstico de  Dengue. Guia para el equipo de salud. 4.a ed.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_44",
+      "text": "demiologicos-semanales-2023 4.\t Enfermedades infecciosas. Dengue: Diagnóstico de  Dengue. Guia para el equipo de salud. 4.a ed. Buenos  Aires: MINSAL; 2015. [Accessed on: August 18th, 2023].  Available at: https://bancos.salud. gob.ar/sites/default/ files/2018-10/0000000062cnt-guia- dengue-2016.pdf 5.\t Arteaga-Livias K, Bonilla-Crispin A, Panduro-Correa V,  Martínez-Enríquez C, Dámaso-Mata B. Dengue en un  neonato. Rev Chil Infectol. 2017;34(5):494-8. 6.\t ClinicalTrials.gov.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_45",
+      "text": "rea V,  Martínez-Enríquez C, Dámaso-Mata B. Dengue en un  neonato. Rev Chil Infectol. 2017;34(5):494-8. 6.\t ClinicalTrials.gov. Efficacy, Safety, and Immunogenicity of  Takeda’s Tetravalent Dengue Vaccine (TDV) in Healthy  Children (TIDES). 2017. Retrieved August 2018. [Accessed  on: August  18th,  2023]. Available at: https://classic. clinicaltrials.gov/ct2/show/NCT02747927 7.\t Argentina. Ministerio de Salud.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_46",
+      "text": "ugust  18th,  2023]. Available at: https://classic. clinicaltrials.gov/ct2/show/NCT02747927 7.\t Argentina. Ministerio de Salud. Comunicado de Prensa:  La ANMAT aprobó el uso de la vacuna del laboratorio  Takeda contra el dengue. [Accessed on: August 18th, 2023].  Available at: https://www.argentina.gob.ar/noticias/la-anmat- aprobo-el-uso-de-la-vacuna- del-laboratorio-takeda-contra- el-dengue 8.\t Torres-Flores JM, Reyes-Sandoval A, Salazar MI. Dengue  Vaccines: An Update. BioDrugs. 2022;36(3):325-36.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_47",
+      "text": "contra- el-dengue 8.\t Torres-Flores JM, Reyes-Sandoval A, Salazar MI. Dengue  Vaccines: An Update. BioDrugs. 2022;36(3):325-36. 9.\t Pavlicich V. Dengue: revisión y experiencia en pediatría. Arch  Pediatr Urug. 2016;87(2):143-56. 10.\tCazes CI, Carballo CM, Praino ML, Ferolla FM, et al.  Brote epidémico de dengue en la Ciudad de Buenos  Aires, 2016: características clínicas y hematológicas de la  infección en una población pediátrica. Arch Argent Pediatr.  2019;117(1):e63-7.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_48",
+      "text": "características clínicas y hematológicas de la  infección en una población pediátrica. Arch Argent Pediatr.  2019;117(1):e63-7. 11.\tBerberian G, Pérez G, Mangano A, Borgnia D, et al. Dengue  más allá del trópico: estudio de series temporales 2015-2016  versus 2019-2020 en un hospital pediátrico de la Ciudad de  Buenos Aries. Arch Argent Pediatr. 2022;120(6):384-90. 12.\tAurpibul L, Khumlue P, Issaranggoon na ayuthaya S,  Oberdorfer P. Dengue shock syndrome in an infant. BMJ  Case Rep.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_49",
+      "text": "84-90. 12.\tAurpibul L, Khumlue P, Issaranggoon na ayuthaya S,  Oberdorfer P. Dengue shock syndrome in an infant. BMJ  Case Rep. 2014;2014:bcr2014205621. 13.\tUthraraj NS, Sriraam LM, Hiriyur Prakash M, Kumar M,  et al. Predictive Factors for the Complications of Dengue  Fever in Children: A Retrospective Analysis. Cureus.  2022;14(12):e33027. 14.\tMéndez-Domínguez N, Achach-Medina K, Morales- Gual YM, Gómez-Carro S. Dengue, presentación inusual  en un lactante: Reporte de un caso. Rev Chil Pediatr.",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_50",
+      "text": "-Medina K, Morales- Gual YM, Gómez-Carro S. Dengue, presentación inusual  en un lactante: Reporte de un caso. Rev Chil Pediatr.  2017;88(2):275-9. 15.\tPizarro D. Dengue, Dengue hemorrágico. Acta Pediátr  Costarric. 2009;21(1):8-17. .",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "83da95a4324e_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue fever in a 32-day-old patient. A rare case report_p1_img1_b3babf59.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue fever in a 32-day-old patient. A rare case report_p1_img2_10c0239d.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "83da95a4324e_img_1",
+      "text": "Image: Physical examination on day 4",
+      "metadata": {
+        "doc_id": "83da95a4324e",
+        "filename": "Dengue fever in a 32-day-old patient. A rare case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.4,
+        "pages": 5,
+        "processed_date": "2025-09-27T23:12:45.319319",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "Dengue fever in a 32-day-old patient. A rare case report_p4_img1_0931ecab.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 4
+      }
+    }
+  ],
+  "total_chunks": 54
+}

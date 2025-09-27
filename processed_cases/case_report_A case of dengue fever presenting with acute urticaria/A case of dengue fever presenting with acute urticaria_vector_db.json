@@ -1,0 +1,508 @@
+{
+  "document_id": "81d36fad3b9e",
+  "document_type": "case_report",
+  "type_confidence": 0.5,
+  "document_metadata": {
+    "doc_id": "81d36fad3b9e",
+    "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.5,
+    "pages": 3,
+    "processed_date": "2025-09-27T23:12:43.362794",
+    "has_images": true,
+    "image_count": 3
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 17,
+      "gender": "male"
+    },
+    "timeline": {},
+    "clinical_findings": {
+      "chief_complaint": "first episode of AU which associated with confirmed dengue virus \ninfection"
+    },
+    "diagnostics": {
+      "primary_diagnosis": ", and management of urticaria: the \n2013 revision and update"
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "81d36fad3b9e_0",
+      "text": "Asian Pacific Journal of Allergy and Immunology CASE REPORT A case of dengue fever presenting with acute urticaria Mati Chuamanochan,1,2 Siri Chiewchanvit,1 Napatra Tovanabutra,1 Rujira Rujiwetpongstorn,1 Kulwadee Laosakul,1 Marcus Maurer2 Abstract Background: Acute urticaria (AU) is characterized by the occurrence of spontaneous wheals, angioedema, or both for  less than 6 weeks.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_1",
+      "text": "und: Acute urticaria (AU) is characterized by the occurrence of spontaneous wheals, angioedema, or both for  less than 6 weeks. Viral infection is considered to be one of the common causes of AU, however AU has never been re­ ported in association with dengue infection. Objective: To describe the first case of AU in dengue virus infection. Methods: Case report  Results: A 17-year-old healthy male presented with first episode of AU which associated with confirmed dengue virus  infection.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_2",
+      "text": "Results: A 17-year-old healthy male presented with first episode of AU which associated with confirmed dengue virus  infection. He responded well with antihistamine treatment and without recurrence at 2-month follow up. Conclusion: Patients with dengue virus infections can present with AU, possibly from viral-infected mast cell. Future  research will have to clarify this association.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_3",
+      "text": "infections can present with AU, possibly from viral-infected mast cell. Future  research will have to clarify this association.  Key words: acute urticaria, dengue fever, mast cell, virus infection, wheal Corresponding author: Marcus Maurer Charité – Universitätsmedizin Berlin Department of Dermatology and Allergy Charitéplatz 1, 10117 Berlin, Germany E-mail: marcus.maurer@charite.de 72 Affiliations: 1\t Division of Dermatology, Department of Internal Medicine,  Faculty of Medicine, Chiang Mai University, Chiang Mai, Thailand 2\t Dermatological Allergology, Department of Dermatology and Allergy,  Charité – Universitätsmedizin Berlin, Germany Introduction Urticaria is a characteristic mast cell-driven disease, man­ ifests with wheals and/or angioedema.1 Current classification  defines acute urticaria (AU) by the duration of disease that is  less than 6 weeks.2 In adult, the most common causes of AU  are infections, follows by drug hypersensitization.3 Among in­ fectious etiology, upper respiratory tract infections were most­ ly reported from previous studies.4-6 Our case report demon­ strates a case of dengue virus infection presenting with AU.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_4",
+      "text": "most­ ly reported from previous studies.4-6 Our case report demon­ strates a case of dengue virus infection presenting with AU.  From the literature review, AU has never been described as a  dermatologic finding in dengue infection.   On the day of admission, he was febrile with a temperature of  39.7°C. Dermatological inspection revealed generalized and par­ tially confluent itchy wheals surrounded by mild reflex er­ ythema over the face, trunk and all extremities (Figure 1)  without angioedema.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_5",
+      "text": "uent itchy wheals surrounded by mild reflex er­ ythema over the face, trunk and all extremities (Figure 1)  without angioedema. Complete blood count (CBC) showed  mild leukocytosis with neutrophil predominance. The dengue  nonstructural protein 1 (NS1) antigen test was positive. IgM  and IgG antibodies to dengue virus, Orientia tsutsugamushi  and leptospira were negative. Dengue fever was the provision­ al diagnosis.  The patient was admitted and treated with intravenous  chlorpheniramine.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_6",
+      "text": "gative. Dengue fever was the provision­ al diagnosis.  The patient was admitted and treated with intravenous  chlorpheniramine. Individual lesions resolved without chang­ es in pigmentation within 24 hours. After three days in the  hospital, fever and rash were completely absent. CBC on day  5 of the illness showed leukopenia with lymphocyte predomi­ nance. The patient was discharged without any complications.  At a 2-month follow up visit, the patient reported no re­ currence of any rash.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_7",
+      "text": "ient was discharged without any complications.  At a 2-month follow up visit, the patient reported no re­ currence of any rash. Repeated IgM and IgG antibodies to  dengue virus were both positive. Dengue fever was the defi­ nite diagnosis. Case report A 17-year-old healthy male presented with an itchy rash  that had begun on the back, before spreading to the en­ tire body, followed within 2 hours by fever and myalgia.  When the symptoms persisted for 6 hours, he decided to  visit our hospital.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_8",
+      "text": "ody, followed within 2 hours by fever and myalgia.  When the symptoms persisted for 6 hours, he decided to  visit our hospital. The patient denied having any previous  rash with this morphology. For the patient himself as well  as for his family, the history for allergic diseases and ur­ ticaria was negative. Also, our patient was not taking any  medication, and he reported regular food consumption.  Acute urticaria in dengue fever 73 Figure 1.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_9",
+      "text": "patient was not taking any  medication, and he reported regular food consumption.  Acute urticaria in dengue fever 73 Figure 1. Multiple and partially confluent wheals surrounded by mild reflex erythema on the right ventral forearm (A), legs  (B), and chest (C). A B C Asian Pac J Allergy Immunol 2022;40:72-74 DOI 10.12932/AP-150419-0539 74 Funding Source This study was supported by intramural funding.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_10",
+      "text": "c J Allergy Immunol 2022;40:72-74 DOI 10.12932/AP-150419-0539 74 Funding Source This study was supported by intramural funding. Conflict of interest None Discussion Dengue fever (DF) is a mosquito-borne tropical infection  caused by the dengue virus.7 Aedes aegypti is a common vec­ tor.8 Skin rashes are one of the frequent clinical presentations  in DF, reported in 47-82% of cases, and include transient  flushing erythema of the face, maculopapular or morbilliform  eruptions, and convalescent rashes (“white islands in a sea of  red”).9-11  Infections are a possible trigger or cause of urticaria.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_11",
+      "text": "ions, and convalescent rashes (“white islands in a sea of  red”).9-11  Infections are a possible trigger or cause of urticaria.  In structured reviews, Wedi et al.12 and Imbalzano et al.13  demonstrated the association of urticaria with several viruses,  namely human immunodeficiency virus; influenza; adenovi­ rus; enterovirus; rotavirus; respiratory syncytial virus; hepati­ tis A, B and C viruses; herpes simplex virus 1 and 2; human  herpesvirus 6; cytomegalovirus; Epstein-Barr virus; parvovirus  B19 and norovirus.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_12",
+      "text": "iruses; herpes simplex virus 1 and 2; human  herpesvirus 6; cytomegalovirus; Epstein-Barr virus; parvovirus  B19 and norovirus. However, this association is difficult to es­ tablish, because rechallenge of the suspected agents is not pos­ sible.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_13",
+      "text": "orovirus. However, this association is difficult to es­ tablish, because rechallenge of the suspected agents is not pos­ sible. Several pathomechanisms have been implied to contrib­ ute to urticaria due to viral infections, including (i) mast cell  degranulation induced by IgM, IgG and IgE against viral an­ tigens, (ii) circulating immune complexes that activate baso­ phils, mast cells and complement, (iii) hyperbilirubinemia re­ sulting in increased vascular permeability (in the case of viral  hepatitis) and (iv) proteins secreted from the intestine during  viral hepatitis infections inducing the release of pro-inflam­ matory mediators that augment vascular permeability.13  To the best of our knowledge, this is the first report of AU  associated with dengue infection.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_14",
+      "text": "gment vascular permeability.13  To the best of our knowledge, this is the first report of AU  associated with dengue infection. AU was a definite diagno­ sis as all urticarial lesions resolved within 24 hours and the  total duration of urticaria was only 3 days. The close relation­ ship of the onset and resolution of AU and dengue fever, as  well as the lack of other common causes of AU such as the  intake of drugs or the consumption of food support a causal  link of dengue fever and AU in our case.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_15",
+      "text": "causes of AU such as the  intake of drugs or the consumption of food support a causal  link of dengue fever and AU in our case. However, urticar­ ia may be more common in patients with dengue fever than  previously thought. In a recent report, 2% of a sizeable cohort  of patients with DF reportedly had urticaria, and 8% had an  urticaria-like rash.14 Future studies in DF will have to clarify  the true prevalence of acute and chronic urticaria as well as its  subforms, i.e. spontaneous and inducible.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_16",
+      "text": "l have to clarify  the true prevalence of acute and chronic urticaria as well as its  subforms, i.e. spontaneous and inducible.  The role of human skin mast cells (MC) in dengue infec­ tion may explain this. Recently, the dengue virus has been  reported to primarily infect MCs, which is held to contrib­ ute to severe dengue manifestations.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_17",
+      "text": "ly, the dengue virus has been  reported to primarily infect MCs, which is held to contrib­ ute to severe dengue manifestations. Dengue virus has also  been described to induce MC degranulation and the release  of MC products.15-17 These released mediators, including his­ tamine, increase vascular permeability, and could account for  the wheals in our patient. AU may be an early sign of den­ gue virus infection. Further studies of the association between  dengue infection and urticaria are needed.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_18",
+      "text": "early sign of den­ gue virus infection. Further studies of the association between  dengue infection and urticaria are needed. References 1.\t Radonjic-Hoesli S, Hofmeier KS, Micaletto S, Schmid-Grendelmeier  P, Bircher A, Simon D. Urticaria and Angioedema: an Update on  Classification and Pathogenesis. Clin Rev Allergy Immunol. 2018;54: 88-101. 2.\t Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica  GW, et al.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_19",
+      "text": "lin Rev Allergy Immunol. 2018;54: 88-101. 2.\t Zuberbier T, Aberer W, Asero R, Bindslev-Jensen C, Brzoza Z, Canonica  GW, et al. The EAACI/GA(2) LEN/EDF/WAO Guideline for the  definition, classification, diagnosis, and management of urticaria: the  2013 revision and update. Allergy. 2014;69:868-87. 3.\t Maurer M, Grabbe J. Urticaria: its history-based diagnosis and  etiologically oriented treatment. Dtsch Arztebl Int. 2008;105:458-65; quiz  65-6. 4.\t Zuberbier T, Ifflander J, Semmler C, Henz BM.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_20",
+      "text": "logically oriented treatment. Dtsch Arztebl Int. 2008;105:458-65; quiz  65-6. 4.\t Zuberbier T, Ifflander J, Semmler C, Henz BM. Acute urticaria: clinical  aspects and therapeutic responsiveness. Acta Derm Venereol. 1996;76: 295-7. 5.\t Aoki T, Kojima M, Horiko T. Acute urticaria: history and natural course  of 50 cases. J Dermatol. 1994;21:73-7. 6.\t Kulthanan K, Chiawsirikajorn Y, Jiamton S. Acute urticaria: etiologies,  clinical course and quality of life. Asian Pac J Allergy Immunol. 2008; 26:1-9.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_21",
+      "text": "orn Y, Jiamton S. Acute urticaria: etiologies,  clinical course and quality of life. Asian Pac J Allergy Immunol. 2008; 26:1-9. 7.\t Simmons CP, Farrar JJ, Nguyen v V, Wills B. Dengue. N Engl J Med.  2012;366:1423-32. 8.\t Cucunawangsih, Lugito NPH. Trends of Dengue Disease Epidemiology.  Virology (Auckl). 2017;8:1178122X17695836. 9.\t Thomas EA, John M, Kanish B. Mucocutaneous manifestations of  Dengue fever. Indian J Dermatol. 2010;55:79-85. 10.\t Huang HW, Tseng HC, Lee CH, Chuang HY, Lin SH.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_22",
+      "text": "utaneous manifestations of  Dengue fever. Indian J Dermatol. 2010;55:79-85. 10.\t Huang HW, Tseng HC, Lee CH, Chuang HY, Lin SH. Clinical  significance of skin rash in dengue fever: A focus on discomfort,  complications, and disease outcome. Asian Pac J Trop Med. 2016;9:713-8. 11.\t Korman AM, Alikhan A, Kaffenberger BH. Viral exanthems: An  update on laboratory testing of the adult patient. J Am Acad Dermatol.  2017;76:538-50. 12.\t Wedi B, Raap U, Wieczorek D, Kapp A. Urticaria and infections.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_23",
+      "text": "of the adult patient. J Am Acad Dermatol.  2017;76:538-50. 12.\t Wedi B, Raap U, Wieczorek D, Kapp A. Urticaria and infections. Allergy  Asthma Clin Immunol. 2009;5:10. 13.\t Imbalzano E, Casciaro M, Quartuccio S, Minciullo PL, Cascio A, Calapai  G, et al. Association between urticaria and virus infections: A systematic  review. Allergy Asthma Proc. 2016;37:18-22. 14.\t Qiu FX, Gubler DJ, Liu JC, Chen QQ. Dengue in China: a clinical review.  Bull World Health Organ. 1993;71:349-59.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_24",
+      "text": "7:18-22. 14.\t Qiu FX, Gubler DJ, Liu JC, Chen QQ. Dengue in China: a clinical review.  Bull World Health Organ. 1993;71:349-59. 15.\t Troupin A, Shirley D, Londono-Renteria B, Watson AM, McHale C, Hall  A, et al. A Role for Human Skin Mast Cells in Dengue Virus Infection  and Systemic Spread. J Immunol. 2016;197:4382-91. 16.\t Londono-Renteria B, Marinez-Angarita JC, Troupin A, Colpitts TM. Role  of Mast Cells in Dengue Virus Pathogenesis. DNA Cell Biol. 2017;36: 423-7.",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_25",
+      "text": ", Marinez-Angarita JC, Troupin A, Colpitts TM. Role  of Mast Cells in Dengue Virus Pathogenesis. DNA Cell Biol. 2017;36: 423-7. 17.\t Syenina A, Jagaraj CJ, Aman SA, Sridharan A, St John AL. Dengue  vascular leakage is augmented by mast cell degranulation mediated by  immunoglobulin Fcgamma receptors. Elife. 2015;4. .",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "81d36fad3b9e_img_1",
+      "text": "Image: Multiple and partially confluent wheals surrounded by mild reflex erythema on the right ventral forearm (A), legs",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "A case of dengue fever presenting with acute urticaria_p2_img1_b642ef7d.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "A case of dengue fever presenting with acute urticaria_p2_img2_91613032.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "81d36fad3b9e_img_3",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "81d36fad3b9e",
+        "filename": "A case of dengue fever presenting with acute urticaria.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:43.362794",
+        "has_images": true,
+        "image_count": 3,
+        "chunk_type": "image",
+        "image_path": "A case of dengue fever presenting with acute urticaria_p2_img3_e657169f.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    }
+  ],
+  "total_chunks": 29
+}

@@ -1,0 +1,1322 @@
+{
+  "document_id": "f9e949788b19",
+  "document_type": "case_report",
+  "type_confidence": 0.25,
+  "document_metadata": {
+    "doc_id": "f9e949788b19",
+    "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.25,
+    "pages": 6,
+    "processed_date": "2025-09-27T23:12:55.902594",
+    "has_images": true,
+    "image_count": 7
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 23,
+      "gender": "female"
+    },
+    "timeline": {},
+    "clinical_findings": {
+      "chief_complaint": "a moderate impairment in her overall clinical status"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "and appropriate treatment for hemorrhagic\nfevers, particularly dengue fever"
+    },
+    "interventions": {
+      "medications": [
+        {
+          "name": "ceftriaxone",
+          "dose": "2",
+          "unit": "g"
+        }
+      ]
+    },
+    "outcomes": {}
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "f9e949788b19_0",
+      "text": "Review began 05/21/2023  Review ended 06/17/2023  Published 06/21/2023 © Copyright 2023 Hashmi et al. This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_1",
+      "text": "h permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Uncovering the Hidden Threat: A Case Report of Suspected Dengue Fever in Armenia Md Foorquan Hashmi  , Fiza Khan  , Gohar Matevosyan  , Vigen Asoyan  , Alvard Hovhannisyan  1. Department of General Medicine, Yerevan State Medical University, Yerevan, ARM 2.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_2",
+      "text": "an  , Vigen Asoyan  , Alvard Hovhannisyan  1. Department of General Medicine, Yerevan State Medical University, Yerevan, ARM 2. Department of Infectious Diseases, Yerevan State Medical University, Yerevan, ARM Corresponding author: Fiza Khan, fizakhn786@gmail.com Abstract Dengue is a viral infection transmitted by mosquitoes that causes fever, headache, joint pain, nausea, vomiting, and pain behind the eyes.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_3",
+      "text": "viral infection transmitted by mosquitoes that causes fever, headache, joint pain, nausea, vomiting, and pain behind the eyes. In severe cases, it can progress to dengue hemorrhagic fever and dengue shock syndrome, which can be life-threatening. Armenia has not reported a single case of dengue to date and is non-endemic for this disease. However, it has been found that the vector of the disease, Aedes albopictus, is present in Armenia since 2016.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_4",
+      "text": "or this disease. However, it has been found that the vector of the disease, Aedes albopictus, is present in Armenia since 2016. The aim of this report is to present the imported case of suspected dengue hemorrhagic fever. A 23-year-old female who was admitted to the University Hospital experienced symptoms of general weakness, fever, joint pain, and chills after her return from Bali and had a three-day febrile period. A thorough examination revealed mosquito bites on her skin.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_5",
+      "text": "ills after her return from Bali and had a three-day febrile period. A thorough examination revealed mosquito bites on her skin. On the fourth day of hospitalization, the patient's condition deteriorated. She started experiencing vaginal bleeding. On the same day, the patient noted a small petechiae rash sized 1-2 mm in diameter in the upper and lower extremities. The patient deteriorated, with progressive leukopenia and thrombocytopenia, and hypertransaminasemia.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_6",
+      "text": "er and lower extremities. The patient deteriorated, with progressive leukopenia and thrombocytopenia, and hypertransaminasemia. Screening tests for HIV and hepatitis A, B, C, and E were performed, and the results showed that the anti-hepatitis C antibody was positive, while the hepatitis C virus polymerase chain reaction was negative. The case was reported to the National Center for Disease Control and Prevention as an imported case of hemorrhagic fever.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_7",
+      "text": "tive. The case was reported to the National Center for Disease Control and Prevention as an imported case of hemorrhagic fever. Unfortunately, no lab test was available there for confirmation of the diagnosis. The patient received IV infusion and symptomatic treatment. Her condition improved, and upon discharge, she was in a state of recovery. This case report highlights the importance of early diagnosis and appropriate treatment for hemorrhagic fevers, particularly dengue fever.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_8",
+      "text": "eport highlights the importance of early diagnosis and appropriate treatment for hemorrhagic fevers, particularly dengue fever. The unavailability of diagnostic kits for dengue in Armenia highlights the need to invest in improving their availability. It also emphasizes the importance of maintaining dengue surveillance in non-endemic nations and carefully evaluating and monitoring febrile patients who have returned from dengue-endemic countries.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_9",
+      "text": "n non-endemic nations and carefully evaluating and monitoring febrile patients who have returned from dengue-endemic countries. Categories: Infectious Disease, Epidemiology/Public Health Keywords: hemorrhagic fever of unknown cause, progressive leukopenia, thrombocytopenia, viral infection, aedes, dengue hemorrhagic fever (dhf), dengue Introduction Dengue is a virus transmitted by mosquitoes and is the leading cause of arthropod-borne viral diseases worldwide [1].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_10",
+      "text": "roduction Dengue is a virus transmitted by mosquitoes and is the leading cause of arthropod-borne viral diseases worldwide [1]. The virus is spread by several species of Aedes mosquitoes, primarily Aedes aegypti, Ae. polynesiensis, Ae. scutellaris, and Ae. albopictus. Dengue fever (DF) is caused by any of four distinct serotypes: DEN-1, DEN-2, DEN-3, and DEN-4 [1]. Dengue virus is a single-stranded RNA (ssRNA) virus with a positive- sense RNA (5’ to 3”) and belongs to the Flaviviridae family.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_11",
+      "text": "ngue virus is a single-stranded RNA (ssRNA) virus with a positive- sense RNA (5’ to 3”) and belongs to the Flaviviridae family. The viral RNA can be directly translated into viral protein. Dengue disease can have a variety of severe and non-severe clinical symptoms, and symptoms usually begin three to four days after infection [2]. It often lasts between five and seven days, and it may also be biphasic, have a remittent pattern, or be a low grade [2].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_12",
+      "text": "[2]. It often lasts between five and seven days, and it may also be biphasic, have a remittent pattern, or be a low grade [2]. Its clinical features are similar to those of other illnesses, which can result in incorrect diagnoses or delays in receiving appropriate treatment. Due to the severity of the muscular and joint pain and spasms, it is often referred to as breakbone fever, dandy fever, O'nyong-nyong fever, or seven-day fever [1].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_13",
+      "text": "nd joint pain and spasms, it is often referred to as breakbone fever, dandy fever, O'nyong-nyong fever, or seven-day fever [1]. In some cases, the disease progresses to more severe conditions like dengue hemorrhagic fever (DHF) and dengue shock syndrome (DSS), which can lead to bleeding, low platelet levels, and blood plasma leakage [3]. Furthermore, dengue infection can be complicated by hemophagocytic lymphohistiocytosis, which is rare and potentially life-threatening [4].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_14",
+      "text": "dengue infection can be complicated by hemophagocytic lymphohistiocytosis, which is rare and potentially life-threatening [4]. DHF typically affects children under the age of 15 years, although it may also occur in adults [5]. It is distinguished by a sudden onset of fever, which often lasts for two to seven days, as well as several nonspecific symptoms [3].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_15",
+      "text": "distinguished by a sudden onset of fever, which often lasts for two to seven days, as well as several nonspecific symptoms [3]. The revised classification (2008) divides dengue into two categories: non-severe and severe dengue (SDF); non-severe dengue is further divided into two categories: dengue with warning signs (D+W) and dengue without warning signs (D-W) [6]. 1 1 2 2 2   Open Access Case Report  DOI: 10.7759/cureus.40722 How to cite this article Hashmi M, Khan F, Matevosyan G, et al.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_16",
+      "text": "1 1 2 2 2   Open Access Case Report  DOI: 10.7759/cureus.40722 How to cite this article Hashmi M, Khan F, Matevosyan G, et al. (June 21, 2023) Uncovering the Hidden Threat: A Case Report of Suspected Dengue Fever in Armenia. Cureus 15(6): e40722. DOI 10.7759/cureus.40722 The increase in international travel to regions where DF is prevalent has had a notable impact on the worldwide distribution of the disease, particularly given that many of these areas are popular tourist destinations [7].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_17",
+      "text": "on the worldwide distribution of the disease, particularly given that many of these areas are popular tourist destinations [7]. Bali is recognized as one of the most popular destinations globally, and in this case, the patient developed symptoms after returning from Bali. Individuals who travel to regions where DF is prevalent are highly susceptible to contracting the disease and may also play a role in transmitting the disease to non-endemic regions [8].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_18",
+      "text": "highly susceptible to contracting the disease and may also play a role in transmitting the disease to non-endemic regions [8]. Although Armenia is not considered an endemic area for DF, the recent discovery of Aedes albopictus in the country [9] is a cause for concern. This mosquito species is known to transmit the disease, and its presence in Armenia means that even a single imported case of dengue could have serious implications.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_19",
+      "text": "smit the disease, and its presence in Armenia means that even a single imported case of dengue could have serious implications. We present a case of a patient who returned from Bali and was admitted to the hospital with complaints of general weakness, temperature rise of up to 39-40°C, chills, tremors, and joint pains. The patient's condition suddenly worsened and she began experiencing vaginal bleeding, a petechial rash in the upper and lower extremities, and progressive leukopenia and thrombocytopenia.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_20",
+      "text": "iencing vaginal bleeding, a petechial rash in the upper and lower extremities, and progressive leukopenia and thrombocytopenia. However, because of the unavailability of a dengue diagnostic kit in Armenia, a final diagnosis of DHF could not be made, despite the patient having mosquito bites on her body. Instead, she was diagnosed with a hemorrhagic fever of an unknown cause.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_21",
+      "text": "despite the patient having mosquito bites on her body. Instead, she was diagnosed with a hemorrhagic fever of an unknown cause. Case Presentation A 23-year-old female patient was admitted to the infectious diseases department with complaints of general weakness, a temperature rise of up to 40°C, chills, tremors, and joint pains. The patient had no significant medical history. She reported feeling unwell for the past two days after returning from Bali. She spent two weeks there.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_22",
+      "text": "ficant medical history. She reported feeling unwell for the past two days after returning from Bali. She spent two weeks there. She traveled to rural locations to engage in hobbies like surfing. She experienced a sudden spike in body temperature, reaching 40°C, along with chills, tremors, body aches, and profuse sweating two days after returning. Upon admission, the patient presented with a moderate impairment in her overall clinical status.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_23",
+      "text": "ting two days after returning. Upon admission, the patient presented with a moderate impairment in her overall clinical status. On physical examination, her blood pressure was 100/70 mmHg, pulse rate was 108 beats per minute, and oxygen saturation was 98%. The tongue was dry and swollen, and the mucosa of the oropharynx was hyperemic. Further examination revealed mosquito bites on the skin, but the abdomen was soft to touch and non-tender, and urination was normal. The skin blanch test was negative.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_24",
+      "text": "tes on the skin, but the abdomen was soft to touch and non-tender, and urination was normal. The skin blanch test was negative. The patient's kidney function was adequate, and she was conscious and able to respond. There were no signs of meningeal or focal symptoms.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_25",
+      "text": "'s kidney function was adequate, and she was conscious and able to respond. There were no signs of meningeal or focal symptoms. Her serological test values on admission were as follows: erythrocytes were 4.80 x 10^12/L, hemoglobin was 134 g/L, mean corpuscular volume (MCV) was 93.1 fL, mean corpuscular hemoglobin (MCH) was 27.9 pg, mean corpuscular hemoglobin concentration (MCHC) was 299 g/L, leukocytes were 2.78 x 10^9/L, neutrophils were 84.1%, eosinophils were 0.2%, basophils were 1.2%, lymphocytes were 11.3%, monocytes were 2.2%, and the thrombocyte count was 195 x 10^9/L.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_26",
+      "text": "ophils were 0.2%, basophils were 1.2%, lymphocytes were 11.3%, monocytes were 2.2%, and the thrombocyte count was 195 x 10^9/L. MCHC, MCH, leukocytes, and eosinophil counts were below the normal range, and neutrophils were higher than the normal value (Table 1). 2023 Hashmi et al. Cureus 15(6): e40722.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_27",
+      "text": "e below the normal range, and neutrophils were higher than the normal value (Table 1). 2023 Hashmi et al. Cureus 15(6): e40722. DOI 10.7759/cureus.40722 2 of 6 Tests 1st day 4th day 6th day 8th day 12th day Erythrocytes (*1012/լ) 4.80 4.06 4.18 4.27 5.20 Hemoglobin (g/L) 134 121 123 126 151 MCV (fL) 93.1 85.0 84.4 84.5 85.2 MCH (pg) 27.9 29.8 29.4 29.5 29.1 MCHC (g/L) 299 35.1 34.8 34.9 34.1 HCT (%)   34.5 35.3 36.1 44.3 Leukocyte (*109/լ) 2.78 1.57 2.71 3.65 4.19 Neutrophils (%) 84.1 37.0 28.0 32.9 435 Eosinophils (%) 0.2 2.5 1.5 3.0 2.1 Basophils (%) 1.2 0.6 0.7 0.5 0.5 Lymphocyte (%) 11.3 47.8 56.1 49.9 43.2 Monocyte (%) 2.2 12.1 13.7 13.7 10.7 Thrombocyte (*109/լ) 195 54 92 201 378 Creatinine (µmol/L) 73 43       Albumin (g/L)   32.32 39.31   47.39 Total bilirubin (µmol/L) 5.5 5.0 5.4 6.4   Unconjugated 3.1 3.9   2.9 2.6 Conjugated 2.4 1.2   2.5 3.8 ALP   107.6   104.7 112.6 GGT   207.7   259.8 183.3 AST (U/l) 31.3 472.9   130.6 42.0 ALT (U/l) 17.8 300.2   193.6 97.7 Glucose (mmol/l)   4.83       Protein   60.2       TABLE 1: Hematological findings of the patient during the hospital stay MCV: mean corpuscular volume; MCH: mean corpuscular hemoglobin; MCHC: mean corpuscular hemoglobin concentration; HCT: hematocrit; ALP: alkaline phosphatase; GGT: gamma-glutamyl transferase; AST: aspartate aminotransferase; ALT: alanine transaminase.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_28",
+      "text": "tocrit; ALP: alkaline phosphatase; GGT: gamma-glutamyl transferase; AST: aspartate aminotransferase; ALT: alanine transaminase. On the fourth day of hospitalization, the patient's condition deteriorated. She started experiencing vaginal bleeding despite not menstruating at the time. The fever at this point was in the normal range. On the same day, the patient noted small petechiae rash sized 1-2 mm in diameter in the upper and lower extremities (Figure 1). 2023 Hashmi et al. Cureus 15(6): e40722.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_29",
+      "text": "petechiae rash sized 1-2 mm in diameter in the upper and lower extremities (Figure 1). 2023 Hashmi et al. Cureus 15(6): e40722. DOI 10.7759/cureus.40722 3 of 6 FIGURE 1: Small petechial rashes (black arrow) seen on extremities The patient's condition deteriorated, with progressive leukopenia (1.57 *10^9/L) and thrombocytopenia (54,000/mm3) (Table 1). Her serological test values changed significantly. A CT scan was done and splenomegaly was seen (spleen index: 720).",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_30",
+      "text": "(Table 1). Her serological test values changed significantly. A CT scan was done and splenomegaly was seen (spleen index: 720). Screening tests for HIV and hepatitis A, B, C, and E were performed, and the results showed that the patient was positive for anti-hepatitis C antibody. To confirm hepatitis C, a hepatitis C virus (HCV) polymerase chain reaction (PCR) was performed, but surprisingly it turned out to be negative. Finally, a consultation with a hematologist was done.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_31",
+      "text": "ction (PCR) was performed, but surprisingly it turned out to be negative. Finally, a consultation with a hematologist was done. The physicians administered tranexamic acid (10 ml) for vaginal bleeding. Later, on consultation with a hematologist, Fraxiparine 0.3 ml s/c and frozen plasma were given. Despite the presence of mosquito bites, the final diagnosis of dengue fever could not be confirmed due to the unavailability of diagnostic kits.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_32",
+      "text": "nce of mosquito bites, the final diagnosis of dengue fever could not be confirmed due to the unavailability of diagnostic kits. The patient was diagnosed with a hemorrhagic fever of unknown etiology with a severe clinical course. The patient received infusion therapy, ceftriaxone 2 g (for seven days), frozen blood plasma (two units), and Fraxiparine 0.3 ml. Her condition improved, and upon discharge, she was in a state of recovery. Discussion 2023 Hashmi et al. Cureus 15(6): e40722.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_33",
+      "text": "Her condition improved, and upon discharge, she was in a state of recovery. Discussion 2023 Hashmi et al. Cureus 15(6): e40722. DOI 10.7759/cureus.40722 4 of 6 Dengue is a disease caused by the dengue virus, which is classified as an arbovirus. When an individual is infected with dengue, a range of clinical symptoms may present, which can vary from a mild form of the disease known as dengue fever (DF) to more severe and potentially life-threatening forms of the illness, such as DHF or DSS [10].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_34",
+      "text": "sease known as dengue fever (DF) to more severe and potentially life-threatening forms of the illness, such as DHF or DSS [10]. The revised classification (2008) divides dengue into two categories: non-severe and severe dengue; non-severe dengue is further divided into two categories: dengue with warning signs (D+W) and dengue without warning signs (D-W) [6]. The primary pathophysiological characteristic that differentiates DHF from DF is plasma leakage.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_35",
+      "text": "thout warning signs (D-W) [6]. The primary pathophysiological characteristic that differentiates DHF from DF is plasma leakage. The mechanism for pathogenesis is changes in the expression of adhesion molecules, enzymes, and cytokine receptors on endothelial cells, which are implicated in increasing the vascular permeability as well as activation of the coagulating system. The two fundamental pathological attributes of DHF are plasma leakage and intrinsic coagulopathy [11].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_36",
+      "text": "the coagulating system. The two fundamental pathological attributes of DHF are plasma leakage and intrinsic coagulopathy [11]. There are no specific medications to treat DF in any of its clinical manifestations [10]. Two types of dengue vaccines are available: QDENGA and DengVaxia. QDENGA is a live tetravalent attenuated vaccine for adults, adolescents, and kids from four years of age. DengVaxia, a tetravalent vaccine, was licensed to prevent severe secondary dengue in seropositive individuals [11].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_37",
+      "text": "ars of age. DengVaxia, a tetravalent vaccine, was licensed to prevent severe secondary dengue in seropositive individuals [11]. In this report, we present the case of a young female patient who first visited the hospital with general weakness, temperature, chill, tremors, and some joint pain but subsequently developed a petechial rash, and started experiencing vaginal bleeding. The patient developed symptoms after returning from Bali. She spent two weeks there.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_38",
+      "text": "and started experiencing vaginal bleeding. The patient developed symptoms after returning from Bali. She spent two weeks there. She traveled to rural locations to engage in hobbies like surfing. Bali Province has been an endemic area to DF for years [12]. A study by Masyeni et al. confirms that dengue is one of the causes of fever in travelers visiting Bali [13].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_39",
+      "text": "F for years [12]. A study by Masyeni et al. confirms that dengue is one of the causes of fever in travelers visiting Bali [13]. Our patient just after returning from Bali showed symptoms and had mosquito bites on her body, which made a very high probability of dengue due to the nation's hyperendemic dengue illness and designation as a country with frequent or ongoing hazards of dengue infection for tourists on the dengue-risk map [14].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_40",
+      "text": "ess and designation as a country with frequent or ongoing hazards of dengue infection for tourists on the dengue-risk map [14]. There are four main clinical indications of DHF, which include severe fever, bleeding, frequently accompanied by hepatomegaly, and in severe instances, circulatory failure [15].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_41",
+      "text": "hich include severe fever, bleeding, frequently accompanied by hepatomegaly, and in severe instances, circulatory failure [15]. Early stages of dengue infection can resemble the flu or other illnesses, including malaria, influenza, leptospirosis, yellow fever, Kyasanur Forest disease (KFD), viral hepatitis, chikungunya, or Zika [16]. Retro-orbital pain, fever, excruciating headache, excruciating joint and muscular pain, and nausea are symptoms of the illness [17].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_42",
+      "text": "-orbital pain, fever, excruciating headache, excruciating joint and muscular pain, and nausea are symptoms of the illness [17]. When the patient was admitted initially, she was diagnosed with a hemorrhagic fever of unknown cause. Malaria was ruled out as pathogens for malaria were not detected in the thin blood smear and the thick drop.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_43",
+      "text": "of unknown cause. Malaria was ruled out as pathogens for malaria were not detected in the thin blood smear and the thick drop. We were suspecting either chikungunya or dengue but after three days when the patient started showing hemorrhagic manifestations, progressive leukopenia, and thrombocytopenia, the suspected diagnosis became more inclined toward dengue. Dengue can result in more serious disease symptoms, like hemorrhage and subsequent vascular leaks, in addition to self-febrile sickness.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_44",
+      "text": "n result in more serious disease symptoms, like hemorrhage and subsequent vascular leaks, in addition to self-febrile sickness. Patients may exhibit pleural effusion, hemorrhage, thrombocytopenia with less than 100,000 platelets per liter, increased hematocrit levels, restlessness, nausea, and a sharp drop in body temperature during the disease's severe presentation [18]. In our case, the patient on the 4th day exhibited heavy vaginal bleeding, which is a symptom of DHF seen before.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_45",
+      "text": "entation [18]. In our case, the patient on the 4th day exhibited heavy vaginal bleeding, which is a symptom of DHF seen before. In a study by Malavige et al., vaginal bleeding was seen in 15.9% of total females, none of whom were menstruating at the time of infection [19]. During the evaluation of the patient, the healthcare team ordered tests for hepatitis A, B, C, and E viruses. Although the HCV antibody test returned positive, the subsequent HCV PCR test came back negative.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_46",
+      "text": "titis A, B, C, and E viruses. Although the HCV antibody test returned positive, the subsequent HCV PCR test came back negative. This discrepancy led the team to investigate further and consider the possibility of cross-reactivity between the dengue virus and HCV, as they both belong to the Flaviviridae family.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_47",
+      "text": "consider the possibility of cross-reactivity between the dengue virus and HCV, as they both belong to the Flaviviridae family. Cross-reactivity can occur in serological tests, causing false-positive results, and it is important to consider this possibility when interpreting results to avoid unnecessary treatments or misdiagnoses [20].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_48",
+      "text": "nd it is important to consider this possibility when interpreting results to avoid unnecessary treatments or misdiagnoses [20]. Therefore, in this case, the positive HCV antibody result could have been due to cross-reactivity with the dengue virus, highlighting the importance of careful interpretation of laboratory results in the diagnosis of infectious diseases. Typically, the clinical course follows three phases: febrile, critical, and recovery.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_49",
+      "text": "in the diagnosis of infectious diseases. Typically, the clinical course follows three phases: febrile, critical, and recovery. For our patient, the febrile phase was for three days when the patient had a high fever and other symptoms followed by the critical phase, which lasted about four days, when her condition deteriorated and she started having vaginal bleeding. The recovery phase was after seven days when along with treatment she started improving.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_50",
+      "text": "d she started having vaginal bleeding. The recovery phase was after seven days when along with treatment she started improving. Hematocrit decreased, while the white cell and platelet counts rose rapidly. DF and DHF continue to be major global public health issues. Recent reports of DHF in various dengue outbreaks led to substantial fatality rates. There are currently no specialized antiviral medications that can be used as treatments or preventatives against dengue virus infection.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_51",
+      "text": "currently no specialized antiviral medications that can be used as treatments or preventatives against dengue virus infection. Bed rest, antipyretics or tepid sponging to reduce the fever, analgesics or mild sedatives to aid with the pain, and fluid or electrolyte therapy to manage hydration are some of the recommendations for treating dengue [10].",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 51,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_52",
+      "text": "d with the pain, and fluid or electrolyte therapy to manage hydration are some of the recommendations for treating dengue [10]. This case report also highlights travel-related dengue, e.g., advising travelers to use insect repellent, a high index of suspicion in returned travelers from dengue endemic countries, and making testing available. The infusion therapy and frozen blood plasma were given to our suspected dengue patient to help maintain hydration and prevent complications such as shock.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 52,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_53",
+      "text": "zen blood plasma were given to our suspected dengue patient to help maintain hydration and prevent complications such as shock. Frozen blood plasma was given to replenish clotting factors since our patient had severe bleeding. The treatment was symptomatic. 2023 Hashmi et al. Cureus 15(6): e40722.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 53,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_54",
+      "text": "clotting factors since our patient had severe bleeding. The treatment was symptomatic. 2023 Hashmi et al. Cureus 15(6): e40722. DOI 10.7759/cureus.40722 5 of 6 In a recent study, it has been found that Aedes albopictus is present in Armenia [9], which along with probable dengue patients should be an alarming situation for the government of Armenia. Due to the unavailability of diagnostic kits for dengue in Armenia, the final diagnosis, in this case, could not be confirmed.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 54,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_55",
+      "text": "Due to the unavailability of diagnostic kits for dengue in Armenia, the final diagnosis, in this case, could not be confirmed. The government of Armenia needs to invest in improving the availability of diagnostic kits for dengue and other viral hemorrhagic fevers to ensure timely diagnosis and treatment for patients returning from endemic areas. Conclusions Hemorrhagic fevers are caused by a variety of viruses and can be life-threatening.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 55,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_56",
+      "text": "ts returning from endemic areas. Conclusions Hemorrhagic fevers are caused by a variety of viruses and can be life-threatening. Early diagnosis and appropriate treatment are crucial for a successful outcome. This case report underscores the importance of timely diagnosis and appropriate treatment of hemorrhagic fevers. The unavailability of dengue diagnostic kits in Armenia highlights the urgent need to invest in improving the availability of viral hemorrhagic fever diagnostic kits.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 56,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_57",
+      "text": "kits in Armenia highlights the urgent need to invest in improving the availability of viral hemorrhagic fever diagnostic kits. Moreover, this case report emphasizes the importance of maintaining dengue surveillance in non-endemic nations and carefully evaluating and monitoring febrile patients who have returned from dengue-endemic nations. Additional Information Disclosures Human subjects: Consent was obtained or waived by all participants in this study.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 57,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_58",
+      "text": "c nations. Additional Information Disclosures Human subjects: Consent was obtained or waived by all participants in this study. Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 58,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_59",
+      "text": "t/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work. References 1.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 59,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_60",
+      "text": "ared that there are no other relationships or activities that could appear to have influenced the submitted work. References 1.  Schaefer TJ, Panda PK, Wolford RW: Dengue Fever. StatPearls Publishing, Treasure Island, FL; 2022. 2.  Kularatne SA: Dengue fever. BMJ. 2015, 351:h4661. 10.1136/bmj.h4661 3.  Gubler DJ: Dengue and dengue hemorrhagic fever. Clin Microbiol Rev. 1998, 11:480-96. 10.1128/CMR.11.3.480 4.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 60,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_61",
+      "text": "1136/bmj.h4661 3.  Gubler DJ: Dengue and dengue hemorrhagic fever. Clin Microbiol Rev. 1998, 11:480-96. 10.1128/CMR.11.3.480 4.  Chang CY, Rajappan M, Zaid M, Ong EL: Dengue fever complicated by hemophagocytic lymphohistiocytosis: report of 2 cases and bone marrow findings. Clin Case Rep. 2020, 8:3427-31. 10.1002/ccr3.3422 5.  Dietz V, Gubler DJ, Ortiz S, et al.: The 1986 dengue and dengue hemorrhagic fever epidemic in Puerto Rico: epidemiologic and clinical observations. P R Health Sci J. 1996, 15:201-10.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 61,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_62",
+      "text": "d dengue hemorrhagic fever epidemic in Puerto Rico: epidemiologic and clinical observations. P R Health Sci J. 1996, 15:201-10. 6.  Ajlan BA, Alafif MM, Alawi MM, Akbar NA, Aldigs EK, Madani TA: Assessment of the new World Health Organization's dengue classification for predicting severity of illness and level of healthcare required. PLoS Negl Trop Dis. 2019, 13:e0007144. 10.1371/journal.pntd.0007144 7.  Wilder-Smith A, Schwartz E: Dengue in travelers. N Engl J Med. 2005, 353:924-32. 10.1056/NEJMra041927 8.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 62,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_63",
+      "text": "urnal.pntd.0007144 7.  Wilder-Smith A, Schwartz E: Dengue in travelers. N Engl J Med. 2005, 353:924-32. 10.1056/NEJMra041927 8.  Wilder-Smith A, Gubler DJ: Geographic expansion of dengue: the impact of international travel . Med Clin North Am. 2008, 92:1377-90. 10.1016/j.mcna.2008.07.002 9.  Paronyan L, Babayan L, Manucharyan A, et al.: The mosquitoes of Armenia: review of knowledge and results of a field survey with first report of Aedes albopictus. Parasite. 2020, 27:42. 10.1051/parasite/2020039 10.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 63,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_64",
+      "text": "wledge and results of a field survey with first report of Aedes albopictus. Parasite. 2020, 27:42. 10.1051/parasite/2020039 10.  Wang WH, Urbina AN, Chang MR, Assavalapsakul W, Lu PL, Chen YH, Wang SF: Dengue hemorrhagic fever - a systemic literature review of current perspectives on pathogenesis, prevention and control. J Microbiol Immunol Infect. 2020, 53:963-78. 10.1016/j.jmii.2020.03.007 11.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 64,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_65",
+      "text": "rspectives on pathogenesis, prevention and control. J Microbiol Immunol Infect. 2020, 53:963-78. 10.1016/j.jmii.2020.03.007 11.  Yong YK, Wong WF, Vignesh R, et al.: Dengue infection - recent advances in disease pathogenesis in the era of COVID-19. Front Immunol. 2022, 13:889196. 10.3389/fimmu.2022.889196 12.  Maulana MR, Yudhastuti R, Lusno MFD, Mirasa YA, Haksama S, Husnina Z: Dengue fever distribution, climate and visitors: a study from Badung district of Bali, Indonesia. [PREPRINT]. medRxiv.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 65,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_66",
+      "text": "snina Z: Dengue fever distribution, climate and visitors: a study from Badung district of Bali, Indonesia. [PREPRINT]. medRxiv. 2021, 10.1101/2021.11.15.21266345 13.  Masyeni S, Yohan B, Somia IK, Myint KS, Sasmono RT: Dengue infection in international travellers visiting Bali, Indonesia. J Travel Med. 2018, 25:tay061. 10.1093/jtm/tay061 14.  Jentes ES, Lash RR, Johansson MA, et al.: Evidence-based risk assessment and communication: a new global dengue-risk map for travellers and clinicians. J Travel Med.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 66,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_67",
+      "text": "l.: Evidence-based risk assessment and communication: a new global dengue-risk map for travellers and clinicians. J Travel Med. 2016, 23:taw062. 10.1093/jtm/taw062 15.  Kuo HJ, Lee IK, Liu JW: Analyses of clinical and laboratory characteristics of dengue adults at their hospital presentations based on the World Health Organization clinical-phase framework: emphasizing risk of severe dengue in the elderly. J Microbiol Immunol Infect. 2018, 51:740-8. 10.1016/j.jmii.2016.08.024 16.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 67,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_68",
+      "text": "k: emphasizing risk of severe dengue in the elderly. J Microbiol Immunol Infect. 2018, 51:740-8. 10.1016/j.jmii.2016.08.024 16.  Teixeira MG, Barreto ML: Diagnosis and management of dengue . BMJ. 2009, 339:b4338. 10.1136/bmj.b4338 17.  Kautner I, Robinson MJ, Kuhnle U: Dengue virus infection: epidemiology, pathogenesis, clinical presentation, diagnosis, and prevention. J Pediatr. 1997, 131:516-24. 10.1016/s0022-3476(97)70054-4 18.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 68,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_69",
+      "text": "pathogenesis, clinical presentation, diagnosis, and prevention. J Pediatr. 1997, 131:516-24. 10.1016/s0022-3476(97)70054-4 18.  Tristão-Sá R, Kubelka CF, Zandonade E, et al.: Clinical and hepatic evaluation in adult dengue patients: a prospective two-month cohort study. Rev Soc Bras Med Trop. 2012, 45:675-81. 10.1590/s0037- 86822012000600004 19.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 69,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_70",
+      "text": "ue patients: a prospective two-month cohort study. Rev Soc Bras Med Trop. 2012, 45:675-81. 10.1590/s0037- 86822012000600004 19.  Malavige GN, Velathanthiri VG, Wijewickrama ES, Fernando S, Jayaratne SD, Aaskov J, Seneviratne SL: Patterns of disease among adults hospitalized with dengue infections . QJM. 2006, 99:299-305. 10.1093/qjmed/hcl039 20.  Chan KR, Ismail AA, Thergarajan G, Raju CS, Yam HC, Rishya M, Sekaran SD: Serological cross-reactivity among common flaviviruses. Front Cell Infect Microbiol.",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 70,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_71",
+      "text": "G, Raju CS, Yam HC, Rishya M, Sekaran SD: Serological cross-reactivity among common flaviviruses. Front Cell Infect Microbiol. 2022, 12:975398. 10.3389/fcimb.2022.975398 2023 Hashmi et al. Cureus 15(6): e40722. DOI 10.7759/cureus.40722 6 of 6 .",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 71,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "f9e949788b19_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia_p1_img1_e7db5fca.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia_p2_img1_e7db5fca.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_img_1",
+      "text": "Image: ).",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia_p3_img1_e7db5fca.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 3
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_img_1",
+      "text": "Image: Small petechial rashes (black arrow) seen on extremities",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia_p4_img1_0f7a4adb.png",
+        "clinical_relevance": "clinical_finding",
+        "page": 4
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia_p4_img2_e7db5fca.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 4
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia_p5_img1_e7db5fca.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 5
+      }
+    },
+    {
+      "chunk_id": "f9e949788b19_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "f9e949788b19",
+        "filename": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.25,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:55.902594",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Uncovering the Hidden Threat A Case Report of Suspected Dengue Fever in Armenia_p6_img1_e7db5fca.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 6
+      }
+    }
+  ],
+  "total_chunks": 79
+}

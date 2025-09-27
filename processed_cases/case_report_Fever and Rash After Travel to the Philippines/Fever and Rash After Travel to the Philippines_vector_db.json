@@ -1,0 +1,407 @@
+{
+  "document_id": "1c01057c0465",
+  "document_type": "case_report",
+  "type_confidence": 0.3,
+  "document_metadata": {
+    "doc_id": "1c01057c0465",
+    "filename": "Fever and Rash After Travel to the Philippines.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.3,
+    "pages": 2,
+    "processed_date": "2025-09-27T23:12:52.929334",
+    "has_images": true,
+    "image_count": 2
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 33
+    },
+    "timeline": {},
+    "clinical_findings": {
+      "chief_complaint": "a rash that devel­\noped two days earlier and was preceded by fever, headache, \nnausea, and arthralgi"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "?\nl\t A"
+    },
+    "interventions": {},
+    "outcomes": {}
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "1c01057c0465_0",
+      "text": "January 15, 2021 ◆ Volume 103, Number 2  www.aafp.org/afp\b American Family Physician  113 Photo Quiz Fever and Rash After Travel to the Philippines Micah Pippin, MD, and Lois Buller, MD, MS, Louisiana State University Health  Sciences Center–Shreveport Family Medicine Residency, Alexandria, Louisiana A 33-year-old patient presented with a rash that devel­ oped two days earlier and was preceded by fever, headache,  nausea, and arthralgias. The rash was worse on the limbs.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_1",
+      "text": "at devel­ oped two days earlier and was preceded by fever, headache,  nausea, and arthralgias. The rash was worse on the limbs.  The medical history was unremarkable, but the patient had  recently traveled to the Philippines. Physical examination revealed a diffuse, erythematous,  maculopapular rash on the arms and legs (Figure 1). Find­ ings on a tourniquet test were positive (Figure 2). Laboratory  testing was positive for leukopenia and thrombocytopenia.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_2",
+      "text": "Find­ ings on a tourniquet test were positive (Figure 2). Laboratory  testing was positive for leukopenia and thrombocytopenia.  A chest radiograph showed right-sided pleural effusion. Question Based on the patient’s history and physical examination  findings, which one of the following is the most likely  diagnosis? l\t A.\t Acute HIV infection l\t B.\t Chikungunya virus infection. l\t C.\t Dengue. l\t D.\t Malaria. l\t E.\t Zika virus infection. See the following page for discussion.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_3",
+      "text": "Chikungunya virus infection. l\t C.\t Dengue. l\t D.\t Malaria. l\t E.\t Zika virus infection. See the following page for discussion. The editors of AFP welcome submissions for Photo Quiz. Guidelines for preparing and submitting a Photo Quiz manuscript can  be found in the Authors’ Guide at https://​www.aafp.org/afp/photoquizinfo. To be considered for publication, submissions must  meet these guidelines. Email submissions to afpphoto@​aafp.org. This series is coordinated by John E.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_4",
+      "text": "cation, submissions must  meet these guidelines. Email submissions to afpphoto@​aafp.org. This series is coordinated by John E. Delzell Jr., MD, MSPH, associate medical editor. A collection of Photo Quiz published in AFP is available at https://​www.aafp.org/afp/photoquiz. Author disclosure:​ No relevant financial affiliations. FIGURE 1 FIGURE 2 Downloaded from the American Family Physician website at www.aafp.org/afp. Copyright © 2021 American Academy of Family Physicians.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_5",
+      "text": "nloaded from the American Family Physician website at www.aafp.org/afp. Copyright © 2021 American Academy of Family Physicians. For the private, noncom- mercial use of one individual user of the website. All other rights reserved. Contact copyrights@aafp.org for copyright questions and/or permission requests.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_6",
+      "text": "user of the website. All other rights reserved. Contact copyrights@aafp.org for copyright questions and/or permission requests. 114  American Family Physician  www.aafp.org/afp\b Volume 103, Number 2 ◆ January 15, 2021 PHOTO QUIZ Discussion The answer is C:​ dengue, a  common  mosquito-borne  disease  encountered  in  more than 100 tropical and  subtropical  countries  in  North and South America,  Africa, the Middle East,  Asia, and the Pacific Islands.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_7",
+      "text": "00 tropical and  subtropical  countries  in  North and South America,  Africa, the Middle East,  Asia, and the Pacific Islands.  The incidence is increasing,  and outbreaks are becoming  more common, including in  the Caribbean and the Big  Island of Hawaii.1 The dis­ ease is caused by one of four  dengue viruses transmitted  by Aedes aegypti and Aedes  albopictus mosquitos.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_8",
+      "text": "Hawaii.1 The dis­ ease is caused by one of four  dengue viruses transmitted  by Aedes aegypti and Aedes  albopictus mosquitos. Most  cases in the United States  are travel-related, except in Puerto Rico where dengue is  endemic.2 Humans are the primary reservoirs for dengue. Patients  with the disease may be asymptomatic or have mild to severe  or life-threatening symptoms.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_9",
+      "text": "ary reservoirs for dengue. Patients  with the disease may be asymptomatic or have mild to severe  or life-threatening symptoms. Common presenting symp­ toms include high-grade fever, headache, retro-orbital pain,  myalgias/arthralgias, nausea, vomiting, and rash. The dis­ ease progresses to severe dengue in one out of 20 patients.1  Severe dengue follows three phases:​ febrile, critical, recovery.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_10",
+      "text": "ease progresses to severe dengue in one out of 20 patients.1  Severe dengue follows three phases:​ febrile, critical, recovery.  The critical phase occurs after 72 hours of fever and is dis­ tinguished by increased vascular permeability, fever, hemor­ rhagic manifestations, and marked thrombocytopenia. Diagnosis of dengue is based on clinical signs and symp­ toms. The tourniquet test is commonly used.3 To perform  this test, a blood pressure cuff is inflated on the arm, then  removed.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_11",
+      "text": "oms. The tourniquet test is commonly used.3 To perform  this test, a blood pressure cuff is inflated on the arm, then  removed. After two minutes, petechiae are counted below  the antecubital fossa. The test is positive if there are 10 or  more petechiae per 1 square inch (Figure 2).",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_12",
+      "text": "are counted below  the antecubital fossa. The test is positive if there are 10 or  more petechiae per 1 square inch (Figure 2). The Centers for  Disease Control and Prevention recommends testing symp­ tomatic patients with a history of travel to endemic areas.4 Acute HIV infection, also known as primary HIV infec­ tion or acute retroviral syndrome, is the period just after  initial HIV infection, generally before seroconversion.5  Symptoms are characterized as mononucleosis-like or flu­ like, with the most prevalent symptoms being fever, fatigue,  myalgias/arthralgias, rash, pharyngitis, lymphadenopathy,  and mucocutaneous ulcerations.5 Chikungunya virus infection and dengue have similar  symptoms and are transmitted by the same mosquito vec­ tors.6 Chikungunya virus infection is characterized by fever  and intense joint pain but lacks leukopenia and thrombo­ cytopenia.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_13",
+      "text": "rs.6 Chikungunya virus infection is characterized by fever  and intense joint pain but lacks leukopenia and thrombo­ cytopenia. Headache, myalgias, and rash are also possible.7  The laboratory diagnosis of Chikungunya virus infection is  based on viral isolation.6 Malaria is a parasitic infection.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_14",
+      "text": "ble.7  The laboratory diagnosis of Chikungunya virus infection is  based on viral isolation.6 Malaria is a parasitic infection. In the United States,  malaria mainly occurs in travelers who have returned from  endemic regions.8 Fever and splenomegaly are the most  common physical examination findings.8 Zika virus infection also presents similarly to dengue  and is transmitted by the same mosquito vectors.9 Unlike  dengue, Zika virus infection is commonly associated with  conjunctivitis.9 The disease is diagnosed through serol­ ogy or reverse transcriptase–polymerase chain reaction  testing.10 Address correspondence to Micah Pippin, MD, at mpipp2@​ lsuhsc.edu.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_15",
+      "text": "reverse transcriptase–polymerase chain reaction  testing.10 Address correspondence to Micah Pippin, MD, at mpipp2@​ lsuhsc.edu. Reprints are not available from the authors. References \t 1. \tCenters for Disease Control and Prevention. Dengue. Accessed Novem­ ber 12, 2020. https://​www.cdc.gov/dengue/index.html \t 2. \tHuntington MK, Allison J, Nair D. Emerging vector-borne diseases.  Am Fam Physician. 2016;​94(7):​551-557. Accessed November 12, 2020.  https://​www.aafp.org/afp/2016/1001/p551.html \t 3. \tCDC.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_16",
+      "text": "Am Fam Physician. 2016;​94(7):​551-557. Accessed November 12, 2020.  https://​www.aafp.org/afp/2016/1001/p551.html \t 3. \tCDC. Tourniquet test. Accessed November 12, 2020. https://​www.cdc. gov/dengue/training/cme/ccm/page73112.html \t 4. \tCenters for Disease Control and Prevention. Dengue. Testing guid­ ance. Accessed November 12, 2020. https://​www.cdc.gov/dengue/ healthcare-providers/testing/testing-guidance.html \t 5. \tDaar ES, Pilcher CD, Hecht FM.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_17",
+      "text": "12, 2020. https://​www.cdc.gov/dengue/ healthcare-providers/testing/testing-guidance.html \t 5. \tDaar ES, Pilcher CD, Hecht FM. Clinical presentation and diagnosis of  primary HIV-1 infection. Curr Opin HIV AIDS. 2008;​3(1):​10-15. \t 6. \tda Cunha RVD, Trinta KS. Chikungunya virus:​ clinical aspects and treat­ ment - a review. Mem Inst Oswaldo Cruz. 2017;​112(8):​523-531. \t 7. \tLee VJ, et al. Simple clinical and laboratory predictors of Chikungunya  versus dengue infections in adults. PLoS Negl Trop Dis.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_18",
+      "text": "ee VJ, et al. Simple clinical and laboratory predictors of Chikungunya  versus dengue infections in adults. PLoS Negl Trop Dis. 2012;​6(9):​e1786. \t8. \tFeder HM Jr., Mansilla-Rivera K. Fever in returning travelers. Accessed  November 12, 2020. https://​www.aafp.org/afp/2013/1015/p524.html \t 9. \tIgbinosa II, Rabe IB, Oduyebo T, et al. Zika virus:​ common questions  and answers. Am Fam Physician. 2017;​95(8):​507-513. Accessed Novem­ ber 12, 2020. https://​www.aafp.org/afp/2017/0415/p507.html \t10.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_19",
+      "text": "swers. Am Fam Physician. 2017;​95(8):​507-513. Accessed Novem­ ber 12, 2020. https://​www.aafp.org/afp/2017/0415/p507.html \t10. \tSharp TM, Fischer M, Muñoz-Jordán JL, et al. Dengue and Zika virus  diagnostic testing for patients with a clinically compatible illness and risk  for infection with both viruses. MMWR Recomm Rep. 2019;​68(1):​1-10.",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_20",
+      "text": "or patients with a clinically compatible illness and risk  for infection with both viruses. MMWR Recomm Rep. 2019;​68(1):​1-10. ■ SUMMARY TABLE Condition Characteristics Signs and symptoms Acute HIV  infection Period just after initial HIV infection, gen­ erally before seroconversion;​ also called  primary HIV infection or acute retroviral  syndrome  Mononucleosis-like or flulike;​ fever,  fatigue, myalgias/arthralgias, rash,  pharyngitis, lymphadenopathy, and  mucocutaneous ulcerations Chikungunya  virus infection Similar to dengue but lacks leukopenia  and thrombocytopenia;​ transmitted by  same mosquito vectors as dengue  Fever and intense joint pain;​ head­ ache, myalgias, and rash are also  possible Dengue Can be diagnosed using the tourniquet  test;​ severe illness has three phases:​ febrile,  critical, and recovery;​ transmitted by Aedes  aegypti and Aedes albopictus mosquitos  High-grade fever, headache, retro- orbital pain, myalgias/arthralgias,  nausea, vomiting, and rash Malaria Parasitic infection Fever and splenomegaly  Zika virus  infection Transmitted by same mosquito vectors  as dengue;​ can cause birth defects, such  as microcephaly, if the mother is infected  during pregnancy Often asymptomatic;​ if present,  symptoms are similar to dengue,  but conjunctivitis is more common .",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "1c01057c0465_img_1",
+      "text": "Image: ). Find­",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_type": "image",
+        "image_path": "Fever and Rash After Travel to the Philippines_p1_img1_8a45a704.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "1c01057c0465_img_2",
+      "text": "Image: ). Laboratory",
+      "metadata": {
+        "doc_id": "1c01057c0465",
+        "filename": "Fever and Rash After Travel to the Philippines.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.3,
+        "pages": 2,
+        "processed_date": "2025-09-27T23:12:52.929334",
+        "has_images": true,
+        "image_count": 2,
+        "chunk_type": "image",
+        "image_path": "Fever and Rash After Travel to the Philippines_p1_img2_ed521b55.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    }
+  ],
+  "total_chunks": 23
+}

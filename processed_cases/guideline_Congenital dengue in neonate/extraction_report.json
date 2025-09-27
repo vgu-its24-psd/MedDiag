@@ -1,0 +1,10 @@
+{
+  "document_type": "guideline",
+  "confidence": 0.20454545454545453,
+  "extraction_stats": {
+    "total_pages": 3,
+    "text_chunks": 35,
+    "image_chunks": 1,
+    "extracted_fields": 6
+  }
+}

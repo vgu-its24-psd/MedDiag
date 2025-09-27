@@ -1,0 +1,1007 @@
+{
+  "document_id": "b7dc32ddbe81",
+  "document_type": "case_report",
+  "type_confidence": 0.5,
+  "document_metadata": {
+    "doc_id": "b7dc32ddbe81",
+    "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.5,
+    "pages": 4,
+    "processed_date": "2025-09-27T23:12:53.079579",
+    "has_images": false,
+    "image_count": 0
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 70,
+      "gender": "man"
+    },
+    "timeline": {
+      "duration_days": 5
+    },
+    "clinical_findings": {
+      "chief_complaint": "fever of 3 days’ duration, drooping of eyelids, dysarthria, and unsteady gait"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "of MFS [10], but were nega-\ntive in our patient supporting the hypothesis of direct\nviral neurotropism rather than immune-mediated injury"
+    },
+    "interventions": {
+      "medications": [
+        {
+          "name": "protein",
+          "dose": "20",
+          "unit": "mg"
+        }
+      ]
+    },
+    "outcomes": {
+      "status": "Discharged"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "b7dc32ddbe81_0",
+      "text": "CASE REPORT Open Access Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever: a case report and review of the literature Nipun Lakshitha de Silva1* , Praveen Weeratunga1,2, Thirugnanam Umapathi3, Neelika Malavige4 and Thashi Chang1,2 Abstract Background: Although dengue viral infections have emerged as one of the most important mosquito-borne diseases, neurological manifestations of dengue infections are uncommon.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_1",
+      "text": "ve emerged as one of the most important mosquito-borne diseases, neurological manifestations of dengue infections are uncommon. Guillain–Barré syndrome and Miller Fisher syndrome have been reported to occur as immune-mediated complications following dengue infection. We report the case of a patient who developed Miller Fisher syndrome during the acute phase of dengue fever suggesting that Miller Fisher syndrome may arise as a result of direct neurotropism of the dengue virus.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_2",
+      "text": "phase of dengue fever suggesting that Miller Fisher syndrome may arise as a result of direct neurotropism of the dengue virus. Case presentation: A 70-year-old Sri Lankan man with well-controlled diabetes mellitus and hypertension presented with fever of 3 days’ duration, drooping of eyelids, dysarthria, and unsteady gait.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_3",
+      "text": "iabetes mellitus and hypertension presented with fever of 3 days’ duration, drooping of eyelids, dysarthria, and unsteady gait. He developed bilateral asymmetric partial ptosis, complete external ophthalmoplegia, bilateral palatal palsy, unilateral tongue weakness, ataxia, and areflexia from the second day of illness. He did not have limb weakness.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_4",
+      "text": "palatal palsy, unilateral tongue weakness, ataxia, and areflexia from the second day of illness. He did not have limb weakness. He had evidence of acute dengue infection including progressive thrombocytopenia and leukopenia, positive dengue non-structural protein 1 antigen, dengue immunoglobulin M antibodies, and polymerase chain reaction detection of dengue virus genome in serum. Magnetic resonance imaging of his brain and cerebrospinal fluid analysis were normal.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_5",
+      "text": "etection of dengue virus genome in serum. Magnetic resonance imaging of his brain and cerebrospinal fluid analysis were normal. Polymerase chain reaction for dengue virus and immunoglobulin M antibodies in cerebrospinal fluid were negative. Nerve conduction studies showed axonal neuropathy. Antibodies (immunoglobulin G, immunoglobulin M, and immunoglobulin A) against GQ1b and GT1a were negative. He was treated with intravenously administered immunoglobulins and a recommended fluid regimen for dengue fever.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_6",
+      "text": "were negative. He was treated with intravenously administered immunoglobulins and a recommended fluid regimen for dengue fever. He made a complete recovery from dengue fever in 7 days and Miller Fisher syndrome in 20 days. Conclusions: This case report highlights the rare occurrence of Miller Fisher syndrome during the acute phase of dengue fever. Neurological manifestations may occur as a consequence of direct neurotropism of dengue virus.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_7",
+      "text": "the acute phase of dengue fever. Neurological manifestations may occur as a consequence of direct neurotropism of dengue virus. Keywords: Dengue, Guillain–Barré syndrome, Miller Fisher syndrome Background Dengue fever (DF) is the second commonest mosquito- borne infection after malaria [1]. It is estimated that approximately 390 million dengue infections occur an- nually worldwide out of which only approximately 90 million cases are clinically apparent [2].",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_8",
+      "text": "lion dengue infections occur an- nually worldwide out of which only approximately 90 million cases are clinically apparent [2]. Dengue viral in- fections have been endemic in Sri Lanka since the mid-1960s while epidemics of dengue hemorrhagic fever (DHF) have been recurring for almost three decades. Dengue infection is often subclinical or present with a mild, undifferentiated, self-limiting acute febrile illness (DF).",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_9",
+      "text": "ades. Dengue infection is often subclinical or present with a mild, undifferentiated, self-limiting acute febrile illness (DF). However, a proportion of patients with DF develop life-threatening disease characterized by plasma leakage and vascular shock (DHF). Neurological manifestations in dengue infection have been recognized since the latter part of the twentieth century [3]. The pathophysiological basis of neurological manifestations in dengue infection remains not fully © The Author(s).",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_10",
+      "text": "century [3]. The pathophysiological basis of neurological manifestations in dengue infection remains not fully © The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_11",
+      "text": "it to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_12",
+      "text": "http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. * Correspondence: nipunlak@gmail.com 1Professorial Unit in Medicine, National Hospital of Sri Lanka, Colombo, Sri Lanka Full list of author information is available at the end of the article de Silva et al. Journal of Medical Case Reports          (2019) 13:120  https://doi.org/10.1186/s13256-019-2066-z understood.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_13",
+      "text": "e de Silva et al. Journal of Medical Case Reports          (2019) 13:120  https://doi.org/10.1186/s13256-019-2066-z understood. Although encephalopathy and encephalitis are most frequently reported, the spectrum of neuro- logical manifestations continues to expand from myo- sitis, myelitis, cerebellitis, maculopathy, and other neuro-ophthalmic complications and mononeuropathies to Guillain–Barré syndrome (GBS) [4, 5].",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_14",
+      "text": "rebellitis, maculopathy, and other neuro-ophthalmic complications and mononeuropathies to Guillain–Barré syndrome (GBS) [4, 5]. GBS and its variants in dengue infection occur as immune-mediated complications 1 or more weeks after the acute infection [4, 6]. We report the case of a patient who developed Miller Fisher syndrome (MFS) during the acute phase of DF suggesting that the dengue virus may have a direct neurotropic effect.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_15",
+      "text": "iller Fisher syndrome (MFS) during the acute phase of DF suggesting that the dengue virus may have a direct neurotropic effect. Case presentation A 70-year-old Sri Lankan man with well-controlled dia- betes mellitus and hypertension over 6 years developed acute onset, high-grade, intermittent fever associated with headache, arthralgia, myalgia, and nausea with no apparent focus of infection. On day 2 since onset of fever, he developed drooping of his eyelids and dysarth- ria.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_16",
+      "text": "usea with no apparent focus of infection. On day 2 since onset of fever, he developed drooping of his eyelids and dysarth- ria. On day 3, he developed dysphagia and difficulty in walking because of unsteadiness. He did not experience any alteration of consciousness, seizures, sphincter dys- function, limb weakness, or paresthesia. He was admit- ted to hospital on the third day of his illness. A timeline of the events starting from onset of fever is summarized in Table 1.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_17",
+      "text": "ed to hospital on the third day of his illness. A timeline of the events starting from onset of fever is summarized in Table 1. There was no history of recent respiratory or gastrointestinal infection, or immunization. He had not had any neurological diseases in the past. His current medications included losartan for hypertension and met- formin for diabetes mellitus.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_18",
+      "text": "logical diseases in the past. His current medications included losartan for hypertension and met- formin for diabetes mellitus. On examination, his body temperature was 38.5 °C while general examination and respiratory, cardiovascu- lar, and abdominal examinations were normal. His heart rate was 76 beats per minute and his blood pressure was 140/90 mmHg. On neurological examination, he was noted to be conscious, alert, and oriented.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_19",
+      "text": "minute and his blood pressure was 140/90 mmHg. On neurological examination, he was noted to be conscious, alert, and oriented. He had bilat- eral asymmetric ptosis more on right side, mid-dilated pupils with sluggish reaction to light, and complete bilat- eral external ophthalmoplegia but without diplopia; optic fundi, visual fields, and acuity were normal. He had bi- lateral palatal weakness and tongue deviation to right side; the rest of his cranial nerves were normal.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_20",
+      "text": "ere normal. He had bi- lateral palatal weakness and tongue deviation to right side; the rest of his cranial nerves were normal. He had a broad-based ataxic gait, dysdiadochokinesia, and dys- metria; all tendon reflexes were absent; the rest of the neurological examination of limbs, including sensation, was normal. Investigations revealed thrombocytopenia with a plate- let count of 106 × 109/l on day 3, which dropped further to 17 × 109/l on day 6.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_21",
+      "text": "ations revealed thrombocytopenia with a plate- let count of 106 × 109/l on day 3, which dropped further to 17 × 109/l on day 6. His platelet count then gradually increased to 164 × 109/l by day 13. His white cell count reduced to 4200 × 109/l on day 5 and then gradually in- creased to 7100 × 109/l on day 13. Hematocrit was 40% and stable throughout the course of the illness. His cre- atinine was 99 μmol/l; serum sodium 132 mmol/l; and potassium 3.6 mmol/l.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_22",
+      "text": "stable throughout the course of the illness. His cre- atinine was 99 μmol/l; serum sodium 132 mmol/l; and potassium 3.6 mmol/l. Serum aspartate aminotransferase (AST) showed a rise from 115 U/l on day 3 to 243 U/l on day 5 and normalized to 43 U/l by day 10.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_23",
+      "text": "um aspartate aminotransferase (AST) showed a rise from 115 U/l on day 3 to 243 U/l on day 5 and normalized to 43 U/l by day 10. Alanine Table 1 Timeline of events with diagnostic tests and interventions Day of illness Events Diagnostic tests Interventions 01 Onset of fever 02 Right ptosis and dysarthria 03 Bilateral asymmetric ptosis, complete ophthalmoplegia, mid-dilated pupils, swallowing difficulty due to palatal palsy, tongue deviation to right side, ataxia, and areflexia Dengue NS-1 antigen positive Dengue RT-PCR positive Admission to hospital, monitoring and fluid management for dengue fever 04 Non-contrast CT (brain) – normal Intravenously administered polyclonal immunoglobulin started, supportive therapy 06 Improvement of ophthalmoplegia and ptosis, resolution of fever MRI (brain) – normal Nerve conduction studies – evidence of mild axonal polyneuropathy 07 Dengue immunoglobulin M (serum) – positive 08 Improvement of ataxia, ability to walk without support Intravenously administered polyclonal immunoglobulin (5 days) completed 12 CSF studies – pus cells – nil, lymphocytes 2/μl, protein 20 mg/dl, sugar 80 mg/dl (random blood sugar 131 mg/dl) 13 Discharged from ward 20 Clinic review – complete neurological resolution Discharged from clinic CSF cerebrospinal fluid, CT computed tomography, MRI magnetic resonance imaging, NS-1 non-structural protein 1, RT-PCR reverse transcriptase-polymerase chain reaction de Silva et al.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_24",
+      "text": "gnetic resonance imaging, NS-1 non-structural protein 1, RT-PCR reverse transcriptase-polymerase chain reaction de Silva et al. Journal of Medical Case Reports          (2019) 13:120  Page 2 of 4 aminotransferase (ALT) was 55 U/l on day 3, increased to 127 U/l on day 5, and normalized to 37 U/l by day 10. Other liver functions were normal. His erythrocyte sedi- mentation rate was 18 in the first hour and C-reactive protein was 32 mg/l. Urine analysis and an ultrasound scan of his abdomen were normal.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_25",
+      "text": "was 18 in the first hour and C-reactive protein was 32 mg/l. Urine analysis and an ultrasound scan of his abdomen were normal. A dengue non-structural protein 1 (NS-1) antigen test by rapid diagnostic test and real-time reverse transcriptase-polymerase chain reaction (RT-PCR) done on the third day of illness and dengue IgM antibodies by enzyme-linked immunosorbent assay (ELISA) tested on the seventh day of illness were positive.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_26",
+      "text": "ness and dengue IgM antibodies by enzyme-linked immunosorbent assay (ELISA) tested on the seventh day of illness were positive. Serum IgM anti- bodies to West Nile virus and Japanese encephalitis virus by ELISA were negative on day 7. Nerve conduction studies showed evidence of mild axonal polyneuropathy. Repetitive nerve stimulation did not show decrement. Computed tomography (CT) and magnetic resonance imaging (MRI) scans of his brain were normal.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_27",
+      "text": "imulation did not show decrement. Computed tomography (CT) and magnetic resonance imaging (MRI) scans of his brain were normal. Cerebro- spinal fluid (CSF) analysis performed on the 12th day of illness after recovery of thrombocytopenia was normal with no albuminocytologic dissociation. PCR for dengue virus and dengue IgM antibodies in CSF were negative. Antibodies (IgG, IgM, and IgA) against a panel of gangli- osides including GQ1b and GT1a were negative.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_28",
+      "text": "s in CSF were negative. Antibodies (IgG, IgM, and IgA) against a panel of gangli- osides including GQ1b and GT1a were negative. DF was treated with fluid replacement at 100 ml/hour while monitoring for plasma leakage clinically and ultra- sonically. His fever subsided after 5 days from onset and all hematological parameters returned to normal subse- quently. He was treated with intravenously administered immunoglobulin 0.4 g/kg for 5 days starting from the fourth day of his illness.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_29",
+      "text": "He was treated with intravenously administered immunoglobulin 0.4 g/kg for 5 days starting from the fourth day of his illness. He required nasogastric feeding because of dysphagia. He was treated with swallowing and speech therapy, and gait and balance training. From around the sixth day of illness, his ptosis and ophthalmoplegia began to improve gradually. His ataxia improved enabling him to walk without support from the eighth day onward.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_30",
+      "text": "phthalmoplegia began to improve gradually. His ataxia improved enabling him to walk without support from the eighth day onward. He was discharged from hospital on the 13th day of illness and continued nasogastric feeding, physiotherapy, and speech therapy at home. At review 1 week later, he had made a complete neurological recovery with normal swallowing, complete eye movements, normal gait, and re-emerged deep ten- don reflexes.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_31",
+      "text": "plete neurological recovery with normal swallowing, complete eye movements, normal gait, and re-emerged deep ten- don reflexes. Discussion and conclusions Acute onset of the triad of ophthalmoplegia, areflexia, and ataxia defines the syndrome of MFS. Although not typical, bulbar paralysis has been reported in up to 60% of patients with MFS [7–9]. The constellation of symp- toms and signs in our patient was consistent with MFS.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_32",
+      "text": "rted in up to 60% of patients with MFS [7–9]. The constellation of symp- toms and signs in our patient was consistent with MFS. Among the differential diagnoses considered, myasthenia gravis was ruled out on the basis of pupillary involve- ment, areflexia, and lack of fatigability while Bickerstaff brainstem encephalitis was ruled out based on the lack of upper motor neuron signs, intact sensorium, and nor- mal brain images on MRI.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_33",
+      "text": "m encephalitis was ruled out based on the lack of upper motor neuron signs, intact sensorium, and nor- mal brain images on MRI. Furthermore, an essentially normal nerve conduction study, apart from mild axonal polyneuropathy related to longstanding diabetes, is con- sistent with MFS [10]. Although the typical CSF finding in GBS describes albuminocytologic dissociation, normal protein levels have been reported in MFS [11].",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_34",
+      "text": "the typical CSF finding in GBS describes albuminocytologic dissociation, normal protein levels have been reported in MFS [11]. Serum anti-GQ1b antibodies are highly sensitive and confirma- tory of a clinical diagnosis of MFS [10], but were nega- tive in our patient supporting the hypothesis of direct viral neurotropism rather than immune-mediated injury. Although rare, GBS has been reported as a neuro- logical manifestation of dengue infection [4, 6].",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_35",
+      "text": "than immune-mediated injury. Although rare, GBS has been reported as a neuro- logical manifestation of dengue infection [4, 6]. It usually occurs after the acute phase of the dengue infection sug- gesting an immunological basis for its manifestation. Re- ports of concomitant onset of both dengue and GBS are scarce. In a case series from Rio de Janeiro, out of seven patients with GBS who were positive for dengue IgM, one patient had concomitant dengue infection and GBS.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_36",
+      "text": "Janeiro, out of seven patients with GBS who were positive for dengue IgM, one patient had concomitant dengue infection and GBS. However, available clinical information does not provide convincing evidence for the diagnosis of DF while the authors claimed that they were unable to exclude other infections [12]. There are a few other case reports of GBS occurring during DF [13, 14].",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_37",
+      "text": "that they were unable to exclude other infections [12]. There are a few other case reports of GBS occurring during DF [13, 14]. In contrast, there is only one case report of probable MFS associated with DF, but this could not be critically appraised due to the unavailability of English text of the article [15]. Our pa- tient did not have any preceding infection or vaccination to suggest the usual immune-mediated basis for MFS.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_38",
+      "text": "cle [15]. Our pa- tient did not have any preceding infection or vaccination to suggest the usual immune-mediated basis for MFS. Negative PCR assays and IgM antibodies in CSF does not exclude acute CNS infection by dengue virus since these tests can be negative in many owing to low viral loads and low sensitivity of IgM in CSF [6]. A lumbar puncture had to be delayed until recovery of thrombocytopenia.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_39",
+      "text": "low viral loads and low sensitivity of IgM in CSF [6]. A lumbar puncture had to be delayed until recovery of thrombocytopenia. Zika virus has been reported to cause GBS as a parainfectious manifestation more than as a postinfectious consequence [16].",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_40",
+      "text": "ia. Zika virus has been reported to cause GBS as a parainfectious manifestation more than as a postinfectious consequence [16]. The mechanisms pos- tulated in the development of GBS in Zika virus infec- tion include immune-mediated molecular mimicry during the incubation period, direct viral neuropatho- genic effects, a hyperacute immune response, or immune mechanisms other than molecular mimicry [17].",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_41",
+      "text": ", direct viral neuropatho- genic effects, a hyperacute immune response, or immune mechanisms other than molecular mimicry [17]. It is plausible that similar mechanisms occur when GBS or MFS occur as a parainfectious manifestation of dengue infection. There is evidence that dengue virus can ac- tively penetrate the blood–brain barrier to enter the cen- tral nervous system [16].",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_42",
+      "text": "here is evidence that dengue virus can ac- tively penetrate the blood–brain barrier to enter the cen- tral nervous system [16]. Neurotropism of dengue virus is well recognized [4] in causing dengue encephalitis, but there have not been studies so far to demonstrate dengue virus in the peripheral nervous system.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_43",
+      "text": "using dengue encephalitis, but there have not been studies so far to demonstrate dengue virus in the peripheral nervous system. This case report highlights the potential for neurotrop- ism of dengue virus in the peripheral nervous system to cause MFS as a parainfectious rather than a postinfec- tious manifestation of flaviviral infection. de Silva et al.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_44",
+      "text": "s system to cause MFS as a parainfectious rather than a postinfec- tious manifestation of flaviviral infection. de Silva et al. Journal of Medical Case Reports          (2019) 13:120  Page 3 of 4 Abbreviations ALT: Alanine aminotransferase; AST: Aspartate aminotransferase; CSF: Cerebrospinal fluid; CT: Computed tomography; DF: Dengue fever; DHF: Dengue hemorrhagic fever; ELISA: Enzyme-linked immunosorbent assay; GBS: Guillain–Barré syndrome; MFS: Miller Fisher syndrome; MRI: Magnetic resonance imaging; PCR: Polymerase chain reaction; RT: Reverse transcriptase Acknowledgements The authors gratefully acknowledge Dr Susan Halstead of the Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, Scotland for assaying antibodies against neuronal gangliosides in our patient.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_45",
+      "text": "rinary and Life Sciences, University of Glasgow, Scotland for assaying antibodies against neuronal gangliosides in our patient. Funding Not applicable. Availability of data and materials Not applicable. Authors’ contributions NLdS, PW, and TC were involved in the care of the patient. NM and TU were involved in serological and molecular diagnostics of the patient. NLdS wrote the initial draft of the manuscript. PW, NM, TU, and TC critically appraised and revised the overall content of the manuscript.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_46",
+      "text": "the initial draft of the manuscript. PW, NM, TU, and TC critically appraised and revised the overall content of the manuscript. All authors read and approved the manuscript. Authors’ information Dr Nipun Lakshitha de Silva Postgraduate trainee in clinical medicine at the Professorial Unit in Medicine, National Hospital of Sri Lanka and lecturer (probationary) in Clinical Medicine, Faculty of Medicine, General Sir John Kotelawala Defence University.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_47",
+      "text": "ri Lanka and lecturer (probationary) in Clinical Medicine, Faculty of Medicine, General Sir John Kotelawala Defence University. Dr Praveen Weeratunga Lecturer in Medicine, Faculty of Medicine, University of Colombo Senior Registrar in Medicine, Professorial Medical Unit, National Hospital of Sri Lanka Thirugnanam Umapathi Senior Consultant Neurologist, National Neuroscience Institute, Singapore Neelika Malavige Director, Centre for Dengue Research, University of Sri Jayewardenepura Prof.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_48",
+      "text": "euroscience Institute, Singapore Neelika Malavige Director, Centre for Dengue Research, University of Sri Jayewardenepura Prof. Thashi Chang Professor in Neurology in the Department of Clinical Medicine at the University of Colombo, Sri Lanka and honorary Consultant Neurologist at the Professorial Unit in Medicine, National Hospital of Sri Lanka Ethics approval and consent to participate Not applicable.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_49",
+      "text": "at the Professorial Unit in Medicine, National Hospital of Sri Lanka Ethics approval and consent to participate Not applicable. Consent for publication Written informed consent was obtained from the patient for publication of this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal. Competing interests The authors declare that they have no competing interests.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_50",
+      "text": "r review by the Editor-in-Chief of this journal. Competing interests The authors declare that they have no competing interests. Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Author details 1Professorial Unit in Medicine, National Hospital of Sri Lanka, Colombo, Sri Lanka. 2Department of Clinical Medicine, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_51",
+      "text": "ri Lanka, Colombo, Sri Lanka. 2Department of Clinical Medicine, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka. 3Department of Neurology, National Neuroscience Institute, 11 Jln Tan Tock Seng, Singapore. 4Centre for Dengue Research, University of Sri Jayewardenepura, Gangodawila, Sri Lanka. Received: 17 January 2018 Accepted: 2 April 2019 References 1. World Health Organization. Dengue: guidelines for diagnosis, treatment, prevention and control. Geneva: World Health Organization; 2009. 2.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 51,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_52",
+      "text": "Organization. Dengue: guidelines for diagnosis, treatment, prevention and control. Geneva: World Health Organization; 2009. 2. Bhatt S, Gething PW, Brady OJ, Messina JP, Farlow AW, Moyes CL, Drake JM, Brownstein JS, Hoen AG, Sankoh O. The global distribution and burden of dengue. Nature. 2013;496:504. 3. Solomon T, Dung NM, Vaughn DW, Kneen R, Raengsakulrach B, Loan HT, Day NP, Farrar J, Myint KS, Warrell MJ. Neurological manifestations of dengue infection. Lancet. 2000;355:1053–9. 4.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 52,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_53",
+      "text": ", Loan HT, Day NP, Farrar J, Myint KS, Warrell MJ. Neurological manifestations of dengue infection. Lancet. 2000;355:1053–9. 4. Verma R, Sahu R, Holla V. Neurological manifestations of dengue infection: a review. J Neurol Sci. 2014;346:26–34. 5. Withana M, Rodrigo C, Chang T, Karunanayake P, Rajapakse S. Dengue fever presenting with acute cerebellitis: a case report. BMC Res Notes. 2014;7:125. 6. Carod-Artal FJ, Wichmann O, Farrar J, Gascon J. Neurological complications of dengue virus infection.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 53,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_54",
+      "text": "Res Notes. 2014;7:125. 6. Carod-Artal FJ, Wichmann O, Farrar J, Gascon J. Neurological complications of dengue virus infection. Lancet Neurol. 2013;12:906–19. 7. Wakerley BR, Uncini A, Yuki N. Guillain-Barré and Miller Fisher syndromes—new diagnostic classification. Nat Rev Neurol. 2014;10:537–44. 8. Lyu R-K, Tang L-M, Cheng S-Y, Hsu W-C, Chen S-T. Guillain-Barré syndrome in Taiwan: a clinical study of 167 patients. J Neurol Neurosurg Psychiatry. 1997;63:494–500. 9.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 54,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_55",
+      "text": "en S-T. Guillain-Barré syndrome in Taiwan: a clinical study of 167 patients. J Neurol Neurosurg Psychiatry. 1997;63:494–500. 9. Mori M, Kuwabara S, Fukutake T, Yuki N, Hattori T. Clinical features and prognosis of Miller Fisher syndrome. Neurology. 2001;56:1104–6. 10. Aranyi Z, Kovacs T, Sipos I, Bereczki D. Miller Fisher syndrome: brief overview and update with a focus on electrophysiological findings. Eur J Neurol. 2012;19:15–20. e11–13 11. Wong AH, Umapathi T, Nishimoto Y, Wang YZ, Chan YC, Yuki N.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 55,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_56",
+      "text": "ctrophysiological findings. Eur J Neurol. 2012;19:15–20. e11–13 11. Wong AH, Umapathi T, Nishimoto Y, Wang YZ, Chan YC, Yuki N. Cytoalbuminologic dissociation in Asian patients with Guillain-Barré and Miller Fisher syndromes. J Peripher Nerv Syst. 2015;20:47–51. 12. Soares CN, Cabral-Castro M, Oliveira C, Faria LC, Peralta JM, MR F, Puccioni- Sohler M. Oligosymptomatic dengue infection: a potential cause of Guillain Barré syndrome. Arq Neuropsiquiatr. 2008;66:234–7. 13.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 56,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_57",
+      "text": "hler M. Oligosymptomatic dengue infection: a potential cause of Guillain Barré syndrome. Arq Neuropsiquiatr. 2008;66:234–7. 13. Sharma CM, Kumawat B, Ralot T, Tripathi G, Dixit S. Guillain-Barre syndrome occurring during dengue fever. J Indian Med Assoc. 2011;109:675–82. 14. Simon O, Billot S, Guyon D, Daures M, Descloux E, Gourinat AC, Molko N, Dupont-Rouzeyrol M. Early Guillain-Barré Syndrome associated with acute dengue fever. J Clin Virol. 2016;77:29–31. 15. Gaultier C, Angibaud G, Laille M, Lacassin F.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 57,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_58",
+      "text": "rré Syndrome associated with acute dengue fever. J Clin Virol. 2016;77:29–31. 15. Gaultier C, Angibaud G, Laille M, Lacassin F. Probable Miller Fisher syndrome during dengue fever type 2. Rev Neurol. 2000;156:169–71. 16. Domingues RB, Kuster GW, Onuki-Castro FL, Souza VA, Levi JE, Pannuti CS. Involvement of the central nervous system in patients with dengue virus infection. J Neurol Sci. 2008;267:36–40. 17.",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 58,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "b7dc32ddbe81_59",
+      "text": "annuti CS. Involvement of the central nervous system in patients with dengue virus infection. J Neurol Sci. 2008;267:36–40. 17. Parra B, Lizarazo J, Jiménez-Arango JA, Zea-Vera AF, González-Manrique G, Vargas J, Angarita JA, Zuñiga G, Lopez-Gonzalez R, Beltran CL. Guillain–Barré syndrome associated with Zika virus infection in Colombia. N Engl J Med. 2016;375:1513–23. de Silva et al. Journal of Medical Case Reports          (2019) 13:120  Page 4 of 4 .",
+      "metadata": {
+        "doc_id": "b7dc32ddbe81",
+        "filename": "Miller Fisher syndrome developing as a parainfectious manifestation of dengue fever.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.5,
+        "pages": 4,
+        "processed_date": "2025-09-27T23:12:53.079579",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 59,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [],
+  "total_chunks": 60
+}

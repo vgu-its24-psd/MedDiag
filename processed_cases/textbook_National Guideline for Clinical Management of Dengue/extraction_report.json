@@ -1,0 +1,10 @@
+{
+  "document_type": "textbook",
+  "confidence": 0.6,
+  "extraction_stats": {
+    "total_pages": 93,
+    "text_chunks": 346,
+    "image_chunks": 211,
+    "extracted_fields": 7
+  }
+}

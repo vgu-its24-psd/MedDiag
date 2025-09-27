@@ -1,0 +1,698 @@
+{
+  "document_id": "4a0e26f9bb54",
+  "document_type": "case_report",
+  "type_confidence": 0.6,
+  "document_metadata": {
+    "doc_id": "4a0e26f9bb54",
+    "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.6,
+    "pages": 3,
+    "processed_date": "2025-09-27T23:12:45.668239",
+    "has_images": false,
+    "image_count": 0
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 45,
+      "gender": "female"
+    },
+    "timeline": {},
+    "clinical_findings": {
+      "chief_complaint": "bilateral cerebellar signs as the presenting feature of dengue"
+    },
+    "diagnostics": {
+      "platelets": {
+        "values": [
+          118000
+        ],
+        "trend": "stable"
+      }
+    },
+    "interventions": {},
+    "outcomes": {
+      "status": "recovered"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "4a0e26f9bb54_0",
+      "text": "CASE REPORT Open Access Dengue fever presenting with acute cerebellitis: a case report Milinda Withana1, Chaturaka Rodrigo2,3*, Thashi Chang2, Panduka Karunanayake2 and Senaka Rajapakse2 Abstract Background: The incidence of dengue fever is on the rise in tropical countries. In Sri Lanka, nearly 45,000 patients were reported in 2012. With the increasing numbers, rare manifestations of dengue are occasionally encountered.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_1",
+      "text": "45,000 patients were reported in 2012. With the increasing numbers, rare manifestations of dengue are occasionally encountered. We report a patient who presented with bilateral cerebellar signs as the presenting feature of dengue. Case presentation: A 45-year-old previously healthy female from the suburbs of Colombo, Sri Lanka presented with an acute febrile illness associated with unsteadiness of gait.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_2",
+      "text": "thy female from the suburbs of Colombo, Sri Lanka presented with an acute febrile illness associated with unsteadiness of gait. Clinical examination revealed a scanning dysarthria and marked horizontal nystagmus with bilateral dysmetria, dysdiadokokinesia and incordination more prominent on the right. Her gait was wide-based and ataxic with a tendency to fall to the right more than to the left.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_3",
+      "text": "ion more prominent on the right. Her gait was wide-based and ataxic with a tendency to fall to the right more than to the left. Dengue nonstructural protein antigen 1 test and IgM antibody testing both became positive indicating acute dengue infection. She recovered from the febrile episode within 9 days since the onset of fever but cerebellar symptoms outlasted the fever by one week. The magnetic resonance imaging of brain was normal and cerebellar signs resolved spontaneously by day 17 of the illness.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_4",
+      "text": "week. The magnetic resonance imaging of brain was normal and cerebellar signs resolved spontaneously by day 17 of the illness. Conclusions: Cerebellar syndrome in association with dengue fever has been reported in only four instances and our patient is the first reported case of dengue fever presenting with cerebellitis as the first manifestation of disease.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_5",
+      "text": "and our patient is the first reported case of dengue fever presenting with cerebellitis as the first manifestation of disease. This case report is intended to highlight the occurrence of acute cerebellitis as a presenting syndrome of the expanding list of unusual neurological manifestations of dengue infection. Background Dengue fever is a common arboviral infection in the tro- pics; resulting in significant morbidity and, occasional mortality.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_6",
+      "text": "nd Dengue fever is a common arboviral infection in the tro- pics; resulting in significant morbidity and, occasional mortality. Its incidence is on the rise in many tropical countries with periodic peaks of epidemic proportions reported following monsoon rains. In 2012, 44,456 cases of dengue fever were reported in Sri Lanka [1].",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_7",
+      "text": "of epidemic proportions reported following monsoon rains. In 2012, 44,456 cases of dengue fever were reported in Sri Lanka [1]. This is likely to be an underestimate given that serological tests of dengue fever were not readily available in state-owned hospitals during 2012 and patients with uncomplicated illness are often not hospitalized. Classical dengue fever presents as a febrile illness with an uneventful recovery.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_8",
+      "text": "mplicated illness are often not hospitalized. Classical dengue fever presents as a febrile illness with an uneventful recovery. A proportion of patients develop po- tentially life-threatening dengue haemorrhagic fever, which is associated with plasma leakage and shock [2]. Acute liver failure, acute kidney injury, and multi-organ failure are known complications [2]. However, many unusual man- ifestations have been reported with dengue, and there are many reports of neurological manifestations.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_9",
+      "text": "wever, many unusual man- ifestations have been reported with dengue, and there are many reports of neurological manifestations. These include aseptic meningitis, encephalitis, myelitis, intracranial haemorrhage and mono/polyneuropathies [3]. The patho- physiological basis of these neurological manifestations is not fully understood. Unusual manifestations are likely to be encountered more often in regions where the incidence of disease is high resulting in diagnostic confusion.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_10",
+      "text": "ns are likely to be encountered more often in regions where the incidence of disease is high resulting in diagnostic confusion. Acute cerebellitis is known to occur as an immune- mediated complication following varicella and coxsackie virus infections. Cerebellar involvement in dengue infection is not clearly defined. We report a patient who presented with a cerebellar syndrome as the initial manifestation of dengue fever adding to the expanding list of unusual mani- festations of dengue infection.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_11",
+      "text": "rome as the initial manifestation of dengue fever adding to the expanding list of unusual mani- festations of dengue infection. Case presentation A 45-year-old previously healthy female from the sub- urbs of Colombo, Sri Lanka presented to a general med- ical unit of The National Hospital of Sri Lanka (NHSL) * Correspondence: chaturaka.rodrigo@gmail.com 2Department of Clinical Medicine, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka 3Department of Clinical Medicine, Faculty of Medicine, University of Colombo, 25, Kynsey Road, Colombo 08, Sri Lanka Full list of author information is available at the end of the article © 2014 Withana et al.; licensee BioMed Central Ltd.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_12",
+      "text": "anka Full list of author information is available at the end of the article © 2014 Withana et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_13",
+      "text": "which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. Withana et al. BMC Research Notes 2014, 7:125 http://www.biomedcentral.com/1756-0500/7/125 with an acute febrile illness associated with unsteadiness of gait.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_14",
+      "text": "es 2014, 7:125 http://www.biomedcentral.com/1756-0500/7/125 with an acute febrile illness associated with unsteadiness of gait. Three days prior to admission, the patient devel- oped high fever with chills, arthralgia, myalgia and mod- erate headache worse in the morning. During the course of the same day, she found that she had difficulty in walking due to unsteadiness and intermittent dizziness. She did not have any other focal neurological signs or an apparent source of infection.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_15",
+      "text": "nsteadiness and intermittent dizziness. She did not have any other focal neurological signs or an apparent source of infection. On admission, she looked ill and was febrile (101.5°F). Her pulse rate was 88 beats per minute; blood pressure was 110/70 with no postural hypotension; respiratory rate was 14/minute. Mild bilateral conjunctival injection was noted, although no haemorrhages were seen. There was no neck stiffness, skin rash, lymphadenopathy or arthritis.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_16",
+      "text": "injection was noted, although no haemorrhages were seen. There was no neck stiffness, skin rash, lymphadenopathy or arthritis. On neurological examination she was alert and oriented with a Glasgow coma scale (GCS) score of 15/15. She had a scanning dysarthria and marked horizontal nys- tagmus with bilateral dysmetria, dysdiadokokinesia and incordination which was more prominent on the right. Her gait was wide-based and ataxic with a tendency to fall to the right more than to the left.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_17",
+      "text": "was more prominent on the right. Her gait was wide-based and ataxic with a tendency to fall to the right more than to the left. The rest of the neuro- logical examination including tone, power, reflexes and sensation was normal. Her investigation results on admission were as fol- lows: leucocyte count 4450/mm3; neutrophils 3070/mm3, lymphocytes 850/mm3, monocytes 400/mm3; platelets 118,000/mm3; hemoglobin 11.7 g/dl, hematocrit 33.4%; erythrocyte sedimentation rate 8 mm/hour.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_18",
+      "text": "m3, monocytes 400/mm3; platelets 118,000/mm3; hemoglobin 11.7 g/dl, hematocrit 33.4%; erythrocyte sedimentation rate 8 mm/hour. Blood film done a day later showed leukopenia, lymphocytosis and thrombocytopenia suggestive of an acute viral infection. Renal function, electrolytes, blood glucose were normal. Liver transaminases showed a 3 fold rise above the upper limit of normal (alanine aminotransferase; 136 U/l, aspar- tate aminotransferase; 140 U/l).",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_19",
+      "text": "howed a 3 fold rise above the upper limit of normal (alanine aminotransferase; 136 U/l, aspar- tate aminotransferase; 140 U/l). Non-structural protein 1 (NS1) test for dengue antigen was positive. Her fever subsided by the fourth day of the illness, but the cerebellar symptoms and signs persisted. The platelet count continued to drop reaching a nadir of 36,000/mm3 by day seven of illness. However, no evidence of plasma leakage or shock occurred. She was managed with oral fluid replacement.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_20",
+      "text": "by day seven of illness. However, no evidence of plasma leakage or shock occurred. She was managed with oral fluid replacement. On day nine of the illness, her constitu- tional symptoms resolved completely. Dengue IgM and IgG antibodies by enzyme-linked im- munosorbent assay (ELISA) were positive on the seventh day of the illness. Mycoplasma, herpes simplex virus, Epstein Barr virus, human immunodeficiency virus and cytomegalo- virus antibodies were not detected.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_21",
+      "text": "sma, herpes simplex virus, Epstein Barr virus, human immunodeficiency virus and cytomegalo- virus antibodies were not detected. The Venereal Disease Research Laboratory (VDRL) test was negative. Anti- nuclear cytoplasmic antibody was negative. Magnetic resonance imaging (MRI) of the brain with gadolinium contrast (performed at day 7 of the illness) was normal. The patient refused consent for lumbar puncture. She was discharged from hospital on day 9 when her platelet count returned to normal.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_22",
+      "text": "ient refused consent for lumbar puncture. She was discharged from hospital on day 9 when her platelet count returned to normal. Her cerebellar signs progressively improved had resolved completely by D17 when she was reviewed in the follow up clinic. Discussion Neurological complications occur in 0.5-6.0% of patients with dengue infection [4].",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_23",
+      "text": "eviewed in the follow up clinic. Discussion Neurological complications occur in 0.5-6.0% of patients with dengue infection [4]. Immune mediated mecha- nisms as well as direct tropic effects of the virus have been postulated to cause these neurological manifesta- tions, and dengue antigen has been demonstrated in the brain in some patients with dengue encephalitis [5].",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_24",
+      "text": "ological manifesta- tions, and dengue antigen has been demonstrated in the brain in some patients with dengue encephalitis [5]. Post-infectious cerebellar syndrome has been described following several viral infections, but the association with dengue has been reported in only four instances [6,7]. In these reports, the onset of cerebellar symptoms varied between two days to two weeks after the onset of fever [6,8].",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_25",
+      "text": "[6,7]. In these reports, the onset of cerebellar symptoms varied between two days to two weeks after the onset of fever [6,8]. Our patient is the first reported case of dengue fever presenting with cerebellitis as the first manifestation of disease. Interestingly, the cerebellar syndrome outlasted the fever by almost two weeks. This report also highlights the self-limiting nature of this rare but severe neurological complication of dengue infection.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_26",
+      "text": "ks. This report also highlights the self-limiting nature of this rare but severe neurological complication of dengue infection. It is noteworthy that in our patient, the MRI scan of the brain was normal. Of four patients previously reported in literature with dengue associated cerebellar features, the MRI showed hyper- intensity of cerebellum in T2 sections in two patients while it was normal in the other two [6,7].",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_27",
+      "text": "tures, the MRI showed hyper- intensity of cerebellum in T2 sections in two patients while it was normal in the other two [6,7]. One of the pa- tients who had cerebellar hyperintensity on imaging had Epstein Barr virus co-infection [7]. MRI evidence of acute cerebellitis therefore may be transient and hence not seen in every patient depending on the timing of imaging. Acute cerebellitis in relation to virus infection can be primary-infective or post-infective [9].",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_28",
+      "text": "ing on the timing of imaging. Acute cerebellitis in relation to virus infection can be primary-infective or post-infective [9]. Acute primary in- fective cerebellitis mostly occurs secondary to infections such as varicella zoster virus, Epstein–Barr virus, mea- sles, mumps, rubella, herpes simplex virus and coxsackie virus. Post-infective cerebellitis have been reported fol- lowing infection with varicella zoster virus, coxsackie virus, Epstein–Barr virus and human immunodeficiency virus.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_29",
+      "text": "ported fol- lowing infection with varicella zoster virus, coxsackie virus, Epstein–Barr virus and human immunodeficiency virus. Given the temporal profile of presentation, it is likely that our patient represents primary-infective cere- bellitis following dengue infection. Conclusion This case report is intended to highlight the occurrence of acute cerebellitis as a presenting syndrome of the expand- ing list of unusual neurological manifestations of dengue infection.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_30",
+      "text": "acute cerebellitis as a presenting syndrome of the expand- ing list of unusual neurological manifestations of dengue infection. Consent Written informed consent was obtained from the patient for publication of this case report. A copy of the written consent is available for review by the Editor-in-Chief of this journal. Withana et al. BMC Research Notes 2014, 7:125 Page 2 of 3 http://www.biomedcentral.com/1756-0500/7/125 Competing interests The authors declare that they have no competing interests.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_31",
+      "text": "f 3 http://www.biomedcentral.com/1756-0500/7/125 Competing interests The authors declare that they have no competing interests. Authors’ contributions All authors were involved in the management of patient. MW wrote the first draft. CR, SR and TC revised it. All authors have read and approved the final manuscript. Authors’ information MW (MBBS) is a registrar in Medicine attached to the University Medical Unit of National Hospital of Sri Lanka.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_32",
+      "text": "rs’ information MW (MBBS) is a registrar in Medicine attached to the University Medical Unit of National Hospital of Sri Lanka. CR (MBBS, MD) is a lecturer in Medicine, Department of Clinical Medicine, Faculty of Medicine, University of Colombo. TC (MBBS, MD, FRCP, DPhil) and PK (MBBS, MD, FRCP) are Senior Lecturers attached to the same unit. SR (MBBS, MD, FACP, FRCP, FRCPE, FCCP) is the Professor in Medicine, Faculty of Medicine, University of Colombo.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_33",
+      "text": "the same unit. SR (MBBS, MD, FACP, FRCP, FRCPE, FCCP) is the Professor in Medicine, Faculty of Medicine, University of Colombo. Author details 1University Medical Unit, National Hospital, Colombo, Sri Lanka. 2Department of Clinical Medicine, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka. 3Department of Clinical Medicine, Faculty of Medicine, University of Colombo, 25, Kynsey Road, Colombo 08, Sri Lanka.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_34",
+      "text": "ri Lanka. 3Department of Clinical Medicine, Faculty of Medicine, University of Colombo, 25, Kynsey Road, Colombo 08, Sri Lanka. Received: 6 September 2013 Accepted: 28 February 2014 Published: 5 March 2014 References 1. Dengue cases by month 2012. [http://www.epid.gov.lk/web/index.php? option=com_casesanddeaths&] 2. Rajapakse S, Rodrigo C, Rajapakse A: Treatment of dengue fever. Infect Drug Resist 2012, 5:103–112. 3. Gulati S, Maheshwari A: Atypical manifestations of dengue.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_35",
+      "text": "A: Treatment of dengue fever. Infect Drug Resist 2012, 5:103–112. 3. Gulati S, Maheshwari A: Atypical manifestations of dengue. Trop Med Int Health 2007, 12:1087–1095. 4. Hendarto SK, Hadinegoro SR: Dengue encephalopathy. Acta Paediatr Jpn 1992, 34:350–357. 5. Lum LC, Lam SK, Choy YS, George R, Harun F: Dengue encephalitis: a true entity? Am J Trop Med Hyg 1996, 54:256–259. 6.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_36",
+      "text": "–357. 5. Lum LC, Lam SK, Choy YS, George R, Harun F: Dengue encephalitis: a true entity? Am J Trop Med Hyg 1996, 54:256–259. 6. Weeratunga PN, Caldera HP, Gooneratne IK, Gamage R, Perera WS, Ranasinghe GV, Niraj M: Spontaneously resolving cerebellar syndrome as a sequelae of dengue viral infection: a case series from Sri Lanka. Pract Neurol 2013 [Epub ahead of print]. 7.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_37",
+      "text": "lar syndrome as a sequelae of dengue viral infection: a case series from Sri Lanka. Pract Neurol 2013 [Epub ahead of print]. 7. Karunarathne S, Udayakumara Y, Fernando H: Epstein-Barr virus co- infection in a patient with dengue fever presenting with post-infectious cerebellitis: a case report. J Med Case Rep 2012, 6:43. 8. Verma R, Sharma P, Garg RK, Atam V, Singh MK, Mehrotra HS: Neurological complications of dengue fever: experience from a tertiary center of north India.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_38",
+      "text": "K, Atam V, Singh MK, Mehrotra HS: Neurological complications of dengue fever: experience from a tertiary center of north India. Ann Indian Acad Neurol 2011, 14:272–278. 9. Sawaishi Y, Takada G: Acute cerebellitis. Cerebellum 2002, 1:223–228. doi:10.1186/1756-0500-7-125 Cite this article as: Withana et al.: Dengue fever presenting with acute cerebellitis: a case report. BMC Research Notes 2014 7:125.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_39",
+      "text": "this article as: Withana et al.: Dengue fever presenting with acute cerebellitis: a case report. BMC Research Notes 2014 7:125. Submit your next manuscript to BioMed Central and take full advantage of:  • Convenient online submission • Thorough peer review • No space constraints or color ﬁgure charges • Immediate publication on acceptance • Inclusion in PubMed, CAS, Scopus and Google Scholar • Research which is freely available for redistribution Submit your manuscript at  www.biomedcentral.com/submit Withana et al.",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "4a0e26f9bb54_40",
+      "text": "• Research which is freely available for redistribution Submit your manuscript at  www.biomedcentral.com/submit Withana et al. BMC Research Notes 2014, 7:125 Page 3 of 3 http://www.biomedcentral.com/1756-0500/7/125 .",
+      "metadata": {
+        "doc_id": "4a0e26f9bb54",
+        "filename": "Dengue fever presenting with acute cerebellitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.6,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:45.668239",
+        "has_images": false,
+        "image_count": 0,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [],
+  "total_chunks": 41
+}

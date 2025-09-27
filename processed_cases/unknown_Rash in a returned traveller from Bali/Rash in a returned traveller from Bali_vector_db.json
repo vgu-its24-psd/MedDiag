@@ -1,0 +1,531 @@
+{
+  "document_id": "f5a7b3b39807",
+  "document_type": "unknown",
+  "type_confidence": 0.0,
+  "document_metadata": {
+    "doc_id": "f5a7b3b39807",
+    "filename": "Rash in a returned traveller from Bali.pdf",
+    "document_type": "unknown",
+    "type_confidence": 0.0,
+    "pages": 3,
+    "processed_date": "2025-09-27T23:12:55.169750",
+    "has_images": true,
+    "image_count": 1
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "gender": "man"
+    },
+    "timeline": {},
+    "clinical_findings": {},
+    "diagnostics": {
+      "primary_diagnosis": "of dengue confirmed?\nQUESTION 5\nHow should dengue be managed in a \nprimary setting?\nANSWER 3\nDengue infections can be asymptomatic"
+    },
+    "interventions": {},
+    "outcomes": {}
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "f5a7b3b39807_0",
+      "text": "386 CLINICAL |  REPRINTED FROM AJGP VOL. 48, NO. 6, JUNE 2019 © The Royal Australian College of General Practitioners 2019 Wayne Liao, Naomi Runnegar CASE An otherwise healthy man aged 31 years  presented after returning two weeks  earlier from a 10-day holiday in Bali,  Indonesia. Five days ago he developed  subjective fevers, generalised arthralgia,  fatigue, vomiting, diarrhoea and a  headache.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_1",
+      "text": "ndonesia. Five days ago he developed  subjective fevers, generalised arthralgia,  fatigue, vomiting, diarrhoea and a  headache. He also had a few days of  retro-orbital pain, which resolved  prior to his appointment with the  general practitioner. On the day of his  appointment, he noticed a rash covering  his torso and limbs. He did not receive any  vaccinations or malaria prophylaxis prior  to travel. There was no sexual contact or  intravenous drug use during his holiday.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_2",
+      "text": "vaccinations or malaria prophylaxis prior  to travel. There was no sexual contact or  intravenous drug use during his holiday. On examination he was afebrile and  there were no remarkable findings  except the reported rash (Figure 1).  Urgent investigations showed normal  haemoglobin and haematocrit; mild  neutropenia (2.8 × 109 cells/L),  lymphopenia (0.96 × 109 cells/L) and  thrombocytopenia (121 × 109 cells/L);  mild transaminases derangement and an  elevated C-reactive protein of 13 mg/L.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_3",
+      "text": "s/L) and  thrombocytopenia (121 × 109 cells/L);  mild transaminases derangement and an  elevated C-reactive protein of 13 mg/L.  QUESTION 1 Besides dengue, what differentials need to  be considered in a returned traveller from  South-East Asia? QUESTION 2 What is the epidemiology of dengue in  Australia? ANSWER 1 Dengue is the most common cause  of fever in returned travellers from  South-East Asia.1 Other causes of  fever accompanied by rash include  chikungunya, zika, rickettsial infections,  measles, acute human immunodeficiency  virus infection and enteric fever.2 Malaria  needs to be excluded in patients who  are febrile.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_4",
+      "text": ", acute human immunodeficiency  virus infection and enteric fever.2 Malaria  needs to be excluded in patients who  are febrile. Viral hepatitis, influenza,  infectious mononucleosis and locally  acquired Ross River virus and Barmah  Forest virus are also important  differentials.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_5",
+      "text": "a,  infectious mononucleosis and locally  acquired Ross River virus and Barmah  Forest virus are also important  differentials.  ANSWER 2 Dengue virus is not endemic in  Australia.3 Imported cases are reported  in all states and territories.4 The primary  mosquito vector Aedes aegypti is limited  to northern Queensland, where yearly  outbreaks occur because of vector spread  from imported index cases.3 There were  1030 confirmed cases in 2017.5 Travel to Indonesia is associated with  the highest risk when compared with all  other destinations, with peak acquisition  occurring between December and April.4,6 CASE CONTINUED The patient’s initial serology results were: •\t dengue non-structural protein 1 (NS1)  antigen: positive •\t dengue groups 1–4 immunoglobulin  (Ig) M: positive •\t dengue groups 1–4 IgG: negative.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_6",
+      "text": "al protein 1 (NS1)  antigen: positive •\t dengue groups 1–4 immunoglobulin  (Ig) M: positive •\t dengue groups 1–4 IgG: negative. Chikungunya alphavirus IgM was  positive but failed to demonstrate a rise  in IgG over two weeks. Malaria DNA  amplification and serologies for hepatitis  A and B were negative.  The patient improved clinically  with conservative management.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_7",
+      "text": "lification and serologies for hepatitis  A and B were negative.  The patient improved clinically  with conservative management.  Thrombocytopenia deteriorated slightly  to 97 × 109 cells/L and the transaminases  increased significantly, both recovering  spontaneously on repeat testings. Repeat dengue groups 1–4 IgG serology  was positive after two weeks, consistent  with primary dengue infection.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_8",
+      "text": "epeat testings. Repeat dengue groups 1–4 IgG serology  was positive after two weeks, consistent  with primary dengue infection.  QUESTION 3 What is the natural history of dengue? QUESTION 4 How is the diagnosis of dengue confirmed? QUESTION 5 How should dengue be managed in a  primary setting? ANSWER 3 Dengue infections can be asymptomatic.7  In significantly symptomatic patients  there is an incubation period of 3–10 days  after the bite, followed by one of the two  main forms.8 Non-severe dengue is self-limiting  and characterised by sudden onset high  fever usually lasting 5–7 days, with  constitutional symptoms and occasional  haemorrhagic manifestations.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_9",
+      "text": "y sudden onset high  fever usually lasting 5–7 days, with  constitutional symptoms and occasional  haemorrhagic manifestations.  Severe dengue is less common in  Australia as it is associated with repeated  infections by different serotypes.6,9 It is  characterised by abnormal haemostasis  Rash in a returned  traveller from Bali RASH IN A RETURNED TRAVELLER FROM BALI 387 CLINICAL REPRINTED FROM AJGP VOL. 48, NO.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_10",
+      "text": "s  Rash in a returned  traveller from Bali RASH IN A RETURNED TRAVELLER FROM BALI 387 CLINICAL REPRINTED FROM AJGP VOL. 48, NO. 6, JUNE 2019  | © The Royal Australian College of General Practitioners 2019 and plasma leakage, typically commencing  on day 4–5 of illness, after the fever  defervesces (Figure 2). Warning signs  include severe abdominal pain, persistent  vomiting, lethargy or restlessness,  hepatomegaly, reduced oral intake,  oliguria, postural hypotension and mucosal  bleeding.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_11",
+      "text": "vomiting, lethargy or restlessness,  hepatomegaly, reduced oral intake,  oliguria, postural hypotension and mucosal  bleeding. Laboratory findings include  increased haematocrit and concurrent  rapid decrease in platelet count.  ANSWER 4 The serum viral RNA polymerase chain  reaction (PCR) is sensitive and specific  within days 1–5 of symptom onset, after  which it becomes negative. Similarly,  the NS1 viral antigen is detectable up to  day nine. The preferred test may vary  between pathology providers.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_12",
+      "text": "ive. Similarly,  the NS1 viral antigen is detectable up to  day nine. The preferred test may vary  between pathology providers. Dengue IgM is detectable from day  six of illness, and IgG from day eight.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_13",
+      "text": "referred test may vary  between pathology providers. Dengue IgM is detectable from day  six of illness, and IgG from day eight.  Cross-reactivity with other viruses such  as chikungunya can occur, and paired  samples taken 10–14 days apart may be  required to confirm IgG seroconversion.9 Dates of travel and symptom onset  should be clearly noted on the serology  request form to aid interpretation.3 ANSWER 5 Prompt notification to the local public  health unit is mandated on probable  or confirmed diagnosis.10 In tropical  north Queensland in particular, urgent  household and community prevention  measures may be required, with patients  advised to stay indoors and the household  recommended to use insect repellent.3 Treatment for dengue is supportive.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_14",
+      "text": "patients  advised to stay indoors and the household  recommended to use insect repellent.3 Treatment for dengue is supportive.  Patients without clinical warning signs and  a near normal blood count can be treated  as an outpatient with oral rehydration  and paracetamol.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_15",
+      "text": "clinical warning signs and  a near normal blood count can be treated  as an outpatient with oral rehydration  and paracetamol. Non-steroidal  anti-inflammatory medicines are not  recommended because of the risk of  increased bleeding.8 Patients should be  provided with oral and written instructions  to attend hospital if the warning signs of  severe dengue occur, or symptoms fail to  improve during transition to the afebrile  phase.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_16",
+      "text": "d hospital if the warning signs of  severe dengue occur, or symptoms fail to  improve during transition to the afebrile  phase. Guidelines suggest daily clinical  review and blood count until the critical  period passes.8,11 It is recommended that patients with  warning signs or risk factors such as  pregnancy, chronic medical conditions and  extremities of age be admitted to hospital  for observation and consideration of  intravenous fluid replacement.8,11 Key points •\t Dengue is a common cause of fever  and rash in returned travellers from  South-East Asia.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_17",
+      "text": "fluid replacement.8,11 Key points •\t Dengue is a common cause of fever  and rash in returned travellers from  South-East Asia. •\t NS1 antigen or PCR assay is valuable  early in the course of illness; if negative  or baseline IgM is positive, convalescent  serology may be useful to confirm IgG  seroconversion.  •\t Management is conservative, with  an emphasis on patient education  regarding warning signs, close  monitoring and public health measures.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_18",
+      "text": "is conservative, with  an emphasis on patient education  regarding warning signs, close  monitoring and public health measures. •\t Patients with comorbidities, difficult  social circumstances or warning signs  for severe dengue should be referred  to hospital. Authors Wayne Liao DCH, MBBS, RACGP, General  Practitioner, Wellington Point Family Practice, Qld.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_19",
+      "text": "ld be referred  to hospital. Authors Wayne Liao DCH, MBBS, RACGP, General  Practitioner, Wellington Point Family Practice, Qld.  Wayne103683@gmail.com Naomi Runnegar MBBS, FRACP, FPCPA, Infectious  Diseases Physician and Clinical Microbiologist,  Princess Alexandra Hospital, Qld; Senior Lecturer,  Southern Clinical School, Faculty of Medicine,  University of Queensland, Qld Competing interests: None. Funding: None. Provenance and peer review: Not commissioned,  externally peer reviewed.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_20",
+      "text": "ensland, Qld Competing interests: None. Funding: None. Provenance and peer review: Not commissioned,  externally peer reviewed. References 1.\t Leder K, Torresi J, Libman MD, et al. GeoSentinel  surveillance of illness in returned travellers,  2007–2011. Ann Intern Med 2013;158(6):456–68.  doi: 10.7326/0003-4819-158-6-201303190- 00005. 2.\t Wilson ME. Travellers’ health: Fever in returned  travellers. Atlanta: Centers for Disease Control  and Prevention, 2017. Available at wwwnc.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_21",
+      "text": "vellers’ health: Fever in returned  travellers. Atlanta: Centers for Disease Control  and Prevention, 2017. Available at wwwnc. cdc.gov/travel/yellowbook/2018/post-travel- evaluation/fever-in-returned-travelers [Accessed  26 April 2019]. Figure 1.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_22",
+      "text": "wwwnc. cdc.gov/travel/yellowbook/2018/post-travel- evaluation/fever-in-returned-travelers [Accessed  26 April 2019]. Figure 1. The fine macular rash covering the  torso and limbs Mosquito bite - 4          -2           0           2           4            6           8           10          12 Virus detection:  PCR NS1 antigen Day of illness Antibody  detection: IgM  and IgG ELISA Risk of shock and  haemorrhage Fever Viraemia IgG IgM Figure 2.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_23",
+      "text": "antigen Day of illness Antibody  detection: IgM  and IgG ELISA Risk of shock and  haemorrhage Fever Viraemia IgG IgM Figure 2. Timing of serology tests and high-risk period in primary dengue Reproduced with permission from Queensland Dengue Management Plan 2015–2020, Queensland Health.9 ELISA, enzyme-linked immunosorbent assay; Ig, immunoglobulin; NS1, non-structural protein 1; PCR,  polymerase chain reaction RASH IN A RETURNED TRAVELLER FROM BALI 388 CLINICAL |  REPRINTED FROM AJGP VOL. 48, NO.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_24",
+      "text": "tein 1; PCR,  polymerase chain reaction RASH IN A RETURNED TRAVELLER FROM BALI 388 CLINICAL |  REPRINTED FROM AJGP VOL. 48, NO. 6, JUNE 2019 © The Royal Australian College of General Practitioners 2019 3.\t Queensland Health. Dengue. Brisbane:  Queensland Health, 2017. Available at www. health.qld.gov.au/clinical-practice/guidelines- procedures/diseases-infection/diseases/ mosquito-borne/dengue [Accessed 26 April 2019]. 4.\t Knope K, National Arbovirus and Malaria Advisory  Committee, Giele C.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_25",
+      "text": "ases/ mosquito-borne/dengue [Accessed 26 April 2019]. 4.\t Knope K, National Arbovirus and Malaria Advisory  Committee, Giele C. Increasing notifications of  dengue in Australia to overseas travel, 1991 to 2012.  Commun Dis Intell Q Rep 2013;37(1):E55–59.  5.\t World Health Organization Regional Office for the  Western Pacific (WPRO-WHO). Dengue situation  update number 533. Manila: WPRO-WHO, 2018.  Available at www.wpro.who.int/emerging_ diseases/dengue_biweekly_report_20180102.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_26",
+      "text": "update number 533. Manila: WPRO-WHO, 2018.  Available at www.wpro.who.int/emerging_ diseases/dengue_biweekly_report_20180102. pdf?ua=1 [Accessed 30 April 2019]. 6.\t Tai AYC, McGuinness SL, Robosa R, et al.  Management of dengue in Australian travellers:  A retrospective multicentre analysis. Med J Aust  2017;206(7):295–300. doi: 10.5694/mja16.01056.  7.\t Porter KR, Beckett CG, Kosasih H, et al.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_27",
+      "text": "multicentre analysis. Med J Aust  2017;206(7):295–300. doi: 10.5694/mja16.01056.  7.\t Porter KR, Beckett CG, Kosasih H, et al.  Epidemiology of dengue and dengue hemorrhagic  fever in a cohort of adults living in Bandung,  West Java, Indonesia. Am J Trop Med Hyg  2005;72(1):60–66. 8.\t World Health Organization and the Special  Programme for Research and Training in Tropical  Diseases (TDR). Dengue guidelines for diagnosis,  treatment, prevention and control: New edition.  Geneva: WHO, 2009; p. 147.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_28",
+      "text": "Diseases (TDR). Dengue guidelines for diagnosis,  treatment, prevention and control: New edition.  Geneva: WHO, 2009; p. 147.  9.\t Queensland Health. Queensland dengue  management plan 2015–2020. Queensland:  Queensland Health, 2015; p. 61.  10.\t Department of Health. Dengue virus infection  case definition. Canberra: DoH, 2017. Available at  www.health.gov.au/internet/main/publishing.nsf/ Content/cda-surveil-nndss-casedefs-cd_dengue. htm [Accessed 26 April 2019]. 11.\t Rajapakse S, Rodrigo C, Rajapakse A.",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "f5a7b3b39807_29",
+      "text": "hing.nsf/ Content/cda-surveil-nndss-casedefs-cd_dengue. htm [Accessed 26 April 2019]. 11.\t Rajapakse S, Rodrigo C, Rajapakse A. Treatment of  dengue fever. Infect Drug Resist 2012;5(1):103–12.  doi: 10.2147/IDR.S22613.  correspondence ajgp@racgp.org.au .",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "f5a7b3b39807_img_1",
+      "text": "Image: The fine macular rash covering the",
+      "metadata": {
+        "doc_id": "f5a7b3b39807",
+        "filename": "Rash in a returned traveller from Bali.pdf",
+        "document_type": "unknown",
+        "type_confidence": 0.0,
+        "pages": 3,
+        "processed_date": "2025-09-27T23:12:55.169750",
+        "has_images": true,
+        "image_count": 1,
+        "chunk_type": "image",
+        "image_path": "Rash in a returned traveller from Bali_p2_img1_f2335499.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 2
+      }
+    }
+  ],
+  "total_chunks": 31
+}

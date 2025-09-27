@@ -1,0 +1,1402 @@
+{
+  "document_id": "8c0aa3067767",
+  "document_type": "case_report",
+  "type_confidence": 0.45,
+  "document_metadata": {
+    "doc_id": "8c0aa3067767",
+    "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+    "document_type": "case_report",
+    "type_confidence": 0.45,
+    "pages": 6,
+    "processed_date": "2025-09-27T23:12:49.448120",
+    "has_images": true,
+    "image_count": 7
+  },
+  "extracted_data": {
+    "document_type": "case_report",
+    "patient": {
+      "age": 18
+    },
+    "timeline": {},
+    "clinical_findings": {
+      "chief_complaint": "a history of 1 day of fever and an\nepisode of seizure followed by left-side hemiparesis"
+    },
+    "diagnostics": {
+      "primary_diagnosis": "even though they do not have sophisticated serological\ninvestigations"
+    },
+    "interventions": {
+      "medications": [
+        {
+          "name": "valproate",
+          "dose": "200",
+          "unit": "mg"
+        },
+        {
+          "name": "ceftriaxone",
+          "dose": "2",
+          "unit": "g"
+        },
+        {
+          "name": "dexamethasone",
+          "dose": "4",
+          "unit": "mg"
+        },
+        {
+          "name": "valproate",
+          "dose": "200",
+          "unit": "mg"
+        }
+      ]
+    },
+    "outcomes": {
+      "status": "recovered"
+    }
+  },
+  "text_chunks": [
+    {
+      "chunk_id": "8c0aa3067767_0",
+      "text": "CASE REPORT Open Access Dengue hemorrhagic fever presenting as encephalitis: a case report W S Weerasinghe1* and Arjuna Medagama2 Abstract Background: Dengue fever and dengue hemorrhagic fever incidence is increasing in Sri Lanka, especially among the young population. Uncommon presentations of this common illness make diagnostic dilemmas and can delay standard treatment which leads to unfavorable outcomes.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 0,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_1",
+      "text": "entations of this common illness make diagnostic dilemmas and can delay standard treatment which leads to unfavorable outcomes. Case presentation: An 18-year-old Sri Lankan Sinhalese boy presented with a history of 1 day of fever and an episode of seizure followed by left-side hemiparesis. He was diagnosed to have dengue complicated by dengue hemorrhagic fever and recovered with minimal residual weakness.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 1,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_2",
+      "text": "iparesis. He was diagnosed to have dengue complicated by dengue hemorrhagic fever and recovered with minimal residual weakness. He presented with neurological symptoms; cerebrospinal fluid analysis, electroencephalogram, and magnetic resonance imaging showed evidence of encephalitis. Positive dengue antigen and antibody in serum and cerebrospinal fluid with the exclusion of other possible etiologies confirmed parainfectious dengue encephalitis.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 2,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_3",
+      "text": "in serum and cerebrospinal fluid with the exclusion of other possible etiologies confirmed parainfectious dengue encephalitis. He was started on sodium valproate 200 mg 8 hourly and made a slow neurological recovery with mild residual weakness (grade 4+ power) in his left upper limb at 2 months with intensive supervised physiotherapy. Conclusion: Standard national guideline-based management of dengue illness has significantly reduced its mortality rates in Sri Lanka.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 3,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_4",
+      "text": "ion: Standard national guideline-based management of dengue illness has significantly reduced its mortality rates in Sri Lanka. However, uncommon presentations of a common illness often cause diagnostic dilemmas. Hence, reporting of these presentations and knowing the epidemiologic patterns of the disease help physicians to arrive at the correct diagnosis even though they do not have sophisticated serological investigations.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 4,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_5",
+      "text": "sease help physicians to arrive at the correct diagnosis even though they do not have sophisticated serological investigations. Overall, this can improve the quality of health care and reduce mortalities, especially in a resource-poor setup.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 5,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_6",
+      "text": "vestigations. Overall, this can improve the quality of health care and reduce mortalities, especially in a resource-poor setup. Keywords: Dengue hemorrhagic fever, Dengue encephalitis, Seizure, Hemiparesis Background Dengue fever (DF) is a leading cause of morbidity in Sri Lanka and 185,688 suspected cases of dengue were re- ported to the Epidemiology Unit, Ministry of Health from all over the island during 2017 [1]. Approximately 41% of dengue cases were reported from the Western Province of Sri Lanka.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 6,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_7",
+      "text": "om all over the island during 2017 [1]. Approximately 41% of dengue cases were reported from the Western Province of Sri Lanka. The first serologically confirmed case of dengue was reported in 1962 and the first documented dengue outbreak occurred in 1965–1966 [2]. DF and dengue hemorrhagic fever (DHF) comprise the bulk of symp- tomatic illness while dengue encephalitis is a rare entity (around 4 to 21%) [3].",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 7,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_8",
+      "text": "rhagic fever (DHF) comprise the bulk of symp- tomatic illness while dengue encephalitis is a rare entity (around 4 to 21%) [3]. Case presentation We report the case of a previously well 18-year-old Sri Lankan Sinhalese boy, resident of a dengue endemic area, who presented with a 1-day history of high fever and tonic-clonic movements of the left upper and lower limbs later converting into a generalized tonic-clonic (GTC) seizure to the Teaching Hospital Peradeniya, Sri Lanka.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 8,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_9",
+      "text": "and lower limbs later converting into a generalized tonic-clonic (GTC) seizure to the Teaching Hospital Peradeniya, Sri Lanka. The fever was high grade without chills but asso- ciated with arthralgia, myalgia, headache, and vomiting. The seizures commenced on the evening of the first day of the illness, lasted for 10 minutes and were associated with postictal drowsiness. A persistent left-sided face, arm, and leg weakness was apparent as the postictal drowsiness improved.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 9,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_10",
+      "text": "th postictal drowsiness. A persistent left-sided face, arm, and leg weakness was apparent as the postictal drowsiness improved. There were no associated sensory symptoms and the weakness was more pronounced in his face and upper limb. There was no associated ab- dominal pain, postural dizziness, reduced urine output, or any bleeding tendency. There was no recent history © The Author(s).",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 10,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_11",
+      "text": "dominal pain, postural dizziness, reduced urine output, or any bleeding tendency. There was no recent history © The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 11,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_12",
+      "text": "it to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 12,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_13",
+      "text": "http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. * Correspondence: sunethws@hotmail.com 1Teaching Hospital Peradeniya, Peradeniya, Sri Lanka Full list of author information is available at the end of the article Weerasinghe and Medagama Journal of Medical Case Reports          (2019) 13:278  https://doi.org/10.1186/s13256-019-2201-x of vaccination and no skin rashes.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 13,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_14",
+      "text": "al of Medical Case Reports          (2019) 13:278  https://doi.org/10.1186/s13256-019-2201-x of vaccination and no skin rashes. He had been investi- gated following a head injury 10 months back. He presented after a road traffic accident with mild drowsi- ness without any focal neurological weakness and a non- contrast computed tomography (NCCT) scan of his brain had been normal. He was completely well on discharge and no long-term neurological symptoms were evident until this incident.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 14,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_15",
+      "text": "n had been normal. He was completely well on discharge and no long-term neurological symptoms were evident until this incident. His past medical history was unremarkable with no history of epilepsy or collagen vascular diseases. A general examination revealed a temperature of 38.33 ºC (101 ºF) but was otherwise unremarkable. A neurologic examination revealed our patient to be drowsy but arousable, without signs of meningism.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 15,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_16",
+      "text": "s otherwise unremarkable. A neurologic examination revealed our patient to be drowsy but arousable, without signs of meningism. A conscious level corresponding to Glasgow Coma Scale (GCS) of 10/15 (E-4, V-1, M-5) was present with horizontal gaze palsy to the left, and normally reactive pupils of 3 mm. A cranial nerve examination revealed facial nerve palsy of upper motor neuron type on the left with flaccid paralysis of his left upper limb (power 0/5) and diminished left lower limb (power 2/5) power.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 16,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_17",
+      "text": "on type on the left with flaccid paralysis of his left upper limb (power 0/5) and diminished left lower limb (power 2/5) power. Deep tendon reflexes were diminished on the left with hypo- tonia. Plantar response was extensor on the left side. No cerebellar signs were apparent. His vital signs were stable with a pulse rate of 100 beats per minute (bpm) and blood pressure of 107/70 mmHg. No right hypochondriac tenderness or murmurs were present, and the rest of the examination was unremarkable.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 17,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_18",
+      "text": "re of 107/70 mmHg. No right hypochondriac tenderness or murmurs were present, and the rest of the examination was unremarkable. Initial investigations are summarized in Table 1. An urgent NCCT of his brain revealed no evidence of in- farction or intracerebral hemorrhage (ICH). An interval NCCT and contrast-enhanced computed tomography (CECT) scan was also performed and did not show any infarction, cerebral abscess, or space-occupying lesion.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 18,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_19",
+      "text": "omputed tomography (CECT) scan was also performed and did not show any infarction, cerebral abscess, or space-occupying lesion. We performed a lumbar puncture (LP) and cerebro- spinal fluid (CSF) was colorless and clear: total white blood cell (WBC), 03 cells/mm3 (lymphocytes); red blood cell (RBC), 00 cells/mm3; CSF protein, 250 mg/L; CSF sugar, 3.4 mmol/l; random blood sugar (RBS), 5.7 mmol/l; CSF Gram stain and bacterial cultures were negative.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 19,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_20",
+      "text": "in, 250 mg/L; CSF sugar, 3.4 mmol/l; random blood sugar (RBS), 5.7 mmol/l; CSF Gram stain and bacterial cultures were negative. CSF viral studies were not performed due to the small volume of CSF being available at the first LP and a repeat attempt was not made in the context of dropping platelet (PLT) counts. Electroencephalography (EEG) performed on the follow- ing day showed generalized slow waves with a burst of activity in the right frontotemporal region compatible with organic brain disease (Fig. 1).",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 20,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_21",
+      "text": "eralized slow waves with a burst of activity in the right frontotemporal region compatible with organic brain disease (Fig. 1). A magnetic resonance imaging (MRI) of his brain was performed which showed abnormal high intensity subcortical white matter and cortical gray matter in right frontoparietal and temporal lobes in T2-weighted (T2W) and fluid-attenuated inversion recovery (FLAIR) images with some faint meningeal enhancement appreciated in right frontotemporal area suggestive of right-sided meningoencephalitis (Fig.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 21,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_22",
+      "text": "h some faint meningeal enhancement appreciated in right frontotemporal area suggestive of right-sided meningoencephalitis (Fig. 2). A presumptive diagnosis of viral encephalitis was made, and he was started on intravenously administered acyclovir 500 mg 8 hourly and intravenously adminis- tered ceftriaxone 2 g 12 hourly with intravenously administered dexamethasone 4 mg 8 hourly and sodium valproate 200 mg 8 hourly.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 22,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_23",
+      "text": "red ceftriaxone 2 g 12 hourly with intravenously administered dexamethasone 4 mg 8 hourly and sodium valproate 200 mg 8 hourly. Supportive care with naso- gastric feeding, urine catheterization, and intravenously administered fluids was also started, and he was continu- ously monitored within the high dependency unit to identify clinical or biochemical deterioration.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 23,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_24",
+      "text": "started, and he was continu- ously monitored within the high dependency unit to identify clinical or biochemical deterioration. On the fifth day of illness, fever was still present, neurological signs remained unchanged, and rising liver transaminases were noted, that is, aspartate aminotrans- ferase (AST) of 4918 U/L and alanine aminotransferase (ALT) of 2987 U/L, together with leukopenia and thrombocytopenia (WBC, 3770 cells/μl; PLT, 23,000 cells/μl).",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 24,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_25",
+      "text": "e aminotransferase (ALT) of 2987 U/L, together with leukopenia and thrombocytopenia (WBC, 3770 cells/μl; PLT, 23,000 cells/μl). A peripheral blood film was found to be compatible with a viral infection without features of microangiopathic hemolytic anemia (MAHA). The marked rise in transaminases together with leukopenia and thrombocytopenia prompted a fresh search for an alternative diagnosis and serum dengue nonstructural protein 1 (NS1) [4] antigen was performed which was positive.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 25,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_26",
+      "text": "earch for an alternative diagnosis and serum dengue nonstructural protein 1 (NS1) [4] antigen was performed which was positive. Testing CSF for dengue Immuno- globulin M (IgM) with enzyme-linked immunosorbent assay (ELISA) antibody and NS1 antigen was not pos- sible at this moment as the initial CSF sample was inad- equate.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 26,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_27",
+      "text": "unosorbent assay (ELISA) antibody and NS1 antigen was not pos- sible at this moment as the initial CSF sample was inad- equate. The viral studies performed considering the possible neurotrophic viruses in the serum on the Table 1 Initial investigations Investigation Results White blood cells (WBC) 12,070/mm3 (N, 90.3%; L, 7.5%) Hemoglobin (Hb) 13.5 g/dl Pack cell volume (PCV) 40.6% Platelets (PLT) 189,000/mm3 Aspartate aminotransferase (AST) 31.5 U/L Alanine aminotransferase (ALT) 30.8 U/L Serum creatine (S.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 27,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_28",
+      "text": "latelets (PLT) 189,000/mm3 Aspartate aminotransferase (AST) 31.5 U/L Alanine aminotransferase (ALT) 30.8 U/L Serum creatine (S. Cr) 128 umol/L Serum albumin (Alb) 44 g/dL Serum sodium (Na) 136 mmol/L Serum potassium (K) 3.8 mmol/L Magnesium (Mg) 1.07 mmol/ Corrected calcium (Ca) 2.4 mmol/L Random blood sugar (RBS) 5.7 mmol/L C-reactive protein (CRP) 3.9 mg/L Electrocardiography, urine full report, clotting profile, and chest X-ray were normal L lymphocytes, N neutrophils Weerasinghe and Medagama Journal of Medical Case Reports          (2019) 13:278  Page 2 of 6 Fig.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 28,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_29",
+      "text": "L lymphocytes, N neutrophils Weerasinghe and Medagama Journal of Medical Case Reports          (2019) 13:278  Page 2 of 6 Fig. 1 An electroencephalograph showing generalized slow waves with burst of activity in right frontotemporal region Fig.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 29,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_30",
+      "text": "of 6 Fig. 1 An electroencephalograph showing generalized slow waves with burst of activity in right frontotemporal region Fig. 2 Magnetic resonance (fluid-attenuated inversion recovery) images with some faint meningeal enhancement appreciated in right frontotemporal area Weerasinghe and Medagama Journal of Medical Case Reports          (2019) 13:278  Page 3 of 6 seventh day of the illness and varicella-specific IgM, cytomegalovirus (CMV) IgM, and Epstein–Barr virus (EBV) IgM (ELISA method) were negative.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 30,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_31",
+      "text": "e illness and varicella-specific IgM, cytomegalovirus (CMV) IgM, and Epstein–Barr virus (EBV) IgM (ELISA method) were negative. Serum anti- body testing for enterovirus and coxsackievirus was not feasible in the government sector and our patient could not afford to take the test from the private sector. National guidelines [5]-directed dengue monitoring and management were commenced.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 31,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_32",
+      "text": "ord to take the test from the private sector. National guidelines [5]-directed dengue monitoring and management were commenced. On day 5 of the illness a rising pack cell volume (PCV), with ultrasono- graphic evidence of free fluid in the hepatorenal pouch and gallbladder wall edema corresponding to plasma leakage of dengue critical phase, was found. Table 2 demonstrates the laboratory results during the hours spent in the critical phase.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 32,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_33",
+      "text": "of dengue critical phase, was found. Table 2 demonstrates the laboratory results during the hours spent in the critical phase. He made a full recovery from dengue critical phase 48 hours after confirming DHF. Serum dengue IgM was positive on day 7 of the illness but IgG was negative. He made a slow recovery with mild residual weakness (grade 4+ power) in his left upper limb at 2 months with intensive supervised physiotherapy.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 33,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_34",
+      "text": "covery with mild residual weakness (grade 4+ power) in his left upper limb at 2 months with intensive supervised physiotherapy. Considering his slow recovery, a CSF analysis was re- peated at 2 months and showed total WBC, 04 cells/ mm3 (lymphocytes); RBC, 00 cells/mm3; CSF protein, 540 mg/L; CSF sugar, 3.4 mmol/L; RBS, 5.7 mmol/L; ad- enosine deaminase (ADA), 3.0 U/L; CSF Gram stain and bacterial cultures were negative. Dengue IgG (ELISA) was positive in CSF and IgM (ELISA) was negative.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 34,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_35",
+      "text": "U/L; CSF Gram stain and bacterial cultures were negative. Dengue IgG (ELISA) was positive in CSF and IgM (ELISA) was negative. Since full virologic profile was not performed in the first presentation, CSF was also tested for other neurotrophic viruses such as herpes simplex virus (HSV) by polymer- ase chain reaction (PCR), HSV-1 and HSV-2 antibodies, Japanese encephalitis (JE) antibody, enterovirus, and cox- sackievirus.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 35,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_36",
+      "text": "- ase chain reaction (PCR), HSV-1 and HSV-2 antibodies, Japanese encephalitis (JE) antibody, enterovirus, and cox- sackievirus. All the CSF studies and serum for human immunodeficiency virus (HIV) screening were negative. A repeat EEG was also performed, and it was normal (Fig. 3). He had been followed up at our medical clinic since discharge, where a gradual improvement in his weakness was evident.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 36,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_37",
+      "text": "ig. 3). He had been followed up at our medical clinic since discharge, where a gradual improvement in his weakness was evident. After 12 months of follow-up, he showed remarkable recovery of his neurologic functions without any residual weakness. Discussion and conclusion Dengue is the commonest arthropod-borne viral infection in humans [6]. It is caused by a family of positive, single- stranded, enveloped ribonucleic acid (RNA) viruses called Flaviviridae, genus Flavivirus [7].",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 37,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_38",
+      "text": "by a family of positive, single- stranded, enveloped ribonucleic acid (RNA) viruses called Flaviviridae, genus Flavivirus [7]. There are four closely related but antigenically different serotypes of the virus that can cause dengue (DEN-1, DEN-2, DEN-3, DEN-4). Dengue has a wide spectrum of infection outcomes (asymptomatic to symptomatic). Symptomatic illness can vary from undifferentiated fever (viral syndrome), DF, DHF, and dengue with unusual manifestations such as iso- lated organopathies [5, 8].",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 38,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_39",
+      "text": "differentiated fever (viral syndrome), DF, DHF, and dengue with unusual manifestations such as iso- lated organopathies [5, 8]. Expanded dengue syndrome/isolated organopathy is an entity in which some patients present with unusual manifestations of organ involvement with or without fluid leakage [5]. Encephalitis and meningoencephalitis have been found in 4–21% of cases of dengue [3].",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 39,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_40",
+      "text": "vement with or without fluid leakage [5]. Encephalitis and meningoencephalitis have been found in 4–21% of cases of dengue [3]. This wide variation in the prevalence of encephalitis most likely reflects differences in the populations studied and the use of different criteria to define dengue encephalitis. Distinguishing dengue encephalitis from other types of central nervous system (CNS) involvement is also challenging [3].",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 40,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_41",
+      "text": "litis. Distinguishing dengue encephalitis from other types of central nervous system (CNS) involvement is also challenging [3]. Dengue is classically thought to be a non-neurotropic virus but DEN-2 and DEN-3 are the most frequently involved serotypes in neurotropism [9–11].",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 41,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_42",
+      "text": "ly thought to be a non-neurotropic virus but DEN-2 and DEN-3 are the most frequently involved serotypes in neurotropism [9–11]. Dengue en- cephalopathy is a secondary manifestation of the DF fre- quently associated with multisystem derangement found later in the course of the illness, which is thought to be due to an immune-mediated inflammatory response of the body [12]. Conversely, encephalitis occurs due to direct invasion of the virus and occurs in the viremic phase of the illness as in this patient.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 42,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_43",
+      "text": "ely, encephalitis occurs due to direct invasion of the virus and occurs in the viremic phase of the illness as in this patient. Although it is a rare occurrence, autopsy studies have proved the pres- ence of virus antigen in brain parenchymal cells using immunoperoxidase stain [13]. There were many reported cases of dengue encephal- itis and other neurological manifestations by Kularatne et al. from Sri Lanka [14], by Misra et al. from India [15], and Solomon et al. from Vietnam [16].",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 43,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_44",
+      "text": "manifestations by Kularatne et al. from Sri Lanka [14], by Misra et al. from India [15], and Solomon et al. from Vietnam [16]. All of them had neurological symptoms with signs such as headache, Table 2 The laboratory results during the hours spent in the critical phase WBC (103 cells/μl) NEU (%) LYM (%) PCV (%) Hb (g/dl) PLT (103cells/μl) AST (U/L) ALT (U/L) Ca (mmol/L) 00 hour 4.30 76.6 14.2 48.4 15.7 42 2545 1097 2.4 12 hours 7.5 63.7 24.5 49 16.2 23 1836 672 24 hours 7.92 62.8 27.3 47.4 16.3 21 1679 566 36 hours 8.38 59.7 31.1 44 15.1 45 1400 338 2.18 48 hours 9.21 66.4 26.2 41 14.2 49 1166 274 72 hours 12.12 80.9 12.8 40.1 13.9 101 780 118 ALT alanine aminotransferase, AST aspartate aminotransferase, Ca corrected calcium, Hb hemoglobin, LYM lymphocytes, NEU neutrophils, PCV pack cell volume, PLT platelets, WBC white blood cells Weerasinghe and Medagama Journal of Medical Case Reports          (2019) 13:278  Page 4 of 6 confusion, seizures, hemiparesis, and even coma.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 44,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_45",
+      "text": "d Medagama Journal of Medical Case Reports          (2019) 13:278  Page 4 of 6 confusion, seizures, hemiparesis, and even coma. Some of them described EEG changes and MRI changes depending on the area of the brain involved. Bhoi et al.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 45,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_46",
+      "text": "sis, and even coma. Some of them described EEG changes and MRI changes depending on the area of the brain involved. Bhoi et al. [17] studied a cohort of 21 patients with dengue encephalitis in a study conducted to evaluate MRI and computed tomography (CT) changes and showed hyperintensities in MRI of brains involving bilat- eral parietal region, corona radiata, internal capsule, cen- trum semiovale bilaterally, basal ganglia, and thalamus. Carod-Artal et al.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 46,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_47",
+      "text": "etal region, corona radiata, internal capsule, cen- trum semiovale bilaterally, basal ganglia, and thalamus. Carod-Artal et al. [18] summarized findings of eight aut- opsy studies reported on fatal cases of dengue with neurological involvement which showed histopathologic patterns of cerebral edema, congestion, hemorrhage, perivascular lymphocytes infiltration, and even necrosis of the brain matter.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 47,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_48",
+      "text": "tterns of cerebral edema, congestion, hemorrhage, perivascular lymphocytes infiltration, and even necrosis of the brain matter. There are many case reports and studies found in the literature proving that various parts of the brain can be affected in different ways [19–21]. MRI of our patient’s brain showed hyperintensities in subcortical white matter and cortical gray matter in right frontoparietal and temporal lobes, and some faint men- ingeal enhancement in the right frontotemporal area.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 48,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_49",
+      "text": "ray matter in right frontoparietal and temporal lobes, and some faint men- ingeal enhancement in the right frontotemporal area. These lesions are compatible with the clinical signs shown. The interesting fact is that none of them follow a uniform pattern which helps a clinician to suspect dengue by looking at MRI or CT. Carod-Artal et al. [18] proposed three criteria to de- fine dengue encephalitis.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 49,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_50",
+      "text": "ian to suspect dengue by looking at MRI or CT. Carod-Artal et al. [18] proposed three criteria to de- fine dengue encephalitis. They are: the clinical signs and symptoms of CNS involvement; demonstration of den- gue virus RNA, IgM, or NS1 antigen in CSF; and CSF pleocytosis without other neuroinvasive pathogens.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 50,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_51",
+      "text": "nt; demonstration of den- gue virus RNA, IgM, or NS1 antigen in CSF; and CSF pleocytosis without other neuroinvasive pathogens. The literature also showed that the presence of dengue anti- body in CSF can be considered a piece of firm evidence of CNS invasion, but the practical difficulty in perform- ing a LP in a patient with dengue was also highlighted [22].",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 51,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_52",
+      "text": "evidence of CNS invasion, but the practical difficulty in perform- ing a LP in a patient with dengue was also highlighted [22]. Most of the cases reported in the literature [23] were based on clinical diagnosis of encephalitis followed by serological confirmation of dengue infection and exclusion of the other neurotropic viruses such as HSV, CMV, EBV, JE, enterovirus, and coxsackievirus [24]. MRI or CT is nonspecific but often provided valuable clues for further investigations and CSF studies.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 52,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_53",
+      "text": "and coxsackievirus [24]. MRI or CT is nonspecific but often provided valuable clues for further investigations and CSF studies. This fact further highlights the need for more evidence and studies to access the sensitivity and specificity of these investigations to diagnose dengue encephalitis. A wide variety of symptoms are documented in the literature as the initial presentation of dengue.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 53,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_54",
+      "text": "iagnose dengue encephalitis. A wide variety of symptoms are documented in the literature as the initial presentation of dengue. Some- times it is very difficult to suspect dengue encephalitis by history, examination, and initial investigations, as in this patient. This kind of atypical presentation of DF can lead to diagnostic delays and adverse patient outcomes.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 54,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_55",
+      "text": "tions, as in this patient. This kind of atypical presentation of DF can lead to diagnostic delays and adverse patient outcomes. This case report emphasizes the importance of consid- ering dengue as a differential diagnosis in a patient with features of encephalitis especially in a background of dengue epidemic and endemicity, as it changes the monitoring and management.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 55,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_56",
+      "text": "ures of encephalitis especially in a background of dengue epidemic and endemicity, as it changes the monitoring and management. Dengue NS1 antigen is an affordable investigation in developing countries like Sri Lanka and is sometimes available in the government sector.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 56,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_57",
+      "text": "igen is an affordable investigation in developing countries like Sri Lanka and is sometimes available in the government sector. A combination of clinical signs and other basic investigations like WBC, PLT, PCV, and liver enzymes will provide clues to diagnosis and the proper monitor- ing of the patient to prevent the life-threatening compli- cation of dengue illness in an atypical presentation like this.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 57,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_58",
+      "text": "tor- ing of the patient to prevent the life-threatening compli- cation of dengue illness in an atypical presentation like this. Another important fact is that although we have national guidelines to manage DF, we must individualize the plan of management for this kind of patient. Abbreviations ADA: Adenosine deaminase; ALT: Alanine aminotransferase; AST: Aspartate aminotransferase; bpm: Beats per minute; CECT: Contrast-enhanced Fig.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 58,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_59",
+      "text": "deaminase; ALT: Alanine aminotransferase; AST: Aspartate aminotransferase; bpm: Beats per minute; CECT: Contrast-enhanced Fig. 3 Normal electroencephalograph Weerasinghe and Medagama Journal of Medical Case Reports          (2019) 13:278  Page 5 of 6 computed tomography; CMV: Cytomegalovirus; CNS: Central nervous system; CSF: Cerebrospinal fluid; CT: Computed tomography; DF: Dengue fever; DHF: Dengue hemorrhagic fever; EBV: Epstein–Barr virus; EEG: Electroencephalography; ELISA: Enzyme-linked immunosorbent assay; FLAIR: Fluid-attenuated inversion recovery; GCS: Glasgow Coma Scale; GTC: Generalized tonic-clonic; HIV: Human immunodeficiency virus; HSV: Herpes simplex virus; ICH: Intracerebral hemorrhage; JE: Japanese encephalitis; LP: Lumbar puncture; MAHA: Microangiopathic hemolytic anemia; MRI: Magnetic resonance imaging; NCCT: Non-contrast computed tomography; NS1: Nonstructural protein 1; PCR: Polymerase chain reaction; PCV: Pack cell volume; PLT: Platelet; RBC: Red blood cell; RBS: Random blood sugar; T2W: T2-weighted; WBC: White blood cell Acknowledgements We all express our gratitude to the patient who kindly gave consent for this case to be presented in this paper.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 59,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_60",
+      "text": "knowledgements We all express our gratitude to the patient who kindly gave consent for this case to be presented in this paper. Authors’ contributions WSW and AM made equal contribution to the identification of the patient, conception of the work, diagnosis and treatment, drafting the manuscript, writing references, revising it critically for important intellectual content, and final development of the case report. Both authors read and approved the final manuscript. Funding None received.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 60,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_61",
+      "text": "content, and final development of the case report. Both authors read and approved the final manuscript. Funding None received. Availability of data and materials Not applicable. Ethics approval and consent to participate Written informed consent was obtained from the patient for publication of this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 61,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_62",
+      "text": "port and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal. Consent for publication Written informed consent was obtained from the patient for publication of this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal. Competing interests The authors declare that they have no competing interests.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 62,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_63",
+      "text": "r review by the Editor-in-Chief of this journal. Competing interests The authors declare that they have no competing interests. Author details 1Teaching Hospital Peradeniya, Peradeniya, Sri Lanka. 2Department of Medicine, Faculty of Medicine, University of Peradeniya, Peradeniya, Sri Lanka. Received: 10 July 2018 Accepted: 17 July 2019 References 1. Epidemiology Unit, Ministry of Health, Sri Lanka, Dengue update. http:// www.epid.gov.lk/web/attachments/article/146/Fact_Sheet_WH_Dengue_ UPDATED.pdf.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 63,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_64",
+      "text": "try of Health, Sri Lanka, Dengue update. http:// www.epid.gov.lk/web/attachments/article/146/Fact_Sheet_WH_Dengue_ UPDATED.pdf. Accessed 16 Jan 2018. 2. Vitarana T, Jayakuru WS, Withane N. Historical Account of Dengue Haemorrhagic Fever in Sri Lanka. WHO/SEARO Dengue Bull. 1997;21:117–8. 3. Domingues RB, Kuster GW. Diagnosis and Management Neurologic Manifestations Associated with Acute Dengue Virus Infection. J Neuroinfectious Dis. 2014;5(1):1–5. 4. Solanke V, Karmarkar M, Mehta P.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 64,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_65",
+      "text": "tations Associated with Acute Dengue Virus Infection. J Neuroinfectious Dis. 2014;5(1):1–5. 4. Solanke V, Karmarkar M, Mehta P. Early dengue diagnosis: Role of rapid NS1 antigen, NS1 early ELISA, and PCR assay. Trop J Med Res. 2015;18(2):95. 5. Epidemiology Unit, Ministry of Health, Sri Lanka, Publications, Guidelines on Management of DF / DHF in Adults. http://www.epid.gov.lk/web/images/ pdf/Publication/guidelines_for_the_management_of_df_and_dhf_in_adults. pdf. Accessed 11 June 2018. 6. Kumar, Clark.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 65,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_66",
+      "text": "web/images/ pdf/Publication/guidelines_for_the_management_of_df_and_dhf_in_adults. pdf. Accessed 11 June 2018. 6. Kumar, Clark. In: Kumar P, Clark M, editors. Kumar and Clark’s Clinical Medicine, 8th Edition. Oxford: Saunders Ltd; 2012. p. 106–7. 7. Centers for Disease Control and Prevention, Viral Hemorrhagic Fevers, Flaviviridae. https://www.cdc.gov/vhf/virus-families/flaviviridae.html. Accessed 5 Feb 2018. 8. Dalugama C, Shelton J, Ekanayake M, Gawarammana IB.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 66,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_67",
+      "text": "//www.cdc.gov/vhf/virus-families/flaviviridae.html. Accessed 5 Feb 2018. 8. Dalugama C, Shelton J, Ekanayake M, Gawarammana IB. Dengue fever complicated with Guillain-Barré syndrome: A case report and review of the literature. J Med Case Rep. 2018;12(1):12–5. 9. Soares C, Puccioni-Sohler M. Dengue encephalitis: Suggestion for case definition. J Neurol Sci. 2011;306(1–2):165. 10. Lum LC, Lam SK, Choy YS, George R, Harun F. Dengue encephalitis: a true entity? Am J Trop Med Hyg. 1996;54(3):256–9. 11.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 67,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_68",
+      "text": "5. 10. Lum LC, Lam SK, Choy YS, George R, Harun F. Dengue encephalitis: a true entity? Am J Trop Med Hyg. 1996;54(3):256–9. 11. Dhenni R, Karyanti MR, Putri ND, Yohan B, Yudhaputri FA, Ma’roef CN, et al. Isolation and complete genome analysis of neurotropic dengue virus serotype 3 from the cerebrospinal fluid of an encephalitis patient. PLoS Negl Trop Dis. 2018;12(1):e0006198. 12. Herath HMM, Hewavithana JS, De Silva CM, Kularathna OAR, Weerasinghe NP.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 68,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_69",
+      "text": "patient. PLoS Negl Trop Dis. 2018;12(1):e0006198. 12. Herath HMM, Hewavithana JS, De Silva CM, Kularathna OAR, Weerasinghe NP. Cerebral vasculitis and lateral rectus palsy - two rare central nervous system complications of dengue fever: two case reports and review of the literature. J Med Case Rep. 2018;12(1):1–6. 13. Nogueira RMR, Filippis AMB, Coelho JMO, Sequeira PC, Schatzmayr HG, Paiva FG, et al. Dengue virus infection of the central nervous system (CNS): a case report from Brazil.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 69,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_70",
+      "text": "eira PC, Schatzmayr HG, Paiva FG, et al. Dengue virus infection of the central nervous system (CNS): a case report from Brazil. Southeast Asian J Trop Med Public Health. 2002; 33(1):68–71. 14. Kularatne SAM, Pathirage MMK, Gunasena S. A case series of dengue fever with altered consciousness and electroencephalogram changes in Sri Lanka. Trans R Soc Trop Med Hyg. 2008;102(10):1053–4. 15. Misra UK, Kalita J, Syam UK, Dhole TN. Neurological manifestations of dengue virus infection. J Neurol Sci.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 70,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_71",
+      "text": "102(10):1053–4. 15. Misra UK, Kalita J, Syam UK, Dhole TN. Neurological manifestations of dengue virus infection. J Neurol Sci. 2006;244(1–2):117–22. 16. Solomon T, Dung NM, Vaughn DW, Kneen R, Thao LTT, Raengsakulrach B, et al. Neurological manifestations of dengue infection. Lancet. 2000;355(9209): 1053–9. 17. Bhoi SK, Naik S, Kumar S, Phadke RV, Kalita J, Misra UK. Cranial imaging findings in dengue virus infection. J Neurol Sci. 2014;342(1–2):36–41. 18. Carod-Artal FJ, Wichmann O, Farrar J, Gascón J.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 71,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_72",
+      "text": "ging findings in dengue virus infection. J Neurol Sci. 2014;342(1–2):36–41. 18. Carod-Artal FJ, Wichmann O, Farrar J, Gascón J. Neurological complications of dengue virus infection. Lancet Neurol. 2013;12(9):906–19. 19. Kalita J, Misra UK. EEG in dengue virus infection with neurological manifestations: A clinical and CT/MRI correlation. Clin Neurophysiol. 2006; 117(10):2252–6. 20. Hegde V, Aziz Z, Kumar S, Bhat M, Prasad C, Gupta AK, et al.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 72,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_73",
+      "text": "d CT/MRI correlation. Clin Neurophysiol. 2006; 117(10):2252–6. 20. Hegde V, Aziz Z, Kumar S, Bhat M, Prasad C, Gupta AK, et al. Dengue encephalitis with predominant cerebellar involvement: Report of eight cases with MR and CT imaging features. Eur Radiol. 2015;25(3):719–25. 21. Li G-H, Ning Z-J, Liu Y-M, Li X-H. Neurological Manifestations of Dengue Infection. Front Cell Infect Microbiol. 2017;7:449. 22. Chen WJ, Hwang KP, Fang AH.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 73,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_74",
+      "text": "X-H. Neurological Manifestations of Dengue Infection. Front Cell Infect Microbiol. 2017;7:449. 22. Chen WJ, Hwang KP, Fang AH. Detection of IgM antibodies from cerebrospinal fluid and sera of dengue fever patients. Southeast Asian J Trop Med Public Health. 1991;22(4):659–63. 23. Withana M, Rodrigo C, Chang T, Karunanayake P, Rajapakse S. Dengue fever presenting with acute cerebellitis: A case report. BMC Res Notes. 2014;7(1):1–3. 24. Meyer HM, Johnson RT, Crawford IP, Dascomb HE, Rogers NG.",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 74,
+        "chunk_type": "text"
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_75",
+      "text": "acute cerebellitis: A case report. BMC Res Notes. 2014;7(1):1–3. 24. Meyer HM, Johnson RT, Crawford IP, Dascomb HE, Rogers NG. Central nervous system syndromes of “viral” etiology. Am J Med. 1960;29(2):334–47. Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Weerasinghe and Medagama Journal of Medical Case Reports          (2019) 13:278  Page 6 of 6 .",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_index": 75,
+        "chunk_type": "text"
+      }
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "8c0aa3067767_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever presenting as encephalitis a case report_p1_img1_45a72ae7.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_img_2",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever presenting as encephalitis a case report_p1_img2_e9e92eca.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_img_3",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever presenting as encephalitis a case report_p1_img3_4cdbe6f5.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 1
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_img_1",
+      "text": "Image: An electroencephalograph showing generalized slow waves with burst of activity in right frontotemporal region",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever presenting as encephalitis a case report_p3_img1_ccba3401.png",
+        "clinical_relevance": "diagnostic_imaging",
+        "page": 3
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_img_2",
+      "text": "Image: Magnetic resonance (fluid-attenuated inversion recovery) images with some faint meningeal enhancement appreciated in right",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever presenting as encephalitis a case report_p3_img2_fe73607e.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 3
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever presenting as encephalitis a case report_p5_img1_aee36138.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 5
+      }
+    },
+    {
+      "chunk_id": "8c0aa3067767_img_1",
+      "text": "Image: ",
+      "metadata": {
+        "doc_id": "8c0aa3067767",
+        "filename": "Dengue hemorrhagic fever presenting as encephalitis a case report.pdf",
+        "document_type": "case_report",
+        "type_confidence": 0.45,
+        "pages": 6,
+        "processed_date": "2025-09-27T23:12:49.448120",
+        "has_images": true,
+        "image_count": 7,
+        "chunk_type": "image",
+        "image_path": "Dengue hemorrhagic fever presenting as encephalitis a case report_p6_img1_b2c965bb.png",
+        "clinical_relevance": "clinical_documentation",
+        "page": 6
+      }
+    }
+  ],
+  "total_chunks": 83
+}
