@@ -1,0 +1,11 @@
+dengue.p_i_d,dengue.date_of_fever,dengue.residence,dengue.days,dengue.current_temp,dengue.wbc,dengue.servere_headche,dengue.pain_behind_the_eyes,dengue.joint_muscle_aches,dengue.metallic_taste_in_the_mouth,dengue.appetite_loss,dengue.addominal_pain,dengue.nausea_vomiting,dengue.diarrhoea,dengue.hemoglobin,dengue._hematocri,dengue.platelet,dengue.dengue
+P010,9-Jan,Jamica,5 days,104,5,,no,no,yes,yes,yes,yes,no,NULL,NULL,120,yes
+P009,12-Aug,Barbados,12 months,101,NULL,yes,yes,no,no,no,no,no,no,NULL,NULL,NULL,no
+P008,12-Oct,St.Martin,3 days,101,NULL,yes,no,no,no,no,no,yes,no,NULL,NULL,NULL,no
+P007,10-Jun,Mumbai,3 days,104,NULL,yes,no,no,no,no,yes,yes,no,NULL,NULL,NULL,yes
+P006,12-Feb,Bangalore,3 days,104,NULL,yes,no,no,yes,no,no,no,no,NULL,NULL,90,yes
+P005,12-Jun,Thiland,2 weeks,103.5,2.2,yes,yes,no,yes,no,no,no,no,10,25,110,yes
+P004,10-Sep,Jamica,3--4,103,NULL,yes,yes,yes,no,no,no,no,no,NULL,NULL,NULL,
+P003,12-Jun,WestIndies,2 weeks,101,NULL,yes,no,,no,no,yes,no,no,NULL,NULL,NULL,yes
+P002,12-Feb,Thiland,3--4,105,NULL,,no,yes,no,yes,no,yes,no,NULL,NULL,NULL,yes
+P001,2-Jun,US Vergin Islands,,0,5,yes,no,yes,no,no,no,yes,no,8.6,23,90,yes
