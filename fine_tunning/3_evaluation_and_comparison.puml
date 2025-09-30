@@ -1,0 +1,312 @@
+@startuml MedGemma Fine-Tuning - Part 3: Evaluation & Comparison
+
+!theme plain
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontSize 11
+skinparam activity {
+  BackgroundColor #C8E6C9
+  BorderColor #388E3C
+  FontColor #000000
+}
+
+title MedGemma Fine-Tuning - Part 3\nEvaluation & Comparison
+
+start
+
+note right
+  Prerequisites from Part 2:
+  * Fine-tuned model saved
+  * LoRA adapters ready
+  * Base model available for baseline
+end note
+
+partition "Phase 7: Evaluation Setup" {
+  :Prepare Test Dataset;
+  note right
+    Load from:
+    * eval_dengue.csv (clinical records)
+    * images/ (medical images)
+
+    Apply same preprocessing as training:
+    * Clean data
+    * Format samples
+    * Create unified dataset
+  end note
+
+  :Load Evaluation Metrics;
+  note left
+    Using HuggingFace evaluate library:
+    * Accuracy
+    * Precision (weighted)
+    * Recall (weighted)
+    * F1-score (weighted)
+
+    Plus sklearn:
+    * Confusion matrix
+    * Classification report
+  end note
+
+  :Setup Postprocessing Functions;
+  note right
+    Two matching strategies:
+
+    Flexible (for baseline):
+    * Count positive/negative indicators
+    * Default to negative if unclear
+
+    Strict (for fine-tuned):
+    * Exact match: "Yes - Dengue positive"
+    * Exact match: "No - Dengue negative"
+  end note
+}
+
+partition "Phase 8: Baseline Model Evaluation" {
+  :Load Pretrained Model;
+  note right
+    google/gemma-3-4b-it
+    No fine-tuning, no LoRA
+
+    Config:
+    * torch_dtype: bfloat16
+    * device_map: auto
+    * do_sample: False (deterministic)
+  end note
+
+  :Prepare Baseline Inputs;
+  split
+    :Format text-only samples;
+    note left
+      Apply chat template
+      No images
+    end note
+  split again
+    :Format multimodal samples;
+    note right
+      Apply chat template
+      Include images
+    end note
+  end split
+
+  :Run Baseline Inference;
+  note right
+    Batch processing:
+    * Batch size: 8
+    * Max new tokens: 50
+    * return_full_text: False
+
+    Separate text-only and multimodal
+    within each batch
+  end note
+
+  repeat :Process batch;
+  repeat while (All test samples processed?) is (no)
+  -> yes;
+
+  :Postprocess Baseline Predictions;
+  note left
+    Use flexible matching:
+    * Extract yes/no from response
+    * Count positive/negative indicators
+    * Map to binary (0/1)
+  end note
+
+  :Compute Baseline Metrics;
+  note right
+    Calculate:
+    * Accuracy
+    * Precision (weighted)
+    * Recall (weighted)
+    * F1-score (weighted)
+  end note
+
+  :Generate Baseline Confusion Matrix;
+  note left
+    2x2 matrix:
+    * True Negatives (top-left)
+    * False Positives (top-right)
+    * False Negatives (bottom-left)
+    * True Positives (bottom-right)
+  end note
+
+  :Store Baseline Results;
+}
+
+partition "Phase 9: Fine-Tuned Model Evaluation" {
+  :Load Fine-Tuned Model;
+  note right
+    From: gemma-4b-dengue-diagnosis/
+
+    Includes:
+    * Base model (4-bit)
+    * LoRA adapters (merged)
+    * Same processor
+
+    Config:
+    * torch_dtype: bfloat16
+    * device_map: auto
+    * do_sample: False (deterministic)
+  end note
+
+  :Prepare Fine-Tuned Inputs;
+  split
+    :Format text-only samples;
+    note left
+      Apply chat template
+      Same as training format
+    end note
+  split again
+    :Format multimodal samples;
+    note right
+      Apply chat template
+      Include images
+    end note
+  end split
+
+  :Run Fine-Tuned Inference;
+  note right
+    Batch processing:
+    * Batch size: 4 (smaller for safety)
+    * Max new tokens: 30 (shorter, trained format)
+    * return_full_text: False
+
+    Separate text-only and multimodal
+    within each batch
+  end note
+
+  repeat :Process batch;
+  repeat while (All test samples processed?) is (no)
+  -> yes;
+
+  :Postprocess Fine-Tuned Predictions;
+  note left
+    Use strict matching:
+    * Look for exact trained format
+    * "Yes - Dengue positive" → 1
+    * "No - Dengue negative" → 0
+    * Default to 0 if unclear
+  end note
+
+  :Compute Fine-Tuned Metrics;
+  note right
+    Calculate:
+    * Accuracy
+    * Precision (weighted)
+    * Recall (weighted)
+    * F1-score (weighted)
+  end note
+
+  :Generate Fine-Tuned Confusion Matrix;
+}
+
+partition "Phase 10: Comparison & Analysis" {
+  :Compare Overall Performance;
+  note right
+    Side-by-side comparison:
+    * Baseline vs Fine-tuned
+    * All 4 metrics
+    * Improvement percentages
+  end note
+
+  :Analyze by Data Type;
+
+  split
+    :Text-only Performance;
+    note left
+      Compare on clinical text samples:
+      * Baseline accuracy
+      * Fine-tuned accuracy
+      * Improvement
+    end note
+  split again
+    :Multimodal Performance;
+    note right
+      Compare on image samples:
+      * Baseline accuracy
+      * Fine-tuned accuracy
+      * Improvement
+    end note
+  end split
+
+  :Create Visualization;
+  note right
+    Generate plots:
+    1. Bar chart (metrics comparison)
+    2. Confusion matrices (side by side)
+    3. Performance table
+  end note
+
+  :Generate Classification Reports;
+  note left
+    Detailed per-class metrics:
+    * Precision for each class
+    * Recall for each class
+    * F1-score for each class
+    * Support (sample count)
+  end note
+
+  :Calculate Improvements;
+  note right
+    Quantify gains:
+    * Accuracy improvement (absolute %)
+    * F1-score improvement
+    * Precision/Recall trade-offs
+  end note
+
+  :Display Sample Predictions;
+  note left
+    Show examples:
+    * True label
+    * Baseline prediction
+    * Fine-tuned prediction
+    * Full response text
+    * Data type (text/multimodal)
+  end note
+
+  :Generate Summary Report;
+  note right
+    **Key Findings:**
+
+    Performance Improvements:
+    * Overall accuracy gain
+    * F1-score improvement
+    * Better on specific data types
+
+    Clinical Applicability:
+    * Handles uncertainty better
+    * More consistent format
+    * Multimodal integration
+
+    Model Characteristics:
+    * Trained on medical context
+    * Specialized for dengue diagnosis
+    * Production-ready format
+  end note
+}
+
+:Evaluation Complete;
+
+stop
+
+legend right
+  **Typical Results Example**
+
+  Baseline (Pretrained):
+  * Accuracy: ~0.65-0.75
+  * F1-score: ~0.70-0.80
+  * Variable response format
+  * Generic medical knowledge
+
+  Fine-tuned (Dengue-specific):
+  * Accuracy: ~0.85-0.95
+  * F1-score: ~0.88-0.96
+  * Consistent response format
+  * Domain-specialized knowledge
+
+  **Key Innovations:**
+  1. Multimodal unified training
+  2. Uncertainty-aware prompting
+  3. QLoRA efficiency
+  4. Clinical context integration
+endlegend
+
+@enduml

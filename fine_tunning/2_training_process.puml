@@ -1,0 +1,230 @@
+@startuml MedGemma Fine-Tuning - Part 2: Training Process
+
+!theme plain
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontSize 11
+skinparam activity {
+  BackgroundColor #FFE0B2
+  BorderColor #F57C00
+  FontColor #000000
+}
+
+title MedGemma Fine-Tuning - Part 2\nTraining Process
+
+start
+
+note right
+  Prerequisites from Part 1:
+  * Model with LoRA adapters configured
+  * Processor ready
+  * Training data: 92 samples
+  * Validation data: 24 samples
+  * Custom collate function
+end note
+
+partition "Phase 5: Training Configuration" {
+  :Setup SFTConfig;
+  note left
+    **Training Hyperparameters**
+
+    Optimization:
+    * Epochs: 3
+    * Learning rate: 1e-4
+    * Optimizer: adamw_torch_fused
+    * Scheduler: cosine
+    * Warmup ratio: 0.03
+    * Max grad norm: 0.3
+
+    Batch & Memory:
+    * Per device train batch: 2
+    * Per device eval batch: 2
+    * Gradient accumulation: 2
+    * Effective batch size: 4
+    * Gradient checkpointing: enabled
+    * bf16: enabled
+
+    Logging & Saving:
+    * Logging steps: 2
+    * Eval strategy: steps
+    * Eval steps: 2
+    * Save strategy: epoch
+    * Report to: tensorboard
+    * Push to hub: enabled
+  end note
+
+  :Configure Dataset Processing;
+  note right
+    * skip_prepare_dataset: True
+    * remove_unused_columns: False
+    * label_names: ["labels"]
+    * gradient_checkpointing_kwargs:
+      use_reentrant: False
+  end note
+}
+
+partition "Phase 6: Fine-Tuning Training" {
+  :Initialize SFTTrainer;
+  note right
+    Components:
+    * Model (with LoRA)
+    * Training args (SFTConfig)
+    * Train dataset (92 samples)
+    * Eval dataset (24 samples)
+    * PEFT config
+    * Processing class (processor)
+    * Data collator (unified_collate_fn)
+  end note
+
+  :Start Training Loop;
+  note right
+    Training for 3 epochs
+    Each epoch processes all 92 training samples
+  end note
+
+  repeat
+    :Prepare Batch;
+    note right
+      1. Sample from training data
+      2. Group by data_type if possible
+      3. Apply collate function
+    end note
+
+    if (Batch type?) then (text-only)
+      :Process text-only batch;
+      note left
+        * Apply chat template
+        * Tokenize text
+        * Create labels
+        * Mask padding (-100)
+      end note
+    else (multimodal)
+      :Process multimodal batch;
+      note right
+        * Apply chat template
+        * Tokenize text
+        * Process images
+        * Create labels
+        * Mask padding (-100)
+        * Mask image tokens (-100)
+      end note
+    endif
+
+    :Forward Pass;
+    note right
+      Base model frozen (4-bit)
+      Only LoRA adapters compute gradients
+    end note
+
+    :Compute Loss;
+    note right
+      Causal language modeling loss
+      Only on non-masked tokens
+    end note
+
+    :Backward Pass;
+    note right
+      Gradients accumulated
+      Only for LoRA parameters
+    end note
+
+    if (Accumulation steps complete?) then (yes)
+      :Update LoRA Parameters;
+      :Zero Gradients;
+    else (no)
+    endif
+
+    if (Logging step?) then (yes)
+      :Log Metrics to Tensorboard;
+      note right
+        * Training loss
+        * Learning rate
+        * Gradient norm
+      end note
+    else (no)
+    endif
+
+    if (Evaluation step?) then (yes)
+      :Run Evaluation;
+      note right
+        Evaluate on 24 validation samples
+        * Compute validation loss
+        * Track best checkpoint
+      end note
+    else (no)
+    endif
+
+    if (Epoch complete?) then (yes)
+      :Save Checkpoint;
+      note right
+        Save to: gemma-4b-dengue-diagnosis/
+        * LoRA adapters
+        * Tokenizer
+        * Processor config
+        * Training args
+      end note
+    else (no)
+    endif
+
+  repeat while (Training complete?\n3 epochs done?) is (no)
+  -> yes;
+
+  :Training Complete;
+  note left
+    Training Stats:
+    * Total steps: 138 (3 epochs)
+    * Effective batch size: 4
+    * Total samples seen: 552
+    * Training duration: ~10-15 min
+  end note
+
+  :Save Final Model;
+  note right
+    Save components:
+    * adapter_model.safetensors
+    * adapter_config.json
+    * tokenizer files
+    * processor config
+    * training_args.bin
+  end note
+
+  :Push to HuggingFace Hub;
+  note right
+    Repository:
+    [username]/gemma-4b-dengue-diagnosis
+
+    Includes:
+    * LoRA adapters
+    * Model card (auto-generated)
+    * Training metrics
+    * Configuration files
+  end note
+}
+
+:Model Ready for Evaluation;
+note right
+  Proceed to Part 3:
+  Evaluation & Comparison
+end note
+
+stop
+
+legend right
+  **QLoRA Training Benefits**
+
+  Memory Efficiency:
+  * Base model: 4-bit quantized (~2.5GB)
+  * Trainable params: LoRA only (~1-2% of total)
+  * Total GPU memory: ~10-15GB
+
+  Performance:
+  * Maintains model quality
+  * Faster training vs full fine-tuning
+  * Can run on consumer GPUs
+
+  Flexibility:
+  * LoRA adapters are small (~20-50MB)
+  * Can swap adapters for different tasks
+  * Base model stays frozen
+endlegend
+
+@enduml

@@ -1,0 +1,193 @@
+@startuml MedGemma Fine-Tuning - Part 1: Data Preparation & Model Setup
+
+!theme plain
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontSize 11
+skinparam activity {
+  BackgroundColor #E3F2FD
+  BorderColor #1976D2
+  FontColor #000000
+}
+
+title MedGemma Fine-Tuning - Part 1\nData Preparation & Model Setup
+
+start
+
+partition "Phase 1: Setup & Configuration" {
+  :Configure HuggingFace Authentication;
+  note right
+    Set HF_TOKEN with write permissions
+  end note
+
+  :Install Dependencies;
+  note right
+    Required packages:
+    * bitsandbytes (quantization)
+    * datasets (data handling)
+    * peft (LoRA)
+    * trl (SFTTrainer)
+    * transformers (model & processor)
+  end note
+
+  :Mount Google Drive;
+  note right
+    Access training data:
+    * train_dengue.csv
+    * images/*.png
+  end note
+}
+
+partition "Phase 2: Data Preparation" {
+  :Load Clinical Data (CSV);
+  note right
+    98 records with:
+    * Patient demographics
+    * 8 symptoms
+    * 4 lab values
+    * Dengue diagnosis
+  end note
+
+  :Load Medical Images;
+  note right
+    26 dengue-positive images
+  end note
+
+  :Data Cleaning;
+  note left
+    Key steps:
+    1. Map labels: yes→1, no→0
+    2. Drop missing target labels
+    3. Fill non-symptoms with 'unknown'
+    4. Keep symptom NaN distinct from 'no'
+
+    Result: 90 clean records
+  end note
+
+  :Create Clinical Summaries;
+  note right
+    Generate text from:
+    * Demographics (residence, fever duration)
+    * Temperature
+    * Lab values (WBC, hemoglobin, etc.)
+    * Present/absent/unknown symptoms
+    * Clinical interpretation hints
+  end note
+
+  :Format Training Data;
+
+  split
+    :Text-only samples;
+    note left
+      90 clinical records
+      Format: Prompt + Answer
+
+      Prompt: Clinical case analysis
+      Answer: "Yes/No - Dengue positive/negative"
+    end note
+  split again
+    :Multimodal samples;
+    note right
+      26 medical images
+      Format: Image + Prompt + Answer
+
+      Prompt: Visual analysis for dengue signs
+      Answer: "Yes - Dengue positive"
+    end note
+  end split
+
+  :Create Unified Dataset;
+  note right
+    Total: 116 samples
+    * 90 text-only
+    * 26 multimodal
+
+    Each sample has:
+    * messages (user + assistant)
+    * label (0 or 1)
+    * data_type (text_only/multimodal)
+    * image (PIL Image or None)
+  end note
+
+  :Train/Validation Split (80/20);
+  note left
+    Stratified by label
+
+    Train: 92 samples
+    * 70 text-only
+    * 22 multimodal
+    * 72 positive, 20 negative
+
+    Validation: 24 samples
+    * 20 text-only
+    * 4 multimodal
+    * 19 positive, 5 negative
+  end note
+}
+
+partition "Phase 3: Model Loading & Configuration" {
+  :Load Base Model;
+  note right
+    google/medgemma-4b-it
+
+    4-bit Quantization Config:
+    * Type: NF4
+    * Double quantization: enabled
+    * Compute dtype: bfloat16
+    * Storage dtype: bfloat16
+    * Device map: auto
+    * Attention: eager
+  end note
+
+
+  :Load AutoProcessor;
+  note right
+    Handles both:
+    * Text tokenization
+    * Image preprocessing
+
+    Set padding side: "right"
+  end note
+
+  :Configure LoRA (PEFT);
+  note left
+    Parameter-Efficient Fine-Tuning
+
+    LoRA Config:
+    * Rank (r): 16
+    * Alpha: 16
+    * Dropout: 0.05
+    * Target modules: all-linear
+    * Task type: CAUSAL_LM
+    * Bias: none
+
+    Modules to save:
+    * lm_head
+    * embed_tokens
+  end note
+}
+
+partition "Phase 4: Data Collation" {
+  :Create Custom Collate Function;
+  note right
+    unified_collate_fn handles:
+
+    1. Separate batch by data_type
+    2. If mixed, use dominant type
+    3. Apply chat template
+    4. Process text ± images
+    5. Create input_ids, attention_mask
+    6. Clone input_ids → labels
+    7. Mask padding tokens (-100)
+    8. Mask image tokens (-100)
+  end note
+}
+
+:Ready for Training;
+note right
+  Proceed to Part 2:
+  Training & Fine-Tuning Process
+end note
+
+stop
+
+@enduml
