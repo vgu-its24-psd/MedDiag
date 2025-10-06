@@ -13,7 +13,7 @@
 - Custom Data Collation
 
 #### Part 2: Training Process
-[![Training Process](https://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/vgu-its24-psd/MedDiag/main/fine_tunning/2_training_process.pu)](2_training_process.puml)
+[![Training Process](https://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/vgu-its24-psd/MedDiag/main/fine_tunning/2_training_process.puml)](2_training_process.puml)
 
 **Covers:**
 - Training Configuration (SFTConfig hyperparameters)
